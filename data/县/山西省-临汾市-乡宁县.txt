@@ -1,0 +1,10 @@
+141029100000	山西省-临汾市-乡宁县-昌宁镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/10/29/141029100.html
+141029101000	山西省-临汾市-乡宁县-光华镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/10/29/141029101.html
+141029102000	山西省-临汾市-乡宁县-台头镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/10/29/141029102.html
+141029103000	山西省-临汾市-乡宁县-管头镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/10/29/141029103.html
+141029104000	山西省-临汾市-乡宁县-西坡镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/10/29/141029104.html
+141029200000	山西省-临汾市-乡宁县-双鹤乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/10/29/141029200.html
+141029201000	山西省-临汾市-乡宁县-关王庙乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/10/29/141029201.html
+141029202000	山西省-临汾市-乡宁县-尉庄乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/10/29/141029202.html
+141029203000	山西省-临汾市-乡宁县-西交口乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/10/29/141029203.html
+141029204000	山西省-临汾市-乡宁县-枣岭乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/10/29/141029204.html

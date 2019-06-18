@@ -1,0 +1,11 @@
+653001001000	新疆维吾尔自治区-克孜勒苏柯尔克孜自治州-阿图什市-幸福路街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/30/01/653001001.html
+653001002000	新疆维吾尔自治区-克孜勒苏柯尔克孜自治州-阿图什市-光明路街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/30/01/653001002.html
+653001003000	新疆维吾尔自治区-克孜勒苏柯尔克孜自治州-阿图什市-新城街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/30/01/653001003.html
+653001100000	新疆维吾尔自治区-克孜勒苏柯尔克孜自治州-阿图什市-上阿图什镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/30/01/653001100.html
+653001200000	新疆维吾尔自治区-克孜勒苏柯尔克孜自治州-阿图什市-松他克乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/30/01/653001200.html
+653001201000	新疆维吾尔自治区-克孜勒苏柯尔克孜自治州-阿图什市-阿扎克乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/30/01/653001201.html
+653001202000	新疆维吾尔自治区-克孜勒苏柯尔克孜自治州-阿图什市-阿湖乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/30/01/653001202.html
+653001204000	新疆维吾尔自治区-克孜勒苏柯尔克孜自治州-阿图什市-格达良乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/30/01/653001204.html
+653001205000	新疆维吾尔自治区-克孜勒苏柯尔克孜自治州-阿图什市-哈拉峻乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/30/01/653001205.html
+653001206000	新疆维吾尔自治区-克孜勒苏柯尔克孜自治州-阿图什市-吐古买提乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/30/01/653001206.html
+653001500000	新疆维吾尔自治区-克孜勒苏柯尔克孜自治州-阿图什市-兵团农三师红旗农场	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/30/01/653001500.html

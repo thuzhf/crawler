@@ -1,0 +1,5 @@
+130127100000	河北省-石家庄市-高邑县-高邑镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/01/27/130127100.html
+130127101000	河北省-石家庄市-高邑县-大营镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/01/27/130127101.html
+130127102000	河北省-石家庄市-高邑县-富村镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/01/27/130127102.html
+130127103000	河北省-石家庄市-高邑县-万城镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/01/27/130127103.html
+130127201000	河北省-石家庄市-高邑县-中韩乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/01/27/130127201.html

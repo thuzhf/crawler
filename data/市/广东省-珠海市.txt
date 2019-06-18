@@ -1,0 +1,4 @@
+440401000000	广东省-珠海市-市辖区	
+440402000000	广东省-珠海市-香洲区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/04/440402.html
+440403000000	广东省-珠海市-斗门区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/04/440403.html
+440404000000	广东省-珠海市-金湾区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/04/440404.html

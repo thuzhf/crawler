@@ -1,0 +1,11 @@
+141122100000	山西省-吕梁市-交城县-天宁镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/11/22/141122100.html
+141122101000	山西省-吕梁市-交城县-夏家营镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/11/22/141122101.html
+141122102000	山西省-吕梁市-交城县-西营镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/11/22/141122102.html
+141122103000	山西省-吕梁市-交城县-水峪贯镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/11/22/141122103.html
+141122104000	山西省-吕梁市-交城县-西社镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/11/22/141122104.html
+141122105000	山西省-吕梁市-交城县-庞泉沟镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/11/22/141122105.html
+141122200000	山西省-吕梁市-交城县-洪相乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/11/22/141122200.html
+141122201000	山西省-吕梁市-交城县-岭底乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/11/22/141122201.html
+141122202000	山西省-吕梁市-交城县-东坡底乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/11/22/141122202.html
+141122203000	山西省-吕梁市-交城县-会立乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/11/22/141122203.html
+141122400000	山西省-吕梁市-交城县-夏家营生态工业园区管委会	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/11/22/141122400.html

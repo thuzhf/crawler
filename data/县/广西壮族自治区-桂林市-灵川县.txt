@@ -1,0 +1,12 @@
+450323100000	广西壮族自治区-桂林市-灵川县-灵川镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/03/23/450323100.html
+450323101000	广西壮族自治区-桂林市-灵川县-大圩镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/03/23/450323101.html
+450323102000	广西壮族自治区-桂林市-灵川县-定江镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/03/23/450323102.html
+450323103000	广西壮族自治区-桂林市-灵川县-三街镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/03/23/450323103.html
+450323104000	广西壮族自治区-桂林市-灵川县-潭下镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/03/23/450323104.html
+450323106000	广西壮族自治区-桂林市-灵川县-九屋镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/03/23/450323106.html
+450323107000	广西壮族自治区-桂林市-灵川县-灵田镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/03/23/450323107.html
+450323200000	广西壮族自治区-桂林市-灵川县-潮田乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/03/23/450323200.html
+450323201000	广西壮族自治区-桂林市-灵川县-大境瑶族乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/03/23/450323201.html
+450323202000	广西壮族自治区-桂林市-灵川县-海洋乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/03/23/450323202.html
+450323206000	广西壮族自治区-桂林市-灵川县-兰田瑶族乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/03/23/450323206.html
+450323207000	广西壮族自治区-桂林市-灵川县-公平乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/03/23/450323207.html

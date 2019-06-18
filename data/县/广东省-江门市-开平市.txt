@@ -1,0 +1,16 @@
+440783001000	广东省-江门市-开平市-三埠街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/07/83/440783001.html
+440783002000	广东省-江门市-开平市-长沙街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/07/83/440783002.html
+440783103000	广东省-江门市-开平市-沙塘镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/07/83/440783103.html
+440783104000	广东省-江门市-开平市-苍城镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/07/83/440783104.html
+440783105000	广东省-江门市-开平市-龙胜镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/07/83/440783105.html
+440783106000	广东省-江门市-开平市-大沙镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/07/83/440783106.html
+440783107000	广东省-江门市-开平市-马冈镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/07/83/440783107.html
+440783108000	广东省-江门市-开平市-塘口镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/07/83/440783108.html
+440783109000	广东省-江门市-开平市-赤坎镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/07/83/440783109.html
+440783110000	广东省-江门市-开平市-百合镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/07/83/440783110.html
+440783111000	广东省-江门市-开平市-蚬冈镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/07/83/440783111.html
+440783112000	广东省-江门市-开平市-金鸡镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/07/83/440783112.html
+440783115000	广东省-江门市-开平市-月山镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/07/83/440783115.html
+440783116000	广东省-江门市-开平市-赤水镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/07/83/440783116.html
+440783117000	广东省-江门市-开平市-水口镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/07/83/440783117.html
+440783400000	广东省-江门市-开平市-翠山湖新区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/07/83/440783400.html

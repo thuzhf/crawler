@@ -1,0 +1,13 @@
+530823101000	云南省-普洱市-景东彝族自治县-锦屏镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/08/23/530823101.html
+530823102000	云南省-普洱市-景东彝族自治县-文井镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/08/23/530823102.html
+530823103000	云南省-普洱市-景东彝族自治县-漫湾镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/08/23/530823103.html
+530823104000	云南省-普洱市-景东彝族自治县-大朝山东镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/08/23/530823104.html
+530823105000	云南省-普洱市-景东彝族自治县-花山镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/08/23/530823105.html
+530823106000	云南省-普洱市-景东彝族自治县-大街镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/08/23/530823106.html
+530823107000	云南省-普洱市-景东彝族自治县-太忠镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/08/23/530823107.html
+530823108000	云南省-普洱市-景东彝族自治县-文龙镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/08/23/530823108.html
+530823109000	云南省-普洱市-景东彝族自治县-安定镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/08/23/530823109.html
+530823110000	云南省-普洱市-景东彝族自治县-景福镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/08/23/530823110.html
+530823201000	云南省-普洱市-景东彝族自治县-曼等乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/08/23/530823201.html
+530823205000	云南省-普洱市-景东彝族自治县-龙街乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/08/23/530823205.html
+530823208000	云南省-普洱市-景东彝族自治县-林街乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/08/23/530823208.html

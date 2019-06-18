@@ -1,0 +1,11 @@
+320583100000	江苏省-苏州市-昆山市-玉山镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/05/83/320583100.html
+320583101000	江苏省-苏州市-昆山市-巴城镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/05/83/320583101.html
+320583102000	江苏省-苏州市-昆山市-周市镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/05/83/320583102.html
+320583103000	江苏省-苏州市-昆山市-陆家镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/05/83/320583103.html
+320583104000	江苏省-苏州市-昆山市-花桥镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/05/83/320583104.html
+320583105000	江苏省-苏州市-昆山市-淀山湖镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/05/83/320583105.html
+320583106000	江苏省-苏州市-昆山市-张浦镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/05/83/320583106.html
+320583107000	江苏省-苏州市-昆山市-周庄镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/05/83/320583107.html
+320583108000	江苏省-苏州市-昆山市-千灯镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/05/83/320583108.html
+320583109000	江苏省-苏州市-昆山市-锦溪镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/05/83/320583109.html
+320583400000	江苏省-苏州市-昆山市-开发区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/05/83/320583400.html

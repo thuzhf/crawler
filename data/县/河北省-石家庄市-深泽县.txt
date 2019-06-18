@@ -1,0 +1,6 @@
+130128100000	河北省-石家庄市-深泽县-深泽镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/01/28/130128100.html
+130128101000	河北省-石家庄市-深泽县-铁杆镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/01/28/130128101.html
+130128102000	河北省-石家庄市-深泽县-赵八镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/01/28/130128102.html
+130128200000	河北省-石家庄市-深泽县-白庄乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/01/28/130128200.html
+130128201000	河北省-石家庄市-深泽县-留村乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/01/28/130128201.html
+130128203000	河北省-石家庄市-深泽县-桥头乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/01/28/130128203.html

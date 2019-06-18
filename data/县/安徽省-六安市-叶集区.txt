@@ -1,0 +1,6 @@
+341504001000	安徽省-六安市-叶集区-史河街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/15/04/341504001.html
+341504002000	安徽省-六安市-叶集区-平岗街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/15/04/341504002.html
+341504102000	安徽省-六安市-叶集区-三元镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/15/04/341504102.html
+341504103000	安徽省-六安市-叶集区-洪集镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/15/04/341504103.html
+341504104000	安徽省-六安市-叶集区-姚李镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/15/04/341504104.html
+341504200000	安徽省-六安市-叶集区-孙岗乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/15/04/341504200.html

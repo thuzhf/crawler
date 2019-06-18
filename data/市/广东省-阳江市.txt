@@ -1,0 +1,5 @@
+441701000000	广东省-阳江市-市辖区	
+441702000000	广东省-阳江市-江城区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/17/441702.html
+441704000000	广东省-阳江市-阳东区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/17/441704.html
+441721000000	广东省-阳江市-阳西县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/17/441721.html
+441781000000	广东省-阳江市-阳春市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/17/441781.html

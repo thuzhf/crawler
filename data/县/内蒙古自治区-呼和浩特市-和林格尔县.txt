@@ -1,0 +1,9 @@
+150123100000	内蒙古自治区-呼和浩特市-和林格尔县-城关镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/01/23/150123100.html
+150123101000	内蒙古自治区-呼和浩特市-和林格尔县-盛乐镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/01/23/150123101.html
+150123102000	内蒙古自治区-呼和浩特市-和林格尔县-新店子镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/01/23/150123102.html
+150123203000	内蒙古自治区-呼和浩特市-和林格尔县-舍必崖乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/01/23/150123203.html
+150123205000	内蒙古自治区-呼和浩特市-和林格尔县-大红城乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/01/23/150123205.html
+150123206000	内蒙古自治区-呼和浩特市-和林格尔县-羊群沟乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/01/23/150123206.html
+150123207000	内蒙古自治区-呼和浩特市-和林格尔县-黑老夭乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/01/23/150123207.html
+150123208000	内蒙古自治区-呼和浩特市-和林格尔县-巧什营乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/01/23/150123208.html
+150123400000	内蒙古自治区-呼和浩特市-和林格尔县-盛乐经济工业园区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/01/23/150123400.html

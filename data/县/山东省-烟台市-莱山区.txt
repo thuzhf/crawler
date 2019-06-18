@@ -1,0 +1,6 @@
+370613001000	山东省-烟台市-莱山区-黄海路街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/06/13/370613001.html
+370613002000	山东省-烟台市-莱山区-初家街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/06/13/370613002.html
+370613003000	山东省-烟台市-莱山区-滨海路街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/06/13/370613003.html
+370613004000	山东省-烟台市-莱山区-解甲庄街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/06/13/370613004.html
+370613005000	山东省-烟台市-莱山区-莱山街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/06/13/370613005.html
+370613006000	山东省-烟台市-莱山区-院格庄街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/06/13/370613006.html

@@ -1,0 +1,9 @@
+320701000000	江苏省-连云港市-市辖区	
+320703000000	江苏省-连云港市-连云区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/07/320703.html
+320706000000	江苏省-连云港市-海州区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/07/320706.html
+320707000000	江苏省-连云港市-赣榆区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/07/320707.html
+320722000000	江苏省-连云港市-东海县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/07/320722.html
+320723000000	江苏省-连云港市-灌云县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/07/320723.html
+320724000000	江苏省-连云港市-灌南县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/07/320724.html
+320771000000	江苏省-连云港市-连云港经济技术开发区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/07/320771.html
+320772000000	江苏省-连云港市-连云港高新技术产业开发区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/07/320772.html

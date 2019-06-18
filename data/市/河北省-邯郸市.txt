@@ -1,0 +1,21 @@
+130401000000	河北省-邯郸市-市辖区	
+130402000000	河北省-邯郸市-邯山区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/04/130402.html
+130403000000	河北省-邯郸市-丛台区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/04/130403.html
+130404000000	河北省-邯郸市-复兴区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/04/130404.html
+130406000000	河北省-邯郸市-峰峰矿区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/04/130406.html
+130407000000	河北省-邯郸市-肥乡区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/04/130407.html
+130408000000	河北省-邯郸市-永年区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/04/130408.html
+130423000000	河北省-邯郸市-临漳县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/04/130423.html
+130424000000	河北省-邯郸市-成安县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/04/130424.html
+130425000000	河北省-邯郸市-大名县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/04/130425.html
+130426000000	河北省-邯郸市-涉县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/04/130426.html
+130427000000	河北省-邯郸市-磁县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/04/130427.html
+130430000000	河北省-邯郸市-邱县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/04/130430.html
+130431000000	河北省-邯郸市-鸡泽县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/04/130431.html
+130432000000	河北省-邯郸市-广平县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/04/130432.html
+130433000000	河北省-邯郸市-馆陶县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/04/130433.html
+130434000000	河北省-邯郸市-魏县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/04/130434.html
+130435000000	河北省-邯郸市-曲周县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/04/130435.html
+130471000000	河北省-邯郸市-邯郸经济技术开发区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/04/130471.html
+130473000000	河北省-邯郸市-邯郸冀南新区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/04/130473.html
+130481000000	河北省-邯郸市-武安市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/04/130481.html

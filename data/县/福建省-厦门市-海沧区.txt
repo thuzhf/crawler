@@ -1,0 +1,6 @@
+350205001000	福建省-厦门市-海沧区-海沧街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/02/05/350205001.html
+350205002000	福建省-厦门市-海沧区-新阳街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/02/05/350205002.html
+350205003000	福建省-厦门市-海沧区-嵩屿街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/02/05/350205003.html
+350205004000	福建省-厦门市-海沧区-东孚街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/02/05/350205004.html
+350205403000	福建省-厦门市-海沧区-天竺山林场	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/02/05/350205403.html
+350205407000	福建省-厦门市-海沧区-厦门海沧保税港区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/02/05/350205407.html

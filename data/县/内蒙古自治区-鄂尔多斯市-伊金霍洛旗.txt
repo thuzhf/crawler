@@ -1,0 +1,12 @@
+150627100000	内蒙古自治区-鄂尔多斯市-伊金霍洛旗-阿勒腾席热镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/06/27/150627100.html
+150627101000	内蒙古自治区-鄂尔多斯市-伊金霍洛旗-札萨克镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/06/27/150627101.html
+150627102000	内蒙古自治区-鄂尔多斯市-伊金霍洛旗-乌兰木伦镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/06/27/150627102.html
+150627103000	内蒙古自治区-鄂尔多斯市-伊金霍洛旗-纳林陶亥镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/06/27/150627103.html
+150627104000	内蒙古自治区-鄂尔多斯市-伊金霍洛旗-苏布尔嘎镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/06/27/150627104.html
+150627105000	内蒙古自治区-鄂尔多斯市-伊金霍洛旗-红庆河镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/06/27/150627105.html
+150627106000	内蒙古自治区-鄂尔多斯市-伊金霍洛旗-伊金霍洛镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/06/27/150627106.html
+150627400000	内蒙古自治区-鄂尔多斯市-伊金霍洛旗-鄂尔多斯江苏工业园区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/06/27/150627400.html
+150627403000	内蒙古自治区-鄂尔多斯市-伊金霍洛旗-鄂尔多斯圣圆煤化工基地	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/06/27/150627403.html
+150627405000	内蒙古自治区-鄂尔多斯市-伊金霍洛旗-鄂尔多斯蒙古源流文化产业园区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/06/27/150627405.html
+150627406000	内蒙古自治区-鄂尔多斯市-伊金霍洛旗-伊金霍洛旗札萨克物流园区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/06/27/150627406.html
+150627407000	内蒙古自治区-鄂尔多斯市-伊金霍洛旗-鄂尔多斯空港物流园区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/06/27/150627407.html

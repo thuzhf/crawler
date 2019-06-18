@@ -1,0 +1,10 @@
+540530100000	西藏自治区-山南市-错那县-错那镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/05/30/540530100.html
+540530200000	西藏自治区-山南市-错那县-卡达乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/05/30/540530200.html
+540530201000	西藏自治区-山南市-错那县-觉拉乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/05/30/540530201.html
+540530202000	西藏自治区-山南市-错那县-浪坡乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/05/30/540530202.html
+540530203000	西藏自治区-山南市-错那县-曲卓木乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/05/30/540530203.html
+540530204000	西藏自治区-山南市-错那县-库局乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/05/30/540530204.html
+540530205000	西藏自治区-山南市-错那县-麻麻门巴民族乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/05/30/540530205.html
+540530206000	西藏自治区-山南市-错那县-贡日门巴民族乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/05/30/540530206.html
+540530207000	西藏自治区-山南市-错那县-吉巴门巴民族乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/05/30/540530207.html
+540530208000	西藏自治区-山南市-错那县-勒门巴民族乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/05/30/540530208.html

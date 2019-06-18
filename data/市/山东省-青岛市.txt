@@ -1,0 +1,12 @@
+370201000000	山东省-青岛市-市辖区	
+370202000000	山东省-青岛市-市南区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/02/370202.html
+370203000000	山东省-青岛市-市北区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/02/370203.html
+370211000000	山东省-青岛市-黄岛区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/02/370211.html
+370212000000	山东省-青岛市-崂山区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/02/370212.html
+370213000000	山东省-青岛市-李沧区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/02/370213.html
+370214000000	山东省-青岛市-城阳区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/02/370214.html
+370215000000	山东省-青岛市-即墨区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/02/370215.html
+370271000000	山东省-青岛市-青岛高新技术产业开发区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/02/370271.html
+370281000000	山东省-青岛市-胶州市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/02/370281.html
+370283000000	山东省-青岛市-平度市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/02/370283.html
+370285000000	山东省-青岛市-莱西市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/02/370285.html

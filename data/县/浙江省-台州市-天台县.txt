@@ -1,0 +1,15 @@
+331023001000	浙江省-台州市-天台县-赤城街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/10/23/331023001.html
+331023002000	浙江省-台州市-天台县-始丰街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/10/23/331023002.html
+331023003000	浙江省-台州市-天台县-福溪街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/10/23/331023003.html
+331023101000	浙江省-台州市-天台县-白鹤镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/10/23/331023101.html
+331023102000	浙江省-台州市-天台县-石梁镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/10/23/331023102.html
+331023104000	浙江省-台州市-天台县-街头镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/10/23/331023104.html
+331023105000	浙江省-台州市-天台县-平桥镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/10/23/331023105.html
+331023106000	浙江省-台州市-天台县-坦头镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/10/23/331023106.html
+331023107000	浙江省-台州市-天台县-三合镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/10/23/331023107.html
+331023108000	浙江省-台州市-天台县-洪畴镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/10/23/331023108.html
+331023200000	浙江省-台州市-天台县-三州乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/10/23/331023200.html
+331023203000	浙江省-台州市-天台县-龙溪乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/10/23/331023203.html
+331023204000	浙江省-台州市-天台县-雷峰乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/10/23/331023204.html
+331023207000	浙江省-台州市-天台县-南屏乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/10/23/331023207.html
+331023209000	浙江省-台州市-天台县-泳溪乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/10/23/331023209.html

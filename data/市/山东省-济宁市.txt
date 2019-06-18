@@ -1,0 +1,13 @@
+370801000000	山东省-济宁市-市辖区	
+370811000000	山东省-济宁市-任城区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/08/370811.html
+370812000000	山东省-济宁市-兖州区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/08/370812.html
+370826000000	山东省-济宁市-微山县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/08/370826.html
+370827000000	山东省-济宁市-鱼台县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/08/370827.html
+370828000000	山东省-济宁市-金乡县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/08/370828.html
+370829000000	山东省-济宁市-嘉祥县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/08/370829.html
+370830000000	山东省-济宁市-汶上县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/08/370830.html
+370831000000	山东省-济宁市-泗水县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/08/370831.html
+370832000000	山东省-济宁市-梁山县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/08/370832.html
+370871000000	山东省-济宁市-济宁高新技术产业开发区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/08/370871.html
+370881000000	山东省-济宁市-曲阜市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/08/370881.html
+370883000000	山东省-济宁市-邹城市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/08/370883.html

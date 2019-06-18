@@ -1,0 +1,14 @@
+532823101000	云南省-西双版纳傣族自治州-勐腊县-勐腊镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/28/23/532823101.html
+532823102000	云南省-西双版纳傣族自治州-勐腊县-勐捧镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/28/23/532823102.html
+532823103000	云南省-西双版纳傣族自治州-勐腊县-勐满镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/28/23/532823103.html
+532823104000	云南省-西双版纳傣族自治州-勐腊县-勐仑镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/28/23/532823104.html
+532823105000	云南省-西双版纳傣族自治州-勐腊县-磨憨镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/28/23/532823105.html
+532823106000	云南省-西双版纳傣族自治州-勐腊县-勐伴镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/28/23/532823106.html
+532823107000	云南省-西双版纳傣族自治州-勐腊县-关累镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/28/23/532823107.html
+532823108000	云南省-西双版纳傣族自治州-勐腊县-易武镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/28/23/532823108.html
+532823202000	云南省-西双版纳傣族自治州-勐腊县-象明彝族乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/28/23/532823202.html
+532823203000	云南省-西双版纳傣族自治州-勐腊县-瑶区瑶族乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/28/23/532823203.html
+532823401000	云南省-西双版纳傣族自治州-勐腊县-勐腊农场	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/28/23/532823401.html
+532823402000	云南省-西双版纳傣族自治州-勐腊县-勐捧农场	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/28/23/532823402.html
+532823403000	云南省-西双版纳傣族自治州-勐腊县-勐满农场	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/28/23/532823403.html
+532823404000	云南省-西双版纳傣族自治州-勐腊县-勐醒农场	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/28/23/532823404.html

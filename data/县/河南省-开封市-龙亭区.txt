@@ -1,0 +1,14 @@
+410202001000	河南省-开封市-龙亭区-北书店街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/02/02/410202001.html
+410202002000	河南省-开封市-龙亭区-午朝门街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/02/02/410202002.html
+410202003000	河南省-开封市-龙亭区-大兴街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/02/02/410202003.html
+410202005000	河南省-开封市-龙亭区-北道门街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/02/02/410202005.html
+410202006000	河南省-开封市-龙亭区-城西街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/02/02/410202006.html
+410202007000	河南省-开封市-龙亭区-梁苑街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/02/02/410202007.html
+410202008000	河南省-开封市-龙亭区-宋城办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/02/02/410202008.html
+410202009000	河南省-开封市-龙亭区-新城街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/02/02/410202009.html
+410202100000	河南省-开封市-龙亭区-杏花营镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/02/02/410202100.html
+410202201000	河南省-开封市-龙亭区-北郊乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/02/02/410202201.html
+410202202000	河南省-开封市-龙亭区-柳园口乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/02/02/410202202.html
+410202203000	河南省-开封市-龙亭区-西郊乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/02/02/410202203.html
+410202204000	河南省-开封市-龙亭区-水稻乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/02/02/410202204.html
+410202400000	河南省-开封市-龙亭区-杏花营农场	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/02/02/410202400.html

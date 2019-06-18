@@ -1,0 +1,13 @@
+350423100000	福建省-三明市-清流县-龙津镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/04/23/350423100.html
+350423101000	福建省-三明市-清流县-嵩溪镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/04/23/350423101.html
+350423102000	福建省-三明市-清流县-嵩口镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/04/23/350423102.html
+350423103000	福建省-三明市-清流县-灵地镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/04/23/350423103.html
+350423104000	福建省-三明市-清流县-长校镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/04/23/350423104.html
+350423105000	福建省-三明市-清流县-赖坊镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/04/23/350423105.html
+350423201000	福建省-三明市-清流县-温郊乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/04/23/350423201.html
+350423202000	福建省-三明市-清流县-林畲乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/04/23/350423202.html
+350423203000	福建省-三明市-清流县-田源乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/04/23/350423203.html
+350423204000	福建省-三明市-清流县-沙芜乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/04/23/350423204.html
+350423206000	福建省-三明市-清流县-余朋乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/04/23/350423206.html
+350423208000	福建省-三明市-清流县-李家乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/04/23/350423208.html
+350423209000	福建省-三明市-清流县-里田乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/04/23/350423209.html

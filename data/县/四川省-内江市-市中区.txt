@@ -1,0 +1,17 @@
+511002001000	四川省-内江市-市中区-城东街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/10/02/511002001.html
+511002002000	四川省-内江市-市中区-城南街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/10/02/511002002.html
+511002003000	四川省-内江市-市中区-城西街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/10/02/511002003.html
+511002004000	四川省-内江市-市中区-玉溪街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/10/02/511002004.html
+511002005000	四川省-内江市-市中区-牌楼街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/10/02/511002005.html
+511002007000	四川省-内江市-市中区-乐贤街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/10/02/511002007.html
+511002100000	四川省-内江市-市中区-白马镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/10/02/511002100.html
+511002101000	四川省-内江市-市中区-史家镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/10/02/511002101.html
+511002102000	四川省-内江市-市中区-凌家镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/10/02/511002102.html
+511002103000	四川省-内江市-市中区-朝阳镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/10/02/511002103.html
+511002104000	四川省-内江市-市中区-永安镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/10/02/511002104.html
+511002105000	四川省-内江市-市中区-全安镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/10/02/511002105.html
+511002106000	四川省-内江市-市中区-靖民镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/10/02/511002106.html
+511002108000	四川省-内江市-市中区-龚家镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/10/02/511002108.html
+511002109000	四川省-内江市-市中区-凤鸣镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/10/02/511002109.html
+511002110000	四川省-内江市-市中区-伏龙镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/10/02/511002110.html
+511002111000	四川省-内江市-市中区-龙门镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/10/02/511002111.html

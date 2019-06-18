@@ -1,0 +1,12 @@
+371482001000	山东省-德州市-禹城市-市中街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/14/82/371482001.html
+371482100000	山东省-德州市-禹城市-伦镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/14/82/371482100.html
+371482101000	山东省-德州市-禹城市-房寺镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/14/82/371482101.html
+371482102000	山东省-德州市-禹城市-张庄镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/14/82/371482102.html
+371482103000	山东省-德州市-禹城市-辛店镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/14/82/371482103.html
+371482104000	山东省-德州市-禹城市-安仁镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/14/82/371482104.html
+371482105000	山东省-德州市-禹城市-辛寨镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/14/82/371482105.html
+371482106000	山东省-德州市-禹城市-梁家镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/14/82/371482106.html
+371482107000	山东省-德州市-禹城市-十里望回族镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/14/82/371482107.html
+371482108000	山东省-德州市-禹城市-莒镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/14/82/371482108.html
+371482200000	山东省-德州市-禹城市-李屯乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/14/82/371482200.html
+371482400000	山东省-德州市-禹城市-东城街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/14/82/371482400.html

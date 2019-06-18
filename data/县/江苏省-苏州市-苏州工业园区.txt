@@ -1,0 +1,8 @@
+320571050000	江苏省-苏州市-苏州工业园区-娄葑街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/05/71/320571050.html
+320571051000	江苏省-苏州市-苏州工业园区-斜塘街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/05/71/320571051.html
+320571052000	江苏省-苏州市-苏州工业园区-唯亭街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/05/71/320571052.html
+320571053000	江苏省-苏州市-苏州工业园区-胜浦街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/05/71/320571053.html
+320571400000	江苏省-苏州市-苏州工业园区-湖西社区工作委员会	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/05/71/320571400.html
+320571401000	江苏省-苏州市-苏州工业园区-湖东社区工作委员会	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/05/71/320571401.html
+320571402000	江苏省-苏州市-苏州工业园区-月亮湾社区工作委员会	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/05/71/320571402.html
+320571403000	江苏省-苏州市-苏州工业园区-东沙湖社区工作委员会	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/05/71/320571403.html

@@ -1,0 +1,10 @@
+131128100000	河北省-衡水市-阜城县-阜城镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/11/28/131128100.html
+131128101000	河北省-衡水市-阜城县-古城镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/11/28/131128101.html
+131128102000	河北省-衡水市-阜城县-码头镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/11/28/131128102.html
+131128103000	河北省-衡水市-阜城县-霞口镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/11/28/131128103.html
+131128104000	河北省-衡水市-阜城县-崔家庙镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/11/28/131128104.html
+131128105000	河北省-衡水市-阜城县-漫河镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/11/28/131128105.html
+131128201000	河北省-衡水市-阜城县-建桥乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/11/28/131128201.html
+131128202000	河北省-衡水市-阜城县-蒋坊乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/11/28/131128202.html
+131128203000	河北省-衡水市-阜城县-大白乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/11/28/131128203.html
+131128204000	河北省-衡水市-阜城县-王集乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/11/28/131128204.html

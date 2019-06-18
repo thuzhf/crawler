@@ -1,0 +1,15 @@
+361027100000	江西省-抚州市-金溪县-秀谷镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/10/27/361027100.html
+361027101000	江西省-抚州市-金溪县-浒湾镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/10/27/361027101.html
+361027102000	江西省-抚州市-金溪县-双塘镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/10/27/361027102.html
+361027103000	江西省-抚州市-金溪县-何源镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/10/27/361027103.html
+361027104000	江西省-抚州市-金溪县-合市镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/10/27/361027104.html
+361027105000	江西省-抚州市-金溪县-琅琚镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/10/27/361027105.html
+361027106000	江西省-抚州市-金溪县-左坊镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/10/27/361027106.html
+361027107000	江西省-抚州市-金溪县-对桥镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/10/27/361027107.html
+361027200000	江西省-抚州市-金溪县-黄通乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/10/27/361027200.html
+361027202000	江西省-抚州市-金溪县-陆坊乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/10/27/361027202.html
+361027203000	江西省-抚州市-金溪县-陈坊积乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/10/27/361027203.html
+361027204000	江西省-抚州市-金溪县-琉璃乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/10/27/361027204.html
+361027205000	江西省-抚州市-金溪县-石门乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/10/27/361027205.html
+361027400000	江西省-抚州市-金溪县-华侨管理区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/10/27/361027400.html
+361027401000	江西省-抚州市-金溪县-江西金溪工业园区管理委员会	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/10/27/361027401.html

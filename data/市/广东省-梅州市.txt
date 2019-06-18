@@ -1,0 +1,9 @@
+441401000000	广东省-梅州市-市辖区	
+441402000000	广东省-梅州市-梅江区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/14/441402.html
+441403000000	广东省-梅州市-梅县区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/14/441403.html
+441422000000	广东省-梅州市-大埔县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/14/441422.html
+441423000000	广东省-梅州市-丰顺县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/14/441423.html
+441424000000	广东省-梅州市-五华县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/14/441424.html
+441426000000	广东省-梅州市-平远县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/14/441426.html
+441427000000	广东省-梅州市-蕉岭县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/14/441427.html
+441481000000	广东省-梅州市-兴宁市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/14/441481.html

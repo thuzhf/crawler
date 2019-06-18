@@ -1,0 +1,13 @@
+510302001000	四川省-自贡市-自流井区-五星街街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/03/02/510302001.html
+510302002000	四川省-自贡市-自流井区-东兴寺街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/03/02/510302002.html
+510302003000	四川省-自贡市-自流井区-新街街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/03/02/510302003.html
+510302004000	四川省-自贡市-自流井区-郭家坳街街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/03/02/510302004.html
+510302005000	四川省-自贡市-自流井区-丹桂街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/03/02/510302005.html
+510302006000	四川省-自贡市-自流井区-学苑街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/03/02/510302006.html
+510302101000	四川省-自贡市-自流井区-仲权镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/03/02/510302101.html
+510302102000	四川省-自贡市-自流井区-舒坪镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/03/02/510302102.html
+510302103000	四川省-自贡市-自流井区-荣边镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/03/02/510302103.html
+510302201000	四川省-自贡市-自流井区-红旗乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/03/02/510302201.html
+510302202000	四川省-自贡市-自流井区-高峰乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/03/02/510302202.html
+510302203000	四川省-自贡市-自流井区-农团乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/03/02/510302203.html
+510302204000	四川省-自贡市-自流井区-漆树乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/03/02/510302204.html

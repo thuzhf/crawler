@@ -1,0 +1,3 @@
+632803100000	青海省-海西蒙古族藏族自治州-茫崖市-花土沟镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/63/28/03/632803100.html
+632803101000	青海省-海西蒙古族藏族自治州-茫崖市-茫崖镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/63/28/03/632803101.html
+632803102000	青海省-海西蒙古族藏族自治州-茫崖市-冷湖镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/63/28/03/632803102.html

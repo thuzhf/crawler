@@ -1,0 +1,15 @@
+440883001000	广东省-湛江市-吴川市-梅录街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/08/83/440883001.html
+440883002000	广东省-湛江市-吴川市-塘尾街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/08/83/440883002.html
+440883003000	广东省-湛江市-吴川市-大山江街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/08/83/440883003.html
+440883004000	广东省-湛江市-吴川市-博铺街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/08/83/440883004.html
+440883005000	广东省-湛江市-吴川市-海滨街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/08/83/440883005.html
+440883100000	广东省-湛江市-吴川市-浅水镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/08/83/440883100.html
+440883101000	广东省-湛江市-吴川市-长岐镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/08/83/440883101.html
+440883102000	广东省-湛江市-吴川市-覃巴镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/08/83/440883102.html
+440883103000	广东省-湛江市-吴川市-王村港镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/08/83/440883103.html
+440883104000	广东省-湛江市-吴川市-振文镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/08/83/440883104.html
+440883105000	广东省-湛江市-吴川市-樟铺镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/08/83/440883105.html
+440883106000	广东省-湛江市-吴川市-吴阳镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/08/83/440883106.html
+440883107000	广东省-湛江市-吴川市-塘缀镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/08/83/440883107.html
+440883109000	广东省-湛江市-吴川市-黄坡镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/08/83/440883109.html
+440883111000	广东省-湛江市-吴川市-兰石镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/08/83/440883111.html

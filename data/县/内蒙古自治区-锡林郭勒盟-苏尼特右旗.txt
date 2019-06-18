@@ -1,0 +1,8 @@
+152524100000	内蒙古自治区-锡林郭勒盟-苏尼特右旗-赛汉塔拉镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/25/24/152524100.html
+152524101000	内蒙古自治区-锡林郭勒盟-苏尼特右旗-朱日和镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/25/24/152524101.html
+152524102000	内蒙古自治区-锡林郭勒盟-苏尼特右旗-乌日根塔拉镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/25/24/152524102.html
+152524200000	内蒙古自治区-锡林郭勒盟-苏尼特右旗-桑宝拉格苏木	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/25/24/152524200.html
+152524201000	内蒙古自治区-锡林郭勒盟-苏尼特右旗-额仁淖尔苏木	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/25/24/152524201.html
+152524202000	内蒙古自治区-锡林郭勒盟-苏尼特右旗-赛罕乌力吉苏木	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/25/24/152524202.html
+152524203000	内蒙古自治区-锡林郭勒盟-苏尼特右旗-阿其图乌拉苏木	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/25/24/152524203.html
+152524400000	内蒙古自治区-锡林郭勒盟-苏尼特右旗-苏尼特右旗朱日和工业园区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/25/24/152524400.html

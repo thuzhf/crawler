@@ -1,0 +1,15 @@
+371202001000	山东省-莱芜市-莱城区-凤城街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/12/02/371202001.html
+371202002000	山东省-莱芜市-莱城区-张家洼街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/12/02/371202002.html
+371202003000	山东省-莱芜市-莱城区-高庄街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/12/02/371202003.html
+371202004000	山东省-莱芜市-莱城区-鹏泉街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/12/02/371202004.html
+371202100000	山东省-莱芜市-莱城区-口镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/12/02/371202100.html
+371202101000	山东省-莱芜市-莱城区-羊里镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/12/02/371202101.html
+371202102000	山东省-莱芜市-莱城区-方下镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/12/02/371202102.html
+371202103000	山东省-莱芜市-莱城区-牛泉镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/12/02/371202103.html
+371202105000	山东省-莱芜市-莱城区-苗山镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/12/02/371202105.html
+371202106000	山东省-莱芜市-莱城区-雪野镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/12/02/371202106.html
+371202107000	山东省-莱芜市-莱城区-大王庄镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/12/02/371202107.html
+371202108000	山东省-莱芜市-莱城区-寨里镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/12/02/371202108.html
+371202109000	山东省-莱芜市-莱城区-杨庄镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/12/02/371202109.html
+371202110000	山东省-莱芜市-莱城区-茶业口镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/12/02/371202110.html
+371202111000	山东省-莱芜市-莱城区-和庄镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/12/02/371202111.html

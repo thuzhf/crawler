@@ -1,0 +1,17 @@
+361126001000	江西省-上饶市-弋阳县-桃源街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/11/26/361126001.html
+361126002000	江西省-上饶市-弋阳县-花亭街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/11/26/361126002.html
+361126101000	江西省-上饶市-弋阳县-曹溪镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/11/26/361126101.html
+361126102000	江西省-上饶市-弋阳县-漆工镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/11/26/361126102.html
+361126103000	江西省-上饶市-弋阳县-樟树墩镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/11/26/361126103.html
+361126104000	江西省-上饶市-弋阳县-南岩镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/11/26/361126104.html
+361126105000	江西省-上饶市-弋阳县-朱坑镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/11/26/361126105.html
+361126106000	江西省-上饶市-弋阳县-圭峰镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/11/26/361126106.html
+361126107000	江西省-上饶市-弋阳县-叠山镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/11/26/361126107.html
+361126108000	江西省-上饶市-弋阳县-港口镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/11/26/361126108.html
+361126109000	江西省-上饶市-弋阳县-弋江镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/11/26/361126109.html
+361126110000	江西省-上饶市-弋阳县-三县岭镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/11/26/361126110.html
+361126202000	江西省-上饶市-弋阳县-中畈乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/11/26/361126202.html
+361126203000	江西省-上饶市-弋阳县-葛溪乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/11/26/361126203.html
+361126204000	江西省-上饶市-弋阳县-湾里乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/11/26/361126204.html
+361126206000	江西省-上饶市-弋阳县-清湖乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/11/26/361126206.html
+361126207000	江西省-上饶市-弋阳县-旭光乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/11/26/361126207.html

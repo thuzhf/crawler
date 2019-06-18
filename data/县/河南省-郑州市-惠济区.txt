@@ -1,0 +1,8 @@
+410108001000	河南省-郑州市-惠济区-新城街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/01/08/410108001.html
+410108002000	河南省-郑州市-惠济区-刘寨街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/01/08/410108002.html
+410108003000	河南省-郑州市-惠济区-江山路街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/01/08/410108003.html
+410108004000	河南省-郑州市-惠济区-长兴路街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/01/08/410108004.html
+410108005000	河南省-郑州市-惠济区-迎宾路街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/01/08/410108005.html
+410108006000	河南省-郑州市-惠济区-大河路街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/01/08/410108006.html
+410108100000	河南省-郑州市-惠济区-花园口镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/01/08/410108100.html
+410108101000	河南省-郑州市-惠济区-古荥镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/01/08/410108101.html

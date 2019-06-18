@@ -1,0 +1,16 @@
+350124100000	福建省-福州市-闽清县-梅城镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/01/24/350124100.html
+350124101000	福建省-福州市-闽清县-梅溪镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/01/24/350124101.html
+350124102000	福建省-福州市-闽清县-白樟镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/01/24/350124102.html
+350124103000	福建省-福州市-闽清县-金沙镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/01/24/350124103.html
+350124104000	福建省-福州市-闽清县-白中镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/01/24/350124104.html
+350124105000	福建省-福州市-闽清县-池园镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/01/24/350124105.html
+350124106000	福建省-福州市-闽清县-坂东镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/01/24/350124106.html
+350124107000	福建省-福州市-闽清县-塔庄镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/01/24/350124107.html
+350124108000	福建省-福州市-闽清县-省璜镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/01/24/350124108.html
+350124109000	福建省-福州市-闽清县-雄江镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/01/24/350124109.html
+350124110000	福建省-福州市-闽清县-东桥镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/01/24/350124110.html
+350124200000	福建省-福州市-闽清县-云龙乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/01/24/350124200.html
+350124201000	福建省-福州市-闽清县-上莲乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/01/24/350124201.html
+350124204000	福建省-福州市-闽清县-三溪乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/01/24/350124204.html
+350124205000	福建省-福州市-闽清县-桔林乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/01/24/350124205.html
+350124206000	福建省-福州市-闽清县-下祝乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/01/24/350124206.html

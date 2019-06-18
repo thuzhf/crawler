@@ -1,0 +1,8 @@
+451030100000	广西壮族自治区-百色市-西林县-八达镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/10/30/451030100.html
+451030101000	广西壮族自治区-百色市-西林县-古障镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/10/30/451030101.html
+451030102000	广西壮族自治区-百色市-西林县-那劳镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/10/30/451030102.html
+451030103000	广西壮族自治区-百色市-西林县-马蚌镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/10/30/451030103.html
+451030203000	广西壮族自治区-百色市-西林县-普合苗族乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/10/30/451030203.html
+451030204000	广西壮族自治区-百色市-西林县-西平乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/10/30/451030204.html
+451030206000	广西壮族自治区-百色市-西林县-那佐苗族乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/10/30/451030206.html
+451030208000	广西壮族自治区-百色市-西林县-足别瑶族苗族乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/10/30/451030208.html

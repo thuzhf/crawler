@@ -1,0 +1,11 @@
+350923100000	福建省-宁德市-屏南县-古峰镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/09/23/350923100.html
+350923101000	福建省-宁德市-屏南县-双溪镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/09/23/350923101.html
+350923102000	福建省-宁德市-屏南县-黛溪镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/09/23/350923102.html
+350923103000	福建省-宁德市-屏南县-长桥镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/09/23/350923103.html
+350923200000	福建省-宁德市-屏南县-屏城乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/09/23/350923200.html
+350923201000	福建省-宁德市-屏南县-棠口乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/09/23/350923201.html
+350923202000	福建省-宁德市-屏南县-甘棠乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/09/23/350923202.html
+350923203000	福建省-宁德市-屏南县-熙岭乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/09/23/350923203.html
+350923204000	福建省-宁德市-屏南县-路下乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/09/23/350923204.html
+350923205000	福建省-宁德市-屏南县-寿山乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/09/23/350923205.html
+350923206000	福建省-宁德市-屏南县-岭下乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/09/23/350923206.html

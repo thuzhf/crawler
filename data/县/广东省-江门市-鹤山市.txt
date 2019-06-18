@@ -1,0 +1,12 @@
+440784001000	广东省-江门市-鹤山市-沙坪街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/07/84/440784001.html
+440784101000	广东省-江门市-鹤山市-龙口镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/07/84/440784101.html
+440784102000	广东省-江门市-鹤山市-雅瑶镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/07/84/440784102.html
+440784103000	广东省-江门市-鹤山市-古劳镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/07/84/440784103.html
+440784104000	广东省-江门市-鹤山市-桃源镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/07/84/440784104.html
+440784105000	广东省-江门市-鹤山市-鹤城镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/07/84/440784105.html
+440784106000	广东省-江门市-鹤山市-共和镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/07/84/440784106.html
+440784107000	广东省-江门市-鹤山市-址山镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/07/84/440784107.html
+440784108000	广东省-江门市-鹤山市-宅梧镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/07/84/440784108.html
+440784112000	广东省-江门市-鹤山市-双合镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/07/84/440784112.html
+440784401000	广东省-江门市-鹤山市-广东省江门监狱	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/07/84/440784401.html
+440784402000	广东省-江门市-鹤山市-江门市四堡林场	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/07/84/440784402.html

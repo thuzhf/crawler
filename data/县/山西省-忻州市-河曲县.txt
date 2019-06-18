@@ -1,0 +1,14 @@
+140930100000	山西省-忻州市-河曲县-文笔镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/09/30/140930100.html
+140930101000	山西省-忻州市-河曲县-楼子营镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/09/30/140930101.html
+140930102000	山西省-忻州市-河曲县-刘家塔镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/09/30/140930102.html
+140930103000	山西省-忻州市-河曲县-巡镇镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/09/30/140930103.html
+140930200000	山西省-忻州市-河曲县-鹿固乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/09/30/140930200.html
+140930201000	山西省-忻州市-河曲县-前川乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/09/30/140930201.html
+140930202000	山西省-忻州市-河曲县-单寨乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/09/30/140930202.html
+140930203000	山西省-忻州市-河曲县-土沟乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/09/30/140930203.html
+140930204000	山西省-忻州市-河曲县-旧县乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/09/30/140930204.html
+140930205000	山西省-忻州市-河曲县-沙坪乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/09/30/140930205.html
+140930206000	山西省-忻州市-河曲县-社梁乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/09/30/140930206.html
+140930207000	山西省-忻州市-河曲县-沙泉乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/09/30/140930207.html
+140930208000	山西省-忻州市-河曲县-赵家沟乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/09/30/140930208.html
+140930400000	山西省-忻州市-河曲县-河曲县居民办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/09/30/140930400.html

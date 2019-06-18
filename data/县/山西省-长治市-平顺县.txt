@@ -1,0 +1,13 @@
+140425100000	山西省-长治市-平顺县-青羊镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/04/25/140425100.html
+140425101000	山西省-长治市-平顺县-龙溪镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/04/25/140425101.html
+140425102000	山西省-长治市-平顺县-石城镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/04/25/140425102.html
+140425103000	山西省-长治市-平顺县-苗庄镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/04/25/140425103.html
+140425104000	山西省-长治市-平顺县-杏城镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/04/25/140425104.html
+140425200000	山西省-长治市-平顺县-西沟乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/04/25/140425200.html
+140425201000	山西省-长治市-平顺县-东寺头乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/04/25/140425201.html
+140425202000	山西省-长治市-平顺县-虹梯关乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/04/25/140425202.html
+140425203000	山西省-长治市-平顺县-阳高乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/04/25/140425203.html
+140425204000	山西省-长治市-平顺县-北耽车乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/04/25/140425204.html
+140425205000	山西省-长治市-平顺县-中五井乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/04/25/140425205.html
+140425206000	山西省-长治市-平顺县-北社乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/04/25/140425206.html
+140425400000	山西省-长治市-平顺县-平顺经济技术开发区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/04/25/140425400.html

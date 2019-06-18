@@ -1,0 +1,7 @@
+220801000000	吉林省-白城市-市辖区	
+220802000000	吉林省-白城市-洮北区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/08/220802.html
+220821000000	吉林省-白城市-镇赉县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/08/220821.html
+220822000000	吉林省-白城市-通榆县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/08/220822.html
+220871000000	吉林省-白城市-吉林白城经济开发区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/08/220871.html
+220881000000	吉林省-白城市-洮南市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/08/220881.html
+220882000000	吉林省-白城市-大安市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/08/220882.html

@@ -1,0 +1,9 @@
+330421001000	浙江省-嘉兴市-嘉善县-魏塘街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/04/21/330421001.html
+330421002000	浙江省-嘉兴市-嘉善县-罗星街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/04/21/330421002.html
+330421003000	浙江省-嘉兴市-嘉善县-惠民街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/04/21/330421003.html
+330421102000	浙江省-嘉兴市-嘉善县-大云镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/04/21/330421102.html
+330421103000	浙江省-嘉兴市-嘉善县-西塘镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/04/21/330421103.html
+330421105000	浙江省-嘉兴市-嘉善县-干窑镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/04/21/330421105.html
+330421107000	浙江省-嘉兴市-嘉善县-陶庄镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/04/21/330421107.html
+330421111000	浙江省-嘉兴市-嘉善县-姚庄镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/04/21/330421111.html
+330421112000	浙江省-嘉兴市-嘉善县-天凝镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/04/21/330421112.html

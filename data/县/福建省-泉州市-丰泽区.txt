@@ -1,0 +1,8 @@
+350503001000	福建省-泉州市-丰泽区-东湖街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/05/03/350503001.html
+350503002000	福建省-泉州市-丰泽区-丰泽街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/05/03/350503002.html
+350503003000	福建省-泉州市-丰泽区-泉秀街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/05/03/350503003.html
+350503004000	福建省-泉州市-丰泽区-清源街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/05/03/350503004.html
+350503005000	福建省-泉州市-丰泽区-华大街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/05/03/350503005.html
+350503006000	福建省-泉州市-丰泽区-城东街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/05/03/350503006.html
+350503007000	福建省-泉州市-丰泽区-东海街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/05/03/350503007.html
+350503008000	福建省-泉州市-丰泽区-北峰街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/05/03/350503008.html

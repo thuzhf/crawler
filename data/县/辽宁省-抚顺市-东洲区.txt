@@ -1,0 +1,13 @@
+210403002000	辽宁省-抚顺市-东洲区-东洲街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/04/03/210403002.html
+210403003000	辽宁省-抚顺市-东洲区-张甸街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/04/03/210403003.html
+210403004000	辽宁省-抚顺市-东洲区-搭连街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/04/03/210403004.html
+210403005000	辽宁省-抚顺市-东洲区-龙凤街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/04/03/210403005.html
+210403006000	辽宁省-抚顺市-东洲区-新屯街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/04/03/210403006.html
+210403007000	辽宁省-抚顺市-东洲区-万新街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/04/03/210403007.html
+210403008000	辽宁省-抚顺市-东洲区-老虎台街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/04/03/210403008.html
+210403009000	辽宁省-抚顺市-东洲区-平山街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/04/03/210403009.html
+210403012000	辽宁省-抚顺市-东洲区-章党街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/04/03/210403012.html
+210403103000	辽宁省-抚顺市-东洲区-章党镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/04/03/210403103.html
+210403104000	辽宁省-抚顺市-东洲区-哈达镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/04/03/210403104.html
+210403202000	辽宁省-抚顺市-东洲区-碾盘乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/04/03/210403202.html
+210403215000	辽宁省-抚顺市-东洲区-兰山乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/04/03/210403215.html

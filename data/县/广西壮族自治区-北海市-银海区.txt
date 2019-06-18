@@ -1,0 +1,4 @@
+450503100000	广西壮族自治区-北海市-银海区-福成镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/05/03/450503100.html
+450503101000	广西壮族自治区-北海市-银海区-银滩镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/05/03/450503101.html
+450503102000	广西壮族自治区-北海市-银海区-平阳镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/05/03/450503102.html
+450503103000	广西壮族自治区-北海市-银海区-侨港镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/05/03/450503103.html

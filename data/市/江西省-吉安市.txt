@@ -1,0 +1,14 @@
+360801000000	江西省-吉安市-市辖区	
+360802000000	江西省-吉安市-吉州区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/08/360802.html
+360803000000	江西省-吉安市-青原区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/08/360803.html
+360821000000	江西省-吉安市-吉安县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/08/360821.html
+360822000000	江西省-吉安市-吉水县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/08/360822.html
+360823000000	江西省-吉安市-峡江县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/08/360823.html
+360824000000	江西省-吉安市-新干县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/08/360824.html
+360825000000	江西省-吉安市-永丰县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/08/360825.html
+360826000000	江西省-吉安市-泰和县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/08/360826.html
+360827000000	江西省-吉安市-遂川县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/08/360827.html
+360828000000	江西省-吉安市-万安县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/08/360828.html
+360829000000	江西省-吉安市-安福县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/08/360829.html
+360830000000	江西省-吉安市-永新县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/08/360830.html
+360881000000	江西省-吉安市-井冈山市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/08/360881.html

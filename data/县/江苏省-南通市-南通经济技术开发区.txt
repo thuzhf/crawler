@@ -1,0 +1,8 @@
+320671001000	江苏省-南通市-南通经济技术开发区-中兴街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/06/71/320671001.html
+320671002000	江苏省-南通市-南通经济技术开发区-新开街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/06/71/320671002.html
+320671003000	江苏省-南通市-南通经济技术开发区-竹行街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/06/71/320671003.html
+320671004000	江苏省-南通市-南通经济技术开发区-小海街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/06/71/320671004.html
+320671400000	江苏省-南通市-南通经济技术开发区-江海镇区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/06/71/320671400.html
+320671401000	江苏省-南通市-南通经济技术开发区-南通市富民港良种场	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/06/71/320671401.html
+320671402000	江苏省-南通市-南通经济技术开发区-南通市富民港种畜场	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/06/71/320671402.html
+320671403000	江苏省-南通市-南通经济技术开发区-南通苏通科技产业园	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/06/71/320671403.html

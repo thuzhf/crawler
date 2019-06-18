@@ -1,0 +1,17 @@
+140525100000	山西省-晋城市-泽州县-南村镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/05/25/140525100.html
+140525101000	山西省-晋城市-泽州县-下村镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/05/25/140525101.html
+140525102000	山西省-晋城市-泽州县-大东沟镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/05/25/140525102.html
+140525103000	山西省-晋城市-泽州县-周村镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/05/25/140525103.html
+140525104000	山西省-晋城市-泽州县-犁川镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/05/25/140525104.html
+140525105000	山西省-晋城市-泽州县-晋庙铺镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/05/25/140525105.html
+140525106000	山西省-晋城市-泽州县-金村镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/05/25/140525106.html
+140525107000	山西省-晋城市-泽州县-高都镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/05/25/140525107.html
+140525108000	山西省-晋城市-泽州县-巴公镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/05/25/140525108.html
+140525109000	山西省-晋城市-泽州县-大阳镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/05/25/140525109.html
+140525110000	山西省-晋城市-泽州县-山河镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/05/25/140525110.html
+140525111000	山西省-晋城市-泽州县-大箕镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/05/25/140525111.html
+140525112000	山西省-晋城市-泽州县-柳树口镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/05/25/140525112.html
+140525113000	山西省-晋城市-泽州县-北义城镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/05/25/140525113.html
+140525200000	山西省-晋城市-泽州县-川底乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/05/25/140525200.html
+140525201000	山西省-晋城市-泽州县-李寨乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/05/25/140525201.html
+140525202000	山西省-晋城市-泽州县-南岭乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/05/25/140525202.html

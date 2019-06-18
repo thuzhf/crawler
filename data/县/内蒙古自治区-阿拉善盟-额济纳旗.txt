@@ -1,0 +1,10 @@
+152923001000	内蒙古自治区-阿拉善盟-额济纳旗-额济纳旗航空街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/29/23/152923001.html
+152923002000	内蒙古自治区-阿拉善盟-额济纳旗-额济纳旗东风街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/29/23/152923002.html
+152923100000	内蒙古自治区-阿拉善盟-额济纳旗-达来呼布镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/29/23/152923100.html
+152923101000	内蒙古自治区-阿拉善盟-额济纳旗-额济纳旗东风镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/29/23/152923101.html
+152923102000	内蒙古自治区-阿拉善盟-额济纳旗-哈日布日格德音乌拉镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/29/23/152923102.html
+152923200000	内蒙古自治区-阿拉善盟-额济纳旗-额济纳旗赛汉陶来苏木	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/29/23/152923200.html
+152923201000	内蒙古自治区-阿拉善盟-额济纳旗-额济纳旗马鬃山苏木	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/29/23/152923201.html
+152923202000	内蒙古自治区-阿拉善盟-额济纳旗-额济纳旗苏泊淖尔苏木	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/29/23/152923202.html
+152923203000	内蒙古自治区-阿拉善盟-额济纳旗-巴彦陶来苏木	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/29/23/152923203.html
+152923204000	内蒙古自治区-阿拉善盟-额济纳旗-温图高勒苏木	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/29/23/152923204.html

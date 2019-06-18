@@ -1,0 +1,5 @@
+650201000000	新疆维吾尔自治区-克拉玛依市-市辖区	
+650202000000	新疆维吾尔自治区-克拉玛依市-独山子区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/02/650202.html
+650203000000	新疆维吾尔自治区-克拉玛依市-克拉玛依区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/02/650203.html
+650204000000	新疆维吾尔自治区-克拉玛依市-白碱滩区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/02/650204.html
+650205000000	新疆维吾尔自治区-克拉玛依市-乌尔禾区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/02/650205.html

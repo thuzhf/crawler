@@ -1,0 +1,4 @@
+152571101000	内蒙古自治区-锡林郭勒盟-乌拉盖管委会-巴彦胡硕镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/25/71/152571101.html
+152571500000	内蒙古自治区-锡林郭勒盟-乌拉盖管委会-哈拉盖图农牧场	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/25/71/152571500.html
+152571501000	内蒙古自治区-锡林郭勒盟-乌拉盖管委会-贺斯格乌拉牧场	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/25/71/152571501.html
+152571502000	内蒙古自治区-锡林郭勒盟-乌拉盖管委会-乌拉盖牧场	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/25/71/152571502.html

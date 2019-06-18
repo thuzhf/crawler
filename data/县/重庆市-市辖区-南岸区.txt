@@ -1,0 +1,15 @@
+500108001000	重庆市-市辖区-南岸区-铜元局街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/50/01/08/500108001.html
+500108002000	重庆市-市辖区-南岸区-花园路街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/50/01/08/500108002.html
+500108003000	重庆市-市辖区-南岸区-南坪街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/50/01/08/500108003.html
+500108004000	重庆市-市辖区-南岸区-海棠溪街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/50/01/08/500108004.html
+500108005000	重庆市-市辖区-南岸区-龙门浩街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/50/01/08/500108005.html
+500108006000	重庆市-市辖区-南岸区-弹子石街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/50/01/08/500108006.html
+500108007000	重庆市-市辖区-南岸区-南山街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/50/01/08/500108007.html
+500108008000	重庆市-市辖区-南岸区-天文街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/50/01/08/500108008.html
+500108101000	重庆市-市辖区-南岸区-南坪镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/50/01/08/500108101.html
+500108102000	重庆市-市辖区-南岸区-涂山镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/50/01/08/500108102.html
+500108103000	重庆市-市辖区-南岸区-鸡冠石镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/50/01/08/500108103.html
+500108105000	重庆市-市辖区-南岸区-峡口镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/50/01/08/500108105.html
+500108106000	重庆市-市辖区-南岸区-长生桥镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/50/01/08/500108106.html
+500108107000	重庆市-市辖区-南岸区-迎龙镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/50/01/08/500108107.html
+500108108000	重庆市-市辖区-南岸区-广阳镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/50/01/08/500108108.html

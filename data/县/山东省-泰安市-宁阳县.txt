@@ -1,0 +1,13 @@
+370921001000	山东省-泰安市-宁阳县-文庙街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/09/21/370921001.html
+370921002000	山东省-泰安市-宁阳县-八仙桥街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/09/21/370921002.html
+370921101000	山东省-泰安市-宁阳县-泗店镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/09/21/370921101.html
+370921102000	山东省-泰安市-宁阳县-东疏镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/09/21/370921102.html
+370921103000	山东省-泰安市-宁阳县-伏山镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/09/21/370921103.html
+370921105000	山东省-泰安市-宁阳县-堽城镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/09/21/370921105.html
+370921107000	山东省-泰安市-宁阳县-蒋集镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/09/21/370921107.html
+370921109000	山东省-泰安市-宁阳县-磁窑镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/09/21/370921109.html
+370921110000	山东省-泰安市-宁阳县-华丰镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/09/21/370921110.html
+370921111000	山东省-泰安市-宁阳县-葛石镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/09/21/370921111.html
+370921112000	山东省-泰安市-宁阳县-东庄镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/09/21/370921112.html
+370921113000	山东省-泰安市-宁阳县-鹤山镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/09/21/370921113.html
+370921206000	山东省-泰安市-宁阳县-乡饮乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/09/21/370921206.html

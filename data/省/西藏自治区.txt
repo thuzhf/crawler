@@ -1,0 +1,7 @@
+540100000000	西藏自治区-拉萨市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/5401.html
+540200000000	西藏自治区-日喀则市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/5402.html
+540300000000	西藏自治区-昌都市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/5403.html
+540400000000	西藏自治区-林芝市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/5404.html
+540500000000	西藏自治区-山南市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/5405.html
+540600000000	西藏自治区-那曲市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/5406.html
+542500000000	西藏自治区-阿里地区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/5425.html

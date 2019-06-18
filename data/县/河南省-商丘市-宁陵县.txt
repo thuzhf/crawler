@@ -1,0 +1,15 @@
+411423100000	河南省-商丘市-宁陵县-城关镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/14/23/411423100.html
+411423101000	河南省-商丘市-宁陵县-张弓镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/14/23/411423101.html
+411423102000	河南省-商丘市-宁陵县-柳河镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/14/23/411423102.html
+411423103000	河南省-商丘市-宁陵县-逻岗镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/14/23/411423103.html
+411423104000	河南省-商丘市-宁陵县-石桥镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/14/23/411423104.html
+411423105000	河南省-商丘市-宁陵县-黄岗镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/14/23/411423105.html
+411423106000	河南省-商丘市-宁陵县-华堡镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/14/23/411423106.html
+411423203000	河南省-商丘市-宁陵县-刘楼乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/14/23/411423203.html
+411423204000	河南省-商丘市-宁陵县-程楼乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/14/23/411423204.html
+411423205000	河南省-商丘市-宁陵县-乔楼乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/14/23/411423205.html
+411423206000	河南省-商丘市-宁陵县-城郊乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/14/23/411423206.html
+411423207000	河南省-商丘市-宁陵县-阳驿乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/14/23/411423207.html
+411423209000	河南省-商丘市-宁陵县-孔集乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/14/23/411423209.html
+411423210000	河南省-商丘市-宁陵县-赵村乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/14/23/411423210.html
+411423400000	河南省-商丘市-宁陵县-产业集聚区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/14/23/411423400.html

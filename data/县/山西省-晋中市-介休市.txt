@@ -1,0 +1,15 @@
+140781001000	山西省-晋中市-介休市-北关街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/07/81/140781001.html
+140781002000	山西省-晋中市-介休市-西关街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/07/81/140781002.html
+140781003000	山西省-晋中市-介休市-东南街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/07/81/140781003.html
+140781004000	山西省-晋中市-介休市-西南街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/07/81/140781004.html
+140781005000	山西省-晋中市-介休市-北坛街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/07/81/140781005.html
+140781100000	山西省-晋中市-介休市-义安镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/07/81/140781100.html
+140781101000	山西省-晋中市-介休市-张兰镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/07/81/140781101.html
+140781102000	山西省-晋中市-介休市-连福镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/07/81/140781102.html
+140781103000	山西省-晋中市-介休市-洪山镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/07/81/140781103.html
+140781104000	山西省-晋中市-介休市-龙凤镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/07/81/140781104.html
+140781105000	山西省-晋中市-介休市-绵山镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/07/81/140781105.html
+140781106000	山西省-晋中市-介休市-义棠镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/07/81/140781106.html
+140781200000	山西省-晋中市-介休市-城关乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/07/81/140781200.html
+140781201000	山西省-晋中市-介休市-宋古乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/07/81/140781201.html
+140781202000	山西省-晋中市-介休市-三佳乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/07/81/140781202.html

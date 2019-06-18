@@ -1,0 +1,10 @@
+141022100000	山西省-临汾市-翼城县-唐兴镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/10/22/141022100.html
+141022101000	山西省-临汾市-翼城县-南梁镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/10/22/141022101.html
+141022102000	山西省-临汾市-翼城县-里砦镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/10/22/141022102.html
+141022103000	山西省-临汾市-翼城县-隆化镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/10/22/141022103.html
+141022104000	山西省-临汾市-翼城县-桥上镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/10/22/141022104.html
+141022105000	山西省-临汾市-翼城县-西阎镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/10/22/141022105.html
+141022200000	山西省-临汾市-翼城县-中卫乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/10/22/141022200.html
+141022201000	山西省-临汾市-翼城县-南唐乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/10/22/141022201.html
+141022202000	山西省-临汾市-翼城县-王庄乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/10/22/141022202.html
+141022203000	山西省-临汾市-翼城县-浇底乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/10/22/141022203.html

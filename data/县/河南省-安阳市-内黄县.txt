@@ -1,0 +1,17 @@
+410527100000	河南省-安阳市-内黄县-城关镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/05/27/410527100.html
+410527101000	河南省-安阳市-内黄县-东庄镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/05/27/410527101.html
+410527102000	河南省-安阳市-内黄县-井店镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/05/27/410527102.html
+410527103000	河南省-安阳市-内黄县-梁庄镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/05/27/410527103.html
+410527104000	河南省-安阳市-内黄县-后河镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/05/27/410527104.html
+410527105000	河南省-安阳市-内黄县-楚旺镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/05/27/410527105.html
+410527106000	河南省-安阳市-内黄县-田氏镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/05/27/410527106.html
+410527107000	河南省-安阳市-内黄县-二安镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/05/27/410527107.html
+410527108000	河南省-安阳市-内黄县-亳城镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/05/27/410527108.html
+410527109000	河南省-安阳市-内黄县-豆公镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/05/27/410527109.html
+410527200000	河南省-安阳市-内黄县-张龙乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/05/27/410527200.html
+410527201000	河南省-安阳市-内黄县-马上乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/05/27/410527201.html
+410527202000	河南省-安阳市-内黄县-高堤乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/05/27/410527202.html
+410527205000	河南省-安阳市-内黄县-六村乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/05/27/410527205.html
+410527206000	河南省-安阳市-内黄县-中召乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/05/27/410527206.html
+410527207000	河南省-安阳市-内黄县-宋村乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/05/27/410527207.html
+410527209000	河南省-安阳市-内黄县-石盘屯乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/05/27/410527209.html

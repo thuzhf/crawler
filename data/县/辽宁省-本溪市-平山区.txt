@@ -1,0 +1,9 @@
+210502001000	辽宁省-本溪市-平山区-南地街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/05/02/210502001.html
+210502002000	辽宁省-本溪市-平山区-工人街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/05/02/210502002.html
+210502003000	辽宁省-本溪市-平山区-平山街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/05/02/210502003.html
+210502004000	辽宁省-本溪市-平山区-东明街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/05/02/210502004.html
+210502005000	辽宁省-本溪市-平山区-崔东街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/05/02/210502005.html
+210502007000	辽宁省-本溪市-平山区-站前街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/05/02/210502007.html
+210502008000	辽宁省-本溪市-平山区-千金街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/05/02/210502008.html
+210502010000	辽宁省-本溪市-平山区-北台街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/05/02/210502010.html
+210502011000	辽宁省-本溪市-平山区-桥头街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/05/02/210502011.html

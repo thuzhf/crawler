@@ -1,0 +1,13 @@
+130635100000	河北省-保定市-蠡县-蠡吾镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/06/35/130635100.html
+130635101000	河北省-保定市-蠡县-留史镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/06/35/130635101.html
+130635102000	河北省-保定市-蠡县-大百尺镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/06/35/130635102.html
+130635103000	河北省-保定市-蠡县-辛兴镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/06/35/130635103.html
+130635104000	河北省-保定市-蠡县-北郭丹镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/06/35/130635104.html
+130635105000	河北省-保定市-蠡县-万安镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/06/35/130635105.html
+130635106000	河北省-保定市-蠡县-桑园镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/06/35/130635106.html
+130635107000	河北省-保定市-蠡县-南庄镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/06/35/130635107.html
+130635108000	河北省-保定市-蠡县-大曲堤镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/06/35/130635108.html
+130635109000	河北省-保定市-蠡县-鲍墟镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/06/35/130635109.html
+130635200000	河北省-保定市-蠡县-小陈乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/06/35/130635200.html
+130635201000	河北省-保定市-蠡县-林堡乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/06/35/130635201.html
+130635202000	河北省-保定市-蠡县-北埝头乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/06/35/130635202.html

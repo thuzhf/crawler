@@ -1,0 +1,10 @@
+140321100000	山西省-阳泉市-平定县-冠山镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/03/21/140321100.html
+140321101000	山西省-阳泉市-平定县-冶西镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/03/21/140321101.html
+140321102000	山西省-阳泉市-平定县-锁簧镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/03/21/140321102.html
+140321103000	山西省-阳泉市-平定县-张庄镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/03/21/140321103.html
+140321104000	山西省-阳泉市-平定县-东回镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/03/21/140321104.html
+140321105000	山西省-阳泉市-平定县-柏井镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/03/21/140321105.html
+140321106000	山西省-阳泉市-平定县-娘子关镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/03/21/140321106.html
+140321107000	山西省-阳泉市-平定县-巨城镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/03/21/140321107.html
+140321200000	山西省-阳泉市-平定县-石门口乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/03/21/140321200.html
+140321201000	山西省-阳泉市-平定县-岔口乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/03/21/140321201.html

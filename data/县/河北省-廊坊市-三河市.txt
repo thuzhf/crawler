@@ -1,0 +1,14 @@
+131082001000	河北省-廊坊市-三河市-鼎盛东大街街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/10/82/131082001.html
+131082002000	河北省-廊坊市-三河市-泃阳西大街街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/10/82/131082002.html
+131082100000	河北省-廊坊市-三河市-泃阳镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/10/82/131082100.html
+131082101000	河北省-廊坊市-三河市-李旗庄镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/10/82/131082101.html
+131082102000	河北省-廊坊市-三河市-杨庄镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/10/82/131082102.html
+131082103000	河北省-廊坊市-三河市-皇庄镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/10/82/131082103.html
+131082104000	河北省-廊坊市-三河市-新集镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/10/82/131082104.html
+131082105000	河北省-廊坊市-三河市-段甲岭镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/10/82/131082105.html
+131082106000	河北省-廊坊市-三河市-黄土庄镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/10/82/131082106.html
+131082107000	河北省-廊坊市-三河市-高楼镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/10/82/131082107.html
+131082108000	河北省-廊坊市-三河市-齐心庄镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/10/82/131082108.html
+131082109000	河北省-廊坊市-三河市-燕郊镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/10/82/131082109.html
+131082450000	河北省-廊坊市-三河市-燕郊经济技术开发区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/10/82/131082450.html
+131082451000	河北省-廊坊市-三河市-三河市农业高新技术园区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/10/82/131082451.html

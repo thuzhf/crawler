@@ -1,0 +1,4 @@
+632321000000	青海省-黄南藏族自治州-同仁县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/63/23/632321.html
+632322000000	青海省-黄南藏族自治州-尖扎县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/63/23/632322.html
+632323000000	青海省-黄南藏族自治州-泽库县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/63/23/632323.html
+632324000000	青海省-黄南藏族自治州-河南蒙古族自治县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/63/23/632324.html

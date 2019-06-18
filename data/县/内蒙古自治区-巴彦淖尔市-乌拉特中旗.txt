@@ -1,0 +1,12 @@
+150824100000	内蒙古自治区-巴彦淖尔市-乌拉特中旗-海流图镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/08/24/150824100.html
+150824101000	内蒙古自治区-巴彦淖尔市-乌拉特中旗-乌加河镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/08/24/150824101.html
+150824102000	内蒙古自治区-巴彦淖尔市-乌拉特中旗-德岭山镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/08/24/150824102.html
+150824103000	内蒙古自治区-巴彦淖尔市-乌拉特中旗-石哈河镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/08/24/150824103.html
+150824104000	内蒙古自治区-巴彦淖尔市-乌拉特中旗-甘其毛都镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/08/24/150824104.html
+150824105000	内蒙古自治区-巴彦淖尔市-乌拉特中旗-温更镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/08/24/150824105.html
+150824200000	内蒙古自治区-巴彦淖尔市-乌拉特中旗-呼鲁斯太苏木	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/08/24/150824200.html
+150824201000	内蒙古自治区-巴彦淖尔市-乌拉特中旗-川井苏木	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/08/24/150824201.html
+150824202000	内蒙古自治区-巴彦淖尔市-乌拉特中旗-巴音乌兰苏木	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/08/24/150824202.html
+150824203000	内蒙古自治区-巴彦淖尔市-乌拉特中旗-新忽热苏木	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/08/24/150824203.html
+150824400000	内蒙古自治区-巴彦淖尔市-乌拉特中旗-牧羊海牧场	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/08/24/150824400.html
+150824401000	内蒙古自治区-巴彦淖尔市-乌拉特中旗-同和太种畜场	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/08/24/150824401.html

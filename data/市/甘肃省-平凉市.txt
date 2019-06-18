@@ -1,0 +1,8 @@
+620801000000	甘肃省-平凉市-市辖区	
+620802000000	甘肃省-平凉市-崆峒区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/62/08/620802.html
+620821000000	甘肃省-平凉市-泾川县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/62/08/620821.html
+620822000000	甘肃省-平凉市-灵台县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/62/08/620822.html
+620823000000	甘肃省-平凉市-崇信县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/62/08/620823.html
+620825000000	甘肃省-平凉市-庄浪县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/62/08/620825.html
+620826000000	甘肃省-平凉市-静宁县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/62/08/620826.html
+620881000000	甘肃省-平凉市-华亭市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/62/08/620881.html

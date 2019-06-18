@@ -1,0 +1,14 @@
+540629100000	西藏自治区-那曲市-尼玛县-尼玛镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/06/29/540629100.html
+540629201000	西藏自治区-那曲市-尼玛县-卓尼乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/06/29/540629201.html
+540629202000	西藏自治区-那曲市-尼玛县-达果乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/06/29/540629202.html
+540629203000	西藏自治区-那曲市-尼玛县-阿索乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/06/29/540629203.html
+540629204000	西藏自治区-那曲市-尼玛县-荣玛乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/06/29/540629204.html
+540629205000	西藏自治区-那曲市-尼玛县-中仓乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/06/29/540629205.html
+540629206000	西藏自治区-那曲市-尼玛县-来多乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/06/29/540629206.html
+540629207000	西藏自治区-那曲市-尼玛县-申亚乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/06/29/540629207.html
+540629208000	西藏自治区-那曲市-尼玛县-卓瓦乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/06/29/540629208.html
+540629209000	西藏自治区-那曲市-尼玛县-俄久乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/06/29/540629209.html
+540629210000	西藏自治区-那曲市-尼玛县-文部乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/06/29/540629210.html
+540629211000	西藏自治区-那曲市-尼玛县-甲谷乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/06/29/540629211.html
+540629212000	西藏自治区-那曲市-尼玛县-军仓乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/06/29/540629212.html
+540629219000	西藏自治区-那曲市-尼玛县-吉瓦乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/06/29/540629219.html

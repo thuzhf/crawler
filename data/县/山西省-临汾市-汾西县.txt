@@ -1,0 +1,9 @@
+141034100000	山西省-临汾市-汾西县-永安镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/10/34/141034100.html
+141034101000	山西省-临汾市-汾西县-对竹镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/10/34/141034101.html
+141034102000	山西省-临汾市-汾西县-勍香镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/10/34/141034102.html
+141034103000	山西省-临汾市-汾西县-和平镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/10/34/141034103.html
+141034104000	山西省-临汾市-汾西县-僧念镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/10/34/141034104.html
+141034200000	山西省-临汾市-汾西县-佃坪乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/10/34/141034200.html
+141034201000	山西省-临汾市-汾西县-团柏乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/10/34/141034201.html
+141034202000	山西省-临汾市-汾西县-邢家要乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/10/34/141034202.html
+141034400000	山西省-临汾市-汾西县-社区管理委员会	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/10/34/141034400.html

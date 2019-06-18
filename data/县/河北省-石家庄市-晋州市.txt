@@ -1,0 +1,10 @@
+130183100000	河北省-石家庄市-晋州市-晋州镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/01/83/130183100.html
+130183101000	河北省-石家庄市-晋州市-总十庄镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/01/83/130183101.html
+130183102000	河北省-石家庄市-晋州市-营里镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/01/83/130183102.html
+130183103000	河北省-石家庄市-晋州市-桃园镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/01/83/130183103.html
+130183104000	河北省-石家庄市-晋州市-东卓宿镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/01/83/130183104.html
+130183105000	河北省-石家庄市-晋州市-马于镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/01/83/130183105.html
+130183106000	河北省-石家庄市-晋州市-小樵镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/01/83/130183106.html
+130183107000	河北省-石家庄市-晋州市-槐树镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/01/83/130183107.html
+130183108000	河北省-石家庄市-晋州市-东里庄镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/01/83/130183108.html
+130183201000	河北省-石家庄市-晋州市-周家庄乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/01/83/130183201.html

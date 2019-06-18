@@ -1,0 +1,8 @@
+371001000000	山东省-威海市-市辖区	
+371002000000	山东省-威海市-环翠区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/10/371002.html
+371003000000	山东省-威海市-文登区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/10/371003.html
+371071000000	山东省-威海市-威海火炬高技术产业开发区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/10/371071.html
+371072000000	山东省-威海市-威海经济技术开发区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/10/371072.html
+371073000000	山东省-威海市-威海临港经济技术开发区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/10/371073.html
+371082000000	山东省-威海市-荣成市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/10/371082.html
+371083000000	山东省-威海市-乳山市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/10/371083.html

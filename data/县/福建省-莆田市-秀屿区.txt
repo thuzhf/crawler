@@ -1,0 +1,13 @@
+350305100000	福建省-莆田市-秀屿区-笏石镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/03/05/350305100.html
+350305101000	福建省-莆田市-秀屿区-东庄镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/03/05/350305101.html
+350305102000	福建省-莆田市-秀屿区-忠门镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/03/05/350305102.html
+350305103000	福建省-莆田市-秀屿区-东埔镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/03/05/350305103.html
+350305104000	福建省-莆田市-秀屿区-东峤镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/03/05/350305104.html
+350305105000	福建省-莆田市-秀屿区-埭头镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/03/05/350305105.html
+350305106000	福建省-莆田市-秀屿区-平海镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/03/05/350305106.html
+350305107000	福建省-莆田市-秀屿区-南日镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/03/05/350305107.html
+350305108000	福建省-莆田市-秀屿区-湄洲镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/03/05/350305108.html
+350305109000	福建省-莆田市-秀屿区-山亭镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/03/05/350305109.html
+350305110000	福建省-莆田市-秀屿区-月塘镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/03/05/350305110.html
+350305400000	福建省-莆田市-秀屿区-前沁农场	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/03/05/350305400.html
+350305401000	福建省-莆田市-秀屿区-后海管理局	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/03/05/350305401.html

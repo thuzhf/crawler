@@ -1,0 +1,7 @@
+220701000000	吉林省-松原市-市辖区	
+220702000000	吉林省-松原市-宁江区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/07/220702.html
+220721000000	吉林省-松原市-前郭尔罗斯蒙古族自治县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/07/220721.html
+220722000000	吉林省-松原市-长岭县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/07/220722.html
+220723000000	吉林省-松原市-乾安县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/07/220723.html
+220771000000	吉林省-松原市-吉林松原经济开发区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/07/220771.html
+220781000000	吉林省-松原市-扶余市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/07/220781.html

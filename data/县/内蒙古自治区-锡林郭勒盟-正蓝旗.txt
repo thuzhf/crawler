@@ -1,0 +1,9 @@
+152530100000	内蒙古自治区-锡林郭勒盟-正蓝旗-上都镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/25/30/152530100.html
+152530101000	内蒙古自治区-锡林郭勒盟-正蓝旗-桑根达来镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/25/30/152530101.html
+152530102000	内蒙古自治区-锡林郭勒盟-正蓝旗-哈毕日嘎镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/25/30/152530102.html
+152530200000	内蒙古自治区-锡林郭勒盟-正蓝旗-宝绍代苏木	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/25/30/152530200.html
+152530201000	内蒙古自治区-锡林郭勒盟-正蓝旗-那日图苏木	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/25/30/152530201.html
+152530202000	内蒙古自治区-锡林郭勒盟-正蓝旗-赛音呼都嘎苏木	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/25/30/152530202.html
+152530203000	内蒙古自治区-锡林郭勒盟-正蓝旗-扎格斯台苏木	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/25/30/152530203.html
+152530500000	内蒙古自治区-锡林郭勒盟-正蓝旗-五一种畜场总场	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/25/30/152530500.html
+152530501000	内蒙古自治区-锡林郭勒盟-正蓝旗-黑城子示范区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/25/30/152530501.html

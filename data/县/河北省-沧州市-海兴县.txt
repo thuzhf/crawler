@@ -1,0 +1,10 @@
+130924100000	河北省-沧州市-海兴县-苏基镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/09/24/130924100.html
+130924101000	河北省-沧州市-海兴县-辛集镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/09/24/130924101.html
+130924102000	河北省-沧州市-海兴县-高湾镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/09/24/130924102.html
+130924200000	河北省-沧州市-海兴县-赵毛陶乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/09/24/130924200.html
+130924201000	河北省-沧州市-海兴县-香坊乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/09/24/130924201.html
+130924202000	河北省-沧州市-海兴县-小山乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/09/24/130924202.html
+130924203000	河北省-沧州市-海兴县-张会亭乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/09/24/130924203.html
+130924400000	河北省-沧州市-海兴县-海兴县农场	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/09/24/130924400.html
+130924401000	河北省-沧州市-海兴县-青先农场	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/09/24/130924401.html
+130924402000	河北省-沧州市-海兴县-青锋农场	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/09/24/130924402.html

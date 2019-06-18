@@ -1,0 +1,15 @@
+321012100000	江苏省-扬州市-江都区-仙女镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/10/12/321012100.html
+321012101000	江苏省-扬州市-江都区-小纪镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/10/12/321012101.html
+321012103000	江苏省-扬州市-江都区-武坚镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/10/12/321012103.html
+321012106000	江苏省-扬州市-江都区-樊川镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/10/12/321012106.html
+321012108000	江苏省-扬州市-江都区-真武镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/10/12/321012108.html
+321012109000	江苏省-扬州市-江都区-宜陵镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/10/12/321012109.html
+321012110000	江苏省-扬州市-江都区-丁沟镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/10/12/321012110.html
+321012112000	江苏省-扬州市-江都区-郭村镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/10/12/321012112.html
+321012114000	江苏省-扬州市-江都区-邵伯镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/10/12/321012114.html
+321012116000	江苏省-扬州市-江都区-丁伙镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/10/12/321012116.html
+321012118000	江苏省-扬州市-江都区-大桥镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/10/12/321012118.html
+321012119000	江苏省-扬州市-江都区-吴桥镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/10/12/321012119.html
+321012120000	江苏省-扬州市-江都区-浦头镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/10/12/321012120.html
+321012400000	江苏省-扬州市-江都区-立新农场	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/10/12/321012400.html
+321012401000	江苏省-扬州市-江都区-滨江新城管理委员会	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/10/12/321012401.html

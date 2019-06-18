@@ -1,0 +1,15 @@
+140405100000	山西省-长治市-屯留区-麟绛镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/04/05/140405100.html
+140405101000	山西省-长治市-屯留区-上村镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/04/05/140405101.html
+140405102000	山西省-长治市-屯留区-渔泽镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/04/05/140405102.html
+140405103000	山西省-长治市-屯留区-余吾镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/04/05/140405103.html
+140405104000	山西省-长治市-屯留区-吾元镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/04/05/140405104.html
+140405105000	山西省-长治市-屯留区-张店镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/04/05/140405105.html
+140405106000	山西省-长治市-屯留区-丰宜镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/04/05/140405106.html
+140405200000	山西省-长治市-屯留区-李高乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/04/05/140405200.html
+140405201000	山西省-长治市-屯留区-路村乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/04/05/140405201.html
+140405202000	山西省-长治市-屯留区-河神庙乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/04/05/140405202.html
+140405203000	山西省-长治市-屯留区-西贾乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/04/05/140405203.html
+140405400000	山西省-长治市-屯留区-西流寨开发区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/04/05/140405400.html
+140405401000	山西省-长治市-屯留区-康庄工业园区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/04/05/140405401.html
+140405402000	山西省-长治市-屯留区-上莲开发区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/04/05/140405402.html
+140405403000	山西省-长治市-屯留区-屯留县经济技术开发区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/04/05/140405403.html

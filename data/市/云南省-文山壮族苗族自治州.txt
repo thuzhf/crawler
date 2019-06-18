@@ -1,0 +1,8 @@
+532601000000	云南省-文山壮族苗族自治州-文山市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/26/532601.html
+532622000000	云南省-文山壮族苗族自治州-砚山县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/26/532622.html
+532623000000	云南省-文山壮族苗族自治州-西畴县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/26/532623.html
+532624000000	云南省-文山壮族苗族自治州-麻栗坡县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/26/532624.html
+532625000000	云南省-文山壮族苗族自治州-马关县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/26/532625.html
+532626000000	云南省-文山壮族苗族自治州-丘北县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/26/532626.html
+532627000000	云南省-文山壮族苗族自治州-广南县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/26/532627.html
+532628000000	云南省-文山壮族苗族自治州-富宁县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/26/532628.html

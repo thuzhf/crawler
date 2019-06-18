@@ -1,0 +1,5 @@
+340701000000	安徽省-铜陵市-市辖区	
+340705000000	安徽省-铜陵市-铜官区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/07/340705.html
+340706000000	安徽省-铜陵市-义安区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/07/340706.html
+340711000000	安徽省-铜陵市-郊区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/07/340711.html
+340722000000	安徽省-铜陵市-枞阳县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/07/340722.html

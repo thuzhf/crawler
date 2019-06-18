@@ -1,0 +1,12 @@
+140928100000	山西省-忻州市-五寨县-砚城镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/09/28/140928100.html
+140928101000	山西省-忻州市-五寨县-小河头镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/09/28/140928101.html
+140928102000	山西省-忻州市-五寨县-三岔镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/09/28/140928102.html
+140928200000	山西省-忻州市-五寨县-前所乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/09/28/140928200.html
+140928201000	山西省-忻州市-五寨县-李家坪乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/09/28/140928201.html
+140928202000	山西省-忻州市-五寨县-孙家坪乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/09/28/140928202.html
+140928203000	山西省-忻州市-五寨县-梁家坪乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/09/28/140928203.html
+140928204000	山西省-忻州市-五寨县-胡会乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/09/28/140928204.html
+140928205000	山西省-忻州市-五寨县-新寨乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/09/28/140928205.html
+140928206000	山西省-忻州市-五寨县-韩家楼乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/09/28/140928206.html
+140928207000	山西省-忻州市-五寨县-东秀庄乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/09/28/140928207.html
+140928208000	山西省-忻州市-五寨县-杏岭子乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/09/28/140928208.html

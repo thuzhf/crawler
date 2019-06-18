@@ -1,0 +1,7 @@
+511901000000	四川省-巴中市-市辖区	
+511902000000	四川省-巴中市-巴州区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/19/511902.html
+511903000000	四川省-巴中市-恩阳区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/19/511903.html
+511921000000	四川省-巴中市-通江县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/19/511921.html
+511922000000	四川省-巴中市-南江县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/19/511922.html
+511923000000	四川省-巴中市-平昌县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/19/511923.html
+511971000000	四川省-巴中市-巴中经济开发区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/19/511971.html

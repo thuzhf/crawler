@@ -1,0 +1,14 @@
+220282001000	吉林省-吉林市-桦甸市-明桦街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/02/82/220282001.html
+220282002000	吉林省-吉林市-桦甸市-永吉街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/02/82/220282002.html
+220282003000	吉林省-吉林市-桦甸市-胜利街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/02/82/220282003.html
+220282004000	吉林省-吉林市-桦甸市-新华街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/02/82/220282004.html
+220282005000	吉林省-吉林市-桦甸市-启新街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/02/82/220282005.html
+220282100000	吉林省-吉林市-桦甸市-夹皮沟镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/02/82/220282100.html
+220282101000	吉林省-吉林市-桦甸市-二道甸子镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/02/82/220282101.html
+220282102000	吉林省-吉林市-桦甸市-红石砬子镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/02/82/220282102.html
+220282103000	吉林省-吉林市-桦甸市-八道河子镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/02/82/220282103.html
+220282104000	吉林省-吉林市-桦甸市-常山镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/02/82/220282104.html
+220282105000	吉林省-吉林市-桦甸市-金沙镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/02/82/220282105.html
+220282200000	吉林省-吉林市-桦甸市-桦郊乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/02/82/220282200.html
+220282201000	吉林省-吉林市-桦甸市-横道河子乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/02/82/220282201.html
+220282204000	吉林省-吉林市-桦甸市-公吉乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/02/82/220282204.html

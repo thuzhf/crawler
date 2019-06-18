@@ -1,0 +1,14 @@
+140181001000	山西省-太原市-古交市-东曲街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/01/81/140181001.html
+140181002000	山西省-太原市-古交市-西曲街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/01/81/140181002.html
+140181003000	山西省-太原市-古交市-桃园街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/01/81/140181003.html
+140181004000	山西省-太原市-古交市-屯兰街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/01/81/140181004.html
+140181100000	山西省-太原市-古交市-河口镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/01/81/140181100.html
+140181101000	山西省-太原市-古交市-镇城底镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/01/81/140181101.html
+140181102000	山西省-太原市-古交市-马兰镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/01/81/140181102.html
+140181200000	山西省-太原市-古交市-阁上乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/01/81/140181200.html
+140181201000	山西省-太原市-古交市-加乐泉乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/01/81/140181201.html
+140181202000	山西省-太原市-古交市-梭峪乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/01/81/140181202.html
+140181203000	山西省-太原市-古交市-岔口乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/01/81/140181203.html
+140181204000	山西省-太原市-古交市-常安乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/01/81/140181204.html
+140181205000	山西省-太原市-古交市-原相乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/01/81/140181205.html
+140181206000	山西省-太原市-古交市-邢家社乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/01/81/140181206.html

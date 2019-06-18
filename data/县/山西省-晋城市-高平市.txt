@@ -1,0 +1,16 @@
+140581001000	山西省-晋城市-高平市-北城街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/05/81/140581001.html
+140581002000	山西省-晋城市-高平市-东城街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/05/81/140581002.html
+140581003000	山西省-晋城市-高平市-南城街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/05/81/140581003.html
+140581101000	山西省-晋城市-高平市-米山镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/05/81/140581101.html
+140581102000	山西省-晋城市-高平市-三甲镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/05/81/140581102.html
+140581103000	山西省-晋城市-高平市-神农镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/05/81/140581103.html
+140581104000	山西省-晋城市-高平市-陈区镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/05/81/140581104.html
+140581105000	山西省-晋城市-高平市-北诗镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/05/81/140581105.html
+140581106000	山西省-晋城市-高平市-河西镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/05/81/140581106.html
+140581107000	山西省-晋城市-高平市-马村镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/05/81/140581107.html
+140581108000	山西省-晋城市-高平市-野川镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/05/81/140581108.html
+140581109000	山西省-晋城市-高平市-寺庄镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/05/81/140581109.html
+140581201000	山西省-晋城市-高平市-建宁乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/05/81/140581201.html
+140581202000	山西省-晋城市-高平市-石末乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/05/81/140581202.html
+140581203000	山西省-晋城市-高平市-原村乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/05/81/140581203.html
+140581204000	山西省-晋城市-高平市-永录乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/05/81/140581204.html

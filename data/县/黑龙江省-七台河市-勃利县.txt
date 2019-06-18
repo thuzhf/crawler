@@ -1,0 +1,15 @@
+230921001000	黑龙江省-七台河市-勃利县-新起街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/09/21/230921001.html
+230921002000	黑龙江省-七台河市-勃利县-新华街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/09/21/230921002.html
+230921003000	黑龙江省-七台河市-勃利县-元明街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/09/21/230921003.html
+230921004000	黑龙江省-七台河市-勃利县-铁西街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/09/21/230921004.html
+230921005000	黑龙江省-七台河市-勃利县-城西街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/09/21/230921005.html
+230921100000	黑龙江省-七台河市-勃利县-勃利镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/09/21/230921100.html
+230921101000	黑龙江省-七台河市-勃利县-小五站镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/09/21/230921101.html
+230921102000	黑龙江省-七台河市-勃利县-大四站镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/09/21/230921102.html
+230921103000	黑龙江省-七台河市-勃利县-双河镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/09/21/230921103.html
+230921104000	黑龙江省-七台河市-勃利县-倭肯镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/09/21/230921104.html
+230921200000	黑龙江省-七台河市-勃利县-青山乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/09/21/230921200.html
+230921202000	黑龙江省-七台河市-勃利县-永恒乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/09/21/230921202.html
+230921203000	黑龙江省-七台河市-勃利县-抢垦乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/09/21/230921203.html
+230921204000	黑龙江省-七台河市-勃利县-杏树朝鲜族乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/09/21/230921204.html
+230921205000	黑龙江省-七台河市-勃利县-吉兴朝鲜族满族乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/09/21/230921205.html

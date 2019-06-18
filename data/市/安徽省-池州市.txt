@@ -1,0 +1,5 @@
+341701000000	安徽省-池州市-市辖区	
+341702000000	安徽省-池州市-贵池区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/17/341702.html
+341721000000	安徽省-池州市-东至县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/17/341721.html
+341722000000	安徽省-池州市-石台县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/17/341722.html
+341723000000	安徽省-池州市-青阳县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/17/341723.html

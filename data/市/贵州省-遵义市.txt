@@ -1,0 +1,15 @@
+520301000000	贵州省-遵义市-市辖区	
+520302000000	贵州省-遵义市-红花岗区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/52/03/520302.html
+520303000000	贵州省-遵义市-汇川区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/52/03/520303.html
+520304000000	贵州省-遵义市-播州区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/52/03/520304.html
+520322000000	贵州省-遵义市-桐梓县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/52/03/520322.html
+520323000000	贵州省-遵义市-绥阳县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/52/03/520323.html
+520324000000	贵州省-遵义市-正安县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/52/03/520324.html
+520325000000	贵州省-遵义市-道真仡佬族苗族自治县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/52/03/520325.html
+520326000000	贵州省-遵义市-务川仡佬族苗族自治县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/52/03/520326.html
+520327000000	贵州省-遵义市-凤冈县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/52/03/520327.html
+520328000000	贵州省-遵义市-湄潭县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/52/03/520328.html
+520329000000	贵州省-遵义市-余庆县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/52/03/520329.html
+520330000000	贵州省-遵义市-习水县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/52/03/520330.html
+520381000000	贵州省-遵义市-赤水市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/52/03/520381.html
+520382000000	贵州省-遵义市-仁怀市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/52/03/520382.html

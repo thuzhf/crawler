@@ -1,0 +1,7 @@
+340501000000	安徽省-马鞍山市-市辖区	
+340503000000	安徽省-马鞍山市-花山区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/05/340503.html
+340504000000	安徽省-马鞍山市-雨山区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/05/340504.html
+340506000000	安徽省-马鞍山市-博望区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/05/340506.html
+340521000000	安徽省-马鞍山市-当涂县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/05/340521.html
+340522000000	安徽省-马鞍山市-含山县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/05/340522.html
+340523000000	安徽省-马鞍山市-和县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/05/340523.html

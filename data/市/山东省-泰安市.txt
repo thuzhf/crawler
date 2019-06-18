@@ -1,0 +1,7 @@
+370901000000	山东省-泰安市-市辖区	
+370902000000	山东省-泰安市-泰山区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/09/370902.html
+370911000000	山东省-泰安市-岱岳区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/09/370911.html
+370921000000	山东省-泰安市-宁阳县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/09/370921.html
+370923000000	山东省-泰安市-东平县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/09/370923.html
+370982000000	山东省-泰安市-新泰市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/09/370982.html
+370983000000	山东省-泰安市-肥城市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/09/370983.html

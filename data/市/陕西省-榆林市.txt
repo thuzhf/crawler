@@ -1,0 +1,13 @@
+610801000000	陕西省-榆林市-市辖区	
+610802000000	陕西省-榆林市-榆阳区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/61/08/610802.html
+610803000000	陕西省-榆林市-横山区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/61/08/610803.html
+610822000000	陕西省-榆林市-府谷县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/61/08/610822.html
+610824000000	陕西省-榆林市-靖边县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/61/08/610824.html
+610825000000	陕西省-榆林市-定边县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/61/08/610825.html
+610826000000	陕西省-榆林市-绥德县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/61/08/610826.html
+610827000000	陕西省-榆林市-米脂县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/61/08/610827.html
+610828000000	陕西省-榆林市-佳县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/61/08/610828.html
+610829000000	陕西省-榆林市-吴堡县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/61/08/610829.html
+610830000000	陕西省-榆林市-清涧县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/61/08/610830.html
+610831000000	陕西省-榆林市-子洲县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/61/08/610831.html
+610881000000	陕西省-榆林市-神木市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/61/08/610881.html

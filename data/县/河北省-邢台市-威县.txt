@@ -1,0 +1,16 @@
+130533100000	河北省-邢台市-威县-洺州镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/05/33/130533100.html
+130533101000	河北省-邢台市-威县-梨园屯镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/05/33/130533101.html
+130533102000	河北省-邢台市-威县-章台镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/05/33/130533102.html
+130533103000	河北省-邢台市-威县-侯贯镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/05/33/130533103.html
+130533104000	河北省-邢台市-威县-七级镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/05/33/130533104.html
+130533105000	河北省-邢台市-威县-贺营镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/05/33/130533105.html
+130533106000	河北省-邢台市-威县-方家营镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/05/33/130533106.html
+130533107000	河北省-邢台市-威县-常庄镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/05/33/130533107.html
+130533108000	河北省-邢台市-威县-第什营镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/05/33/130533108.html
+130533109000	河北省-邢台市-威县-贺钊镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/05/33/130533109.html
+130533110000	河北省-邢台市-威县-赵村镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/05/33/130533110.html
+130533202000	河北省-邢台市-威县-枣园乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/05/33/130533202.html
+130533203000	河北省-邢台市-威县-固献乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/05/33/130533203.html
+130533206000	河北省-邢台市-威县-张家营乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/05/33/130533206.html
+130533207000	河北省-邢台市-威县-常屯乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/05/33/130533207.html
+130533209000	河北省-邢台市-威县-高公庄乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/05/33/130533209.html

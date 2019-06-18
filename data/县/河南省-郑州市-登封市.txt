@@ -1,0 +1,17 @@
+410185001000	河南省-郑州市-登封市-嵩阳街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/01/85/410185001.html
+410185002000	河南省-郑州市-登封市-少林街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/01/85/410185002.html
+410185003000	河南省-郑州市-登封市-中岳街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/01/85/410185003.html
+410185100000	河南省-郑州市-登封市-大金店镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/01/85/410185100.html
+410185101000	河南省-郑州市-登封市-颍阳镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/01/85/410185101.html
+410185102000	河南省-郑州市-登封市-卢店镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/01/85/410185102.html
+410185103000	河南省-郑州市-登封市-告成镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/01/85/410185103.html
+410185104000	河南省-郑州市-登封市-阳城区镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/01/85/410185104.html
+410185105000	河南省-郑州市-登封市-大冶镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/01/85/410185105.html
+410185106000	河南省-郑州市-登封市-宣化镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/01/85/410185106.html
+410185107000	河南省-郑州市-登封市-徐庄镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/01/85/410185107.html
+410185108000	河南省-郑州市-登封市-东华镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/01/85/410185108.html
+410185109000	河南省-郑州市-登封市-唐庄镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/01/85/410185109.html
+410185202000	河南省-郑州市-登封市-白坪乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/01/85/410185202.html
+410185203000	河南省-郑州市-登封市-君召乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/01/85/410185203.html
+410185204000	河南省-郑州市-登封市-石道乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/01/85/410185204.html
+410185400000	河南省-郑州市-登封市-送表矿区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/01/85/410185400.html

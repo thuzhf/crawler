@@ -1,0 +1,12 @@
+211303001000	辽宁省-朝阳市-龙城区-向阳街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/13/03/211303001.html
+211303002000	辽宁省-朝阳市-龙城区-燕山街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/13/03/211303002.html
+211303003000	辽宁省-朝阳市-龙城区-马山街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/13/03/211303003.html
+211303004000	辽宁省-朝阳市-龙城区-新华街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/13/03/211303004.html
+211303005000	辽宁省-朝阳市-龙城区-海龙街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/13/03/211303005.html
+211303070000	辽宁省-朝阳市-龙城区-开发区龙泉街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/13/03/211303070.html
+211303101000	辽宁省-朝阳市-龙城区-七道泉子镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/13/03/211303101.html
+211303102000	辽宁省-朝阳市-龙城区-西大营子镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/13/03/211303102.html
+211303103000	辽宁省-朝阳市-龙城区-召都巴镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/13/03/211303103.html
+211303105000	辽宁省-朝阳市-龙城区-大平房镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/13/03/211303105.html
+211303106000	辽宁省-朝阳市-龙城区-联合镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/13/03/211303106.html
+211303107000	辽宁省-朝阳市-龙城区-边杖子镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/13/03/211303107.html

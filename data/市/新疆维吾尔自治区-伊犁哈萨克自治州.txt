@@ -1,0 +1,11 @@
+654002000000	新疆维吾尔自治区-伊犁哈萨克自治州-伊宁市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/40/654002.html
+654003000000	新疆维吾尔自治区-伊犁哈萨克自治州-奎屯市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/40/654003.html
+654004000000	新疆维吾尔自治区-伊犁哈萨克自治州-霍尔果斯市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/40/654004.html
+654021000000	新疆维吾尔自治区-伊犁哈萨克自治州-伊宁县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/40/654021.html
+654022000000	新疆维吾尔自治区-伊犁哈萨克自治州-察布查尔锡伯自治县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/40/654022.html
+654023000000	新疆维吾尔自治区-伊犁哈萨克自治州-霍城县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/40/654023.html
+654024000000	新疆维吾尔自治区-伊犁哈萨克自治州-巩留县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/40/654024.html
+654025000000	新疆维吾尔自治区-伊犁哈萨克自治州-新源县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/40/654025.html
+654026000000	新疆维吾尔自治区-伊犁哈萨克自治州-昭苏县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/40/654026.html
+654027000000	新疆维吾尔自治区-伊犁哈萨克自治州-特克斯县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/40/654027.html
+654028000000	新疆维吾尔自治区-伊犁哈萨克自治州-尼勒克县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/40/654028.html

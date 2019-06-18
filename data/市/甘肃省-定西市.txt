@@ -1,0 +1,8 @@
+621101000000	甘肃省-定西市-市辖区	
+621102000000	甘肃省-定西市-安定区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/62/11/621102.html
+621121000000	甘肃省-定西市-通渭县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/62/11/621121.html
+621122000000	甘肃省-定西市-陇西县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/62/11/621122.html
+621123000000	甘肃省-定西市-渭源县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/62/11/621123.html
+621124000000	甘肃省-定西市-临洮县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/62/11/621124.html
+621125000000	甘肃省-定西市-漳县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/62/11/621125.html
+621126000000	甘肃省-定西市-岷县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/62/11/621126.html

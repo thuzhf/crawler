@@ -1,0 +1,11 @@
+420624100000	湖北省-襄阳市-南漳县-城关镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/06/24/420624100.html
+420624101000	湖北省-襄阳市-南漳县-武安镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/06/24/420624101.html
+420624102000	湖北省-襄阳市-南漳县-九集镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/06/24/420624102.html
+420624103000	湖北省-襄阳市-南漳县-李庙镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/06/24/420624103.html
+420624104000	湖北省-襄阳市-南漳县-长坪镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/06/24/420624104.html
+420624105000	湖北省-襄阳市-南漳县-薛坪镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/06/24/420624105.html
+420624106000	湖北省-襄阳市-南漳县-板桥镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/06/24/420624106.html
+420624107000	湖北省-襄阳市-南漳县-巡检镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/06/24/420624107.html
+420624108000	湖北省-襄阳市-南漳县-东巩镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/06/24/420624108.html
+420624109000	湖北省-襄阳市-南漳县-肖堰镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/06/24/420624109.html
+420624500000	湖北省-襄阳市-南漳县-清河管理区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/06/24/420624500.html

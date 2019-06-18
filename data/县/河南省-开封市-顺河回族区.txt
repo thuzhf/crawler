@@ -1,0 +1,8 @@
+410203001000	河南省-开封市-顺河回族区-清平街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/02/03/410203001.html
+410203002000	河南省-开封市-顺河回族区-铁塔街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/02/03/410203002.html
+410203003000	河南省-开封市-顺河回族区-曹门街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/02/03/410203003.html
+410203004000	河南省-开封市-顺河回族区-宋门街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/02/03/410203004.html
+410203005000	河南省-开封市-顺河回族区-工业街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/02/03/410203005.html
+410203006000	河南省-开封市-顺河回族区-苹果园街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/02/03/410203006.html
+410203200000	河南省-开封市-顺河回族区-东郊乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/02/03/410203200.html
+410203201000	河南省-开封市-顺河回族区-土柏岗乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/02/03/410203201.html

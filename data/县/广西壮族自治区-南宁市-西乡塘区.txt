@@ -1,0 +1,15 @@
+450107001000	广西壮族自治区-南宁市-西乡塘区-衡阳街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/01/07/450107001.html
+450107002000	广西壮族自治区-南宁市-西乡塘区-北湖街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/01/07/450107002.html
+450107003000	广西壮族自治区-南宁市-西乡塘区-西乡塘街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/01/07/450107003.html
+450107004000	广西壮族自治区-南宁市-西乡塘区-安吉街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/01/07/450107004.html
+450107005000	广西壮族自治区-南宁市-西乡塘区-华强街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/01/07/450107005.html
+450107006000	广西壮族自治区-南宁市-西乡塘区-新阳街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/01/07/450107006.html
+450107007000	广西壮族自治区-南宁市-西乡塘区-上尧街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/01/07/450107007.html
+450107008000	广西壮族自治区-南宁市-西乡塘区-安宁街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/01/07/450107008.html
+450107009000	广西壮族自治区-南宁市-西乡塘区-石埠街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/01/07/450107009.html
+450107010000	广西壮族自治区-南宁市-西乡塘区-心圩街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/01/07/450107010.html
+450107100000	广西壮族自治区-南宁市-西乡塘区-金陵镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/01/07/450107100.html
+450107101000	广西壮族自治区-南宁市-西乡塘区-双定镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/01/07/450107101.html
+450107105000	广西壮族自治区-南宁市-西乡塘区-坛洛镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/01/07/450107105.html
+450107450000	广西壮族自治区-南宁市-西乡塘区-那龙矿务局	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/01/07/450107450.html
+450107454000	广西壮族自治区-南宁市-西乡塘区-高新技术开发区管委会	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/01/07/450107454.html

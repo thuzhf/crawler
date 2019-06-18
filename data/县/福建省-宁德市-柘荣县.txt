@@ -1,0 +1,9 @@
+350926100000	福建省-宁德市-柘荣县-双城镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/09/26/350926100.html
+350926101000	福建省-宁德市-柘荣县-富溪镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/09/26/350926101.html
+350926200000	福建省-宁德市-柘荣县-城郊乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/09/26/350926200.html
+350926201000	福建省-宁德市-柘荣县-乍洋乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/09/26/350926201.html
+350926202000	福建省-宁德市-柘荣县-东源乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/09/26/350926202.html
+350926203000	福建省-宁德市-柘荣县-黄柏乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/09/26/350926203.html
+350926204000	福建省-宁德市-柘荣县-宅中乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/09/26/350926204.html
+350926205000	福建省-宁德市-柘荣县-楮坪乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/09/26/350926205.html
+350926206000	福建省-宁德市-柘荣县-英山乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/09/26/350926206.html

@@ -1,0 +1,5 @@
+450501000000	广西壮族自治区-北海市-市辖区	
+450502000000	广西壮族自治区-北海市-海城区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/05/450502.html
+450503000000	广西壮族自治区-北海市-银海区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/05/450503.html
+450512000000	广西壮族自治区-北海市-铁山港区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/05/450512.html
+450521000000	广西壮族自治区-北海市-合浦县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/05/450521.html

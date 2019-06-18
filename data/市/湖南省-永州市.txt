@@ -1,0 +1,15 @@
+431101000000	湖南省-永州市-市辖区	
+431102000000	湖南省-永州市-零陵区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/11/431102.html
+431103000000	湖南省-永州市-冷水滩区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/11/431103.html
+431121000000	湖南省-永州市-祁阳县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/11/431121.html
+431122000000	湖南省-永州市-东安县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/11/431122.html
+431123000000	湖南省-永州市-双牌县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/11/431123.html
+431124000000	湖南省-永州市-道县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/11/431124.html
+431125000000	湖南省-永州市-江永县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/11/431125.html
+431126000000	湖南省-永州市-宁远县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/11/431126.html
+431127000000	湖南省-永州市-蓝山县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/11/431127.html
+431128000000	湖南省-永州市-新田县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/11/431128.html
+431129000000	湖南省-永州市-江华瑶族自治县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/11/431129.html
+431171000000	湖南省-永州市-永州经济技术开发区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/11/431171.html
+431172000000	湖南省-永州市-永州市金洞管理区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/11/431172.html
+431173000000	湖南省-永州市-永州市回龙圩管理区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/11/431173.html

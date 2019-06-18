@@ -1,0 +1,17 @@
+210111001000	辽宁省-沈阳市-苏家屯区-解放街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/01/11/210111001.html
+210111003000	辽宁省-沈阳市-苏家屯区-民主街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/01/11/210111003.html
+210111004000	辽宁省-沈阳市-苏家屯区-临湖街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/01/11/210111004.html
+210111005000	辽宁省-沈阳市-苏家屯区-中兴街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/01/11/210111005.html
+210111006000	辽宁省-沈阳市-苏家屯区-湖西街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/01/11/210111006.html
+210111007000	辽宁省-沈阳市-苏家屯区-八一街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/01/11/210111007.html
+210111008000	辽宁省-沈阳市-苏家屯区-红菱街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/01/11/210111008.html
+210111009000	辽宁省-沈阳市-苏家屯区-林盛街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/01/11/210111009.html
+210111010000	辽宁省-沈阳市-苏家屯区-沙河街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/01/11/210111010.html
+210111011000	辽宁省-沈阳市-苏家屯区-十里河街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/01/11/210111011.html
+210111012000	辽宁省-沈阳市-苏家屯区-陈相街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/01/11/210111012.html
+210111013000	辽宁省-沈阳市-苏家屯区-姚千街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/01/11/210111013.html
+210111014000	辽宁省-沈阳市-苏家屯区-王纲街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/01/11/210111014.html
+210111015000	辽宁省-沈阳市-苏家屯区-永乐街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/01/11/210111015.html
+210111016000	辽宁省-沈阳市-苏家屯区-大沟街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/01/11/210111016.html
+210111017000	辽宁省-沈阳市-苏家屯区-白清街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/01/11/210111017.html
+210111018000	辽宁省-沈阳市-苏家屯区-佟沟街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/01/11/210111018.html

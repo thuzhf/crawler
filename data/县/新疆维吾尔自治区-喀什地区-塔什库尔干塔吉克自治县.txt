@@ -1,0 +1,12 @@
+653131100000	新疆维吾尔自治区-喀什地区-塔什库尔干塔吉克自治县-塔什库尔干镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/31/31/653131100.html
+653131101000	新疆维吾尔自治区-喀什地区-塔什库尔干塔吉克自治县-塔吉克阿巴提镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/31/31/653131101.html
+653131200000	新疆维吾尔自治区-喀什地区-塔什库尔干塔吉克自治县-塔什库尔干乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/31/31/653131200.html
+653131201000	新疆维吾尔自治区-喀什地区-塔什库尔干塔吉克自治县-塔合曼乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/31/31/653131201.html
+653131202000	新疆维吾尔自治区-喀什地区-塔什库尔干塔吉克自治县-科克亚尔柯尔克孜族乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/31/31/653131202.html
+653131203000	新疆维吾尔自治区-喀什地区-塔什库尔干塔吉克自治县-提孜那甫乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/31/31/653131203.html
+653131204000	新疆维吾尔自治区-喀什地区-塔什库尔干塔吉克自治县-达布达尔乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/31/31/653131204.html
+653131205000	新疆维吾尔自治区-喀什地区-塔什库尔干塔吉克自治县-马尔洋乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/31/31/653131205.html
+653131206000	新疆维吾尔自治区-喀什地区-塔什库尔干塔吉克自治县-瓦恰乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/31/31/653131206.html
+653131207000	新疆维吾尔自治区-喀什地区-塔什库尔干塔吉克自治县-班迪尔乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/31/31/653131207.html
+653131208000	新疆维吾尔自治区-喀什地区-塔什库尔干塔吉克自治县-库科西鲁格乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/31/31/653131208.html
+653131210000	新疆维吾尔自治区-喀什地区-塔什库尔干塔吉克自治县-大同乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/31/31/653131210.html

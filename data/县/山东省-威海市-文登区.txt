@@ -1,0 +1,17 @@
+371003001000	山东省-威海市-文登区-龙山路街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/10/03/371003001.html
+371003002000	山东省-威海市-文登区-天福路街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/10/03/371003002.html
+371003003000	山东省-威海市-文登区-环山路街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/10/03/371003003.html
+371003100000	山东省-威海市-文登区-文登营镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/10/03/371003100.html
+371003101000	山东省-威海市-文登区-大水泊镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/10/03/371003101.html
+371003102000	山东省-威海市-文登区-张家产镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/10/03/371003102.html
+371003103000	山东省-威海市-文登区-高村镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/10/03/371003103.html
+371003104000	山东省-威海市-文登区-泽库镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/10/03/371003104.html
+371003105000	山东省-威海市-文登区-侯家镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/10/03/371003105.html
+371003106000	山东省-威海市-文登区-宋村镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/10/03/371003106.html
+371003107000	山东省-威海市-文登区-泽头镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/10/03/371003107.html
+371003108000	山东省-威海市-文登区-小观镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/10/03/371003108.html
+371003109000	山东省-威海市-文登区-葛家镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/10/03/371003109.html
+371003110000	山东省-威海市-文登区-米山镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/10/03/371003110.html
+371003111000	山东省-威海市-文登区-界石镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/10/03/371003111.html
+371003400000	山东省-威海市-文登区-开发区办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/10/03/371003400.html
+371003401000	山东省-威海市-文登区-埠口港管理委员会	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/10/03/371003401.html

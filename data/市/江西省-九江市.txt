@@ -1,0 +1,14 @@
+360401000000	江西省-九江市-市辖区	
+360402000000	江西省-九江市-濂溪区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/04/360402.html
+360403000000	江西省-九江市-浔阳区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/04/360403.html
+360404000000	江西省-九江市-柴桑区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/04/360404.html
+360423000000	江西省-九江市-武宁县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/04/360423.html
+360424000000	江西省-九江市-修水县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/04/360424.html
+360425000000	江西省-九江市-永修县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/04/360425.html
+360426000000	江西省-九江市-德安县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/04/360426.html
+360428000000	江西省-九江市-都昌县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/04/360428.html
+360429000000	江西省-九江市-湖口县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/04/360429.html
+360430000000	江西省-九江市-彭泽县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/04/360430.html
+360481000000	江西省-九江市-瑞昌市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/04/360481.html
+360482000000	江西省-九江市-共青城市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/04/360482.html
+360483000000	江西省-九江市-庐山市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/04/360483.html

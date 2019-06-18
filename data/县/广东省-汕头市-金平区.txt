@@ -1,0 +1,17 @@
+440511001000	广东省-汕头市-金平区-石炮台街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/05/11/440511001.html
+440511002000	广东省-汕头市-金平区-金砂街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/05/11/440511002.html
+440511003000	广东省-汕头市-金平区-金厦街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/05/11/440511003.html
+440511004000	广东省-汕头市-金平区-东方街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/05/11/440511004.html
+440511005000	广东省-汕头市-金平区-大华街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/05/11/440511005.html
+440511006000	广东省-汕头市-金平区-同益街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/05/11/440511006.html
+440511007000	广东省-汕头市-金平区-光华街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/05/11/440511007.html
+440511008000	广东省-汕头市-金平区-东墩街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/05/11/440511008.html
+440511009000	广东省-汕头市-金平区-广厦街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/05/11/440511009.html
+440511010000	广东省-汕头市-金平区-海安街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/05/11/440511010.html
+440511011000	广东省-汕头市-金平区-新福街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/05/11/440511011.html
+440511012000	广东省-汕头市-金平区-乌桥街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/05/11/440511012.html
+440511013000	广东省-汕头市-金平区-岐山街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/05/11/440511013.html
+440511014000	广东省-汕头市-金平区-永祥街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/05/11/440511014.html
+440511015000	广东省-汕头市-金平区-鮀莲街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/05/11/440511015.html
+440511016000	广东省-汕头市-金平区-鮀江街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/05/11/440511016.html
+440511017000	广东省-汕头市-金平区-月浦街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/05/11/440511017.html

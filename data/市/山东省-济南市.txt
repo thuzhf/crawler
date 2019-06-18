@@ -1,0 +1,12 @@
+370101000000	山东省-济南市-市辖区	
+370102000000	山东省-济南市-历下区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/01/370102.html
+370103000000	山东省-济南市-市中区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/01/370103.html
+370104000000	山东省-济南市-槐荫区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/01/370104.html
+370105000000	山东省-济南市-天桥区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/01/370105.html
+370112000000	山东省-济南市-历城区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/01/370112.html
+370113000000	山东省-济南市-长清区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/01/370113.html
+370114000000	山东省-济南市-章丘区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/01/370114.html
+370115000000	山东省-济南市-济阳区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/01/370115.html
+370124000000	山东省-济南市-平阴县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/01/370124.html
+370126000000	山东省-济南市-商河县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/01/370126.html
+370171000000	山东省-济南市-济南高新技术产业开发区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/01/370171.html

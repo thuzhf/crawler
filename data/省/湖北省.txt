@@ -1,0 +1,14 @@
+420100000000	湖北省-武汉市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/4201.html
+420200000000	湖北省-黄石市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/4202.html
+420300000000	湖北省-十堰市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/4203.html
+420500000000	湖北省-宜昌市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/4205.html
+420600000000	湖北省-襄阳市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/4206.html
+420700000000	湖北省-鄂州市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/4207.html
+420800000000	湖北省-荆门市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/4208.html
+420900000000	湖北省-孝感市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/4209.html
+421000000000	湖北省-荆州市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/4210.html
+421100000000	湖北省-黄冈市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/4211.html
+421200000000	湖北省-咸宁市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/4212.html
+421300000000	湖北省-随州市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/4213.html
+422800000000	湖北省-恩施土家族苗族自治州	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/4228.html
+429000000000	湖北省-省直辖县级行政区划	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/4290.html

@@ -1,0 +1,17 @@
+350824100000	福建省-龙岩市-武平县-平川镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/08/24/350824100.html
+350824101000	福建省-龙岩市-武平县-中山镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/08/24/350824101.html
+350824102000	福建省-龙岩市-武平县-岩前镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/08/24/350824102.html
+350824103000	福建省-龙岩市-武平县-十方镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/08/24/350824103.html
+350824104000	福建省-龙岩市-武平县-中堡镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/08/24/350824104.html
+350824105000	福建省-龙岩市-武平县-桃溪镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/08/24/350824105.html
+350824106000	福建省-龙岩市-武平县-城厢镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/08/24/350824106.html
+350824107000	福建省-龙岩市-武平县-东留镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/08/24/350824107.html
+350824108000	福建省-龙岩市-武平县-武东镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/08/24/350824108.html
+350824109000	福建省-龙岩市-武平县-万安镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/08/24/350824109.html
+350824110000	福建省-龙岩市-武平县-永平镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/08/24/350824110.html
+350824111000	福建省-龙岩市-武平县-象洞镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/08/24/350824111.html
+350824203000	福建省-龙岩市-武平县-民主乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/08/24/350824203.html
+350824204000	福建省-龙岩市-武平县-下坝乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/08/24/350824204.html
+350824205000	福建省-龙岩市-武平县-中赤乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/08/24/350824205.html
+350824209000	福建省-龙岩市-武平县-湘店乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/08/24/350824209.html
+350824210000	福建省-龙岩市-武平县-大禾乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/08/24/350824210.html

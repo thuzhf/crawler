@@ -1,0 +1,14 @@
+210100000000	辽宁省-沈阳市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/2101.html
+210200000000	辽宁省-大连市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/2102.html
+210300000000	辽宁省-鞍山市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/2103.html
+210400000000	辽宁省-抚顺市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/2104.html
+210500000000	辽宁省-本溪市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/2105.html
+210600000000	辽宁省-丹东市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/2106.html
+210700000000	辽宁省-锦州市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/2107.html
+210800000000	辽宁省-营口市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/2108.html
+210900000000	辽宁省-阜新市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/2109.html
+211000000000	辽宁省-辽阳市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/2110.html
+211100000000	辽宁省-盘锦市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/2111.html
+211200000000	辽宁省-铁岭市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/2112.html
+211300000000	辽宁省-朝阳市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/2113.html
+211400000000	辽宁省-葫芦岛市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/2114.html

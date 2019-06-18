@@ -1,0 +1,4 @@
+340506100000	安徽省-马鞍山市-博望区-博望镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/05/06/340506100.html
+340506101000	安徽省-马鞍山市-博望区-丹阳镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/05/06/340506101.html
+340506102000	安徽省-马鞍山市-博望区-新市镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/05/06/340506102.html
+340506400000	安徽省-马鞍山市-博望区-博望高新技术产业开发区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/05/06/340506400.html

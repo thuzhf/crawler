@@ -1,0 +1,14 @@
+422802001000	湖北省-恩施土家族苗族自治州-利川市-都亭街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/28/02/422802001.html
+422802002000	湖北省-恩施土家族苗族自治州-利川市-东城街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/28/02/422802002.html
+422802100000	湖北省-恩施土家族苗族自治州-利川市-谋道镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/28/02/422802100.html
+422802101000	湖北省-恩施土家族苗族自治州-利川市-柏杨坝镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/28/02/422802101.html
+422802102000	湖北省-恩施土家族苗族自治州-利川市-汪营镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/28/02/422802102.html
+422802103000	湖北省-恩施土家族苗族自治州-利川市-建南镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/28/02/422802103.html
+422802104000	湖北省-恩施土家族苗族自治州-利川市-忠路镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/28/02/422802104.html
+422802105000	湖北省-恩施土家族苗族自治州-利川市-团堡镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/28/02/422802105.html
+422802106000	湖北省-恩施土家族苗族自治州-利川市-毛坝镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/28/02/422802106.html
+422802200000	湖北省-恩施土家族苗族自治州-利川市-凉雾乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/28/02/422802200.html
+422802201000	湖北省-恩施土家族苗族自治州-利川市-元堡乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/28/02/422802201.html
+422802202000	湖北省-恩施土家族苗族自治州-利川市-南坪乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/28/02/422802202.html
+422802203000	湖北省-恩施土家族苗族自治州-利川市-文斗乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/28/02/422802203.html
+422802205000	湖北省-恩施土家族苗族自治州-利川市-沙溪乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/28/02/422802205.html

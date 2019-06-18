@@ -1,0 +1,11 @@
+410501000000	河南省-安阳市-市辖区	
+410502000000	河南省-安阳市-文峰区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/05/410502.html
+410503000000	河南省-安阳市-北关区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/05/410503.html
+410505000000	河南省-安阳市-殷都区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/05/410505.html
+410506000000	河南省-安阳市-龙安区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/05/410506.html
+410522000000	河南省-安阳市-安阳县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/05/410522.html
+410523000000	河南省-安阳市-汤阴县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/05/410523.html
+410526000000	河南省-安阳市-滑县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/05/410526.html
+410527000000	河南省-安阳市-内黄县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/05/410527.html
+410571000000	河南省-安阳市-安阳高新技术产业开发区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/05/410571.html
+410581000000	河南省-安阳市-林州市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/05/410581.html

@@ -1,0 +1,13 @@
+130525100000	河北省-邢台市-隆尧县-隆尧镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/05/25/130525100.html
+130525101000	河北省-邢台市-隆尧县-魏家庄镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/05/25/130525101.html
+130525102000	河北省-邢台市-隆尧县-尹村镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/05/25/130525102.html
+130525103000	河北省-邢台市-隆尧县-山口镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/05/25/130525103.html
+130525104000	河北省-邢台市-隆尧县-莲子镇镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/05/25/130525104.html
+130525105000	河北省-邢台市-隆尧县-固城镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/05/25/130525105.html
+130525106000	河北省-邢台市-隆尧县-东良镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/05/25/130525106.html
+130525200000	河北省-邢台市-隆尧县-北楼乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/05/25/130525200.html
+130525202000	河北省-邢台市-隆尧县-双碑乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/05/25/130525202.html
+130525203000	河北省-邢台市-隆尧县-牛家桥乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/05/25/130525203.html
+130525204000	河北省-邢台市-隆尧县-千户营乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/05/25/130525204.html
+130525205000	河北省-邢台市-隆尧县-大张庄乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/05/25/130525205.html
+130525400000	河北省-邢台市-隆尧县-柳行农场	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/05/25/130525400.html

@@ -1,0 +1,7 @@
+511401000000	四川省-眉山市-市辖区	
+511402000000	四川省-眉山市-东坡区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/14/511402.html
+511403000000	四川省-眉山市-彭山区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/14/511403.html
+511421000000	四川省-眉山市-仁寿县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/14/511421.html
+511423000000	四川省-眉山市-洪雅县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/14/511423.html
+511424000000	四川省-眉山市-丹棱县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/14/511424.html
+511425000000	四川省-眉山市-青神县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/14/511425.html

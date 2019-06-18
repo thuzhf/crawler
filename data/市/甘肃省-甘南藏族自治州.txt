@@ -1,0 +1,8 @@
+623001000000	甘肃省-甘南藏族自治州-合作市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/62/30/623001.html
+623021000000	甘肃省-甘南藏族自治州-临潭县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/62/30/623021.html
+623022000000	甘肃省-甘南藏族自治州-卓尼县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/62/30/623022.html
+623023000000	甘肃省-甘南藏族自治州-舟曲县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/62/30/623023.html
+623024000000	甘肃省-甘南藏族自治州-迭部县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/62/30/623024.html
+623025000000	甘肃省-甘南藏族自治州-玛曲县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/62/30/623025.html
+623026000000	甘肃省-甘南藏族自治州-碌曲县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/62/30/623026.html
+623027000000	甘肃省-甘南藏族自治州-夏河县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/62/30/623027.html

@@ -1,0 +1,9 @@
+654004001000	新疆维吾尔自治区-伊犁哈萨克自治州-霍尔果斯市-卡拉苏街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/40/04/654004001.html
+654004002000	新疆维吾尔自治区-伊犁哈萨克自治州-霍尔果斯市-亚欧东路街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/40/04/654004002.html
+654004003000	新疆维吾尔自治区-伊犁哈萨克自治州-霍尔果斯市-亚欧西路街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/40/04/654004003.html
+654004004000	新疆维吾尔自治区-伊犁哈萨克自治州-霍尔果斯市-工业园区街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/40/04/654004004.html
+654004200000	新疆维吾尔自治区-伊犁哈萨克自治州-霍尔果斯市-伊车嘎善乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/40/04/654004200.html
+654004400000	新疆维吾尔自治区-伊犁哈萨克自治州-霍尔果斯市-格干沟牧场	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/40/04/654004400.html
+654004401000	新疆维吾尔自治区-伊犁哈萨克自治州-霍尔果斯市-莫乎尔牧场	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/40/04/654004401.html
+654004505000	新疆维吾尔自治区-伊犁哈萨克自治州-霍尔果斯市-兵团六十一团	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/40/04/654004505.html
+654004506000	新疆维吾尔自治区-伊犁哈萨克自治州-霍尔果斯市-兵团六十二团	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/40/04/654004506.html

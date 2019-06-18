@@ -1,0 +1,7 @@
+520401000000	贵州省-安顺市-市辖区	
+520402000000	贵州省-安顺市-西秀区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/52/04/520402.html
+520403000000	贵州省-安顺市-平坝区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/52/04/520403.html
+520422000000	贵州省-安顺市-普定县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/52/04/520422.html
+520423000000	贵州省-安顺市-镇宁布依族苗族自治县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/52/04/520423.html
+520424000000	贵州省-安顺市-关岭布依族苗族自治县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/52/04/520424.html
+520425000000	贵州省-安顺市-紫云苗族布依族自治县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/52/04/520425.html

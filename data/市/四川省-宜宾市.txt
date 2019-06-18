@@ -1,0 +1,11 @@
+511501000000	四川省-宜宾市-市辖区	
+511502000000	四川省-宜宾市-翠屏区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/15/511502.html
+511503000000	四川省-宜宾市-南溪区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/15/511503.html
+511504000000	四川省-宜宾市-叙州区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/15/511504.html
+511523000000	四川省-宜宾市-江安县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/15/511523.html
+511524000000	四川省-宜宾市-长宁县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/15/511524.html
+511525000000	四川省-宜宾市-高县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/15/511525.html
+511526000000	四川省-宜宾市-珙县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/15/511526.html
+511527000000	四川省-宜宾市-筠连县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/15/511527.html
+511528000000	四川省-宜宾市-兴文县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/15/511528.html
+511529000000	四川省-宜宾市-屏山县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/15/511529.html

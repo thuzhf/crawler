@@ -1,0 +1,11 @@
+210902002000	辽宁省-阜新市-海州区-新兴街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/09/02/210902002.html
+210902003000	辽宁省-阜新市-海州区-和平街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/09/02/210902003.html
+210902004000	辽宁省-阜新市-海州区-西山街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/09/02/210902004.html
+210902005000	辽宁省-阜新市-海州区-河北街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/09/02/210902005.html
+210902006000	辽宁省-阜新市-海州区-站前街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/09/02/210902006.html
+210902007000	辽宁省-阜新市-海州区-西阜新街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/09/02/210902007.html
+210902008000	辽宁省-阜新市-海州区-五龙街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/09/02/210902008.html
+210902009000	辽宁省-阜新市-海州区-平安西部街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/09/02/210902009.html
+210902010000	辽宁省-阜新市-海州区-工人村街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/09/02/210902010.html
+210902011000	辽宁省-阜新市-海州区-东梁街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/09/02/210902011.html
+210902101000	辽宁省-阜新市-海州区-韩家店镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/09/02/210902101.html

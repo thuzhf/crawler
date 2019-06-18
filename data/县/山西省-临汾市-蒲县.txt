@@ -1,0 +1,9 @@
+141033100000	山西省-临汾市-蒲县-蒲城镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/10/33/141033100.html
+141033101000	山西省-临汾市-蒲县-薛关镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/10/33/141033101.html
+141033102000	山西省-临汾市-蒲县-黑龙关镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/10/33/141033102.html
+141033103000	山西省-临汾市-蒲县-克城镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/10/33/141033103.html
+141033200000	山西省-临汾市-蒲县-山中乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/10/33/141033200.html
+141033201000	山西省-临汾市-蒲县-古县乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/10/33/141033201.html
+141033202000	山西省-临汾市-蒲县-红道乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/10/33/141033202.html
+141033203000	山西省-临汾市-蒲县-乔家湾乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/10/33/141033203.html
+141033204000	山西省-临汾市-蒲县-太林乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/10/33/141033204.html

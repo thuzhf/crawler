@@ -1,0 +1,12 @@
+440101000000	广东省-广州市-市辖区	
+440103000000	广东省-广州市-荔湾区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/01/440103.html
+440104000000	广东省-广州市-越秀区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/01/440104.html
+440105000000	广东省-广州市-海珠区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/01/440105.html
+440106000000	广东省-广州市-天河区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/01/440106.html
+440111000000	广东省-广州市-白云区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/01/440111.html
+440112000000	广东省-广州市-黄埔区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/01/440112.html
+440113000000	广东省-广州市-番禺区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/01/440113.html
+440114000000	广东省-广州市-花都区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/01/440114.html
+440115000000	广东省-广州市-南沙区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/01/440115.html
+440117000000	广东省-广州市-从化区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/01/440117.html
+440118000000	广东省-广州市-增城区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/01/440118.html

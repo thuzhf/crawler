@@ -1,0 +1,8 @@
+211301000000	辽宁省-朝阳市-市辖区	
+211302000000	辽宁省-朝阳市-双塔区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/13/211302.html
+211303000000	辽宁省-朝阳市-龙城区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/13/211303.html
+211321000000	辽宁省-朝阳市-朝阳县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/13/211321.html
+211322000000	辽宁省-朝阳市-建平县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/13/211322.html
+211324000000	辽宁省-朝阳市-喀喇沁左翼蒙古族自治县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/13/211324.html
+211381000000	辽宁省-朝阳市-北票市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/13/211381.html
+211382000000	辽宁省-朝阳市-凌源市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/13/211382.html

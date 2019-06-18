@@ -1,0 +1,8 @@
+420302001000	湖北省-十堰市-茅箭区-武当路街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/03/02/420302001.html
+420302002000	湖北省-十堰市-茅箭区-二堰街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/03/02/420302002.html
+420302003000	湖北省-十堰市-茅箭区-五堰街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/03/02/420302003.html
+420302004000	湖北省-十堰市-茅箭区-白浪开发区白浪街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/03/02/420302004.html
+420302100000	湖北省-十堰市-茅箭区-大川镇人民政府	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/03/02/420302100.html
+420302200000	湖北省-十堰市-茅箭区-小川乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/03/02/420302200.html
+420302201000	湖北省-十堰市-茅箭区-茅塔乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/03/02/420302201.html
+420302202000	湖北省-十堰市-茅箭区-鸳鸯乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/03/02/420302202.html

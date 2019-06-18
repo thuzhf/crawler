@@ -1,0 +1,8 @@
+150625100000	内蒙古自治区-鄂尔多斯市-杭锦旗-锡尼镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/06/25/150625100.html
+150625101000	内蒙古自治区-鄂尔多斯市-杭锦旗-巴拉贡镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/06/25/150625101.html
+150625102000	内蒙古自治区-鄂尔多斯市-杭锦旗-吉日嘎朗图镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/06/25/150625102.html
+150625103000	内蒙古自治区-鄂尔多斯市-杭锦旗-独贵特拉镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/06/25/150625103.html
+150625104000	内蒙古自治区-鄂尔多斯市-杭锦旗-呼和木独镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/06/25/150625104.html
+150625200000	内蒙古自治区-鄂尔多斯市-杭锦旗-伊和乌素苏木乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/06/25/150625200.html
+150625400000	内蒙古自治区-鄂尔多斯市-杭锦旗-杭锦旗独贵塔拉工业园区管理委员会	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/06/25/150625400.html
+150625401000	内蒙古自治区-鄂尔多斯市-杭锦旗-鄂尔多斯新能源产业示范区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/06/25/150625401.html

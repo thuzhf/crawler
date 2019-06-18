@@ -1,0 +1,14 @@
+130684001000	河北省-保定市-高碑店市-和平街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/06/84/130684001.html
+130684002000	河北省-保定市-高碑店市-军城街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/06/84/130684002.html
+130684003000	河北省-保定市-高碑店市-东盛街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/06/84/130684003.html
+130684004000	河北省-保定市-高碑店市-北城街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/06/84/130684004.html
+130684005000	河北省-保定市-高碑店市-兴华路街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/06/84/130684005.html
+130684100000	河北省-保定市-高碑店市-方官镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/06/84/130684100.html
+130684101000	河北省-保定市-高碑店市-新城镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/06/84/130684101.html
+130684102000	河北省-保定市-高碑店市-泗庄镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/06/84/130684102.html
+130684104000	河北省-保定市-高碑店市-辛立庄镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/06/84/130684104.html
+130684105000	河北省-保定市-高碑店市-东马营镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/06/84/130684105.html
+130684106000	河北省-保定市-高碑店市-辛桥镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/06/84/130684106.html
+130684107000	河北省-保定市-高碑店市-肖官营镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/06/84/130684107.html
+130684108000	河北省-保定市-高碑店市-张六庄镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/06/84/130684108.html
+130684201000	河北省-保定市-高碑店市-梁家营乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/06/84/130684201.html

@@ -1,0 +1,11 @@
+130205001000	河北省-唐山市-开平区-马家沟街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/02/05/130205001.html
+130205002000	河北省-唐山市-开平区-开平街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/02/05/130205002.html
+130205003000	河北省-唐山市-开平区-税务庄街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/02/05/130205003.html
+130205005000	河北省-唐山市-开平区-陡电街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/02/05/130205005.html
+130205006000	河北省-唐山市-开平区-荆各庄街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/02/05/130205006.html
+130205100000	河北省-唐山市-开平区-开平镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/02/05/130205100.html
+130205101000	河北省-唐山市-开平区-栗园镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/02/05/130205101.html
+130205102000	河北省-唐山市-开平区-郑庄子镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/02/05/130205102.html
+130205103000	河北省-唐山市-开平区-双桥镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/02/05/130205103.html
+130205104000	河北省-唐山市-开平区-洼里镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/02/05/130205104.html
+130205105000	河北省-唐山市-开平区-越河镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/02/05/130205105.html

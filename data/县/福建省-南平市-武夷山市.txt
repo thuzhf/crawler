@@ -1,0 +1,10 @@
+350782001000	福建省-南平市-武夷山市-崇安街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/07/82/350782001.html
+350782002000	福建省-南平市-武夷山市-新丰街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/07/82/350782002.html
+350782003000	福建省-南平市-武夷山市-武夷街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/07/82/350782003.html
+350782100000	福建省-南平市-武夷山市-星村镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/07/82/350782100.html
+350782101000	福建省-南平市-武夷山市-兴田镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/07/82/350782101.html
+350782102000	福建省-南平市-武夷山市-五夫镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/07/82/350782102.html
+350782200000	福建省-南平市-武夷山市-上梅乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/07/82/350782200.html
+350782201000	福建省-南平市-武夷山市-吴屯乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/07/82/350782201.html
+350782202000	福建省-南平市-武夷山市-岚谷乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/07/82/350782202.html
+350782203000	福建省-南平市-武夷山市-洋庄乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/07/82/350782203.html

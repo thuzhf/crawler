@@ -1,0 +1,8 @@
+440501000000	广东省-汕头市-市辖区	
+440507000000	广东省-汕头市-龙湖区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/05/440507.html
+440511000000	广东省-汕头市-金平区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/05/440511.html
+440512000000	广东省-汕头市-濠江区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/05/440512.html
+440513000000	广东省-汕头市-潮阳区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/05/440513.html
+440514000000	广东省-汕头市-潮南区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/05/440514.html
+440515000000	广东省-汕头市-澄海区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/05/440515.html
+440523000000	广东省-汕头市-南澳县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/05/440523.html

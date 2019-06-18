@@ -1,0 +1,5 @@
+610403001000	陕西省-咸阳市-杨陵区-杨陵街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/61/04/03/610403001.html
+610403002000	陕西省-咸阳市-杨陵区-李台街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/61/04/03/610403002.html
+610403003000	陕西省-咸阳市-杨陵区-大寨街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/61/04/03/610403003.html
+610403100000	陕西省-咸阳市-杨陵区-五泉镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/61/04/03/610403100.html
+610403102000	陕西省-咸阳市-杨陵区-揉谷镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/61/04/03/610403102.html

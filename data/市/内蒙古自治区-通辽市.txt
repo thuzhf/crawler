@@ -1,0 +1,10 @@
+150501000000	内蒙古自治区-通辽市-市辖区	
+150502000000	内蒙古自治区-通辽市-科尔沁区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/05/150502.html
+150521000000	内蒙古自治区-通辽市-科尔沁左翼中旗	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/05/150521.html
+150522000000	内蒙古自治区-通辽市-科尔沁左翼后旗	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/05/150522.html
+150523000000	内蒙古自治区-通辽市-开鲁县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/05/150523.html
+150524000000	内蒙古自治区-通辽市-库伦旗	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/05/150524.html
+150525000000	内蒙古自治区-通辽市-奈曼旗	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/05/150525.html
+150526000000	内蒙古自治区-通辽市-扎鲁特旗	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/05/150526.html
+150571000000	内蒙古自治区-通辽市-通辽经济技术开发区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/05/150571.html
+150581000000	内蒙古自治区-通辽市-霍林郭勒市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/05/150581.html

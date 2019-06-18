@@ -1,0 +1,11 @@
+310116001000	上海市-市辖区-金山区-石化街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/31/01/16/310116001.html
+310116101000	上海市-市辖区-金山区-朱泾镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/31/01/16/310116101.html
+310116102000	上海市-市辖区-金山区-枫泾镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/31/01/16/310116102.html
+310116103000	上海市-市辖区-金山区-张堰镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/31/01/16/310116103.html
+310116104000	上海市-市辖区-金山区-亭林镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/31/01/16/310116104.html
+310116105000	上海市-市辖区-金山区-吕巷镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/31/01/16/310116105.html
+310116107000	上海市-市辖区-金山区-廊下镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/31/01/16/310116107.html
+310116109000	上海市-市辖区-金山区-金山卫镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/31/01/16/310116109.html
+310116112000	上海市-市辖区-金山区-漕泾镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/31/01/16/310116112.html
+310116113000	上海市-市辖区-金山区-山阳镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/31/01/16/310116113.html
+310116503000	上海市-市辖区-金山区-金山工业区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/31/01/16/310116503.html

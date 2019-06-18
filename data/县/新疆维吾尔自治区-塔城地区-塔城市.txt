@@ -1,0 +1,16 @@
+654201001000	新疆维吾尔自治区-塔城地区-塔城市-和平街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/42/01/654201001.html
+654201002000	新疆维吾尔自治区-塔城地区-塔城市-杜别克街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/42/01/654201002.html
+654201003000	新疆维吾尔自治区-塔城地区-塔城市-新城街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/42/01/654201003.html
+654201100000	新疆维吾尔自治区-塔城地区-塔城市-二工镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/42/01/654201100.html
+654201101000	新疆维吾尔自治区-塔城地区-塔城市-恰夏镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/42/01/654201101.html
+654201200000	新疆维吾尔自治区-塔城地区-塔城市-喀拉哈巴克乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/42/01/654201200.html
+654201202000	新疆维吾尔自治区-塔城地区-塔城市-阿西尔达斡尔民族乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/42/01/654201202.html
+654201203000	新疆维吾尔自治区-塔城地区-塔城市-阿不都拉乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/42/01/654201203.html
+654201204000	新疆维吾尔自治区-塔城地区-塔城市-也门勒乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/42/01/654201204.html
+654201403000	新疆维吾尔自治区-塔城地区-塔城市-恰合吉牧场	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/42/01/654201403.html
+654201404000	新疆维吾尔自治区-塔城地区-塔城市-博孜达克农场	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/42/01/654201404.html
+654201405000	新疆维吾尔自治区-塔城地区-塔城市-窝依加依劳牧场	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/42/01/654201405.html
+654201406000	新疆维吾尔自治区-塔城地区-塔城市-地区种牛场	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/42/01/654201406.html
+654201502000	新疆维吾尔自治区-塔城地区-塔城市-兵团第九师一六二团	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/42/01/654201502.html
+654201503000	新疆维吾尔自治区-塔城地区-塔城市-兵团农九师一六三团	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/42/01/654201503.html
+654201504000	新疆维吾尔自治区-塔城地区-塔城市-兵团农九师一六四团	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/42/01/654201504.html

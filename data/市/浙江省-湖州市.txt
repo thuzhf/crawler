@@ -1,0 +1,6 @@
+330501000000	浙江省-湖州市-市辖区	
+330502000000	浙江省-湖州市-吴兴区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/05/330502.html
+330503000000	浙江省-湖州市-南浔区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/05/330503.html
+330521000000	浙江省-湖州市-德清县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/05/330521.html
+330522000000	浙江省-湖州市-长兴县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/05/330522.html
+330523000000	浙江省-湖州市-安吉县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/05/330523.html

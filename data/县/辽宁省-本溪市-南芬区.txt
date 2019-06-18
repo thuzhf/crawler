@@ -1,0 +1,5 @@
+210505001000	辽宁省-本溪市-南芬区-南芬街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/05/05/210505001.html
+210505002000	辽宁省-本溪市-南芬区-铁山街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/05/05/210505002.html
+210505003000	辽宁省-本溪市-南芬区-郭家街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/05/05/210505003.html
+210505004000	辽宁省-本溪市-南芬区-思山岭街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/05/05/210505004.html
+210505005000	辽宁省-本溪市-南芬区-下马塘街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/05/05/210505005.html

@@ -1,0 +1,6 @@
+540425100000	西藏自治区-林芝市-察隅县-竹瓦根镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/04/25/540425100.html
+540425101000	西藏自治区-林芝市-察隅县-上察隅镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/04/25/540425101.html
+540425102000	西藏自治区-林芝市-察隅县-下察隅镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/04/25/540425102.html
+540425200000	西藏自治区-林芝市-察隅县-察瓦龙乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/04/25/540425200.html
+540425201000	西藏自治区-林芝市-察隅县-古拉乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/04/25/540425201.html
+540425202000	西藏自治区-林芝市-察隅县-古玉乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/04/25/540425202.html

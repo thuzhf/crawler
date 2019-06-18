@@ -1,0 +1,9 @@
+230501000000	黑龙江省-双鸭山市-市辖区	
+230502000000	黑龙江省-双鸭山市-尖山区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/05/230502.html
+230503000000	黑龙江省-双鸭山市-岭东区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/05/230503.html
+230505000000	黑龙江省-双鸭山市-四方台区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/05/230505.html
+230506000000	黑龙江省-双鸭山市-宝山区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/05/230506.html
+230521000000	黑龙江省-双鸭山市-集贤县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/05/230521.html
+230522000000	黑龙江省-双鸭山市-友谊县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/05/230522.html
+230523000000	黑龙江省-双鸭山市-宝清县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/05/230523.html
+230524000000	黑龙江省-双鸭山市-饶河县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/05/230524.html

@@ -1,0 +1,13 @@
+530921101000	云南省-临沧市-凤庆县-凤山镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/09/21/530921101.html
+530921102000	云南省-临沧市-凤庆县-鲁史镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/09/21/530921102.html
+530921103000	云南省-临沧市-凤庆县-小湾镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/09/21/530921103.html
+530921104000	云南省-临沧市-凤庆县-营盘镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/09/21/530921104.html
+530921105000	云南省-临沧市-凤庆县-三岔河镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/09/21/530921105.html
+530921106000	云南省-临沧市-凤庆县-勐佑镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/09/21/530921106.html
+530921107000	云南省-临沧市-凤庆县-雪山镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/09/21/530921107.html
+530921108000	云南省-临沧市-凤庆县-洛党镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/09/21/530921108.html
+530921201000	云南省-临沧市-凤庆县-诗礼乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/09/21/530921201.html
+530921202000	云南省-临沧市-凤庆县-新华彝族苗族乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/09/21/530921202.html
+530921204000	云南省-临沧市-凤庆县-大寺乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/09/21/530921204.html
+530921206000	云南省-临沧市-凤庆县-腰街彝族乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/09/21/530921206.html
+530921207000	云南省-临沧市-凤庆县-郭大寨彝族白族乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/09/21/530921207.html

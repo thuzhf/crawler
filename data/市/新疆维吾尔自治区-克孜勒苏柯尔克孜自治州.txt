@@ -1,0 +1,4 @@
+653001000000	新疆维吾尔自治区-克孜勒苏柯尔克孜自治州-阿图什市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/30/653001.html
+653022000000	新疆维吾尔自治区-克孜勒苏柯尔克孜自治州-阿克陶县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/30/653022.html
+653023000000	新疆维吾尔自治区-克孜勒苏柯尔克孜自治州-阿合奇县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/30/653023.html
+653024000000	新疆维吾尔自治区-克孜勒苏柯尔克孜自治州-乌恰县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/30/653024.html

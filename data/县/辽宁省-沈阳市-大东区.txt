@@ -1,0 +1,14 @@
+210104002000	辽宁省-沈阳市-大东区-大北街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/01/04/210104002.html
+210104003000	辽宁省-沈阳市-大东区-万泉街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/01/04/210104003.html
+210104004000	辽宁省-沈阳市-大东区-洮昌街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/01/04/210104004.html
+210104006000	辽宁省-沈阳市-大东区-文官街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/01/04/210104006.html
+210104007000	辽宁省-沈阳市-大东区-二台子街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/01/04/210104007.html
+210104008000	辽宁省-沈阳市-大东区-津桥街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/01/04/210104008.html
+210104009000	辽宁省-沈阳市-大东区-东站街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/01/04/210104009.html
+210104010000	辽宁省-沈阳市-大东区-北海街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/01/04/210104010.html
+210104012000	辽宁省-沈阳市-大东区-长安街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/01/04/210104012.html
+210104014000	辽宁省-沈阳市-大东区-新东街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/01/04/210104014.html
+210104015000	辽宁省-沈阳市-大东区-东塔街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/01/04/210104015.html
+210104016000	辽宁省-沈阳市-大东区-小东街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/01/04/210104016.html
+210104017000	辽宁省-沈阳市-大东区-上园街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/01/04/210104017.html
+210104018000	辽宁省-沈阳市-大东区-前进街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/01/04/210104018.html

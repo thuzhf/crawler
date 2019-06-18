@@ -1,0 +1,10 @@
+210503001000	辽宁省-本溪市-溪湖区-河东街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/05/03/210503001.html
+210503003000	辽宁省-本溪市-溪湖区-河西街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/05/03/210503003.html
+210503005000	辽宁省-本溪市-溪湖区-彩屯街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/05/03/210503005.html
+210503006000	辽宁省-本溪市-溪湖区-竖井街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/05/03/210503006.html
+210503007000	辽宁省-本溪市-溪湖区-彩北街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/05/03/210503007.html
+210503009000	辽宁省-本溪市-溪湖区-东风街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/05/03/210503009.html
+210503010000	辽宁省-本溪市-溪湖区-石桥子街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/05/03/210503010.html
+210503011000	辽宁省-本溪市-溪湖区-日月岛街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/05/03/210503011.html
+210503012000	辽宁省-本溪市-溪湖区-张其寨街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/05/03/210503012.html
+210503013000	辽宁省-本溪市-溪湖区-火连寨街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/05/03/210503013.html

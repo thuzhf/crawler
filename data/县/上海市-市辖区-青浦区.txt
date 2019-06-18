@@ -1,0 +1,11 @@
+310118001000	上海市-市辖区-青浦区-夏阳街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/31/01/18/310118001.html
+310118002000	上海市-市辖区-青浦区-盈浦街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/31/01/18/310118002.html
+310118003000	上海市-市辖区-青浦区-香花桥街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/31/01/18/310118003.html
+310118102000	上海市-市辖区-青浦区-朱家角镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/31/01/18/310118102.html
+310118103000	上海市-市辖区-青浦区-练塘镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/31/01/18/310118103.html
+310118104000	上海市-市辖区-青浦区-金泽镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/31/01/18/310118104.html
+310118105000	上海市-市辖区-青浦区-赵巷镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/31/01/18/310118105.html
+310118106000	上海市-市辖区-青浦区-徐泾镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/31/01/18/310118106.html
+310118107000	上海市-市辖区-青浦区-华新镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/31/01/18/310118107.html
+310118109000	上海市-市辖区-青浦区-重固镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/31/01/18/310118109.html
+310118110000	上海市-市辖区-青浦区-白鹤镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/31/01/18/310118110.html

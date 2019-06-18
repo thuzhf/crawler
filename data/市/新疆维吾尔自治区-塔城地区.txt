@@ -1,0 +1,7 @@
+654201000000	新疆维吾尔自治区-塔城地区-塔城市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/42/654201.html
+654202000000	新疆维吾尔自治区-塔城地区-乌苏市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/42/654202.html
+654221000000	新疆维吾尔自治区-塔城地区-额敏县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/42/654221.html
+654223000000	新疆维吾尔自治区-塔城地区-沙湾县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/42/654223.html
+654224000000	新疆维吾尔自治区-塔城地区-托里县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/42/654224.html
+654225000000	新疆维吾尔自治区-塔城地区-裕民县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/42/654225.html
+654226000000	新疆维吾尔自治区-塔城地区-和布克赛尔蒙古自治县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/42/654226.html

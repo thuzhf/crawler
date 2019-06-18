@@ -1,0 +1,15 @@
+530628101000	云南省-昭通市-彝良县-角奎镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/06/28/530628101.html
+530628102000	云南省-昭通市-彝良县-洛泽河镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/06/28/530628102.html
+530628103000	云南省-昭通市-彝良县-牛街镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/06/28/530628103.html
+530628104000	云南省-昭通市-彝良县-海子镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/06/28/530628104.html
+530628105000	云南省-昭通市-彝良县-荞山镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/06/28/530628105.html
+530628106000	云南省-昭通市-彝良县-龙安镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/06/28/530628106.html
+530628107000	云南省-昭通市-彝良县-钟鸣镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/06/28/530628107.html
+530628108000	云南省-昭通市-彝良县-两河镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/06/28/530628108.html
+530628109000	云南省-昭通市-彝良县-小草坝镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/06/28/530628109.html
+530628110000	云南省-昭通市-彝良县-龙海镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/06/28/530628110.html
+530628201000	云南省-昭通市-彝良县-龙街苗族彝族乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/06/28/530628201.html
+530628202000	云南省-昭通市-彝良县-奎香苗族彝族乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/06/28/530628202.html
+530628203000	云南省-昭通市-彝良县-树林彝族苗族乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/06/28/530628203.html
+530628211000	云南省-昭通市-彝良县-柳溪苗族乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/06/28/530628211.html
+530628212000	云南省-昭通市-彝良县-洛旺苗族乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/06/28/530628212.html

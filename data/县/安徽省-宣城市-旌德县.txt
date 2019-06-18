@@ -1,0 +1,10 @@
+341825100000	安徽省-宣城市-旌德县-旌阳镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/18/25/341825100.html
+341825101000	安徽省-宣城市-旌德县-蔡家桥镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/18/25/341825101.html
+341825102000	安徽省-宣城市-旌德县-三溪镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/18/25/341825102.html
+341825103000	安徽省-宣城市-旌德县-庙首镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/18/25/341825103.html
+341825104000	安徽省-宣城市-旌德县-白地镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/18/25/341825104.html
+341825105000	安徽省-宣城市-旌德县-俞村镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/18/25/341825105.html
+341825106000	安徽省-宣城市-旌德县-兴隆镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/18/25/341825106.html
+341825107000	安徽省-宣城市-旌德县-孙村镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/18/25/341825107.html
+341825108000	安徽省-宣城市-旌德县-版书镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/18/25/341825108.html
+341825109000	安徽省-宣城市-旌德县-云乐镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/18/25/341825109.html

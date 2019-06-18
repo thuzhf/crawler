@@ -1,0 +1,12 @@
+421182001000	湖北省-黄冈市-武穴市-武穴街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/11/82/421182001.html
+421182002000	湖北省-黄冈市-武穴市-刊江街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/11/82/421182002.html
+421182003000	湖北省-黄冈市-武穴市-田镇街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/11/82/421182003.html
+421182004000	湖北省-黄冈市-武穴市-万丈湖街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/11/82/421182004.html
+421182100000	湖北省-黄冈市-武穴市-梅川镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/11/82/421182100.html
+421182101000	湖北省-黄冈市-武穴市-余川镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/11/82/421182101.html
+421182102000	湖北省-黄冈市-武穴市-花桥镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/11/82/421182102.html
+421182103000	湖北省-黄冈市-武穴市-大金镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/11/82/421182103.html
+421182104000	湖北省-黄冈市-武穴市-石佛寺镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/11/82/421182104.html
+421182105000	湖北省-黄冈市-武穴市-四望镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/11/82/421182105.html
+421182106000	湖北省-黄冈市-武穴市-大法寺镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/11/82/421182106.html
+421182107000	湖北省-黄冈市-武穴市-龙坪镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/11/82/421182107.html

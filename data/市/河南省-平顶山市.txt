@@ -1,0 +1,13 @@
+410401000000	河南省-平顶山市-市辖区	
+410402000000	河南省-平顶山市-新华区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/04/410402.html
+410403000000	河南省-平顶山市-卫东区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/04/410403.html
+410404000000	河南省-平顶山市-石龙区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/04/410404.html
+410411000000	河南省-平顶山市-湛河区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/04/410411.html
+410421000000	河南省-平顶山市-宝丰县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/04/410421.html
+410422000000	河南省-平顶山市-叶县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/04/410422.html
+410423000000	河南省-平顶山市-鲁山县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/04/410423.html
+410425000000	河南省-平顶山市-郏县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/04/410425.html
+410471000000	河南省-平顶山市-平顶山高新技术产业开发区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/04/410471.html
+410472000000	河南省-平顶山市-平顶山市新城区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/04/410472.html
+410481000000	河南省-平顶山市-舞钢市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/04/410481.html
+410482000000	河南省-平顶山市-汝州市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/04/410482.html

@@ -1,0 +1,8 @@
+152202001000	内蒙古自治区-兴安盟-阿尔山市-阿尔山市林海街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/22/02/152202001.html
+152202002000	内蒙古自治区-兴安盟-阿尔山市-阿尔山市新城街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/22/02/152202002.html
+152202003000	内蒙古自治区-兴安盟-阿尔山市-阿尔山市温泉街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/22/02/152202003.html
+152202004000	内蒙古自治区-兴安盟-阿尔山市-伊尔施街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/22/02/152202004.html
+152202100000	内蒙古自治区-兴安盟-阿尔山市-阿尔山市天池镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/22/02/152202100.html
+152202101000	内蒙古自治区-兴安盟-阿尔山市-阿尔山市白狼镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/22/02/152202101.html
+152202102000	内蒙古自治区-兴安盟-阿尔山市-阿尔山市五岔沟镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/22/02/152202102.html
+152202103000	内蒙古自治区-兴安盟-阿尔山市-明水河镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/22/02/152202103.html

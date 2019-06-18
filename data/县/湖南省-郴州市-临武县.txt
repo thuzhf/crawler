@@ -1,0 +1,13 @@
+431025100000	湖南省-郴州市-临武县-舜峰镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/10/25/431025100.html
+431025101000	湖南省-郴州市-临武县-金江镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/10/25/431025101.html
+431025104000	湖南省-郴州市-临武县-武水镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/10/25/431025104.html
+431025105000	湖南省-郴州市-临武县-南强镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/10/25/431025105.html
+431025106000	湖南省-郴州市-临武县-汾市镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/10/25/431025106.html
+431025107000	湖南省-郴州市-临武县-水东镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/10/25/431025107.html
+431025108000	湖南省-郴州市-临武县-楚江镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/10/25/431025108.html
+431025109000	湖南省-郴州市-临武县-麦市镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/10/25/431025109.html
+431025110000	湖南省-郴州市-临武县-香花镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/10/25/431025110.html
+431025208000	湖南省-郴州市-临武县-花塘乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/10/25/431025208.html
+431025211000	湖南省-郴州市-临武县-万水乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/10/25/431025211.html
+431025214000	湖南省-郴州市-临武县-镇南乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/10/25/431025214.html
+431025216000	湖南省-郴州市-临武县-西山瑶族乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/10/25/431025216.html

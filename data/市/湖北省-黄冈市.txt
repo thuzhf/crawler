@@ -1,0 +1,12 @@
+421101000000	湖北省-黄冈市-市辖区	
+421102000000	湖北省-黄冈市-黄州区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/11/421102.html
+421121000000	湖北省-黄冈市-团风县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/11/421121.html
+421122000000	湖北省-黄冈市-红安县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/11/421122.html
+421123000000	湖北省-黄冈市-罗田县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/11/421123.html
+421124000000	湖北省-黄冈市-英山县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/11/421124.html
+421125000000	湖北省-黄冈市-浠水县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/11/421125.html
+421126000000	湖北省-黄冈市-蕲春县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/11/421126.html
+421127000000	湖北省-黄冈市-黄梅县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/11/421127.html
+421171000000	湖北省-黄冈市-龙感湖管理区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/11/421171.html
+421181000000	湖北省-黄冈市-麻城市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/11/421181.html
+421182000000	湖北省-黄冈市-武穴市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/11/421182.html

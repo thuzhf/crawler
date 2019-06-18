@@ -1,0 +1,13 @@
+361030100000	江西省-抚州市-广昌县-盱江镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/10/30/361030100.html
+361030101000	江西省-抚州市-广昌县-头陂镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/10/30/361030101.html
+361030103000	江西省-抚州市-广昌县-赤水镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/10/30/361030103.html
+361030104000	江西省-抚州市-广昌县-驿前镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/10/30/361030104.html
+361030105000	江西省-抚州市-广昌县-甘竹镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/10/30/361030105.html
+361030106000	江西省-抚州市-广昌县-塘坊镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/10/30/361030106.html
+361030200000	江西省-抚州市-广昌县-千善乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/10/30/361030200.html
+361030201000	江西省-抚州市-广昌县-水南圩乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/10/30/361030201.html
+361030202000	江西省-抚州市-广昌县-长桥乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/10/30/361030202.html
+361030203000	江西省-抚州市-广昌县-杨溪乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/10/30/361030203.html
+361030204000	江西省-抚州市-广昌县-尖峰乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/10/30/361030204.html
+361030400000	江西省-抚州市-广昌县-翠雷山垦殖场	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/10/30/361030400.html
+361030500000	江西省-抚州市-广昌县-广昌县工业园区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/10/30/361030500.html

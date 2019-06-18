@@ -1,0 +1,17 @@
+621122100000	甘肃省-定西市-陇西县-巩昌镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/62/11/22/621122100.html
+621122101000	甘肃省-定西市-陇西县-文峰镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/62/11/22/621122101.html
+621122102000	甘肃省-定西市-陇西县-首阳镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/62/11/22/621122102.html
+621122103000	甘肃省-定西市-陇西县-菜子镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/62/11/22/621122103.html
+621122104000	甘肃省-定西市-陇西县-福星镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/62/11/22/621122104.html
+621122105000	甘肃省-定西市-陇西县-通安驿镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/62/11/22/621122105.html
+621122106000	甘肃省-定西市-陇西县-云田镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/62/11/22/621122106.html
+621122107000	甘肃省-定西市-陇西县-碧岩镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/62/11/22/621122107.html
+621122108000	甘肃省-定西市-陇西县-马河镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/62/11/22/621122108.html
+621122109000	甘肃省-定西市-陇西县-柯寨镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/62/11/22/621122109.html
+621122110000	甘肃省-定西市-陇西县-双泉镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/62/11/22/621122110.html
+621122111000	甘肃省-定西市-陇西县-权家湾镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/62/11/22/621122111.html
+621122200000	甘肃省-定西市-陇西县-渭阳乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/62/11/22/621122200.html
+621122201000	甘肃省-定西市-陇西县-宏伟乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/62/11/22/621122201.html
+621122202000	甘肃省-定西市-陇西县-和平乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/62/11/22/621122202.html
+621122205000	甘肃省-定西市-陇西县-德兴乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/62/11/22/621122205.html
+621122206000	甘肃省-定西市-陇西县-永吉乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/62/11/22/621122206.html

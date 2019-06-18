@@ -1,0 +1,10 @@
+610503001000	陕西省-渭南市-华州区-华州街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/61/05/03/610503001.html
+610503101000	陕西省-渭南市-华州区-杏林镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/61/05/03/610503101.html
+610503102000	陕西省-渭南市-华州区-赤水镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/61/05/03/610503102.html
+610503103000	陕西省-渭南市-华州区-高塘镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/61/05/03/610503103.html
+610503104000	陕西省-渭南市-华州区-大明镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/61/05/03/610503104.html
+610503105000	陕西省-渭南市-华州区-瓜坡镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/61/05/03/610503105.html
+610503106000	陕西省-渭南市-华州区-莲花寺镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/61/05/03/610503106.html
+610503107000	陕西省-渭南市-华州区-柳枝镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/61/05/03/610503107.html
+610503108000	陕西省-渭南市-华州区-下庙镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/61/05/03/610503108.html
+610503109000	陕西省-渭南市-华州区-金堆镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/61/05/03/610503109.html

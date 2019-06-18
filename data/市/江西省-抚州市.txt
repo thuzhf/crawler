@@ -1,0 +1,12 @@
+361001000000	江西省-抚州市-市辖区	
+361002000000	江西省-抚州市-临川区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/10/361002.html
+361003000000	江西省-抚州市-东乡区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/10/361003.html
+361021000000	江西省-抚州市-南城县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/10/361021.html
+361022000000	江西省-抚州市-黎川县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/10/361022.html
+361023000000	江西省-抚州市-南丰县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/10/361023.html
+361024000000	江西省-抚州市-崇仁县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/10/361024.html
+361025000000	江西省-抚州市-乐安县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/10/361025.html
+361026000000	江西省-抚州市-宜黄县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/10/361026.html
+361027000000	江西省-抚州市-金溪县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/10/361027.html
+361028000000	江西省-抚州市-资溪县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/10/361028.html
+361030000000	江西省-抚州市-广昌县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/10/361030.html

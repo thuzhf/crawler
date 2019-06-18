@@ -1,0 +1,13 @@
+532501000000	云南省-红河哈尼族彝族自治州-个旧市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/25/532501.html
+532502000000	云南省-红河哈尼族彝族自治州-开远市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/25/532502.html
+532503000000	云南省-红河哈尼族彝族自治州-蒙自市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/25/532503.html
+532504000000	云南省-红河哈尼族彝族自治州-弥勒市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/25/532504.html
+532523000000	云南省-红河哈尼族彝族自治州-屏边苗族自治县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/25/532523.html
+532524000000	云南省-红河哈尼族彝族自治州-建水县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/25/532524.html
+532525000000	云南省-红河哈尼族彝族自治州-石屏县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/25/532525.html
+532527000000	云南省-红河哈尼族彝族自治州-泸西县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/25/532527.html
+532528000000	云南省-红河哈尼族彝族自治州-元阳县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/25/532528.html
+532529000000	云南省-红河哈尼族彝族自治州-红河县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/25/532529.html
+532530000000	云南省-红河哈尼族彝族自治州-金平苗族瑶族傣族自治县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/25/532530.html
+532531000000	云南省-红河哈尼族彝族自治州-绿春县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/25/532531.html
+532532000000	云南省-红河哈尼族彝族自治州-河口瑶族自治县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/25/532532.html

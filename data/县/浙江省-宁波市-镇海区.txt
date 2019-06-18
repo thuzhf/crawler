@@ -1,0 +1,7 @@
+330211001000	浙江省-宁波市-镇海区-招宝山街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/02/11/330211001.html
+330211002000	浙江省-宁波市-镇海区-蛟川街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/02/11/330211002.html
+330211003000	浙江省-宁波市-镇海区-骆驼街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/02/11/330211003.html
+330211004000	浙江省-宁波市-镇海区-庄市街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/02/11/330211004.html
+330211005000	浙江省-宁波市-镇海区-贵驷街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/02/11/330211005.html
+330211100000	浙江省-宁波市-镇海区-澥浦镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/02/11/330211100.html
+330211101000	浙江省-宁波市-镇海区-九龙湖镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/02/11/330211101.html

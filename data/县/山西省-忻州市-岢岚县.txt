@@ -1,0 +1,12 @@
+140929100000	山西省-忻州市-岢岚县-岚漪镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/09/29/140929100.html
+140929101000	山西省-忻州市-岢岚县-三井镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/09/29/140929101.html
+140929200000	山西省-忻州市-岢岚县-神堂坪乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/09/29/140929200.html
+140929201000	山西省-忻州市-岢岚县-高家会乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/09/29/140929201.html
+140929202000	山西省-忻州市-岢岚县-李家沟乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/09/29/140929202.html
+140929203000	山西省-忻州市-岢岚县-水峪贯乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/09/29/140929203.html
+140929204000	山西省-忻州市-岢岚县-西豹峪乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/09/29/140929204.html
+140929205000	山西省-忻州市-岢岚县-温泉乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/09/29/140929205.html
+140929206000	山西省-忻州市-岢岚县-阳坪乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/09/29/140929206.html
+140929207000	山西省-忻州市-岢岚县-大涧乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/09/29/140929207.html
+140929208000	山西省-忻州市-岢岚县-宋家沟乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/09/29/140929208.html
+140929209000	山西省-忻州市-岢岚县-王家岔乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/09/29/140929209.html

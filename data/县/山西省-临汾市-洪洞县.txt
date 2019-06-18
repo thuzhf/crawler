@@ -1,0 +1,16 @@
+141024100000	山西省-临汾市-洪洞县-大槐树镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/10/24/141024100.html
+141024101000	山西省-临汾市-洪洞县-甘亭镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/10/24/141024101.html
+141024102000	山西省-临汾市-洪洞县-曲亭镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/10/24/141024102.html
+141024103000	山西省-临汾市-洪洞县-苏堡镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/10/24/141024103.html
+141024104000	山西省-临汾市-洪洞县-广胜寺镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/10/24/141024104.html
+141024105000	山西省-临汾市-洪洞县-明姜镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/10/24/141024105.html
+141024106000	山西省-临汾市-洪洞县-赵城镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/10/24/141024106.html
+141024107000	山西省-临汾市-洪洞县-万安镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/10/24/141024107.html
+141024108000	山西省-临汾市-洪洞县-刘家垣镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/10/24/141024108.html
+141024200000	山西省-临汾市-洪洞县-淹底乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/10/24/141024200.html
+141024201000	山西省-临汾市-洪洞县-兴唐寺乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/10/24/141024201.html
+141024202000	山西省-临汾市-洪洞县-堤村乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/10/24/141024202.html
+141024203000	山西省-临汾市-洪洞县-辛村乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/10/24/141024203.html
+141024204000	山西省-临汾市-洪洞县-龙马乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/10/24/141024204.html
+141024205000	山西省-临汾市-洪洞县-山头乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/10/24/141024205.html
+141024206000	山西省-临汾市-洪洞县-左木乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/10/24/141024206.html

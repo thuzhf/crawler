@@ -1,0 +1,12 @@
+431001000000	湖南省-郴州市-市辖区	
+431002000000	湖南省-郴州市-北湖区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/10/431002.html
+431003000000	湖南省-郴州市-苏仙区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/10/431003.html
+431021000000	湖南省-郴州市-桂阳县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/10/431021.html
+431022000000	湖南省-郴州市-宜章县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/10/431022.html
+431023000000	湖南省-郴州市-永兴县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/10/431023.html
+431024000000	湖南省-郴州市-嘉禾县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/10/431024.html
+431025000000	湖南省-郴州市-临武县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/10/431025.html
+431026000000	湖南省-郴州市-汝城县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/10/431026.html
+431027000000	湖南省-郴州市-桂东县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/10/431027.html
+431028000000	湖南省-郴州市-安仁县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/10/431028.html
+431081000000	湖南省-郴州市-资兴市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/10/431081.html

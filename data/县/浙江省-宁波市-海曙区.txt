@@ -1,0 +1,17 @@
+330203001000	浙江省-宁波市-海曙区-南门街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/02/03/330203001.html
+330203002000	浙江省-宁波市-海曙区-江厦街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/02/03/330203002.html
+330203003000	浙江省-宁波市-海曙区-西门街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/02/03/330203003.html
+330203004000	浙江省-宁波市-海曙区-月湖街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/02/03/330203004.html
+330203005000	浙江省-宁波市-海曙区-鼓楼街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/02/03/330203005.html
+330203006000	浙江省-宁波市-海曙区-白云街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/02/03/330203006.html
+330203007000	浙江省-宁波市-海曙区-段塘街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/02/03/330203007.html
+330203008000	浙江省-宁波市-海曙区-望春街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/02/03/330203008.html
+330203009000	浙江省-宁波市-海曙区-石碶街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/02/03/330203009.html
+330203100000	浙江省-宁波市-海曙区-高桥镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/02/03/330203100.html
+330203101000	浙江省-宁波市-海曙区-横街镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/02/03/330203101.html
+330203102000	浙江省-宁波市-海曙区-集士港镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/02/03/330203102.html
+330203103000	浙江省-宁波市-海曙区-古林镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/02/03/330203103.html
+330203104000	浙江省-宁波市-海曙区-洞桥镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/02/03/330203104.html
+330203105000	浙江省-宁波市-海曙区-鄞江镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/02/03/330203105.html
+330203106000	浙江省-宁波市-海曙区-章水镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/02/03/330203106.html
+330203200000	浙江省-宁波市-海曙区-龙观乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/02/03/330203200.html

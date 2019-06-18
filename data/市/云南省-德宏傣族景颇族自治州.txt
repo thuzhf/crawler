@@ -1,0 +1,5 @@
+533102000000	云南省-德宏傣族景颇族自治州-瑞丽市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/31/533102.html
+533103000000	云南省-德宏傣族景颇族自治州-芒市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/31/533103.html
+533122000000	云南省-德宏傣族景颇族自治州-梁河县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/31/533122.html
+533123000000	云南省-德宏傣族景颇族自治州-盈江县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/31/533123.html
+533124000000	云南省-德宏傣族景颇族自治州-陇川县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/31/533124.html

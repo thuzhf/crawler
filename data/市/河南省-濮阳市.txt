@@ -1,0 +1,9 @@
+410901000000	河南省-濮阳市-市辖区	
+410902000000	河南省-濮阳市-华龙区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/09/410902.html
+410922000000	河南省-濮阳市-清丰县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/09/410922.html
+410923000000	河南省-濮阳市-南乐县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/09/410923.html
+410926000000	河南省-濮阳市-范县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/09/410926.html
+410927000000	河南省-濮阳市-台前县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/09/410927.html
+410928000000	河南省-濮阳市-濮阳县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/09/410928.html
+410971000000	河南省-濮阳市-河南濮阳工业园区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/09/410971.html
+410972000000	河南省-濮阳市-濮阳经济技术开发区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/09/410972.html

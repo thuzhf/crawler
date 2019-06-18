@@ -1,0 +1,14 @@
+340123100000	安徽省-合肥市-肥西县-上派镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/01/23/340123100.html
+340123101000	安徽省-合肥市-肥西县-三河镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/01/23/340123101.html
+340123103000	安徽省-合肥市-肥西县-官亭镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/01/23/340123103.html
+340123105000	安徽省-合肥市-肥西县-山南镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/01/23/340123105.html
+340123106000	安徽省-合肥市-肥西县-花岗镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/01/23/340123106.html
+340123107000	安徽省-合肥市-肥西县-紫蓬镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/01/23/340123107.html
+340123108000	安徽省-合肥市-肥西县-桃花镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/01/23/340123108.html
+340123109000	安徽省-合肥市-肥西县-丰乐镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/01/23/340123109.html
+340123200000	安徽省-合肥市-肥西县-高店乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/01/23/340123200.html
+340123201000	安徽省-合肥市-肥西县-铭传乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/01/23/340123201.html
+340123202000	安徽省-合肥市-肥西县-柿树岗乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/01/23/340123202.html
+340123203000	安徽省-合肥市-肥西县-严店乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/01/23/340123203.html
+340123400000	安徽省-合肥市-肥西县-桃花工业园管委会	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/01/23/340123400.html
+340123401000	安徽省-合肥市-肥西县-紫蓬山管委会	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/01/23/340123401.html

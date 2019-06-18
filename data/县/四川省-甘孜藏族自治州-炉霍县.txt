@@ -1,0 +1,16 @@
+513327100000	四川省-甘孜藏族自治州-炉霍县-新都镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/33/27/513327100.html
+513327101000	四川省-甘孜藏族自治州-炉霍县-朱倭镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/33/27/513327101.html
+513327102000	四川省-甘孜藏族自治州-炉霍县-斯木镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/33/27/513327102.html
+513327200000	四川省-甘孜藏族自治州-炉霍县-泥巴乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/33/27/513327200.html
+513327201000	四川省-甘孜藏族自治州-炉霍县-雅德乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/33/27/513327201.html
+513327202000	四川省-甘孜藏族自治州-炉霍县-洛秋乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/33/27/513327202.html
+513327204000	四川省-甘孜藏族自治州-炉霍县-宜木乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/33/27/513327204.html
+513327205000	四川省-甘孜藏族自治州-炉霍县-仁达乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/33/27/513327205.html
+513327207000	四川省-甘孜藏族自治州-炉霍县-旦都乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/33/27/513327207.html
+513327208000	四川省-甘孜藏族自治州-炉霍县-充古乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/33/27/513327208.html
+513327209000	四川省-甘孜藏族自治州-炉霍县-更知乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/33/27/513327209.html
+513327210000	四川省-甘孜藏族自治州-炉霍县-卡娘乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/33/27/513327210.html
+513327211000	四川省-甘孜藏族自治州-炉霍县-宗塔乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/33/27/513327211.html
+513327212000	四川省-甘孜藏族自治州-炉霍县-宗麦乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/33/27/513327212.html
+513327213000	四川省-甘孜藏族自治州-炉霍县-上罗柯马乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/33/27/513327213.html
+513327214000	四川省-甘孜藏族自治州-炉霍县-下罗柯马乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/33/27/513327214.html

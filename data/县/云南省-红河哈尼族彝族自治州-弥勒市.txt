@@ -1,0 +1,12 @@
+532504101000	云南省-红河哈尼族彝族自治州-弥勒市-弥阳镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/25/04/532504101.html
+532504102000	云南省-红河哈尼族彝族自治州-弥勒市-新哨镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/25/04/532504102.html
+532504103000	云南省-红河哈尼族彝族自治州-弥勒市-虹溪镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/25/04/532504103.html
+532504104000	云南省-红河哈尼族彝族自治州-弥勒市-竹园镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/25/04/532504104.html
+532504105000	云南省-红河哈尼族彝族自治州-弥勒市-朋普镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/25/04/532504105.html
+532504106000	云南省-红河哈尼族彝族自治州-弥勒市-巡检司镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/25/04/532504106.html
+532504107000	云南省-红河哈尼族彝族自治州-弥勒市-西一镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/25/04/532504107.html
+532504108000	云南省-红河哈尼族彝族自治州-弥勒市-西二镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/25/04/532504108.html
+532504109000	云南省-红河哈尼族彝族自治州-弥勒市-西三镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/25/04/532504109.html
+532504110000	云南省-红河哈尼族彝族自治州-弥勒市-东山镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/25/04/532504110.html
+532504202000	云南省-红河哈尼族彝族自治州-弥勒市-五山乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/25/04/532504202.html
+532504203000	云南省-红河哈尼族彝族自治州-弥勒市-江边乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/25/04/532504203.html

@@ -1,0 +1,13 @@
+130632100000	河北省-保定市-安新县-安新镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/06/32/130632100.html
+130632101000	河北省-保定市-安新县-大王镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/06/32/130632101.html
+130632102000	河北省-保定市-安新县-三台镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/06/32/130632102.html
+130632103000	河北省-保定市-安新县-端村镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/06/32/130632103.html
+130632104000	河北省-保定市-安新县-赵北口镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/06/32/130632104.html
+130632105000	河北省-保定市-安新县-同口镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/06/32/130632105.html
+130632106000	河北省-保定市-安新县-刘李庄镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/06/32/130632106.html
+130632107000	河北省-保定市-安新县-安州镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/06/32/130632107.html
+130632108000	河北省-保定市-安新县-老河头镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/06/32/130632108.html
+130632200000	河北省-保定市-安新县-圈头乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/06/32/130632200.html
+130632201000	河北省-保定市-安新县-寨里乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/06/32/130632201.html
+130632202000	河北省-保定市-安新县-芦庄乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/06/32/130632202.html
+130632203000	河北省-保定市-安新县-龙化乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/06/32/130632203.html

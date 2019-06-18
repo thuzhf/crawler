@@ -1,0 +1,17 @@
+330602001000	浙江省-绍兴市-越城区-塔山街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/06/02/330602001.html
+330602002000	浙江省-绍兴市-越城区-府山街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/06/02/330602002.html
+330602003000	浙江省-绍兴市-越城区-蕺山街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/06/02/330602003.html
+330602004000	浙江省-绍兴市-越城区-北海街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/06/02/330602004.html
+330602005000	浙江省-绍兴市-越城区-城南街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/06/02/330602005.html
+330602006000	浙江省-绍兴市-越城区-稽山街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/06/02/330602006.html
+330602007000	浙江省-绍兴市-越城区-迪荡街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/06/02/330602007.html
+330602008000	浙江省-绍兴市-越城区-东湖街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/06/02/330602008.html
+330602009000	浙江省-绍兴市-越城区-灵芝街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/06/02/330602009.html
+330602010000	浙江省-绍兴市-越城区-东浦街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/06/02/330602010.html
+330602011000	浙江省-绍兴市-越城区-鉴湖街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/06/02/330602011.html
+330602012000	浙江省-绍兴市-越城区-斗门街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/06/02/330602012.html
+330602104000	浙江省-绍兴市-越城区-皋埠镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/06/02/330602104.html
+330602105000	浙江省-绍兴市-越城区-马山镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/06/02/330602105.html
+330602107000	浙江省-绍兴市-越城区-孙端镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/06/02/330602107.html
+330602108000	浙江省-绍兴市-越城区-富盛镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/06/02/330602108.html
+330602109000	浙江省-绍兴市-越城区-陶堰镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/06/02/330602109.html

@@ -1,0 +1,10 @@
+150826100000	内蒙古自治区-巴彦淖尔市-杭锦后旗-陕坝镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/08/26/150826100.html
+150826101000	内蒙古自治区-巴彦淖尔市-杭锦后旗-头道桥镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/08/26/150826101.html
+150826102000	内蒙古自治区-巴彦淖尔市-杭锦后旗-二道桥镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/08/26/150826102.html
+150826103000	内蒙古自治区-巴彦淖尔市-杭锦后旗-三道桥镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/08/26/150826103.html
+150826104000	内蒙古自治区-巴彦淖尔市-杭锦后旗-蛮会镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/08/26/150826104.html
+150826105000	内蒙古自治区-巴彦淖尔市-杭锦后旗-团结镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/08/26/150826105.html
+150826106000	内蒙古自治区-巴彦淖尔市-杭锦后旗-双庙镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/08/26/150826106.html
+150826107000	内蒙古自治区-巴彦淖尔市-杭锦后旗-沙海镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/08/26/150826107.html
+150826108000	内蒙古自治区-巴彦淖尔市-杭锦后旗-蒙海镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/08/26/150826108.html
+150826500000	内蒙古自治区-巴彦淖尔市-杭锦后旗-太阳庙农场	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/08/26/150826500.html

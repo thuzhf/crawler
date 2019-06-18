@@ -1,0 +1,14 @@
+410324100000	河南省-洛阳市-栾川县-城关镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/03/24/410324100.html
+410324101000	河南省-洛阳市-栾川县-赤土店镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/03/24/410324101.html
+410324102000	河南省-洛阳市-栾川县-合峪镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/03/24/410324102.html
+410324103000	河南省-洛阳市-栾川县-潭头镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/03/24/410324103.html
+410324104000	河南省-洛阳市-栾川县-三川镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/03/24/410324104.html
+410324105000	河南省-洛阳市-栾川县-冷水镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/03/24/410324105.html
+410324106000	河南省-洛阳市-栾川县-陶湾镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/03/24/410324106.html
+410324107000	河南省-洛阳市-栾川县-石庙镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/03/24/410324107.html
+410324108000	河南省-洛阳市-栾川县-庙子镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/03/24/410324108.html
+410324109000	河南省-洛阳市-栾川县-狮子庙镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/03/24/410324109.html
+410324110000	河南省-洛阳市-栾川县-白土镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/03/24/410324110.html
+410324111000	河南省-洛阳市-栾川县-叫河镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/03/24/410324111.html
+410324200000	河南省-洛阳市-栾川县-栾川乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/03/24/410324200.html
+410324203000	河南省-洛阳市-栾川县-秋扒乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/03/24/410324203.html

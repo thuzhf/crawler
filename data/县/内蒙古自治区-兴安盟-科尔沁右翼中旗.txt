@@ -1,0 +1,16 @@
+152222100000	内蒙古自治区-兴安盟-科尔沁右翼中旗-巴彦呼舒镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/22/22/152222100.html
+152222101000	内蒙古自治区-兴安盟-科尔沁右翼中旗-巴仁哲里木镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/22/22/152222101.html
+152222102000	内蒙古自治区-兴安盟-科尔沁右翼中旗-吐列毛都镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/22/22/152222102.html
+152222103000	内蒙古自治区-兴安盟-科尔沁右翼中旗-杜尔基镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/22/22/152222103.html
+152222104000	内蒙古自治区-兴安盟-科尔沁右翼中旗-高力板镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/22/22/152222104.html
+152222105000	内蒙古自治区-兴安盟-科尔沁右翼中旗-好腰苏木镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/22/22/152222105.html
+152222200000	内蒙古自治区-兴安盟-科尔沁右翼中旗-代钦塔拉苏木	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/22/22/152222200.html
+152222201000	内蒙古自治区-兴安盟-科尔沁右翼中旗-新佳木苏木	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/22/22/152222201.html
+152222202000	内蒙古自治区-兴安盟-科尔沁右翼中旗-哈日诺尔苏木	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/22/22/152222202.html
+152222203000	内蒙古自治区-兴安盟-科尔沁右翼中旗-额木庭高勒苏木	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/22/22/152222203.html
+152222204000	内蒙古自治区-兴安盟-科尔沁右翼中旗-巴彦茫哈苏木	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/22/22/152222204.html
+152222205000	内蒙古自治区-兴安盟-科尔沁右翼中旗-巴彦淖尔苏木	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/22/22/152222205.html
+152222400000	内蒙古自治区-兴安盟-科尔沁右翼中旗-布敦化牧场	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/22/22/152222400.html
+152222401000	内蒙古自治区-兴安盟-科尔沁右翼中旗-吐列毛杜农场	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/22/22/152222401.html
+152222402000	内蒙古自治区-兴安盟-科尔沁右翼中旗-孟恩套力盖矿区工作部	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/22/22/152222402.html
+152222403000	内蒙古自治区-兴安盟-科尔沁右翼中旗-布敦化矿区工作部	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/22/22/152222403.html

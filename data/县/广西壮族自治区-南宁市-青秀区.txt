@@ -1,0 +1,11 @@
+450103001000	广西壮族自治区-南宁市-青秀区-新竹街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/01/03/450103001.html
+450103002000	广西壮族自治区-南宁市-青秀区-中山街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/01/03/450103002.html
+450103003000	广西壮族自治区-南宁市-青秀区-建政街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/01/03/450103003.html
+450103004000	广西壮族自治区-南宁市-青秀区-南湖街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/01/03/450103004.html
+450103005000	广西壮族自治区-南宁市-青秀区-津头街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/01/03/450103005.html
+450103006000	广西壮族自治区-南宁市-青秀区-仙葫经济开发区管理委员会	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/01/03/450103006.html
+450103100000	广西壮族自治区-南宁市-青秀区-刘圩镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/01/03/450103100.html
+450103101000	广西壮族自治区-南宁市-青秀区-南阳镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/01/03/450103101.html
+450103102000	广西壮族自治区-南宁市-青秀区-伶俐镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/01/03/450103102.html
+450103103000	广西壮族自治区-南宁市-青秀区-长塘镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/01/03/450103103.html
+450103451000	广西壮族自治区-南宁市-青秀区-青秀山管理委员会	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/01/03/450103451.html

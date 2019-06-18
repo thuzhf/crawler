@@ -1,0 +1,13 @@
+140881001000	山西省-运城市-永济市-城西街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/08/81/140881001.html
+140881002000	山西省-运城市-永济市-城北街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/08/81/140881002.html
+140881003000	山西省-运城市-永济市-城东街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/08/81/140881003.html
+140881100000	山西省-运城市-永济市-虞乡镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/08/81/140881100.html
+140881101000	山西省-运城市-永济市-卿头镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/08/81/140881101.html
+140881102000	山西省-运城市-永济市-开张镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/08/81/140881102.html
+140881103000	山西省-运城市-永济市-栲栳镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/08/81/140881103.html
+140881104000	山西省-运城市-永济市-蒲州镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/08/81/140881104.html
+140881105000	山西省-运城市-永济市-韩阳镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/08/81/140881105.html
+140881106000	山西省-运城市-永济市-张营镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/08/81/140881106.html
+140881400000	山西省-运城市-永济市-伍姓湖农场	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/08/81/140881400.html
+140881401000	山西省-运城市-永济市-虞乡农场	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/08/81/140881401.html
+140881402000	山西省-运城市-永济市-董村农场	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/08/81/140881402.html

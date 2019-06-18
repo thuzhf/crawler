@@ -1,0 +1,16 @@
+653127100000	新疆维吾尔自治区-喀什地区-麦盖提县-麦盖提镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/31/27/653127100.html
+653127112000	新疆维吾尔自治区-喀什地区-麦盖提县-巴扎结米镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/31/27/653127112.html
+653127201000	新疆维吾尔自治区-喀什地区-麦盖提县-希依提墩乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/31/27/653127201.html
+653127202000	新疆维吾尔自治区-喀什地区-麦盖提县-央塔克乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/31/27/653127202.html
+653127203000	新疆维吾尔自治区-喀什地区-麦盖提县-吐曼塔勒乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/31/27/653127203.html
+653127204000	新疆维吾尔自治区-喀什地区-麦盖提县-尕孜库勒乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/31/27/653127204.html
+653127205000	新疆维吾尔自治区-喀什地区-麦盖提县-克孜勒阿瓦提乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/31/27/653127205.html
+653127206000	新疆维吾尔自治区-喀什地区-麦盖提县-库木库萨尔乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/31/27/653127206.html
+653127207000	新疆维吾尔自治区-喀什地区-麦盖提县-昂格特勒克乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/31/27/653127207.html
+653127208000	新疆维吾尔自治区-喀什地区-麦盖提县-库尔玛乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/31/27/653127208.html
+653127400000	新疆维吾尔自治区-喀什地区-麦盖提县-胡杨林场	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/31/27/653127400.html
+653127401000	新疆维吾尔自治区-喀什地区-麦盖提县-园艺场	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/31/27/653127401.html
+653127402000	新疆维吾尔自治区-喀什地区-麦盖提县-五一林场	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/31/27/653127402.html
+653127500000	新疆维吾尔自治区-喀什地区-麦盖提县-兵团农三师前进水库管理处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/31/27/653127500.html
+653127505000	新疆维吾尔自治区-喀什地区-麦盖提县-兵团四十五团	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/31/27/653127505.html
+653127506000	新疆维吾尔自治区-喀什地区-麦盖提县-兵团四十六团	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/31/27/653127506.html

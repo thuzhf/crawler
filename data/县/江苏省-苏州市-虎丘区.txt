@@ -1,0 +1,11 @@
+320505001000	江苏省-苏州市-虎丘区-横塘街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/05/05/320505001.html
+320505002000	江苏省-苏州市-虎丘区-狮山街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/05/05/320505002.html
+320505003000	江苏省-苏州市-虎丘区-枫桥街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/05/05/320505003.html
+320505004000	江苏省-苏州市-虎丘区-镇湖街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/05/05/320505004.html
+320505005000	江苏省-苏州市-虎丘区-东渚街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/05/05/320505005.html
+320505100000	江苏省-苏州市-虎丘区-浒墅关镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/05/05/320505100.html
+320505101000	江苏省-苏州市-虎丘区-通安镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/05/05/320505101.html
+320505400000	江苏省-苏州市-虎丘区-浒墅关经济技术开发区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/05/05/320505400.html
+320505405000	江苏省-苏州市-虎丘区-苏州高新技术创业服务中心	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/05/05/320505405.html
+320505407000	江苏省-苏州市-虎丘区-苏州科技城	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/05/05/320505407.html
+320505408000	江苏省-苏州市-虎丘区-苏州高新区综合保税区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/05/05/320505408.html

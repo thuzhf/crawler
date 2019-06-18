@@ -1,0 +1,17 @@
+433123101000	湖南省-湘西土家族苗族自治州-凤凰县-廖家桥镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/31/23/433123101.html
+433123104000	湖南省-湘西土家族苗族自治州-凤凰县-茶田镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/31/23/433123104.html
+433123105000	湖南省-湘西土家族苗族自治州-凤凰县-吉信镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/31/23/433123105.html
+433123107000	湖南省-湘西土家族苗族自治州-凤凰县-腊尔山镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/31/23/433123107.html
+433123108000	湖南省-湘西土家族苗族自治州-凤凰县-禾库镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/31/23/433123108.html
+433123109000	湖南省-湘西土家族苗族自治州-凤凰县-沱江镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/31/23/433123109.html
+433123110000	湖南省-湘西土家族苗族自治州-凤凰县-阿拉营镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/31/23/433123110.html
+433123111000	湖南省-湘西土家族苗族自治州-凤凰县-木江坪镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/31/23/433123111.html
+433123112000	湖南省-湘西土家族苗族自治州-凤凰县-山江镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/31/23/433123112.html
+433123113000	湖南省-湘西土家族苗族自治州-凤凰县-落潮井镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/31/23/433123113.html
+433123114000	湖南省-湘西土家族苗族自治州-凤凰县-新场镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/31/23/433123114.html
+433123115000	湖南省-湘西土家族苗族自治州-凤凰县-筸子坪镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/31/23/433123115.html
+433123116000	湖南省-湘西土家族苗族自治州-凤凰县-千工坪镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/31/23/433123116.html
+433123204000	湖南省-湘西土家族苗族自治州-凤凰县-水打田乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/31/23/433123204.html
+433123205000	湖南省-湘西土家族苗族自治州-凤凰县-林峰乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/31/23/433123205.html
+433123216000	湖南省-湘西土家族苗族自治州-凤凰县-麻冲乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/31/23/433123216.html
+433123220000	湖南省-湘西土家族苗族自治州-凤凰县-两林乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/31/23/433123220.html

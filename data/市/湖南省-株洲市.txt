@@ -1,0 +1,11 @@
+430201000000	湖南省-株洲市-市辖区	
+430202000000	湖南省-株洲市-荷塘区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/02/430202.html
+430203000000	湖南省-株洲市-芦淞区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/02/430203.html
+430204000000	湖南省-株洲市-石峰区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/02/430204.html
+430211000000	湖南省-株洲市-天元区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/02/430211.html
+430212000000	湖南省-株洲市-渌口区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/02/430212.html
+430223000000	湖南省-株洲市-攸县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/02/430223.html
+430224000000	湖南省-株洲市-茶陵县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/02/430224.html
+430225000000	湖南省-株洲市-炎陵县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/02/430225.html
+430271000000	湖南省-株洲市-云龙示范区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/02/430271.html
+430281000000	湖南省-株洲市-醴陵市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/02/430281.html

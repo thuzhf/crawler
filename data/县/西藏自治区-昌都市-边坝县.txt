@@ -1,0 +1,11 @@
+540330100000	西藏自治区-昌都市-边坝县-边坝镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/03/30/540330100.html
+540330101000	西藏自治区-昌都市-边坝县-草卡镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/03/30/540330101.html
+540330201000	西藏自治区-昌都市-边坝县-沙丁乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/03/30/540330201.html
+540330202000	西藏自治区-昌都市-边坝县-金岭乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/03/30/540330202.html
+540330203000	西藏自治区-昌都市-边坝县-加贡乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/03/30/540330203.html
+540330204000	西藏自治区-昌都市-边坝县-马武乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/03/30/540330204.html
+540330205000	西藏自治区-昌都市-边坝县-热玉乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/03/30/540330205.html
+540330206000	西藏自治区-昌都市-边坝县-尼木乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/03/30/540330206.html
+540330207000	西藏自治区-昌都市-边坝县-马秀乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/03/30/540330207.html
+540330208000	西藏自治区-昌都市-边坝县-拉孜乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/03/30/540330208.html
+540330209000	西藏自治区-昌都市-边坝县-都瓦乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/03/30/540330209.html

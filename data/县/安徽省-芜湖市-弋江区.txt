@@ -1,0 +1,8 @@
+340203001000	安徽省-芜湖市-弋江区-弋江桥街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/02/03/340203001.html
+340203002000	安徽省-芜湖市-弋江区-中南街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/02/03/340203002.html
+340203004000	安徽省-芜湖市-弋江区-马塘街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/02/03/340203004.html
+340203005000	安徽省-芜湖市-弋江区-瀂港街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/02/03/340203005.html
+340203006000	安徽省-芜湖市-弋江区-火龙街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/02/03/340203006.html
+340203007000	安徽省-芜湖市-弋江区-白马街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/02/03/340203007.html
+340203098000	安徽省-芜湖市-弋江区-南瑞社区公共服务委员会	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/02/03/340203098.html
+340203400000	安徽省-芜湖市-弋江区-芜湖高新技术产业开发区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/02/03/340203400.html

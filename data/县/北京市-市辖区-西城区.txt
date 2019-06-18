@@ -1,0 +1,15 @@
+110102001000	北京市-市辖区-西城区-西长安街街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/11/01/02/110102001.html
+110102003000	北京市-市辖区-西城区-新街口街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/11/01/02/110102003.html
+110102007000	北京市-市辖区-西城区-月坛街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/11/01/02/110102007.html
+110102009000	北京市-市辖区-西城区-展览路街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/11/01/02/110102009.html
+110102010000	北京市-市辖区-西城区-德胜街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/11/01/02/110102010.html
+110102011000	北京市-市辖区-西城区-金融街街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/11/01/02/110102011.html
+110102012000	北京市-市辖区-西城区-什刹海街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/11/01/02/110102012.html
+110102013000	北京市-市辖区-西城区-大栅栏街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/11/01/02/110102013.html
+110102014000	北京市-市辖区-西城区-天桥街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/11/01/02/110102014.html
+110102015000	北京市-市辖区-西城区-椿树街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/11/01/02/110102015.html
+110102016000	北京市-市辖区-西城区-陶然亭街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/11/01/02/110102016.html
+110102017000	北京市-市辖区-西城区-广安门内街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/11/01/02/110102017.html
+110102018000	北京市-市辖区-西城区-牛街街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/11/01/02/110102018.html
+110102019000	北京市-市辖区-西城区-白纸坊街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/11/01/02/110102019.html
+110102020000	北京市-市辖区-西城区-广安门外街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/11/01/02/110102020.html

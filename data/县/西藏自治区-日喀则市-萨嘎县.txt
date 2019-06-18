@@ -1,0 +1,8 @@
+540236100000	西藏自治区-日喀则市-萨嘎县-加加镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/02/36/540236100.html
+540236200000	西藏自治区-日喀则市-萨嘎县-昌果乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/02/36/540236200.html
+540236201000	西藏自治区-日喀则市-萨嘎县-雄如乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/02/36/540236201.html
+540236202000	西藏自治区-日喀则市-萨嘎县-拉藏乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/02/36/540236202.html
+540236203000	西藏自治区-日喀则市-萨嘎县-如角乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/02/36/540236203.html
+540236204000	西藏自治区-日喀则市-萨嘎县-达吉岭乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/02/36/540236204.html
+540236205000	西藏自治区-日喀则市-萨嘎县-旦嘎乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/02/36/540236205.html
+540236206000	西藏自治区-日喀则市-萨嘎县-夏如乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/02/36/540236206.html

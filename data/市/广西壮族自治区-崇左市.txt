@@ -1,0 +1,8 @@
+451401000000	广西壮族自治区-崇左市-市辖区	
+451402000000	广西壮族自治区-崇左市-江州区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/14/451402.html
+451421000000	广西壮族自治区-崇左市-扶绥县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/14/451421.html
+451422000000	广西壮族自治区-崇左市-宁明县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/14/451422.html
+451423000000	广西壮族自治区-崇左市-龙州县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/14/451423.html
+451424000000	广西壮族自治区-崇左市-大新县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/14/451424.html
+451425000000	广西壮族自治区-崇左市-天等县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/14/451425.html
+451481000000	广西壮族自治区-崇左市-凭祥市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/14/451481.html

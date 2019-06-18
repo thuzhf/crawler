@@ -1,0 +1,6 @@
+441301000000	广东省-惠州市-市辖区	
+441302000000	广东省-惠州市-惠城区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/13/441302.html
+441303000000	广东省-惠州市-惠阳区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/13/441303.html
+441322000000	广东省-惠州市-博罗县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/13/441322.html
+441323000000	广东省-惠州市-惠东县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/13/441323.html
+441324000000	广东省-惠州市-龙门县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/13/441324.html

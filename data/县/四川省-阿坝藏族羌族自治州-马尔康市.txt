@@ -1,0 +1,14 @@
+513201100000	四川省-阿坝藏族羌族自治州-马尔康市-马尔康镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/32/01/513201100.html
+513201101000	四川省-阿坝藏族羌族自治州-马尔康市-卓克基镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/32/01/513201101.html
+513201102000	四川省-阿坝藏族羌族自治州-马尔康市-松岗镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/32/01/513201102.html
+513201103000	四川省-阿坝藏族羌族自治州-马尔康市-沙尔宗镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/32/01/513201103.html
+513201200000	四川省-阿坝藏族羌族自治州-马尔康市-梭磨乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/32/01/513201200.html
+513201201000	四川省-阿坝藏族羌族自治州-马尔康市-白湾乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/32/01/513201201.html
+513201202000	四川省-阿坝藏族羌族自治州-马尔康市-党坝乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/32/01/513201202.html
+513201203000	四川省-阿坝藏族羌族自治州-马尔康市-木尔宗乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/32/01/513201203.html
+513201204000	四川省-阿坝藏族羌族自治州-马尔康市-脚木足乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/32/01/513201204.html
+513201206000	四川省-阿坝藏族羌族自治州-马尔康市-龙尔甲乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/32/01/513201206.html
+513201207000	四川省-阿坝藏族羌族自治州-马尔康市-大藏乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/32/01/513201207.html
+513201208000	四川省-阿坝藏族羌族自治州-马尔康市-康山乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/32/01/513201208.html
+513201209000	四川省-阿坝藏族羌族自治州-马尔康市-草登乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/32/01/513201209.html
+513201210000	四川省-阿坝藏族羌族自治州-马尔康市-日部乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/32/01/513201210.html

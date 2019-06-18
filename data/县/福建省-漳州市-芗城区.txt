@@ -1,0 +1,12 @@
+350602001000	福建省-漳州市-芗城区-东铺头街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/06/02/350602001.html
+350602002000	福建省-漳州市-芗城区-西桥街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/06/02/350602002.html
+350602003000	福建省-漳州市-芗城区-新桥街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/06/02/350602003.html
+350602004000	福建省-漳州市-芗城区-巷口街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/06/02/350602004.html
+350602005000	福建省-漳州市-芗城区-南坑街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/06/02/350602005.html
+350602006000	福建省-漳州市-芗城区-通北街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/06/02/350602006.html
+350602100000	福建省-漳州市-芗城区-浦南镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/06/02/350602100.html
+350602101000	福建省-漳州市-芗城区-天宝镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/06/02/350602101.html
+350602102000	福建省-漳州市-芗城区-芝山镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/06/02/350602102.html
+350602103000	福建省-漳州市-芗城区-石亭镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/06/02/350602103.html
+350602400000	福建省-漳州市-芗城区-芗城区奶牛场	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/06/02/350602400.html
+350602402000	福建省-漳州市-芗城区-天宝林场	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/06/02/350602402.html

@@ -1,0 +1,5 @@
+330901000000	浙江省-舟山市-市辖区	
+330902000000	浙江省-舟山市-定海区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/09/330902.html
+330903000000	浙江省-舟山市-普陀区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/09/330903.html
+330921000000	浙江省-舟山市-岱山县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/09/330921.html
+330922000000	浙江省-舟山市-嵊泗县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/09/330922.html

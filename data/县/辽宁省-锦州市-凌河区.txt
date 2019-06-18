@@ -1,0 +1,12 @@
+210703001000	辽宁省-锦州市-凌河区-正大街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/07/03/210703001.html
+210703002000	辽宁省-锦州市-凌河区-石桥子街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/07/03/210703002.html
+210703003000	辽宁省-锦州市-凌河区-龙江街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/07/03/210703003.html
+210703004000	辽宁省-锦州市-凌河区-榴花街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/07/03/210703004.html
+210703005000	辽宁省-锦州市-凌河区-铁新街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/07/03/210703005.html
+210703006000	辽宁省-锦州市-凌河区-凌安街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/07/03/210703006.html
+210703007000	辽宁省-锦州市-凌河区-菊园街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/07/03/210703007.html
+210703008000	辽宁省-锦州市-凌河区-康宁街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/07/03/210703008.html
+210703009000	辽宁省-锦州市-凌河区-锦铁街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/07/03/210703009.html
+210703010000	辽宁省-锦州市-凌河区-马家洼子街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/07/03/210703010.html
+210703011000	辽宁省-锦州市-凌河区-紫荆街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/07/03/210703011.html
+210703403000	辽宁省-锦州市-凌河区-锦州北山农工商总公司	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/07/03/210703403.html

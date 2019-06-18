@@ -1,0 +1,14 @@
+341723100000	安徽省-池州市-青阳县-蓉城镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/17/23/341723100.html
+341723101000	安徽省-池州市-青阳县-木镇镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/17/23/341723101.html
+341723102000	安徽省-池州市-青阳县-庙前镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/17/23/341723102.html
+341723103000	安徽省-池州市-青阳县-陵阳镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/17/23/341723103.html
+341723104000	安徽省-池州市-青阳县-新河镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/17/23/341723104.html
+341723105000	安徽省-池州市-青阳县-丁桥镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/17/23/341723105.html
+341723106000	安徽省-池州市-青阳县-朱备镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/17/23/341723106.html
+341723107000	安徽省-池州市-青阳县-杨田镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/17/23/341723107.html
+341723108000	安徽省-池州市-青阳县-九华镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/17/23/341723108.html
+341723109000	安徽省-池州市-青阳县-酉华镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/17/23/341723109.html
+341723200000	安徽省-池州市-青阳县-乔木乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/17/23/341723200.html
+341723202000	安徽省-池州市-青阳县-杜村乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/17/23/341723202.html
+341723203000	安徽省-池州市-青阳县-九华乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/17/23/341723203.html
+341723400000	安徽省-池州市-青阳县-青阳县开发区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/17/23/341723400.html

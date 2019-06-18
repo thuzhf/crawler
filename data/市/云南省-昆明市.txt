@@ -1,0 +1,15 @@
+530101000000	云南省-昆明市-市辖区	
+530102000000	云南省-昆明市-五华区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/01/530102.html
+530103000000	云南省-昆明市-盘龙区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/01/530103.html
+530111000000	云南省-昆明市-官渡区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/01/530111.html
+530112000000	云南省-昆明市-西山区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/01/530112.html
+530113000000	云南省-昆明市-东川区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/01/530113.html
+530114000000	云南省-昆明市-呈贡区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/01/530114.html
+530115000000	云南省-昆明市-晋宁区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/01/530115.html
+530124000000	云南省-昆明市-富民县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/01/530124.html
+530125000000	云南省-昆明市-宜良县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/01/530125.html
+530126000000	云南省-昆明市-石林彝族自治县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/01/530126.html
+530127000000	云南省-昆明市-嵩明县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/01/530127.html
+530128000000	云南省-昆明市-禄劝彝族苗族自治县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/01/530128.html
+530129000000	云南省-昆明市-寻甸回族彝族自治县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/01/530129.html
+530181000000	云南省-昆明市-安宁市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/01/530181.html

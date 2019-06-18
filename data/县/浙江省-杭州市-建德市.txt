@@ -1,0 +1,16 @@
+330182001000	浙江省-杭州市-建德市-新安江街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/01/82/330182001.html
+330182002000	浙江省-杭州市-建德市-洋溪街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/01/82/330182002.html
+330182003000	浙江省-杭州市-建德市-更楼街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/01/82/330182003.html
+330182101000	浙江省-杭州市-建德市-莲花镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/01/82/330182101.html
+330182102000	浙江省-杭州市-建德市-乾潭镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/01/82/330182102.html
+330182104000	浙江省-杭州市-建德市-梅城镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/01/82/330182104.html
+330182105000	浙江省-杭州市-建德市-杨村桥镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/01/82/330182105.html
+330182106000	浙江省-杭州市-建德市-下涯镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/01/82/330182106.html
+330182107000	浙江省-杭州市-建德市-大洋镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/01/82/330182107.html
+330182108000	浙江省-杭州市-建德市-三都镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/01/82/330182108.html
+330182109000	浙江省-杭州市-建德市-寿昌镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/01/82/330182109.html
+330182110000	浙江省-杭州市-建德市-航头镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/01/82/330182110.html
+330182111000	浙江省-杭州市-建德市-大慈岩镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/01/82/330182111.html
+330182112000	浙江省-杭州市-建德市-大同镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/01/82/330182112.html
+330182113000	浙江省-杭州市-建德市-李家镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/01/82/330182113.html
+330182202000	浙江省-杭州市-建德市-钦堂乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/01/82/330182202.html

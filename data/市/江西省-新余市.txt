@@ -1,0 +1,3 @@
+360501000000	江西省-新余市-市辖区	
+360502000000	江西省-新余市-渝水区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/05/360502.html
+360521000000	江西省-新余市-分宜县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/05/360521.html

@@ -1,0 +1,8 @@
+140502001000	山西省-晋城市-城区-东街街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/05/02/140502001.html
+140502002000	山西省-晋城市-城区-西街街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/05/02/140502002.html
+140502003000	山西省-晋城市-城区-南街街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/05/02/140502003.html
+140502004000	山西省-晋城市-城区-北街街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/05/02/140502004.html
+140502006000	山西省-晋城市-城区-钟家庄办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/05/02/140502006.html
+140502007000	山西省-晋城市-城区-西上庄办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/05/02/140502007.html
+140502009000	山西省-晋城市-城区-开发区街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/05/02/140502009.html
+140502100000	山西省-晋城市-城区-北石店镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/05/02/140502100.html

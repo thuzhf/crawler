@@ -1,0 +1,7 @@
+360104002000	江西省-南昌市-青云谱区-洪都街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/01/04/360104002.html
+360104006000	江西省-南昌市-青云谱区-京山街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/01/04/360104006.html
+360104007000	江西省-南昌市-青云谱区-三家店街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/01/04/360104007.html
+360104008000	江西省-南昌市-青云谱区-岱山街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/01/04/360104008.html
+360104009000	江西省-南昌市-青云谱区-徐家坊街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/01/04/360104009.html
+360104100000	江西省-南昌市-青云谱区-青云谱镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/01/04/360104100.html
+360104400000	江西省-南昌市-青云谱区-南昌昌南工业园	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/01/04/360104400.html

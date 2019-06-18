@@ -1,0 +1,11 @@
+520601000000	贵州省-铜仁市-市辖区	
+520602000000	贵州省-铜仁市-碧江区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/52/06/520602.html
+520603000000	贵州省-铜仁市-万山区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/52/06/520603.html
+520621000000	贵州省-铜仁市-江口县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/52/06/520621.html
+520622000000	贵州省-铜仁市-玉屏侗族自治县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/52/06/520622.html
+520623000000	贵州省-铜仁市-石阡县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/52/06/520623.html
+520624000000	贵州省-铜仁市-思南县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/52/06/520624.html
+520625000000	贵州省-铜仁市-印江土家族苗族自治县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/52/06/520625.html
+520626000000	贵州省-铜仁市-德江县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/52/06/520626.html
+520627000000	贵州省-铜仁市-沿河土家族自治县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/52/06/520627.html
+520628000000	贵州省-铜仁市-松桃苗族自治县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/52/06/520628.html

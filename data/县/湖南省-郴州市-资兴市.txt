@@ -1,0 +1,13 @@
+431081001000	湖南省-郴州市-资兴市-唐洞街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/10/81/431081001.html
+431081002000	湖南省-郴州市-资兴市-东江街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/10/81/431081002.html
+431081100000	湖南省-郴州市-资兴市-滁口镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/10/81/431081100.html
+431081102000	湖南省-郴州市-资兴市-三都镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/10/81/431081102.html
+431081103000	湖南省-郴州市-资兴市-蓼江镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/10/81/431081103.html
+431081105000	湖南省-郴州市-资兴市-兴宁镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/10/81/431081105.html
+431081106000	湖南省-郴州市-资兴市-州门司镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/10/81/431081106.html
+431081108000	湖南省-郴州市-资兴市-黄草镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/10/81/431081108.html
+431081110000	湖南省-郴州市-资兴市-汤溪镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/10/81/431081110.html
+431081112000	湖南省-郴州市-资兴市-清江镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/10/81/431081112.html
+431081113000	湖南省-郴州市-资兴市-白廊镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/10/81/431081113.html
+431081219000	湖南省-郴州市-资兴市-回龙山瑶族乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/10/81/431081219.html
+431081220000	湖南省-郴州市-资兴市-八面山瑶族乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/10/81/431081220.html

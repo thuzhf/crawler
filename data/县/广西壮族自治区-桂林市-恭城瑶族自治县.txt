@@ -1,0 +1,9 @@
+450332100000	广西壮族自治区-桂林市-恭城瑶族自治县-恭城镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/03/32/450332100.html
+450332101000	广西壮族自治区-桂林市-恭城瑶族自治县-栗木镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/03/32/450332101.html
+450332102000	广西壮族自治区-桂林市-恭城瑶族自治县-莲花镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/03/32/450332102.html
+450332103000	广西壮族自治区-桂林市-恭城瑶族自治县-嘉会镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/03/32/450332103.html
+450332104000	广西壮族自治区-桂林市-恭城瑶族自治县-西岭镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/03/32/450332104.html
+450332200000	广西壮族自治区-桂林市-恭城瑶族自治县-平安乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/03/32/450332200.html
+450332201000	广西壮族自治区-桂林市-恭城瑶族自治县-三江乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/03/32/450332201.html
+450332204000	广西壮族自治区-桂林市-恭城瑶族自治县-观音乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/03/32/450332204.html
+450332205000	广西壮族自治区-桂林市-恭城瑶族自治县-龙虎乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/03/32/450332205.html

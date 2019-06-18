@@ -1,0 +1,6 @@
+360105001000	江西省-南昌市-湾里区-站前街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/01/05/360105001.html
+360105002000	江西省-南昌市-湾里区-幸福街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/01/05/360105002.html
+360105100000	江西省-南昌市-湾里区-招贤镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/01/05/360105100.html
+360105101000	江西省-南昌市-湾里区-梅岭镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/01/05/360105101.html
+360105102000	江西省-南昌市-湾里区-罗亭镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/01/05/360105102.html
+360105103000	江西省-南昌市-湾里区-太平镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/01/05/360105103.html

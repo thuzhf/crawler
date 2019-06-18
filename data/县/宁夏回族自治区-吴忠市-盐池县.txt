@@ -1,0 +1,8 @@
+640323100000	宁夏回族自治区-吴忠市-盐池县-花马池镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/64/03/23/640323100.html
+640323101000	宁夏回族自治区-吴忠市-盐池县-大水坑镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/64/03/23/640323101.html
+640323102000	宁夏回族自治区-吴忠市-盐池县-惠安堡镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/64/03/23/640323102.html
+640323103000	宁夏回族自治区-吴忠市-盐池县-高沙窝镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/64/03/23/640323103.html
+640323200000	宁夏回族自治区-吴忠市-盐池县-王乐井乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/64/03/23/640323200.html
+640323201000	宁夏回族自治区-吴忠市-盐池县-冯记沟乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/64/03/23/640323201.html
+640323202000	宁夏回族自治区-吴忠市-盐池县-青山乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/64/03/23/640323202.html
+640323203000	宁夏回族自治区-吴忠市-盐池县-麻黄山乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/64/03/23/640323203.html

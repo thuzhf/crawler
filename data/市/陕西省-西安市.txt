@@ -1,0 +1,14 @@
+610101000000	陕西省-西安市-市辖区	
+610102000000	陕西省-西安市-新城区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/61/01/610102.html
+610103000000	陕西省-西安市-碑林区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/61/01/610103.html
+610104000000	陕西省-西安市-莲湖区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/61/01/610104.html
+610111000000	陕西省-西安市-灞桥区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/61/01/610111.html
+610112000000	陕西省-西安市-未央区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/61/01/610112.html
+610113000000	陕西省-西安市-雁塔区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/61/01/610113.html
+610114000000	陕西省-西安市-阎良区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/61/01/610114.html
+610115000000	陕西省-西安市-临潼区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/61/01/610115.html
+610116000000	陕西省-西安市-长安区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/61/01/610116.html
+610117000000	陕西省-西安市-高陵区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/61/01/610117.html
+610118000000	陕西省-西安市-鄠邑区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/61/01/610118.html
+610122000000	陕西省-西安市-蓝田县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/61/01/610122.html
+610124000000	陕西省-西安市-周至县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/61/01/610124.html

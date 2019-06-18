@@ -1,0 +1,13 @@
+520115100000	贵州省-贵阳市-观山湖区-金华镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/52/01/15/520115100.html
+520115101000	贵州省-贵阳市-观山湖区-朱昌镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/52/01/15/520115101.html
+520115102000	贵州省-贵阳市-观山湖区-百花湖镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/52/01/15/520115102.html
+520115400000	贵州省-贵阳市-观山湖区-世纪城社区服务中心	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/52/01/15/520115400.html
+520115401000	贵州省-贵阳市-观山湖区-金源社区服务中心	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/52/01/15/520115401.html
+520115402000	贵州省-贵阳市-观山湖区-逸景社区服务中心	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/52/01/15/520115402.html
+520115403000	贵州省-贵阳市-观山湖区-碧海社区服务中心	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/52/01/15/520115403.html
+520115404000	贵州省-贵阳市-观山湖区-金麦社区服务中心	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/52/01/15/520115404.html
+520115405000	贵州省-贵阳市-观山湖区-新世界社区服务中心	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/52/01/15/520115405.html
+520115406000	贵州省-贵阳市-观山湖区-金华园社区服务中心	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/52/01/15/520115406.html
+520115407000	贵州省-贵阳市-观山湖区-金岭社区服务中心	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/52/01/15/520115407.html
+520115408000	贵州省-贵阳市-观山湖区-会展社区服务中心	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/52/01/15/520115408.html
+520115409000	贵州省-贵阳市-观山湖区-观山社区服务中心	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/52/01/15/520115409.html

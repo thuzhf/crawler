@@ -1,0 +1,10 @@
+652801000000	新疆维吾尔自治区-巴音郭楞蒙古自治州-库尔勒市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/28/652801.html
+652822000000	新疆维吾尔自治区-巴音郭楞蒙古自治州-轮台县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/28/652822.html
+652823000000	新疆维吾尔自治区-巴音郭楞蒙古自治州-尉犁县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/28/652823.html
+652824000000	新疆维吾尔自治区-巴音郭楞蒙古自治州-若羌县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/28/652824.html
+652825000000	新疆维吾尔自治区-巴音郭楞蒙古自治州-且末县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/28/652825.html
+652826000000	新疆维吾尔自治区-巴音郭楞蒙古自治州-焉耆回族自治县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/28/652826.html
+652827000000	新疆维吾尔自治区-巴音郭楞蒙古自治州-和静县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/28/652827.html
+652828000000	新疆维吾尔自治区-巴音郭楞蒙古自治州-和硕县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/28/652828.html
+652829000000	新疆维吾尔自治区-巴音郭楞蒙古自治州-博湖县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/28/652829.html
+652871000000	新疆维吾尔自治区-巴音郭楞蒙古自治州-库尔勒经济技术开发区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/28/652871.html

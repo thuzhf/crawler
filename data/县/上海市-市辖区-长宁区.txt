@@ -1,0 +1,10 @@
+310105001000	上海市-市辖区-长宁区-华阳路街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/31/01/05/310105001.html
+310105002000	上海市-市辖区-长宁区-江苏路街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/31/01/05/310105002.html
+310105004000	上海市-市辖区-长宁区-新华路街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/31/01/05/310105004.html
+310105005000	上海市-市辖区-长宁区-周家桥街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/31/01/05/310105005.html
+310105006000	上海市-市辖区-长宁区-天山路街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/31/01/05/310105006.html
+310105008000	上海市-市辖区-长宁区-仙霞新村街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/31/01/05/310105008.html
+310105009000	上海市-市辖区-长宁区-虹桥街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/31/01/05/310105009.html
+310105010000	上海市-市辖区-长宁区-程家桥街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/31/01/05/310105010.html
+310105011000	上海市-市辖区-长宁区-北新泾街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/31/01/05/310105011.html
+310105102000	上海市-市辖区-长宁区-新泾镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/31/01/05/310105102.html

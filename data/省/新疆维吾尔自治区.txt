@@ -1,0 +1,15 @@
+650100000000	新疆维吾尔自治区-乌鲁木齐市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/6501.html
+650200000000	新疆维吾尔自治区-克拉玛依市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/6502.html
+650400000000	新疆维吾尔自治区-吐鲁番市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/6504.html
+650500000000	新疆维吾尔自治区-哈密市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/6505.html
+652300000000	新疆维吾尔自治区-昌吉回族自治州	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/6523.html
+652700000000	新疆维吾尔自治区-博尔塔拉蒙古自治州	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/6527.html
+652800000000	新疆维吾尔自治区-巴音郭楞蒙古自治州	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/6528.html
+652900000000	新疆维吾尔自治区-阿克苏地区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/6529.html
+653000000000	新疆维吾尔自治区-克孜勒苏柯尔克孜自治州	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/6530.html
+653100000000	新疆维吾尔自治区-喀什地区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/6531.html
+653200000000	新疆维吾尔自治区-和田地区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/6532.html
+654000000000	新疆维吾尔自治区-伊犁哈萨克自治州	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/6540.html
+654200000000	新疆维吾尔自治区-塔城地区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/6542.html
+654300000000	新疆维吾尔自治区-阿勒泰地区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/6543.html
+659000000000	新疆维吾尔自治区-自治区直辖县级行政区划	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/6590.html

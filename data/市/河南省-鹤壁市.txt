@@ -1,0 +1,7 @@
+410601000000	河南省-鹤壁市-市辖区	
+410602000000	河南省-鹤壁市-鹤山区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/06/410602.html
+410603000000	河南省-鹤壁市-山城区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/06/410603.html
+410611000000	河南省-鹤壁市-淇滨区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/06/410611.html
+410621000000	河南省-鹤壁市-浚县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/06/410621.html
+410622000000	河南省-鹤壁市-淇县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/06/410622.html
+410671000000	河南省-鹤壁市-鹤壁经济技术开发区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/06/410671.html

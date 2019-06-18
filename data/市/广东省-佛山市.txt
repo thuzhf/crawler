@@ -1,0 +1,6 @@
+440601000000	广东省-佛山市-市辖区	
+440604000000	广东省-佛山市-禅城区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/06/440604.html
+440605000000	广东省-佛山市-南海区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/06/440605.html
+440606000000	广东省-佛山市-顺德区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/06/440606.html
+440607000000	广东省-佛山市-三水区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/06/440607.html
+440608000000	广东省-佛山市-高明区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/06/440608.html

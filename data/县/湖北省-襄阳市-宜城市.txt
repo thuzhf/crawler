@@ -1,0 +1,14 @@
+420684001000	湖北省-襄阳市-宜城市-鄢城街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/06/84/420684001.html
+420684002000	湖北省-襄阳市-宜城市-南营街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/06/84/420684002.html
+420684102000	湖北省-襄阳市-宜城市-郑集镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/06/84/420684102.html
+420684103000	湖北省-襄阳市-宜城市-小河镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/06/84/420684103.html
+420684104000	湖北省-襄阳市-宜城市-刘猴镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/06/84/420684104.html
+420684105000	湖北省-襄阳市-宜城市-孔湾镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/06/84/420684105.html
+420684106000	湖北省-襄阳市-宜城市-流水镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/06/84/420684106.html
+420684107000	湖北省-襄阳市-宜城市-板桥镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/06/84/420684107.html
+420684108000	湖北省-襄阳市-宜城市-王集镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/06/84/420684108.html
+420684109000	湖北省-襄阳市-宜城市-雷河镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/06/84/420684109.html
+420684400000	湖北省-襄阳市-宜城市-襄南监狱	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/06/84/420684400.html
+420684401000	湖北省-襄阳市-宜城市-劳教所	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/06/84/420684401.html
+420684450000	湖北省-襄阳市-宜城市-大雁工业园区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/06/84/420684450.html
+420684452000	湖北省-襄阳市-宜城市-宜城经济开发区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/06/84/420684452.html

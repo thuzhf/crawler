@@ -1,0 +1,11 @@
+460106001000	海南省-海口市-龙华区-中山街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/46/01/06/460106001.html
+460106002000	海南省-海口市-龙华区-滨海街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/46/01/06/460106002.html
+460106003000	海南省-海口市-龙华区-金贸街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/46/01/06/460106003.html
+460106004000	海南省-海口市-龙华区-大同街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/46/01/06/460106004.html
+460106005000	海南省-海口市-龙华区-海垦街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/46/01/06/460106005.html
+460106006000	海南省-海口市-龙华区-金宇街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/46/01/06/460106006.html
+460106100000	海南省-海口市-龙华区-城西镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/46/01/06/460106100.html
+460106101000	海南省-海口市-龙华区-龙桥镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/46/01/06/460106101.html
+460106102000	海南省-海口市-龙华区-新坡镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/46/01/06/460106102.html
+460106103000	海南省-海口市-龙华区-遵谭镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/46/01/06/460106103.html
+460106104000	海南省-海口市-龙华区-龙泉镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/46/01/06/460106104.html

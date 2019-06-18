@@ -1,0 +1,11 @@
+540329100000	西藏自治区-昌都市-洛隆县-孜托镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/03/29/540329100.html
+540329101000	西藏自治区-昌都市-洛隆县-硕督镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/03/29/540329101.html
+540329111000	西藏自治区-昌都市-洛隆县-康沙镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/03/29/540329111.html
+540329112000	西藏自治区-昌都市-洛隆县-马利镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/03/29/540329112.html
+540329200000	西藏自治区-昌都市-洛隆县-达龙乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/03/29/540329200.html
+540329201000	西藏自治区-昌都市-洛隆县-新荣乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/03/29/540329201.html
+540329202000	西藏自治区-昌都市-洛隆县-白达乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/03/29/540329202.html
+540329203000	西藏自治区-昌都市-洛隆县-玉西乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/03/29/540329203.html
+540329204000	西藏自治区-昌都市-洛隆县-腊久乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/03/29/540329204.html
+540329205000	西藏自治区-昌都市-洛隆县-俄西乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/03/29/540329205.html
+540329206000	西藏自治区-昌都市-洛隆县-中亦乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/03/29/540329206.html

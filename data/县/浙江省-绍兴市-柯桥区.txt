@@ -1,0 +1,16 @@
+330603001000	浙江省-绍兴市-柯桥区-柯桥街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/06/03/330603001.html
+330603002000	浙江省-绍兴市-柯桥区-柯岩街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/06/03/330603002.html
+330603003000	浙江省-绍兴市-柯桥区-华舍街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/06/03/330603003.html
+330603004000	浙江省-绍兴市-柯桥区-湖塘街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/06/03/330603004.html
+330603005000	浙江省-绍兴市-柯桥区-齐贤街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/06/03/330603005.html
+330603006000	浙江省-绍兴市-柯桥区-福全街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/06/03/330603006.html
+330603007000	浙江省-绍兴市-柯桥区-安昌街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/06/03/330603007.html
+330603008000	浙江省-绍兴市-柯桥区-兰亭街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/06/03/330603008.html
+330603101000	浙江省-绍兴市-柯桥区-钱清镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/06/03/330603101.html
+330603104000	浙江省-绍兴市-柯桥区-马鞍镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/06/03/330603104.html
+330603105000	浙江省-绍兴市-柯桥区-平水镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/06/03/330603105.html
+330603107000	浙江省-绍兴市-柯桥区-王坛镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/06/03/330603107.html
+330603109000	浙江省-绍兴市-柯桥区-稽东镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/06/03/330603109.html
+330603110000	浙江省-绍兴市-柯桥区-杨汛桥镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/06/03/330603110.html
+330603111000	浙江省-绍兴市-柯桥区-漓渚镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/06/03/330603111.html
+330603114000	浙江省-绍兴市-柯桥区-夏履镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/06/03/330603114.html

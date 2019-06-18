@@ -1,0 +1,15 @@
+230606001000	黑龙江省-大庆市-大同区-庆葡街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/06/06/230606001.html
+230606002000	黑龙江省-大庆市-大同区-高台子镇街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/06/06/230606002.html
+230606004000	黑龙江省-大庆市-大同区-林源镇街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/06/06/230606004.html
+230606005000	黑龙江省-大庆市-大同区-立志街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/06/06/230606005.html
+230606006000	黑龙江省-大庆市-大同区-新华街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/06/06/230606006.html
+230606007000	黑龙江省-大庆市-大同区-大同镇街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/06/06/230606007.html
+230606100000	黑龙江省-大庆市-大同区-大同镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/06/06/230606100.html
+230606101000	黑龙江省-大庆市-大同区-高台子镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/06/06/230606101.html
+230606102000	黑龙江省-大庆市-大同区-太阳升镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/06/06/230606102.html
+230606103000	黑龙江省-大庆市-大同区-林源镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/06/06/230606103.html
+230606200000	黑龙江省-大庆市-大同区-祝三乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/06/06/230606200.html
+230606203000	黑龙江省-大庆市-大同区-老山头乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/06/06/230606203.html
+230606205000	黑龙江省-大庆市-大同区-八井子乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/06/06/230606205.html
+230606206000	黑龙江省-大庆市-大同区-双榆树乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/06/06/230606206.html
+230606500000	黑龙江省-大庆市-大同区-和平牧场	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/06/06/230606500.html

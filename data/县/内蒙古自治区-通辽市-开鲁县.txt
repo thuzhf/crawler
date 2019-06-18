@@ -1,0 +1,13 @@
+150523100000	内蒙古自治区-通辽市-开鲁县-开鲁镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/05/23/150523100.html
+150523101000	内蒙古自治区-通辽市-开鲁县-大榆树镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/05/23/150523101.html
+150523102000	内蒙古自治区-通辽市-开鲁县-黑龙坝镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/05/23/150523102.html
+150523103000	内蒙古自治区-通辽市-开鲁县-麦新镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/05/23/150523103.html
+150523104000	内蒙古自治区-通辽市-开鲁县-义和塔拉镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/05/23/150523104.html
+150523105000	内蒙古自治区-通辽市-开鲁县-建华镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/05/23/150523105.html
+150523106000	内蒙古自治区-通辽市-开鲁县-小街基镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/05/23/150523106.html
+150523107000	内蒙古自治区-通辽市-开鲁县-东风镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/05/23/150523107.html
+150523108000	内蒙古自治区-通辽市-开鲁县-吉日嘎郎吐镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/05/23/150523108.html
+150523109000	内蒙古自治区-通辽市-开鲁县-东来镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/05/23/150523109.html
+150523400000	内蒙古自治区-通辽市-开鲁县-清河牧场	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/05/23/150523400.html
+150523401000	内蒙古自治区-通辽市-开鲁县-辽河农场	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/05/23/150523401.html
+150523402000	内蒙古自治区-通辽市-开鲁县-保安农场	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/05/23/150523402.html

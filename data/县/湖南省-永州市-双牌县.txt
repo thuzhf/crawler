@@ -1,0 +1,14 @@
+431123100000	湖南省-永州市-双牌县-泷泊镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/11/23/431123100.html
+431123101000	湖南省-永州市-双牌县-江村镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/11/23/431123101.html
+431123102000	湖南省-永州市-双牌县-五里牌镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/11/23/431123102.html
+431123103000	湖南省-永州市-双牌县-茶林镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/11/23/431123103.html
+431123104000	湖南省-永州市-双牌县-何家洞镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/11/23/431123104.html
+431123105000	湖南省-永州市-双牌县-麻江镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/11/23/431123105.html
+431123206000	湖南省-永州市-双牌县-塘底乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/11/23/431123206.html
+431123207000	湖南省-永州市-双牌县-上梧江瑶族乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/11/23/431123207.html
+431123208000	湖南省-永州市-双牌县-理家坪乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/11/23/431123208.html
+431123209000	湖南省-永州市-双牌县-五星岭乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/11/23/431123209.html
+431123210000	湖南省-永州市-双牌县-打鼓坪乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/11/23/431123210.html
+431123400000	湖南省-永州市-双牌县-双牌打鼓坪林场	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/11/23/431123400.html
+431123401000	湖南省-永州市-双牌县-双牌五星岭林场	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/11/23/431123401.html
+431123402000	湖南省-永州市-双牌县-阳明山国家森林公园管理局	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/11/23/431123402.html

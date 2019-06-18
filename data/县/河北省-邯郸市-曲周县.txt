@@ -1,0 +1,10 @@
+130435100000	河北省-邯郸市-曲周县-曲周镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/04/35/130435100.html
+130435101000	河北省-邯郸市-曲周县-安寨镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/04/35/130435101.html
+130435102000	河北省-邯郸市-曲周县-侯村镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/04/35/130435102.html
+130435103000	河北省-邯郸市-曲周县-河南疃镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/04/35/130435103.html
+130435104000	河北省-邯郸市-曲周县-第四疃镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/04/35/130435104.html
+130435105000	河北省-邯郸市-曲周县-白寨镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/04/35/130435105.html
+130435200000	河北省-邯郸市-曲周县-槐桥乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/04/35/130435200.html
+130435201000	河北省-邯郸市-曲周县-南里岳乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/04/35/130435201.html
+130435203000	河北省-邯郸市-曲周县-大河道乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/04/35/130435203.html
+130435204000	河北省-邯郸市-曲周县-依庄乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/04/35/130435204.html

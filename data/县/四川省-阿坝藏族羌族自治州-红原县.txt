@@ -1,0 +1,11 @@
+513233100000	四川省-阿坝藏族羌族自治州-红原县-邛溪镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/32/33/513233100.html
+513233101000	四川省-阿坝藏族羌族自治州-红原县-刷经寺镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/32/33/513233101.html
+513233102000	四川省-阿坝藏族羌族自治州-红原县-瓦切镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/32/33/513233102.html
+513233103000	四川省-阿坝藏族羌族自治州-红原县-安曲镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/32/33/513233103.html
+513233104000	四川省-阿坝藏族羌族自治州-红原县-色地镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/32/33/513233104.html
+513233201000	四川省-阿坝藏族羌族自治州-红原县-龙日乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/32/33/513233201.html
+513233202000	四川省-阿坝藏族羌族自治州-红原县-江茸乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/32/33/513233202.html
+513233203000	四川省-阿坝藏族羌族自治州-红原县-查尔玛乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/32/33/513233203.html
+513233205000	四川省-阿坝藏族羌族自治州-红原县-阿木乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/32/33/513233205.html
+513233206000	四川省-阿坝藏族羌族自治州-红原县-壤口乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/32/33/513233206.html
+513233207000	四川省-阿坝藏族羌族自治州-红原县-麦洼乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/32/33/513233207.html

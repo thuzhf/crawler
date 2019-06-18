@@ -1,0 +1,17 @@
+420323100000	湖北省-十堰市-竹山县-城关镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/03/23/420323100.html
+420323101000	湖北省-十堰市-竹山县-溢水镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/03/23/420323101.html
+420323102000	湖北省-十堰市-竹山县-麻家渡镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/03/23/420323102.html
+420323103000	湖北省-十堰市-竹山县-宝丰镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/03/23/420323103.html
+420323104000	湖北省-十堰市-竹山县-擂鼓镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/03/23/420323104.html
+420323105000	湖北省-十堰市-竹山县-秦古镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/03/23/420323105.html
+420323106000	湖北省-十堰市-竹山县-得胜镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/03/23/420323106.html
+420323107000	湖北省-十堰市-竹山县-上庸镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/03/23/420323107.html
+420323108000	湖北省-十堰市-竹山县-官渡镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/03/23/420323108.html
+420323200000	湖北省-十堰市-竹山县-潘口乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/03/23/420323200.html
+420323201000	湖北省-十堰市-竹山县-竹坪乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/03/23/420323201.html
+420323202000	湖北省-十堰市-竹山县-大庙乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/03/23/420323202.html
+420323203000	湖北省-十堰市-竹山县-双台乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/03/23/420323203.html
+420323204000	湖北省-十堰市-竹山县-楼台乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/03/23/420323204.html
+420323205000	湖北省-十堰市-竹山县-文峰乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/03/23/420323205.html
+420323206000	湖北省-十堰市-竹山县-深河乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/03/23/420323206.html
+420323207000	湖北省-十堰市-竹山县-柳林乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/03/23/420323207.html

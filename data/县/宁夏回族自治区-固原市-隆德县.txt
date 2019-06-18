@@ -1,0 +1,13 @@
+640423100000	宁夏回族自治区-固原市-隆德县-城关镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/64/04/23/640423100.html
+640423101000	宁夏回族自治区-固原市-隆德县-沙塘镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/64/04/23/640423101.html
+640423102000	宁夏回族自治区-固原市-隆德县-联财镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/64/04/23/640423102.html
+640423200000	宁夏回族自治区-固原市-隆德县-陈靳乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/64/04/23/640423200.html
+640423201000	宁夏回族自治区-固原市-隆德县-好水乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/64/04/23/640423201.html
+640423202000	宁夏回族自治区-固原市-隆德县-观庄乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/64/04/23/640423202.html
+640423203000	宁夏回族自治区-固原市-隆德县-杨河乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/64/04/23/640423203.html
+640423204000	宁夏回族自治区-固原市-隆德县-神林乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/64/04/23/640423204.html
+640423205000	宁夏回族自治区-固原市-隆德县-张程乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/64/04/23/640423205.html
+640423206000	宁夏回族自治区-固原市-隆德县-凤岭乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/64/04/23/640423206.html
+640423207000	宁夏回族自治区-固原市-隆德县-山河乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/64/04/23/640423207.html
+640423208000	宁夏回族自治区-固原市-隆德县-温堡乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/64/04/23/640423208.html
+640423209000	宁夏回族自治区-固原市-隆德县-奠安乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/64/04/23/640423209.html

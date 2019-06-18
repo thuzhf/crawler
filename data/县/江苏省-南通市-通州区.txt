@@ -1,0 +1,17 @@
+320612001000	江苏省-南通市-通州区-金沙街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/06/12/320612001.html
+320612002000	江苏省-南通市-通州区-兴东街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/06/12/320612002.html
+320612003000	江苏省-南通市-通州区-先锋街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/06/12/320612003.html
+320612004000	江苏省-南通市-通州区-金新街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/06/12/320612004.html
+320612101000	江苏省-南通市-通州区-西亭镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/06/12/320612101.html
+320612102000	江苏省-南通市-通州区-二甲镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/06/12/320612102.html
+320612103000	江苏省-南通市-通州区-东社镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/06/12/320612103.html
+320612104000	江苏省-南通市-通州区-三余镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/06/12/320612104.html
+320612107000	江苏省-南通市-通州区-十总镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/06/12/320612107.html
+320612110000	江苏省-南通市-通州区-石港镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/06/12/320612110.html
+320612112000	江苏省-南通市-通州区-刘桥镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/06/12/320612112.html
+320612114000	江苏省-南通市-通州区-平潮镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/06/12/320612114.html
+320612116000	江苏省-南通市-通州区-五接镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/06/12/320612116.html
+320612117000	江苏省-南通市-通州区-兴仁镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/06/12/320612117.html
+320612119000	江苏省-南通市-通州区-张芝山镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/06/12/320612119.html
+320612120000	江苏省-南通市-通州区-川姜镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/06/12/320612120.html
+320612401000	江苏省-南通市-通州区-环本农场	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/06/12/320612401.html

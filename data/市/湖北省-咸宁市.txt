@@ -1,0 +1,7 @@
+421201000000	湖北省-咸宁市-市辖区	
+421202000000	湖北省-咸宁市-咸安区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/12/421202.html
+421221000000	湖北省-咸宁市-嘉鱼县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/12/421221.html
+421222000000	湖北省-咸宁市-通城县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/12/421222.html
+421223000000	湖北省-咸宁市-崇阳县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/12/421223.html
+421224000000	湖北省-咸宁市-通山县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/12/421224.html
+421281000000	湖北省-咸宁市-赤壁市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/12/421281.html

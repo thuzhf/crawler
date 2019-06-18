@@ -1,0 +1,8 @@
+411201000000	河南省-三门峡市-市辖区	
+411202000000	河南省-三门峡市-湖滨区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/12/411202.html
+411203000000	河南省-三门峡市-陕州区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/12/411203.html
+411221000000	河南省-三门峡市-渑池县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/12/411221.html
+411224000000	河南省-三门峡市-卢氏县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/12/411224.html
+411271000000	河南省-三门峡市-河南三门峡经济开发区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/12/411271.html
+411281000000	河南省-三门峡市-义马市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/12/411281.html
+411282000000	河南省-三门峡市-灵宝市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/12/411282.html

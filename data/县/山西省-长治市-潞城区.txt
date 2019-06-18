@@ -1,0 +1,10 @@
+140406001000	山西省-长治市-潞城区-潞华街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/04/06/140406001.html
+140406002000	山西省-长治市-潞城区-成家川街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/04/06/140406002.html
+140406100000	山西省-长治市-潞城区-店上镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/04/06/140406100.html
+140406101000	山西省-长治市-潞城区-微子镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/04/06/140406101.html
+140406102000	山西省-长治市-潞城区-辛安泉镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/04/06/140406102.html
+140406103000	山西省-长治市-潞城区-翟店镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/04/06/140406103.html
+140406200000	山西省-长治市-潞城区-合室乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/04/06/140406200.html
+140406201000	山西省-长治市-潞城区-黄牛蹄乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/04/06/140406201.html
+140406202000	山西省-长治市-潞城区-史回乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/04/06/140406202.html
+140406400000	山西省-长治市-潞城区-潞城经济技术开发区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/04/06/140406400.html

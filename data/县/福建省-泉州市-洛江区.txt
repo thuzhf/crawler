@@ -1,0 +1,6 @@
+350504001000	福建省-泉州市-洛江区-万安街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/05/04/350504001.html
+350504002000	福建省-泉州市-洛江区-双阳街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/05/04/350504002.html
+350504100000	福建省-泉州市-洛江区-罗溪镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/05/04/350504100.html
+350504101000	福建省-泉州市-洛江区-马甲镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/05/04/350504101.html
+350504102000	福建省-泉州市-洛江区-河市镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/05/04/350504102.html
+350504200000	福建省-泉州市-洛江区-虹山乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/05/04/350504200.html

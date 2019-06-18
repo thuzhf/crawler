@@ -1,0 +1,10 @@
+310101002000	上海市-市辖区-黄浦区-南京东路街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/31/01/01/310101002.html
+310101013000	上海市-市辖区-黄浦区-外滩街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/31/01/01/310101013.html
+310101015000	上海市-市辖区-黄浦区-半淞园路街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/31/01/01/310101015.html
+310101017000	上海市-市辖区-黄浦区-小东门街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/31/01/01/310101017.html
+310101018000	上海市-市辖区-黄浦区-豫园街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/31/01/01/310101018.html
+310101019000	上海市-市辖区-黄浦区-老西门街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/31/01/01/310101019.html
+310101020000	上海市-市辖区-黄浦区-五里桥街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/31/01/01/310101020.html
+310101021000	上海市-市辖区-黄浦区-打浦桥街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/31/01/01/310101021.html
+310101022000	上海市-市辖区-黄浦区-淮海中路街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/31/01/01/310101022.html
+310101023000	上海市-市辖区-黄浦区-瑞金二路街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/31/01/01/310101023.html

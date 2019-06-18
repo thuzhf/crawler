@@ -1,0 +1,8 @@
+445302001000	广东省-云浮市-云城区-云城街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/53/02/445302001.html
+445302002000	广东省-云浮市-云城区-高峰街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/53/02/445302002.html
+445302003000	广东省-云浮市-云城区-河口街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/53/02/445302003.html
+445302004000	广东省-云浮市-云城区-安塘街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/53/02/445302004.html
+445302102000	广东省-云浮市-云城区-腰古镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/53/02/445302102.html
+445302103000	广东省-云浮市-云城区-思劳镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/53/02/445302103.html
+445302105000	广东省-云浮市-云城区-前锋镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/53/02/445302105.html
+445302106000	广东省-云浮市-云城区-南盛镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/53/02/445302106.html

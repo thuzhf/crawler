@@ -1,0 +1,12 @@
+530621101000	云南省-昭通市-鲁甸县-文屏镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/06/21/530621101.html
+530621102000	云南省-昭通市-鲁甸县-水磨镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/06/21/530621102.html
+530621103000	云南省-昭通市-鲁甸县-龙头山镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/06/21/530621103.html
+530621104000	云南省-昭通市-鲁甸县-小寨镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/06/21/530621104.html
+530621105000	云南省-昭通市-鲁甸县-江底镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/06/21/530621105.html
+530621106000	云南省-昭通市-鲁甸县-火德红镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/06/21/530621106.html
+530621107000	云南省-昭通市-鲁甸县-龙树镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/06/21/530621107.html
+530621108000	云南省-昭通市-鲁甸县-新街镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/06/21/530621108.html
+530621109000	云南省-昭通市-鲁甸县-梭山镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/06/21/530621109.html
+530621110000	云南省-昭通市-鲁甸县-乐红镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/06/21/530621110.html
+530621201000	云南省-昭通市-鲁甸县-桃源回族乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/06/21/530621201.html
+530621202000	云南省-昭通市-鲁甸县-茨院回族乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/06/21/530621202.html

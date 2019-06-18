@@ -1,0 +1,15 @@
+320111001000	江苏省-南京市-浦口区-泰山街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/01/11/320111001.html
+320111002000	江苏省-南京市-浦口区-顶山街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/01/11/320111002.html
+320111003000	江苏省-南京市-浦口区-沿江街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/01/11/320111003.html
+320111004000	江苏省-南京市-浦口区-江浦街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/01/11/320111004.html
+320111005000	江苏省-南京市-浦口区-桥林街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/01/11/320111005.html
+320111006000	江苏省-南京市-浦口区-汤泉街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/01/11/320111006.html
+320111007000	江苏省-南京市-浦口区-盘城街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/01/11/320111007.html
+320111008000	江苏省-南京市-浦口区-星甸街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/01/11/320111008.html
+320111009000	江苏省-南京市-浦口区-永宁街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/01/11/320111009.html
+320111400000	江苏省-南京市-浦口区-老山林场	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/01/11/320111400.html
+320111401000	江苏省-南京市-浦口区-汤泉农场	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/01/11/320111401.html
+320111402000	江苏省-南京市-浦口区-珍珠泉管委会	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/01/11/320111402.html
+320111403000	江苏省-南京市-浦口区-浦口经济开发区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/01/11/320111403.html
+320111404000	江苏省-南京市-浦口区-南京浦口高新技术产业开发区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/01/11/320111404.html
+320111450000	江苏省-南京市-浦口区-高新技术开发区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/01/11/320111450.html

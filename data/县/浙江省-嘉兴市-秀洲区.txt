@@ -1,0 +1,9 @@
+330411002000	浙江省-嘉兴市-秀洲区-新城街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/04/11/330411002.html
+330411003000	浙江省-嘉兴市-秀洲区-嘉北街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/04/11/330411003.html
+330411004000	浙江省-嘉兴市-秀洲区-塘汇街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/04/11/330411004.html
+330411005000	浙江省-嘉兴市-秀洲区-高照街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/04/11/330411005.html
+330411101000	浙江省-嘉兴市-秀洲区-王江泾镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/04/11/330411101.html
+330411103000	浙江省-嘉兴市-秀洲区-油车港镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/04/11/330411103.html
+330411104000	浙江省-嘉兴市-秀洲区-新塍镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/04/11/330411104.html
+330411105000	浙江省-嘉兴市-秀洲区-王店镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/04/11/330411105.html
+330411106000	浙江省-嘉兴市-秀洲区-洪合镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/04/11/330411106.html

@@ -1,0 +1,7 @@
+320611001000	江苏省-南通市-港闸区-永兴街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/06/11/320611001.html
+320611002000	江苏省-南通市-港闸区-唐闸镇街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/06/11/320611002.html
+320611003000	江苏省-南通市-港闸区-天生港镇街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/06/11/320611003.html
+320611004000	江苏省-南通市-港闸区-秦灶街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/06/11/320611004.html
+320611005000	江苏省-南通市-港闸区-陈桥街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/06/11/320611005.html
+320611006000	江苏省-南通市-港闸区-幸福街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/06/11/320611006.html
+320611400000	江苏省-南通市-港闸区-港闸开发区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/06/11/320611400.html

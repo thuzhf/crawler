@@ -1,0 +1,8 @@
+350723100000	福建省-南平市-光泽县-杭川镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/07/23/350723100.html
+350723101000	福建省-南平市-光泽县-寨里镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/07/23/350723101.html
+350723102000	福建省-南平市-光泽县-止马镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/07/23/350723102.html
+350723200000	福建省-南平市-光泽县-鸾凤乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/07/23/350723200.html
+350723201000	福建省-南平市-光泽县-崇仁乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/07/23/350723201.html
+350723202000	福建省-南平市-光泽县-李坊乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/07/23/350723202.html
+350723203000	福建省-南平市-光泽县-华桥乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/07/23/350723203.html
+350723204000	福建省-南平市-光泽县-司前乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/07/23/350723204.html

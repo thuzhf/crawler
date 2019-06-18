@@ -1,0 +1,16 @@
+152502001000	内蒙古自治区-锡林郭勒盟-锡林浩特市-希日塔拉街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/25/02/152502001.html
+152502002000	内蒙古自治区-锡林郭勒盟-锡林浩特市-宝力根街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/25/02/152502002.html
+152502003000	内蒙古自治区-锡林郭勒盟-锡林浩特市-杭盖街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/25/02/152502003.html
+152502004000	内蒙古自治区-锡林郭勒盟-锡林浩特市-楚古兰街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/25/02/152502004.html
+152502005000	内蒙古自治区-锡林郭勒盟-锡林浩特市-额尔敦街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/25/02/152502005.html
+152502006000	内蒙古自治区-锡林郭勒盟-锡林浩特市-南郊街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/25/02/152502006.html
+152502007000	内蒙古自治区-锡林郭勒盟-锡林浩特市-巴彦查干街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/25/02/152502007.html
+152502100000	内蒙古自治区-锡林郭勒盟-锡林浩特市-阿尔善宝拉格镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/25/02/152502100.html
+152502200000	内蒙古自治区-锡林郭勒盟-锡林浩特市-宝力根苏木	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/25/02/152502200.html
+152502201000	内蒙古自治区-锡林郭勒盟-锡林浩特市-朝克乌拉苏木	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/25/02/152502201.html
+152502202000	内蒙古自治区-锡林郭勒盟-锡林浩特市-巴彦锡勒办事处乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/25/02/152502202.html
+152502203000	内蒙古自治区-锡林郭勒盟-锡林浩特市-巴彦宝拉格苏木	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/25/02/152502203.html
+152502400000	内蒙古自治区-锡林郭勒盟-锡林浩特市-锡林郭勒盟经济技术开发区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/25/02/152502400.html
+152502500000	内蒙古自治区-锡林郭勒盟-锡林浩特市-白音库伦牧场	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/25/02/152502500.html
+152502501000	内蒙古自治区-锡林郭勒盟-锡林浩特市-贝力克牧场	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/25/02/152502501.html
+152502502000	内蒙古自治区-锡林郭勒盟-锡林浩特市-毛登牧场	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/25/02/152502502.html

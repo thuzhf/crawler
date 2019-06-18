@@ -1,0 +1,15 @@
+420117001000	湖北省-武汉市-新洲区-邾城街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/01/17/420117001.html
+420117002000	湖北省-武汉市-新洲区-阳逻街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/01/17/420117002.html
+420117003000	湖北省-武汉市-新洲区-仓埠街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/01/17/420117003.html
+420117004000	湖北省-武汉市-新洲区-汪集街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/01/17/420117004.html
+420117005000	湖北省-武汉市-新洲区-李集街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/01/17/420117005.html
+420117006000	湖北省-武汉市-新洲区-三店街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/01/17/420117006.html
+420117007000	湖北省-武汉市-新洲区-潘塘街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/01/17/420117007.html
+420117008000	湖北省-武汉市-新洲区-旧街街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/01/17/420117008.html
+420117009000	湖北省-武汉市-新洲区-双柳街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/01/17/420117009.html
+420117010000	湖北省-武汉市-新洲区-涨渡湖街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/01/17/420117010.html
+420117011000	湖北省-武汉市-新洲区-辛冲街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/01/17/420117011.html
+420117012000	湖北省-武汉市-新洲区-徐古街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/01/17/420117012.html
+420117102000	湖北省-武汉市-新洲区-凤凰镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/01/17/420117102.html
+420117400000	湖北省-武汉市-新洲区-道观河风景旅游管理处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/01/17/420117400.html
+420117406000	湖北省-武汉市-新洲区-新洲原种场	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/01/17/420117406.html

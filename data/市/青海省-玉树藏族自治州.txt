@@ -1,0 +1,6 @@
+632701000000	青海省-玉树藏族自治州-玉树市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/63/27/632701.html
+632722000000	青海省-玉树藏族自治州-杂多县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/63/27/632722.html
+632723000000	青海省-玉树藏族自治州-称多县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/63/27/632723.html
+632724000000	青海省-玉树藏族自治州-治多县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/63/27/632724.html
+632725000000	青海省-玉树藏族自治州-囊谦县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/63/27/632725.html
+632726000000	青海省-玉树藏族自治州-曲麻莱县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/63/27/632726.html

@@ -1,0 +1,5 @@
+542527100000	西藏自治区-阿里地区-措勤县-措勤镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/25/27/542527100.html
+542527200000	西藏自治区-阿里地区-措勤县-磁石乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/25/27/542527200.html
+542527201000	西藏自治区-阿里地区-措勤县-曲洛乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/25/27/542527201.html
+542527202000	西藏自治区-阿里地区-措勤县-江让乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/25/27/542527202.html
+542527203000	西藏自治区-阿里地区-措勤县-达雄乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/25/27/542527203.html

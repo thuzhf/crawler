@@ -1,0 +1,13 @@
+450381100000	广西壮族自治区-桂林市-荔浦市-荔城镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/03/81/450381100.html
+450381101000	广西壮族自治区-桂林市-荔浦市-东昌镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/03/81/450381101.html
+450381102000	广西壮族自治区-桂林市-荔浦市-新坪镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/03/81/450381102.html
+450381103000	广西壮族自治区-桂林市-荔浦市-杜莫镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/03/81/450381103.html
+450381104000	广西壮族自治区-桂林市-荔浦市-青山镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/03/81/450381104.html
+450381105000	广西壮族自治区-桂林市-荔浦市-修仁镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/03/81/450381105.html
+450381106000	广西壮族自治区-桂林市-荔浦市-大塘镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/03/81/450381106.html
+450381107000	广西壮族自治区-桂林市-荔浦市-花箦镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/03/81/450381107.html
+450381108000	广西壮族自治区-桂林市-荔浦市-双江镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/03/81/450381108.html
+450381109000	广西壮族自治区-桂林市-荔浦市-马岭镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/03/81/450381109.html
+450381200000	广西壮族自治区-桂林市-荔浦市-龙怀乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/03/81/450381200.html
+450381201000	广西壮族自治区-桂林市-荔浦市-茶城乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/03/81/450381201.html
+450381202000	广西壮族自治区-桂林市-荔浦市-蒲芦瑶族乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/03/81/450381202.html

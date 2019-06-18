@@ -1,0 +1,8 @@
+430212100000	湖南省-株洲市-渌口区-渌口镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/02/12/430212100.html
+430212101000	湖南省-株洲市-渌口区-朱亭镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/02/12/430212101.html
+430212106000	湖南省-株洲市-渌口区-古岳峰镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/02/12/430212106.html
+430212107000	湖南省-株洲市-渌口区-淦田镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/02/12/430212107.html
+430212108000	湖南省-株洲市-渌口区-龙门镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/02/12/430212108.html
+430212109000	湖南省-株洲市-渌口区-龙潭镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/02/12/430212109.html
+430212110000	湖南省-株洲市-渌口区-南洲镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/02/12/430212110.html
+430212111000	湖南省-株洲市-渌口区-龙船镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/02/12/430212111.html

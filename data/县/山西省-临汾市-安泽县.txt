@@ -1,0 +1,7 @@
+141026100000	山西省-临汾市-安泽县-府城镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/10/26/141026100.html
+141026101000	山西省-临汾市-安泽县-和川镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/10/26/141026101.html
+141026102000	山西省-临汾市-安泽县-唐城镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/10/26/141026102.html
+141026103000	山西省-临汾市-安泽县-冀氏镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/10/26/141026103.html
+141026200000	山西省-临汾市-安泽县-马必乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/10/26/141026200.html
+141026201000	山西省-临汾市-安泽县-杜村乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/10/26/141026201.html
+141026202000	山西省-临汾市-安泽县-良马乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/10/26/141026202.html

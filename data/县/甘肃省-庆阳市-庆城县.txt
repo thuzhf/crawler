@@ -1,0 +1,15 @@
+621021100000	甘肃省-庆阳市-庆城县-庆城镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/62/10/21/621021100.html
+621021101000	甘肃省-庆阳市-庆城县-驿马镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/62/10/21/621021101.html
+621021102000	甘肃省-庆阳市-庆城县-三十里铺镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/62/10/21/621021102.html
+621021103000	甘肃省-庆阳市-庆城县-马岭镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/62/10/21/621021103.html
+621021104000	甘肃省-庆阳市-庆城县-玄马镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/62/10/21/621021104.html
+621021105000	甘肃省-庆阳市-庆城县-白马铺镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/62/10/21/621021105.html
+621021106000	甘肃省-庆阳市-庆城县-桐川镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/62/10/21/621021106.html
+621021107000	甘肃省-庆阳市-庆城县-赤城镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/62/10/21/621021107.html
+621021108000	甘肃省-庆阳市-庆城县-高楼镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/62/10/21/621021108.html
+621021203000	甘肃省-庆阳市-庆城县-太白梁乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/62/10/21/621021203.html
+621021204000	甘肃省-庆阳市-庆城县-土桥乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/62/10/21/621021204.html
+621021205000	甘肃省-庆阳市-庆城县-蔡口集乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/62/10/21/621021205.html
+621021207000	甘肃省-庆阳市-庆城县-南庄乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/62/10/21/621021207.html
+621021208000	甘肃省-庆阳市-庆城县-翟家河乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/62/10/21/621021208.html
+621021209000	甘肃省-庆阳市-庆城县-蔡家庙乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/62/10/21/621021209.html

@@ -1,0 +1,12 @@
+340207001000	安徽省-芜湖市-鸠江区-四褐山街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/02/07/340207001.html
+340207002000	安徽省-芜湖市-鸠江区-裕溪口街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/02/07/340207002.html
+340207003000	安徽省-芜湖市-鸠江区-官陡街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/02/07/340207003.html
+340207004000	安徽省-芜湖市-鸠江区-湾里街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/02/07/340207004.html
+340207005000	安徽省-芜湖市-鸠江区-清水街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/02/07/340207005.html
+340207101000	安徽省-芜湖市-鸠江区-沈巷镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/02/07/340207101.html
+340207102000	安徽省-芜湖市-鸠江区-二坝镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/02/07/340207102.html
+340207103000	安徽省-芜湖市-鸠江区-汤沟镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/02/07/340207103.html
+340207104000	安徽省-芜湖市-鸠江区-白茆镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/02/07/340207104.html
+340207401000	安徽省-芜湖市-鸠江区-安徽省江北产业集中区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/02/07/340207401.html
+340207402000	安徽省-芜湖市-鸠江区-安徽芜湖鸠江经济开发区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/02/07/340207402.html
+340207403000	安徽省-芜湖市-鸠江区-鸠江经济开发区二坝园区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/02/07/340207403.html

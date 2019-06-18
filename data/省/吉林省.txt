@@ -1,0 +1,9 @@
+220100000000	吉林省-长春市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/2201.html
+220200000000	吉林省-吉林市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/2202.html
+220300000000	吉林省-四平市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/2203.html
+220400000000	吉林省-辽源市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/2204.html
+220500000000	吉林省-通化市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/2205.html
+220600000000	吉林省-白山市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/2206.html
+220700000000	吉林省-松原市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/2207.html
+220800000000	吉林省-白城市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/2208.html
+222400000000	吉林省-延边朝鲜族自治州	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/2224.html

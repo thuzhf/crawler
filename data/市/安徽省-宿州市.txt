@@ -1,0 +1,8 @@
+341301000000	安徽省-宿州市-市辖区	
+341302000000	安徽省-宿州市-埇桥区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/13/341302.html
+341321000000	安徽省-宿州市-砀山县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/13/341321.html
+341322000000	安徽省-宿州市-萧县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/13/341322.html
+341323000000	安徽省-宿州市-灵璧县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/13/341323.html
+341324000000	安徽省-宿州市-泗县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/13/341324.html
+341371000000	安徽省-宿州市-宿州马鞍山现代产业园区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/13/341371.html
+341372000000	安徽省-宿州市-宿州经济技术开发区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/13/341372.html

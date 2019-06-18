@@ -1,0 +1,15 @@
+430522100000	湖南省-邵阳市-新邵县-酿溪镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/05/22/430522100.html
+430522101000	湖南省-邵阳市-新邵县-严塘镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/05/22/430522101.html
+430522102000	湖南省-邵阳市-新邵县-雀塘镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/05/22/430522102.html
+430522103000	湖南省-邵阳市-新邵县-陈家坊镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/05/22/430522103.html
+430522104000	湖南省-邵阳市-新邵县-潭溪镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/05/22/430522104.html
+430522105000	湖南省-邵阳市-新邵县-寸石镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/05/22/430522105.html
+430522106000	湖南省-邵阳市-新邵县-坪上镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/05/22/430522106.html
+430522107000	湖南省-邵阳市-新邵县-龙溪铺镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/05/22/430522107.html
+430522108000	湖南省-邵阳市-新邵县-巨口铺镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/05/22/430522108.html
+430522109000	湖南省-邵阳市-新邵县-新田铺镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/05/22/430522109.html
+430522110000	湖南省-邵阳市-新邵县-小塘镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/05/22/430522110.html
+430522111000	湖南省-邵阳市-新邵县-太芝庙镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/05/22/430522111.html
+430522112000	湖南省-邵阳市-新邵县-大新镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/05/22/430522112.html
+430522200000	湖南省-邵阳市-新邵县-潭府乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/05/22/430522200.html
+430522203000	湖南省-邵阳市-新邵县-迎光乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/05/22/430522203.html

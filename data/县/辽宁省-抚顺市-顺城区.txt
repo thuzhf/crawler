@@ -1,0 +1,9 @@
+210411001000	辽宁省-抚顺市-顺城区-河东街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/04/11/210411001.html
+210411002000	辽宁省-抚顺市-顺城区-长春街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/04/11/210411002.html
+210411003000	辽宁省-抚顺市-顺城区-葛布街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/04/11/210411003.html
+210411004000	辽宁省-抚顺市-顺城区-将军堡街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/04/11/210411004.html
+210411005000	辽宁省-抚顺市-顺城区-新华街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/04/11/210411005.html
+210411007000	辽宁省-抚顺市-顺城区-抚顺城街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/04/11/210411007.html
+210411102000	辽宁省-抚顺市-顺城区-前甸镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/04/11/210411102.html
+210411201000	辽宁省-抚顺市-顺城区-河北乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/04/11/210411201.html
+210411205000	辽宁省-抚顺市-顺城区-会元乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/04/11/210411205.html

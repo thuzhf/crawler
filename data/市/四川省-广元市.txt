@@ -1,0 +1,8 @@
+510801000000	四川省-广元市-市辖区	
+510802000000	四川省-广元市-利州区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/08/510802.html
+510811000000	四川省-广元市-昭化区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/08/510811.html
+510812000000	四川省-广元市-朝天区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/08/510812.html
+510821000000	四川省-广元市-旺苍县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/08/510821.html
+510822000000	四川省-广元市-青川县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/08/510822.html
+510823000000	四川省-广元市-剑阁县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/08/510823.html
+510824000000	四川省-广元市-苍溪县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/08/510824.html

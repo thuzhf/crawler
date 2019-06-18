@@ -1,0 +1,15 @@
+370105001000	山东省-济南市-天桥区-无影山街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/01/05/370105001.html
+370105003000	山东省-济南市-天桥区-天桥东街街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/01/05/370105003.html
+370105004000	山东省-济南市-天桥区-北村街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/01/05/370105004.html
+370105005000	山东省-济南市-天桥区-南村街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/01/05/370105005.html
+370105006000	山东省-济南市-天桥区-堤口路街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/01/05/370105006.html
+370105007000	山东省-济南市-天桥区-北坦街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/01/05/370105007.html
+370105009000	山东省-济南市-天桥区-制锦市街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/01/05/370105009.html
+370105010000	山东省-济南市-天桥区-宝华街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/01/05/370105010.html
+370105011000	山东省-济南市-天桥区-官扎营街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/01/05/370105011.html
+370105012000	山东省-济南市-天桥区-纬北路街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/01/05/370105012.html
+370105013000	山东省-济南市-天桥区-药山街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/01/05/370105013.html
+370105014000	山东省-济南市-天桥区-北园街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/01/05/370105014.html
+370105015000	山东省-济南市-天桥区-泺口街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/01/05/370105015.html
+370105016000	山东省-济南市-天桥区-桑梓店街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/01/05/370105016.html
+370105017000	山东省-济南市-天桥区-大桥街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/01/05/370105017.html

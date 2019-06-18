@@ -1,0 +1,13 @@
+513201000000	四川省-阿坝藏族羌族自治州-马尔康市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/32/513201.html
+513221000000	四川省-阿坝藏族羌族自治州-汶川县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/32/513221.html
+513222000000	四川省-阿坝藏族羌族自治州-理县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/32/513222.html
+513223000000	四川省-阿坝藏族羌族自治州-茂县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/32/513223.html
+513224000000	四川省-阿坝藏族羌族自治州-松潘县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/32/513224.html
+513225000000	四川省-阿坝藏族羌族自治州-九寨沟县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/32/513225.html
+513226000000	四川省-阿坝藏族羌族自治州-金川县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/32/513226.html
+513227000000	四川省-阿坝藏族羌族自治州-小金县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/32/513227.html
+513228000000	四川省-阿坝藏族羌族自治州-黑水县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/32/513228.html
+513230000000	四川省-阿坝藏族羌族自治州-壤塘县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/32/513230.html
+513231000000	四川省-阿坝藏族羌族自治州-阿坝县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/32/513231.html
+513232000000	四川省-阿坝藏族羌族自治州-若尔盖县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/32/513232.html
+513233000000	四川省-阿坝藏族羌族自治州-红原县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/32/513233.html

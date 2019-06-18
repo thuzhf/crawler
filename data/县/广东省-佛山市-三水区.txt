@@ -1,0 +1,12 @@
+440607001000	广东省-佛山市-三水区-西南街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/06/07/440607001.html
+440607004000	广东省-佛山市-三水区-云东海街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/06/07/440607004.html
+440607101000	广东省-佛山市-三水区-大塘镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/06/07/440607101.html
+440607103000	广东省-佛山市-三水区-乐平镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/06/07/440607103.html
+440607104000	广东省-佛山市-三水区-白坭镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/06/07/440607104.html
+440607105000	广东省-佛山市-三水区-芦苞镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/06/07/440607105.html
+440607106000	广东省-佛山市-三水区-南山镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/06/07/440607106.html
+440607400000	广东省-佛山市-三水区-省三水劳教所	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/06/07/440607400.html
+440607401000	广东省-佛山市-三水区-省南丰劳教所	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/06/07/440607401.html
+440607402000	广东省-佛山市-三水区-省女子劳教所	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/06/07/440607402.html
+440607403000	广东省-佛山市-三水区-省第二戒毒劳教所	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/06/07/440607403.html
+440607404000	广东省-佛山市-三水区-广州军区三水农场	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/06/07/440607404.html

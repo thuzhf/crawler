@@ -1,0 +1,9 @@
+530901000000	云南省-临沧市-市辖区	
+530902000000	云南省-临沧市-临翔区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/09/530902.html
+530921000000	云南省-临沧市-凤庆县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/09/530921.html
+530922000000	云南省-临沧市-云县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/09/530922.html
+530923000000	云南省-临沧市-永德县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/09/530923.html
+530924000000	云南省-临沧市-镇康县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/09/530924.html
+530925000000	云南省-临沧市-双江拉祜族佤族布朗族傣族自治县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/09/530925.html
+530926000000	云南省-临沧市-耿马傣族佤族自治县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/09/530926.html
+530927000000	云南省-临沧市-沧源佤族自治县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/09/530927.html

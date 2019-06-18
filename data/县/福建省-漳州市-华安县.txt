@@ -1,0 +1,10 @@
+350629100000	福建省-漳州市-华安县-华丰镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/06/29/350629100.html
+350629101000	福建省-漳州市-华安县-丰山镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/06/29/350629101.html
+350629102000	福建省-漳州市-华安县-沙建镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/06/29/350629102.html
+350629103000	福建省-漳州市-华安县-新圩镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/06/29/350629103.html
+350629104000	福建省-漳州市-华安县-高安镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/06/29/350629104.html
+350629105000	福建省-漳州市-华安县-仙都镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/06/29/350629105.html
+350629200000	福建省-漳州市-华安县-高车乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/06/29/350629200.html
+350629201000	福建省-漳州市-华安县-马坑乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/06/29/350629201.html
+350629203000	福建省-漳州市-华安县-湖林乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/06/29/350629203.html
+350629400000	福建省-漳州市-华安县-福建土楼（华安）旅游区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/06/29/350629400.html

@@ -1,0 +1,11 @@
+440201000000	广东省-韶关市-市辖区	
+440203000000	广东省-韶关市-武江区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/02/440203.html
+440204000000	广东省-韶关市-浈江区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/02/440204.html
+440205000000	广东省-韶关市-曲江区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/02/440205.html
+440222000000	广东省-韶关市-始兴县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/02/440222.html
+440224000000	广东省-韶关市-仁化县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/02/440224.html
+440229000000	广东省-韶关市-翁源县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/02/440229.html
+440232000000	广东省-韶关市-乳源瑶族自治县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/02/440232.html
+440233000000	广东省-韶关市-新丰县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/02/440233.html
+440281000000	广东省-韶关市-乐昌市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/02/440281.html
+440282000000	广东省-韶关市-南雄市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/02/440282.html

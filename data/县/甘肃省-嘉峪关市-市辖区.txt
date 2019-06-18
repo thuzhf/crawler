@@ -1,0 +1,6 @@
+620201100000	甘肃省-嘉峪关市-市辖区-新城镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/62/02/01/620201100.html
+620201101000	甘肃省-嘉峪关市-市辖区-峪泉镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/62/02/01/620201101.html
+620201102000	甘肃省-嘉峪关市-市辖区-文殊镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/62/02/01/620201102.html
+620201401000	甘肃省-嘉峪关市-市辖区-雄关区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/62/02/01/620201401.html
+620201402000	甘肃省-嘉峪关市-市辖区-镜铁区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/62/02/01/620201402.html
+620201403000	甘肃省-嘉峪关市-市辖区-长城区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/62/02/01/620201403.html

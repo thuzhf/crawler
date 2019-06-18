@@ -1,0 +1,10 @@
+130301000000	河北省-秦皇岛市-市辖区	
+130302000000	河北省-秦皇岛市-海港区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/03/130302.html
+130303000000	河北省-秦皇岛市-山海关区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/03/130303.html
+130304000000	河北省-秦皇岛市-北戴河区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/03/130304.html
+130306000000	河北省-秦皇岛市-抚宁区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/03/130306.html
+130321000000	河北省-秦皇岛市-青龙满族自治县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/03/130321.html
+130322000000	河北省-秦皇岛市-昌黎县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/03/130322.html
+130324000000	河北省-秦皇岛市-卢龙县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/03/130324.html
+130371000000	河北省-秦皇岛市-秦皇岛市经济技术开发区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/03/130371.html
+130372000000	河北省-秦皇岛市-北戴河新区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/03/130372.html

@@ -1,0 +1,11 @@
+330201000000	浙江省-宁波市-市辖区	
+330203000000	浙江省-宁波市-海曙区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/02/330203.html
+330205000000	浙江省-宁波市-江北区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/02/330205.html
+330206000000	浙江省-宁波市-北仑区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/02/330206.html
+330211000000	浙江省-宁波市-镇海区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/02/330211.html
+330212000000	浙江省-宁波市-鄞州区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/02/330212.html
+330213000000	浙江省-宁波市-奉化区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/02/330213.html
+330225000000	浙江省-宁波市-象山县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/02/330225.html
+330226000000	浙江省-宁波市-宁海县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/02/330226.html
+330281000000	浙江省-宁波市-余姚市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/02/330281.html
+330282000000	浙江省-宁波市-慈溪市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/02/330282.html

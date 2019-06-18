@@ -1,0 +1,11 @@
+530402001000	云南省-玉溪市-红塔区-玉兴路街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/04/02/530402001.html
+530402002000	云南省-玉溪市-红塔区-凤凰路街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/04/02/530402002.html
+530402003000	云南省-玉溪市-红塔区-玉带路街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/04/02/530402003.html
+530402004000	云南省-玉溪市-红塔区-北城街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/04/02/530402004.html
+530402005000	云南省-玉溪市-红塔区-春和街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/04/02/530402005.html
+530402006000	云南省-玉溪市-红塔区-李棋街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/04/02/530402006.html
+530402007000	云南省-玉溪市-红塔区-大营街街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/04/02/530402007.html
+530402008000	云南省-玉溪市-红塔区-研和街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/04/02/530402008.html
+530402009000	云南省-玉溪市-红塔区-高仓街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/04/02/530402009.html
+530402201000	云南省-玉溪市-红塔区-小石桥彝族乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/04/02/530402201.html
+530402202000	云南省-玉溪市-红塔区-洛河彝族乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/04/02/530402202.html

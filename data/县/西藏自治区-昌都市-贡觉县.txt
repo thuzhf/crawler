@@ -1,0 +1,12 @@
+540322100000	西藏自治区-昌都市-贡觉县-莫洛镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/03/22/540322100.html
+540322200000	西藏自治区-昌都市-贡觉县-相皮乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/03/22/540322200.html
+540322201000	西藏自治区-昌都市-贡觉县-哈加乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/03/22/540322201.html
+540322202000	西藏自治区-昌都市-贡觉县-雄松乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/03/22/540322202.html
+540322203000	西藏自治区-昌都市-贡觉县-拉妥乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/03/22/540322203.html
+540322204000	西藏自治区-昌都市-贡觉县-阿旺乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/03/22/540322204.html
+540322205000	西藏自治区-昌都市-贡觉县-木协乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/03/22/540322205.html
+540322206000	西藏自治区-昌都市-贡觉县-罗麦乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/03/22/540322206.html
+540322207000	西藏自治区-昌都市-贡觉县-沙东乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/03/22/540322207.html
+540322208000	西藏自治区-昌都市-贡觉县-克日乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/03/22/540322208.html
+540322209000	西藏自治区-昌都市-贡觉县-则巴乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/03/22/540322209.html
+540322210000	西藏自治区-昌都市-贡觉县-敏都乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/03/22/540322210.html

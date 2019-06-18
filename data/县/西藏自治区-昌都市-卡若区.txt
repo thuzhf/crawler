@@ -1,0 +1,15 @@
+540302100000	西藏自治区-昌都市-卡若区-城关镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/03/02/540302100.html
+540302101000	西藏自治区-昌都市-卡若区-俄洛镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/03/02/540302101.html
+540302102000	西藏自治区-昌都市-卡若区-卡若镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/03/02/540302102.html
+540302200000	西藏自治区-昌都市-卡若区-芒达乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/03/02/540302200.html
+540302201000	西藏自治区-昌都市-卡若区-约巴乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/03/02/540302201.html
+540302202000	西藏自治区-昌都市-卡若区-妥坝乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/03/02/540302202.html
+540302203000	西藏自治区-昌都市-卡若区-拉多乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/03/02/540302203.html
+540302204000	西藏自治区-昌都市-卡若区-面达乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/03/02/540302204.html
+540302205000	西藏自治区-昌都市-卡若区-嘎玛乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/03/02/540302205.html
+540302206000	西藏自治区-昌都市-卡若区-柴维乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/03/02/540302206.html
+540302207000	西藏自治区-昌都市-卡若区-日通乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/03/02/540302207.html
+540302208000	西藏自治区-昌都市-卡若区-如意乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/03/02/540302208.html
+540302209000	西藏自治区-昌都市-卡若区-埃西乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/03/02/540302209.html
+540302210000	西藏自治区-昌都市-卡若区-若巴乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/03/02/540302210.html
+540302211000	西藏自治区-昌都市-卡若区-沙贡乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/03/02/540302211.html

@@ -1,0 +1,7 @@
+451301000000	广西壮族自治区-来宾市-市辖区	
+451302000000	广西壮族自治区-来宾市-兴宾区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/13/451302.html
+451321000000	广西壮族自治区-来宾市-忻城县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/13/451321.html
+451322000000	广西壮族自治区-来宾市-象州县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/13/451322.html
+451323000000	广西壮族自治区-来宾市-武宣县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/13/451323.html
+451324000000	广西壮族自治区-来宾市-金秀瑶族自治县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/13/451324.html
+451381000000	广西壮族自治区-来宾市-合山市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/13/451381.html

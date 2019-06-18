@@ -1,0 +1,8 @@
+340604001000	安徽省-淮北市-烈山区-杨庄街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/06/04/340604001.html
+340604002000	安徽省-淮北市-烈山区-临海童街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/06/04/340604002.html
+340604003000	安徽省-淮北市-烈山区-百善街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/06/04/340604003.html
+340604004000	安徽省-淮北市-烈山区-任楼街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/06/04/340604004.html
+340604100000	安徽省-淮北市-烈山区-烈山镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/06/04/340604100.html
+340604101000	安徽省-淮北市-烈山区-宋町镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/06/04/340604101.html
+340604102000	安徽省-淮北市-烈山区-古饶镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/06/04/340604102.html
+340604400000	安徽省-淮北市-烈山区-烈山区工业园	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/06/04/340604400.html

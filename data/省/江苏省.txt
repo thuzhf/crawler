@@ -1,0 +1,13 @@
+320100000000	江苏省-南京市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/3201.html
+320200000000	江苏省-无锡市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/3202.html
+320300000000	江苏省-徐州市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/3203.html
+320400000000	江苏省-常州市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/3204.html
+320500000000	江苏省-苏州市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/3205.html
+320600000000	江苏省-南通市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/3206.html
+320700000000	江苏省-连云港市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/3207.html
+320800000000	江苏省-淮安市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/3208.html
+320900000000	江苏省-盐城市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/3209.html
+321000000000	江苏省-扬州市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/3210.html
+321100000000	江苏省-镇江市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/3211.html
+321200000000	江苏省-泰州市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/3212.html
+321300000000	江苏省-宿迁市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/3213.html

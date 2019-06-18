@@ -1,0 +1,15 @@
+350128100000	福建省-福州市-平潭县-潭城镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/01/28/350128100.html
+350128101000	福建省-福州市-平潭县-苏澳镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/01/28/350128101.html
+350128102000	福建省-福州市-平潭县-流水镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/01/28/350128102.html
+350128103000	福建省-福州市-平潭县-澳前镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/01/28/350128103.html
+350128104000	福建省-福州市-平潭县-北厝镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/01/28/350128104.html
+350128105000	福建省-福州市-平潭县-平原镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/01/28/350128105.html
+350128106000	福建省-福州市-平潭县-敖东镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/01/28/350128106.html
+350128200000	福建省-福州市-平潭县-白青乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/01/28/350128200.html
+350128201000	福建省-福州市-平潭县-屿头乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/01/28/350128201.html
+350128202000	福建省-福州市-平潭县-大练乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/01/28/350128202.html
+350128203000	福建省-福州市-平潭县-芦洋乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/01/28/350128203.html
+350128204000	福建省-福州市-平潭县-中楼乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/01/28/350128204.html
+350128205000	福建省-福州市-平潭县-东庠乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/01/28/350128205.html
+350128206000	福建省-福州市-平潭县-岚城乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/01/28/350128206.html
+350128207000	福建省-福州市-平潭县-南海乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/01/28/350128207.html

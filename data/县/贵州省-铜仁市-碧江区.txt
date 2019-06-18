@@ -1,0 +1,13 @@
+520602001000	贵州省-铜仁市-碧江区-市中街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/52/06/02/520602001.html
+520602002000	贵州省-铜仁市-碧江区-环北街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/52/06/02/520602002.html
+520602003000	贵州省-铜仁市-碧江区-河西街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/52/06/02/520602003.html
+520602005000	贵州省-铜仁市-碧江区-灯塔街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/52/06/02/520602005.html
+520602006000	贵州省-铜仁市-碧江区-川硐街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/52/06/02/520602006.html
+520602101000	贵州省-铜仁市-碧江区-坝黄镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/52/06/02/520602101.html
+520602102000	贵州省-铜仁市-碧江区-云场坪镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/52/06/02/520602102.html
+520602103000	贵州省-铜仁市-碧江区-漾头镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/52/06/02/520602103.html
+520602200000	贵州省-铜仁市-碧江区-桐木坪侗族乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/52/06/02/520602200.html
+520602201000	贵州省-铜仁市-碧江区-滑石侗族苗族土家族乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/52/06/02/520602201.html
+520602202000	贵州省-铜仁市-碧江区-和平土家族侗族乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/52/06/02/520602202.html
+520602203000	贵州省-铜仁市-碧江区-瓦屋侗族乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/52/06/02/520602203.html
+520602204000	贵州省-铜仁市-碧江区-六龙山侗族土家族乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/52/06/02/520602204.html

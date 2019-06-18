@@ -1,0 +1,8 @@
+420901000000	湖北省-孝感市-市辖区	
+420902000000	湖北省-孝感市-孝南区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/09/420902.html
+420921000000	湖北省-孝感市-孝昌县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/09/420921.html
+420922000000	湖北省-孝感市-大悟县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/09/420922.html
+420923000000	湖北省-孝感市-云梦县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/09/420923.html
+420981000000	湖北省-孝感市-应城市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/09/420981.html
+420982000000	湖北省-孝感市-安陆市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/09/420982.html
+420984000000	湖北省-孝感市-汉川市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/09/420984.html

@@ -1,0 +1,14 @@
+532528101000	云南省-红河哈尼族彝族自治州-元阳县-南沙镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/25/28/532528101.html
+532528102000	云南省-红河哈尼族彝族自治州-元阳县-新街镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/25/28/532528102.html
+532528103000	云南省-红河哈尼族彝族自治州-元阳县-牛角寨镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/25/28/532528103.html
+532528203000	云南省-红河哈尼族彝族自治州-元阳县-沙拉托乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/25/28/532528203.html
+532528204000	云南省-红河哈尼族彝族自治州-元阳县-嘎娘乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/25/28/532528204.html
+532528205000	云南省-红河哈尼族彝族自治州-元阳县-上新城乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/25/28/532528205.html
+532528206000	云南省-红河哈尼族彝族自治州-元阳县-小新街乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/25/28/532528206.html
+532528207000	云南省-红河哈尼族彝族自治州-元阳县-逢春岭乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/25/28/532528207.html
+532528208000	云南省-红河哈尼族彝族自治州-元阳县-大坪乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/25/28/532528208.html
+532528209000	云南省-红河哈尼族彝族自治州-元阳县-攀枝花乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/25/28/532528209.html
+532528210000	云南省-红河哈尼族彝族自治州-元阳县-黄茅岭乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/25/28/532528210.html
+532528211000	云南省-红河哈尼族彝族自治州-元阳县-黄草岭乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/25/28/532528211.html
+532528212000	云南省-红河哈尼族彝族自治州-元阳县-俄扎乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/25/28/532528212.html
+532528213000	云南省-红河哈尼族彝族自治州-元阳县-马街乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/25/28/532528213.html

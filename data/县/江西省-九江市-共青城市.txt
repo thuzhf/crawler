@@ -1,0 +1,6 @@
+360482001000	江西省-九江市-共青城市-茶山街道（赣江新区共青组团）	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/04/82/360482001.html
+360482100000	江西省-九江市-共青城市-甘露镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/04/82/360482100.html
+360482101000	江西省-九江市-共青城市-江益镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/04/82/360482101.html
+360482200000	江西省-九江市-共青城市-金湖乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/04/82/360482200.html
+360482201000	江西省-九江市-共青城市-苏家垱乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/04/82/360482201.html
+360482202000	江西省-九江市-共青城市-泽泉乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/04/82/360482202.html

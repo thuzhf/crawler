@@ -1,0 +1,11 @@
+230506001000	黑龙江省-双鸭山市-宝山区-红旗街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/05/06/230506001.html
+230506002000	黑龙江省-双鸭山市-宝山区-跃进街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/05/06/230506002.html
+230506003000	黑龙江省-双鸭山市-宝山区-东保卫街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/05/06/230506003.html
+230506004000	黑龙江省-双鸭山市-宝山区-七星街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/05/06/230506004.html
+230506005000	黑龙江省-双鸭山市-宝山区-双阳街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/05/06/230506005.html
+230506006000	黑龙江省-双鸭山市-宝山区-新安街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/05/06/230506006.html
+230506007000	黑龙江省-双鸭山市-宝山区-电厂街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/05/06/230506007.html
+230506101000	黑龙江省-双鸭山市-宝山区-七星镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/05/06/230506101.html
+230506401000	黑龙江省-双鸭山市-宝山区-双鸭山林业局宝山经营所	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/05/06/230506401.html
+230506402000	黑龙江省-双鸭山市-宝山区-双鸭山林业局大叶沟林场	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/05/06/230506402.html
+230506500000	黑龙江省-双鸭山市-宝山区-双鸭山农场	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/05/06/230506500.html

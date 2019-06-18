@@ -1,0 +1,12 @@
+340801000000	安徽省-安庆市-市辖区	
+340802000000	安徽省-安庆市-迎江区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/08/340802.html
+340803000000	安徽省-安庆市-大观区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/08/340803.html
+340811000000	安徽省-安庆市-宜秀区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/08/340811.html
+340822000000	安徽省-安庆市-怀宁县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/08/340822.html
+340825000000	安徽省-安庆市-太湖县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/08/340825.html
+340826000000	安徽省-安庆市-宿松县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/08/340826.html
+340827000000	安徽省-安庆市-望江县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/08/340827.html
+340828000000	安徽省-安庆市-岳西县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/08/340828.html
+340871000000	安徽省-安庆市-安徽安庆经济开发区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/08/340871.html
+340881000000	安徽省-安庆市-桐城市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/08/340881.html
+340882000000	安徽省-安庆市-潜山市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/08/340882.html

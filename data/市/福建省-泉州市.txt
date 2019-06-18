@@ -1,0 +1,13 @@
+350501000000	福建省-泉州市-市辖区	
+350502000000	福建省-泉州市-鲤城区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/05/350502.html
+350503000000	福建省-泉州市-丰泽区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/05/350503.html
+350504000000	福建省-泉州市-洛江区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/05/350504.html
+350505000000	福建省-泉州市-泉港区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/05/350505.html
+350521000000	福建省-泉州市-惠安县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/05/350521.html
+350524000000	福建省-泉州市-安溪县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/05/350524.html
+350525000000	福建省-泉州市-永春县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/05/350525.html
+350526000000	福建省-泉州市-德化县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/05/350526.html
+350527000000	福建省-泉州市-金门县	
+350581000000	福建省-泉州市-石狮市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/05/350581.html
+350582000000	福建省-泉州市-晋江市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/05/350582.html
+350583000000	福建省-泉州市-南安市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/05/350583.html

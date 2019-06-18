@@ -1,0 +1,12 @@
+120104001000	天津市-市辖区-南开区-长虹街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/12/01/04/120104001.html
+120104002000	天津市-市辖区-南开区-鼓楼街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/12/01/04/120104002.html
+120104003000	天津市-市辖区-南开区-兴南街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/12/01/04/120104003.html
+120104004000	天津市-市辖区-南开区-广开街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/12/01/04/120104004.html
+120104005000	天津市-市辖区-南开区-万兴街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/12/01/04/120104005.html
+120104006000	天津市-市辖区-南开区-学府街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/12/01/04/120104006.html
+120104007000	天津市-市辖区-南开区-向阳路街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/12/01/04/120104007.html
+120104008000	天津市-市辖区-南开区-嘉陵道街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/12/01/04/120104008.html
+120104009000	天津市-市辖区-南开区-王顶堤街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/12/01/04/120104009.html
+120104010000	天津市-市辖区-南开区-水上公园街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/12/01/04/120104010.html
+120104011000	天津市-市辖区-南开区-体育中心街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/12/01/04/120104011.html
+120104012000	天津市-市辖区-南开区-华苑街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/12/01/04/120104012.html

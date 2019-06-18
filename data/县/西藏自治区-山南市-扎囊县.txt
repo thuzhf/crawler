@@ -1,0 +1,5 @@
+540521100000	西藏自治区-山南市-扎囊县-扎塘镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/05/21/540521100.html
+540521101000	西藏自治区-山南市-扎囊县-桑耶镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/05/21/540521101.html
+540521200000	西藏自治区-山南市-扎囊县-扎其乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/05/21/540521200.html
+540521201000	西藏自治区-山南市-扎囊县-阿扎乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/05/21/540521201.html
+540521202000	西藏自治区-山南市-扎囊县-吉汝乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/05/21/540521202.html

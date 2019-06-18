@@ -1,0 +1,11 @@
+540225100000	西藏自治区-日喀则市-拉孜县-曲下镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/02/25/540225100.html
+540225101000	西藏自治区-日喀则市-拉孜县-拉孜镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/02/25/540225101.html
+540225200000	西藏自治区-日喀则市-拉孜县-扎西宗乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/02/25/540225200.html
+540225201000	西藏自治区-日喀则市-拉孜县-曲玛乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/02/25/540225201.html
+540225202000	西藏自治区-日喀则市-拉孜县-彭措林乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/02/25/540225202.html
+540225203000	西藏自治区-日喀则市-拉孜县-扎西岗乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/02/25/540225203.html
+540225204000	西藏自治区-日喀则市-拉孜县-柳乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/02/25/540225204.html
+540225205000	西藏自治区-日喀则市-拉孜县-热萨乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/02/25/540225205.html
+540225206000	西藏自治区-日喀则市-拉孜县-锡钦乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/02/25/540225206.html
+540225207000	西藏自治区-日喀则市-拉孜县-芒普乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/02/25/540225207.html
+540225208000	西藏自治区-日喀则市-拉孜县-查务乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/02/25/540225208.html

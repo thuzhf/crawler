@@ -1,0 +1,5 @@
+150623100000	内蒙古自治区-鄂尔多斯市-鄂托克前旗-敖勒召其镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/06/23/150623100.html
+150623101000	内蒙古自治区-鄂尔多斯市-鄂托克前旗-上海庙镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/06/23/150623101.html
+150623102000	内蒙古自治区-鄂尔多斯市-鄂托克前旗-城川镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/06/23/150623102.html
+150623103000	内蒙古自治区-鄂尔多斯市-鄂托克前旗-昂素镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/06/23/150623103.html
+150623400000	内蒙古自治区-鄂尔多斯市-鄂托克前旗-上海庙经济开发区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/06/23/150623400.html

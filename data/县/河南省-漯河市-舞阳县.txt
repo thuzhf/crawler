@@ -1,0 +1,14 @@
+411121100000	河南省-漯河市-舞阳县-舞泉镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/11/21/411121100.html
+411121101000	河南省-漯河市-舞阳县-吴城镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/11/21/411121101.html
+411121102000	河南省-漯河市-舞阳县-北舞渡镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/11/21/411121102.html
+411121103000	河南省-漯河市-舞阳县-莲花镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/11/21/411121103.html
+411121104000	河南省-漯河市-舞阳县-辛安镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/11/21/411121104.html
+411121105000	河南省-漯河市-舞阳县-孟寨镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/11/21/411121105.html
+411121106000	河南省-漯河市-舞阳县-太尉镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/11/21/411121106.html
+411121107000	河南省-漯河市-舞阳县-侯集镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/11/21/411121107.html
+411121108000	河南省-漯河市-舞阳县-九街镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/11/21/411121108.html
+411121109000	河南省-漯河市-舞阳县-章化镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/11/21/411121109.html
+411121200000	河南省-漯河市-舞阳县-文峰乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/11/21/411121200.html
+411121201000	河南省-漯河市-舞阳县-保和乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/11/21/411121201.html
+411121202000	河南省-漯河市-舞阳县-马村乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/11/21/411121202.html
+411121204000	河南省-漯河市-舞阳县-姜店乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/11/21/411121204.html

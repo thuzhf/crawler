@@ -1,0 +1,11 @@
+341201000000	安徽省-阜阳市-市辖区	
+341202000000	安徽省-阜阳市-颍州区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/12/341202.html
+341203000000	安徽省-阜阳市-颍东区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/12/341203.html
+341204000000	安徽省-阜阳市-颍泉区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/12/341204.html
+341221000000	安徽省-阜阳市-临泉县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/12/341221.html
+341222000000	安徽省-阜阳市-太和县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/12/341222.html
+341225000000	安徽省-阜阳市-阜南县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/12/341225.html
+341226000000	安徽省-阜阳市-颍上县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/12/341226.html
+341271000000	安徽省-阜阳市-阜阳合肥现代产业园区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/12/341271.html
+341272000000	安徽省-阜阳市-阜阳经济技术开发区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/12/341272.html
+341282000000	安徽省-阜阳市-界首市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/12/341282.html

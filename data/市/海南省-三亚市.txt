@@ -1,0 +1,5 @@
+460201000000	海南省-三亚市-市辖区	
+460202000000	海南省-三亚市-海棠区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/46/02/460202.html
+460203000000	海南省-三亚市-吉阳区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/46/02/460203.html
+460204000000	海南省-三亚市-天涯区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/46/02/460204.html
+460205000000	海南省-三亚市-崖州区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/46/02/460205.html

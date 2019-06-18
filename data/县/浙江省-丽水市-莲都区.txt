@@ -1,0 +1,15 @@
+331102001000	浙江省-丽水市-莲都区-紫金街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/11/02/331102001.html
+331102002000	浙江省-丽水市-莲都区-岩泉街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/11/02/331102002.html
+331102003000	浙江省-丽水市-莲都区-万象街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/11/02/331102003.html
+331102004000	浙江省-丽水市-莲都区-白云街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/11/02/331102004.html
+331102007000	浙江省-丽水市-莲都区-联城街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/11/02/331102007.html
+331102008000	浙江省-丽水市-莲都区-南明山街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/11/02/331102008.html
+331102100000	浙江省-丽水市-莲都区-碧湖镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/11/02/331102100.html
+331102102000	浙江省-丽水市-莲都区-大港头镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/11/02/331102102.html
+331102103000	浙江省-丽水市-莲都区-老竹畲族镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/11/02/331102103.html
+331102104000	浙江省-丽水市-莲都区-雅溪镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/11/02/331102104.html
+331102200000	浙江省-丽水市-莲都区-太平乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/11/02/331102200.html
+331102201000	浙江省-丽水市-莲都区-仙渡乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/11/02/331102201.html
+331102202000	浙江省-丽水市-莲都区-峰源乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/11/02/331102202.html
+331102204000	浙江省-丽水市-莲都区-丽新畲族乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/11/02/331102204.html
+331102206000	浙江省-丽水市-莲都区-黄村乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/11/02/331102206.html

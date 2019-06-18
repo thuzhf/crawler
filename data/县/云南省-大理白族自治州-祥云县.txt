@@ -1,0 +1,10 @@
+532923101000	云南省-大理白族自治州-祥云县-祥城镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/29/23/532923101.html
+532923102000	云南省-大理白族自治州-祥云县-沙龙镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/29/23/532923102.html
+532923103000	云南省-大理白族自治州-祥云县-云南驿镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/29/23/532923103.html
+532923104000	云南省-大理白族自治州-祥云县-下庄镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/29/23/532923104.html
+532923105000	云南省-大理白族自治州-祥云县-普棚镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/29/23/532923105.html
+532923106000	云南省-大理白族自治州-祥云县-刘厂镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/29/23/532923106.html
+532923107000	云南省-大理白族自治州-祥云县-禾甸镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/29/23/532923107.html
+532923108000	云南省-大理白族自治州-祥云县-米甸镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/29/23/532923108.html
+532923201000	云南省-大理白族自治州-祥云县-鹿鸣乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/29/23/532923201.html
+532923202000	云南省-大理白族自治州-祥云县-东山彝族乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/29/23/532923202.html

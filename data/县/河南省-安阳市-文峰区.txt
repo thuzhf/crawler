@@ -1,0 +1,15 @@
+410502001000	河南省-安阳市-文峰区-东大街街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/05/02/410502001.html
+410502002000	河南省-安阳市-文峰区-头二三街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/05/02/410502002.html
+410502003000	河南省-安阳市-文峰区-甜水井街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/05/02/410502003.html
+410502004000	河南省-安阳市-文峰区-东关街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/05/02/410502004.html
+410502005000	河南省-安阳市-文峰区-南关街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/05/02/410502005.html
+410502006000	河南省-安阳市-文峰区-西大街街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/05/02/410502006.html
+410502008000	河南省-安阳市-文峰区-北大街街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/05/02/410502008.html
+410502011000	河南省-安阳市-文峰区-西关街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/05/02/410502011.html
+410502012000	河南省-安阳市-文峰区-紫薇大道街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/05/02/410502012.html
+410502013000	河南省-安阳市-文峰区-光华路街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/05/02/410502013.html
+410502014000	河南省-安阳市-文峰区-永明路街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/05/02/410502014.html
+410502015000	河南省-安阳市-文峰区-中华路街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/05/02/410502015.html
+410502101000	河南省-安阳市-文峰区-宝莲寺镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/05/02/410502101.html
+410502561000	河南省-安阳市-文峰区-步行街综合治理办公室	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/05/02/410502561.html
+410502562000	河南省-安阳市-文峰区-北大街综合治理办公室	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/05/02/410502562.html

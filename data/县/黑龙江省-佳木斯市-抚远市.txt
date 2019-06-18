@@ -1,0 +1,13 @@
+230883100000	黑龙江省-佳木斯市-抚远市-抚远镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/08/83/230883100.html
+230883101000	黑龙江省-佳木斯市-抚远市-寒葱沟镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/08/83/230883101.html
+230883102000	黑龙江省-佳木斯市-抚远市-浓桥镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/08/83/230883102.html
+230883103000	黑龙江省-佳木斯市-抚远市-乌苏镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/08/83/230883103.html
+230883104000	黑龙江省-佳木斯市-抚远市-黑瞎子岛镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/08/83/230883104.html
+230883200000	黑龙江省-佳木斯市-抚远市-通江乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/08/83/230883200.html
+230883201000	黑龙江省-佳木斯市-抚远市-浓江乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/08/83/230883201.html
+230883202000	黑龙江省-佳木斯市-抚远市-海青乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/08/83/230883202.html
+230883203000	黑龙江省-佳木斯市-抚远市-别拉洪乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/08/83/230883203.html
+230883204000	黑龙江省-佳木斯市-抚远市-鸭南乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/08/83/230883204.html
+230883500000	黑龙江省-佳木斯市-抚远市-前哨农场	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/08/83/230883500.html
+230883501000	黑龙江省-佳木斯市-抚远市-前锋农场	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/08/83/230883501.html
+230883502000	黑龙江省-佳木斯市-抚远市-二道河农场	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/08/83/230883502.html

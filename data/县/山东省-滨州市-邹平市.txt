@@ -1,0 +1,16 @@
+371681001000	山东省-滨州市-邹平市-黛溪街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/16/81/371681001.html
+371681002000	山东省-滨州市-邹平市-黄山街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/16/81/371681002.html
+371681003000	山东省-滨州市-邹平市-高新街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/16/81/371681003.html
+371681004000	山东省-滨州市-邹平市-好生街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/16/81/371681004.html
+371681005000	山东省-滨州市-邹平市-西董街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/16/81/371681005.html
+371681101000	山东省-滨州市-邹平市-长山镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/16/81/371681101.html
+371681102000	山东省-滨州市-邹平市-魏桥镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/16/81/371681102.html
+371681105000	山东省-滨州市-邹平市-临池镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/16/81/371681105.html
+371681108000	山东省-滨州市-邹平市-焦桥镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/16/81/371681108.html
+371681109000	山东省-滨州市-邹平市-韩店镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/16/81/371681109.html
+371681110000	山东省-滨州市-邹平市-孙镇镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/16/81/371681110.html
+371681111000	山东省-滨州市-邹平市-九户镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/16/81/371681111.html
+371681112000	山东省-滨州市-邹平市-青阳镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/16/81/371681112.html
+371681113000	山东省-滨州市-邹平市-明集镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/16/81/371681113.html
+371681114000	山东省-滨州市-邹平市-台子镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/16/81/371681114.html
+371681115000	山东省-滨州市-邹平市-码头镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/16/81/371681115.html

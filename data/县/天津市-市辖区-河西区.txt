@@ -1,0 +1,14 @@
+120103001000	天津市-市辖区-河西区-大营门街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/12/01/03/120103001.html
+120103002000	天津市-市辖区-河西区-下瓦房街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/12/01/03/120103002.html
+120103003000	天津市-市辖区-河西区-桃园街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/12/01/03/120103003.html
+120103004000	天津市-市辖区-河西区-挂甲寺街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/12/01/03/120103004.html
+120103005000	天津市-市辖区-河西区-马场街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/12/01/03/120103005.html
+120103006000	天津市-市辖区-河西区-越秀路街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/12/01/03/120103006.html
+120103007000	天津市-市辖区-河西区-友谊路街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/12/01/03/120103007.html
+120103008000	天津市-市辖区-河西区-天塔街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/12/01/03/120103008.html
+120103009000	天津市-市辖区-河西区-尖山街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/12/01/03/120103009.html
+120103010000	天津市-市辖区-河西区-陈塘庄街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/12/01/03/120103010.html
+120103011000	天津市-市辖区-河西区-柳林街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/12/01/03/120103011.html
+120103012000	天津市-市辖区-河西区-东海街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/12/01/03/120103012.html
+120103013000	天津市-市辖区-河西区-梅江街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/12/01/03/120103013.html
+120103014000	天津市-市辖区-河西区-太湖路街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/12/01/03/120103014.html

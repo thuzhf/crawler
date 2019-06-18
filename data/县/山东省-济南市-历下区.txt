@@ -1,0 +1,13 @@
+370102001000	山东省-济南市-历下区-解放路街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/01/02/370102001.html
+370102002000	山东省-济南市-历下区-千佛山街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/01/02/370102002.html
+370102003000	山东省-济南市-历下区-趵突泉街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/01/02/370102003.html
+370102004000	山东省-济南市-历下区-泉城路街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/01/02/370102004.html
+370102005000	山东省-济南市-历下区-大明湖街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/01/02/370102005.html
+370102006000	山东省-济南市-历下区-东关街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/01/02/370102006.html
+370102007000	山东省-济南市-历下区-文东街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/01/02/370102007.html
+370102008000	山东省-济南市-历下区-建新街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/01/02/370102008.html
+370102009000	山东省-济南市-历下区-甸柳街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/01/02/370102009.html
+370102010000	山东省-济南市-历下区-燕山街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/01/02/370102010.html
+370102011000	山东省-济南市-历下区-姚家街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/01/02/370102011.html
+370102012000	山东省-济南市-历下区-龙洞街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/01/02/370102012.html
+370102013000	山东省-济南市-历下区-智远街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/01/02/370102013.html

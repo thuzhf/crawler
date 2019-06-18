@@ -1,0 +1,14 @@
+350104001000	福建省-福州市-仓山区-仓前街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/01/04/350104001.html
+350104002000	福建省-福州市-仓山区-东升街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/01/04/350104002.html
+350104003000	福建省-福州市-仓山区-对湖街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/01/04/350104003.html
+350104004000	福建省-福州市-仓山区-临江街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/01/04/350104004.html
+350104005000	福建省-福州市-仓山区-三叉街街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/01/04/350104005.html
+350104006000	福建省-福州市-仓山区-上渡街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/01/04/350104006.html
+350104007000	福建省-福州市-仓山区-下渡街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/01/04/350104007.html
+350104008000	福建省-福州市-仓山区-金山街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/01/04/350104008.html
+350104100000	福建省-福州市-仓山区-仓山镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/01/04/350104100.html
+350104101000	福建省-福州市-仓山区-城门镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/01/04/350104101.html
+350104102000	福建省-福州市-仓山区-盖山镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/01/04/350104102.html
+350104103000	福建省-福州市-仓山区-建新镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/01/04/350104103.html
+350104104000	福建省-福州市-仓山区-螺洲镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/01/04/350104104.html
+350104400000	福建省-福州市-仓山区-红星农场	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/01/04/350104400.html

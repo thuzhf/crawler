@@ -1,0 +1,16 @@
+510117001000	四川省-成都市-郫都区-郫筒街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/01/17/510117001.html
+510117019000	四川省-成都市-郫都区-合作街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/01/17/510117019.html
+510117020000	四川省-成都市-郫都区-西园街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/01/17/510117020.html
+510117101000	四川省-成都市-郫都区-团结镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/01/17/510117101.html
+510117102000	四川省-成都市-郫都区-犀浦镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/01/17/510117102.html
+510117103000	四川省-成都市-郫都区-花园镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/01/17/510117103.html
+510117104000	四川省-成都市-郫都区-唐昌镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/01/17/510117104.html
+510117105000	四川省-成都市-郫都区-安德镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/01/17/510117105.html
+510117106000	四川省-成都市-郫都区-三道堰镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/01/17/510117106.html
+510117107000	四川省-成都市-郫都区-安靖镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/01/17/510117107.html
+510117108000	四川省-成都市-郫都区-红光镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/01/17/510117108.html
+510117110000	四川省-成都市-郫都区-新民场镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/01/17/510117110.html
+510117112000	四川省-成都市-郫都区-德源镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/01/17/510117112.html
+510117115000	四川省-成都市-郫都区-友爱镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/01/17/510117115.html
+510117117000	四川省-成都市-郫都区-古城镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/01/17/510117117.html
+510117118000	四川省-成都市-郫都区-唐元镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/01/17/510117118.html

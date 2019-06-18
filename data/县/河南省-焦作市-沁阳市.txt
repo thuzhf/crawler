@@ -1,0 +1,13 @@
+410882001000	河南省-焦作市-沁阳市-覃怀街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/08/82/410882001.html
+410882002000	河南省-焦作市-沁阳市-怀庆街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/08/82/410882002.html
+410882003000	河南省-焦作市-沁阳市-太行街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/08/82/410882003.html
+410882004000	河南省-焦作市-沁阳市-沁园街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/08/82/410882004.html
+410882100000	河南省-焦作市-沁阳市-崇义镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/08/82/410882100.html
+410882101000	河南省-焦作市-沁阳市-西向镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/08/82/410882101.html
+410882102000	河南省-焦作市-沁阳市-西万镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/08/82/410882102.html
+410882103000	河南省-焦作市-沁阳市-柏香镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/08/82/410882103.html
+410882104000	河南省-焦作市-沁阳市-山王庄镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/08/82/410882104.html
+410882105000	河南省-焦作市-沁阳市-紫陵镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/08/82/410882105.html
+410882200000	河南省-焦作市-沁阳市-常平乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/08/82/410882200.html
+410882201000	河南省-焦作市-沁阳市-王召乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/08/82/410882201.html
+410882202000	河南省-焦作市-沁阳市-王曲乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/08/82/410882202.html

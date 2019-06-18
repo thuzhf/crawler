@@ -1,0 +1,10 @@
+621002001000	甘肃省-庆阳市-西峰区-北街办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/62/10/02/621002001.html
+621002002000	甘肃省-庆阳市-西峰区-南街办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/62/10/02/621002002.html
+621002003000	甘肃省-庆阳市-西峰区-西街办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/62/10/02/621002003.html
+621002100000	甘肃省-庆阳市-西峰区-肖金镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/62/10/02/621002100.html
+621002101000	甘肃省-庆阳市-西峰区-董志镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/62/10/02/621002101.html
+621002102000	甘肃省-庆阳市-西峰区-后官寨镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/62/10/02/621002102.html
+621002103000	甘肃省-庆阳市-西峰区-彭原镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/62/10/02/621002103.html
+621002104000	甘肃省-庆阳市-西峰区-温泉镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/62/10/02/621002104.html
+621002203000	甘肃省-庆阳市-西峰区-什社乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/62/10/02/621002203.html
+621002204000	甘肃省-庆阳市-西峰区-显胜乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/62/10/02/621002204.html

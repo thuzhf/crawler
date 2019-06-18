@@ -1,0 +1,10 @@
+340711001000	安徽省-铜陵市-郊区-桥南办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/07/11/340711001.html
+340711002000	安徽省-铜陵市-郊区-安矿办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/07/11/340711002.html
+340711100000	安徽省-铜陵市-郊区-铜山镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/07/11/340711100.html
+340711101000	安徽省-铜陵市-郊区-大通镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/07/11/340711101.html
+340711102000	安徽省-铜陵市-郊区-老洲镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/07/11/340711102.html
+340711103000	安徽省-铜陵市-郊区-陈瑶湖镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/07/11/340711103.html
+340711104000	安徽省-铜陵市-郊区-周潭镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/07/11/340711104.html
+340711198000	安徽省-铜陵市-郊区-郊区虚镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/07/11/340711198.html
+340711200000	安徽省-铜陵市-郊区-灰河乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/07/11/340711200.html
+340711401000	安徽省-铜陵市-郊区-大桥经济开发区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/07/11/340711401.html

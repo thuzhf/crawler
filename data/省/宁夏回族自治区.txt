@@ -1,0 +1,5 @@
+640100000000	宁夏回族自治区-银川市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/64/6401.html
+640200000000	宁夏回族自治区-石嘴山市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/64/6402.html
+640300000000	宁夏回族自治区-吴忠市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/64/6403.html
+640400000000	宁夏回族自治区-固原市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/64/6404.html
+640500000000	宁夏回族自治区-中卫市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/64/6405.html

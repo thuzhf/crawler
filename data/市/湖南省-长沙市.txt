@@ -1,0 +1,10 @@
+430101000000	湖南省-长沙市-市辖区	
+430102000000	湖南省-长沙市-芙蓉区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/01/430102.html
+430103000000	湖南省-长沙市-天心区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/01/430103.html
+430104000000	湖南省-长沙市-岳麓区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/01/430104.html
+430105000000	湖南省-长沙市-开福区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/01/430105.html
+430111000000	湖南省-长沙市-雨花区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/01/430111.html
+430112000000	湖南省-长沙市-望城区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/01/430112.html
+430121000000	湖南省-长沙市-长沙县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/01/430121.html
+430181000000	湖南省-长沙市-浏阳市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/01/430181.html
+430182000000	湖南省-长沙市-宁乡市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/01/430182.html

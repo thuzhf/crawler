@@ -1,0 +1,8 @@
+340401000000	安徽省-淮南市-市辖区	
+340402000000	安徽省-淮南市-大通区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/04/340402.html
+340403000000	安徽省-淮南市-田家庵区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/04/340403.html
+340404000000	安徽省-淮南市-谢家集区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/04/340404.html
+340405000000	安徽省-淮南市-八公山区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/04/340405.html
+340406000000	安徽省-淮南市-潘集区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/04/340406.html
+340421000000	安徽省-淮南市-凤台县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/04/340421.html
+340422000000	安徽省-淮南市-寿县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/04/340422.html

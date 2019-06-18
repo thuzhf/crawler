@@ -1,0 +1,9 @@
+320509100000	江苏省-苏州市-吴江区-松陵镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/05/09/320509100.html
+320509104000	江苏省-苏州市-吴江区-平望镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/05/09/320509104.html
+320509105000	江苏省-苏州市-吴江区-盛泽镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/05/09/320509105.html
+320509107000	江苏省-苏州市-吴江区-七都镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/05/09/320509107.html
+320509108000	江苏省-苏州市-吴江区-震泽镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/05/09/320509108.html
+320509109000	江苏省-苏州市-吴江区-桃源镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/05/09/320509109.html
+320509110000	江苏省-苏州市-吴江区-黎里镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/05/09/320509110.html
+320509400000	江苏省-苏州市-吴江区-吴江经济技术开发区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/05/09/320509400.html
+320509401000	江苏省-苏州市-吴江区-东方丝绸市场	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/05/09/320509401.html

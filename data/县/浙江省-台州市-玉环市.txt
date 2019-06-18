@@ -1,0 +1,12 @@
+331083001000	浙江省-台州市-玉环市-玉城街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/10/83/331083001.html
+331083002000	浙江省-台州市-玉环市-坎门街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/10/83/331083002.html
+331083003000	浙江省-台州市-玉环市-大麦屿街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/10/83/331083003.html
+331083101000	浙江省-台州市-玉环市-清港镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/10/83/331083101.html
+331083102000	浙江省-台州市-玉环市-楚门镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/10/83/331083102.html
+331083103000	浙江省-台州市-玉环市-干江镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/10/83/331083103.html
+331083105000	浙江省-台州市-玉环市-沙门镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/10/83/331083105.html
+331083106000	浙江省-台州市-玉环市-芦浦镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/10/83/331083106.html
+331083107000	浙江省-台州市-玉环市-龙溪镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/10/83/331083107.html
+331083201000	浙江省-台州市-玉环市-鸡山乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/10/83/331083201.html
+331083202000	浙江省-台州市-玉环市-海山乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/10/83/331083202.html
+331083400000	浙江省-台州市-玉环市-玉环经济开发区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/10/83/331083400.html

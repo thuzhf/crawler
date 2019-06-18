@@ -1,0 +1,11 @@
+320501000000	江苏省-苏州市-市辖区	
+320505000000	江苏省-苏州市-虎丘区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/05/320505.html
+320506000000	江苏省-苏州市-吴中区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/05/320506.html
+320507000000	江苏省-苏州市-相城区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/05/320507.html
+320508000000	江苏省-苏州市-姑苏区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/05/320508.html
+320509000000	江苏省-苏州市-吴江区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/05/320509.html
+320571000000	江苏省-苏州市-苏州工业园区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/05/320571.html
+320581000000	江苏省-苏州市-常熟市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/05/320581.html
+320582000000	江苏省-苏州市-张家港市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/05/320582.html
+320583000000	江苏省-苏州市-昆山市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/05/320583.html
+320585000000	江苏省-苏州市-太仓市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/05/320585.html

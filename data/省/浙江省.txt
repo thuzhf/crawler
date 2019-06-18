@@ -1,0 +1,11 @@
+330100000000	浙江省-杭州市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/3301.html
+330200000000	浙江省-宁波市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/3302.html
+330300000000	浙江省-温州市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/3303.html
+330400000000	浙江省-嘉兴市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/3304.html
+330500000000	浙江省-湖州市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/3305.html
+330600000000	浙江省-绍兴市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/3306.html
+330700000000	浙江省-金华市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/3307.html
+330800000000	浙江省-衢州市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/3308.html
+330900000000	浙江省-舟山市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/3309.html
+331000000000	浙江省-台州市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/3310.html
+331100000000	浙江省-丽水市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/3311.html

@@ -1,0 +1,14 @@
+450100000000	广西壮族自治区-南宁市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/4501.html
+450200000000	广西壮族自治区-柳州市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/4502.html
+450300000000	广西壮族自治区-桂林市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/4503.html
+450400000000	广西壮族自治区-梧州市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/4504.html
+450500000000	广西壮族自治区-北海市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/4505.html
+450600000000	广西壮族自治区-防城港市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/4506.html
+450700000000	广西壮族自治区-钦州市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/4507.html
+450800000000	广西壮族自治区-贵港市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/4508.html
+450900000000	广西壮族自治区-玉林市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/4509.html
+451000000000	广西壮族自治区-百色市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/4510.html
+451100000000	广西壮族自治区-贺州市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/4511.html
+451200000000	广西壮族自治区-河池市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/4512.html
+451300000000	广西壮族自治区-来宾市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/4513.html
+451400000000	广西壮族自治区-崇左市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/4514.html

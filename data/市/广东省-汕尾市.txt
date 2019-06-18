@@ -1,0 +1,5 @@
+441501000000	广东省-汕尾市-市辖区	
+441502000000	广东省-汕尾市-城区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/15/441502.html
+441521000000	广东省-汕尾市-海丰县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/15/441521.html
+441523000000	广东省-汕尾市-陆河县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/15/441523.html
+441581000000	广东省-汕尾市-陆丰市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/15/441581.html

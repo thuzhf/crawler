@@ -1,0 +1,6 @@
+350304001000	福建省-莆田市-荔城区-镇海街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/03/04/350304001.html
+350304002000	福建省-莆田市-荔城区-拱辰街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/03/04/350304002.html
+350304100000	福建省-莆田市-荔城区-西天尾镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/03/04/350304100.html
+350304101000	福建省-莆田市-荔城区-黄石镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/03/04/350304101.html
+350304102000	福建省-莆田市-荔城区-新度镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/03/04/350304102.html
+350304103000	福建省-莆田市-荔城区-北高镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/03/04/350304103.html

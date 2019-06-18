@@ -1,0 +1,7 @@
+540233100000	西藏自治区-日喀则市-亚东县-下司马镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/02/33/540233100.html
+540233101000	西藏自治区-日喀则市-亚东县-帕里镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/02/33/540233101.html
+540233200000	西藏自治区-日喀则市-亚东县-下亚东乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/02/33/540233200.html
+540233201000	西藏自治区-日喀则市-亚东县-上亚东乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/02/33/540233201.html
+540233202000	西藏自治区-日喀则市-亚东县-康布乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/02/33/540233202.html
+540233203000	西藏自治区-日喀则市-亚东县-堆纳乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/02/33/540233203.html
+540233204000	西藏自治区-日喀则市-亚东县-吉汝乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/02/33/540233204.html

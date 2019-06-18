@@ -1,0 +1,15 @@
+361024100000	江西省-抚州市-崇仁县-巴山镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/10/24/361024100.html
+361024101000	江西省-抚州市-崇仁县-相山镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/10/24/361024101.html
+361024102000	江西省-抚州市-崇仁县-航埠镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/10/24/361024102.html
+361024103000	江西省-抚州市-崇仁县-孙坊镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/10/24/361024103.html
+361024104000	江西省-抚州市-崇仁县-河上镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/10/24/361024104.html
+361024105000	江西省-抚州市-崇仁县-礼陂镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/10/24/361024105.html
+361024106000	江西省-抚州市-崇仁县-马鞍镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/10/24/361024106.html
+361024200000	江西省-抚州市-崇仁县-石庄乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/10/24/361024200.html
+361024201000	江西省-抚州市-崇仁县-六家桥乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/10/24/361024201.html
+361024202000	江西省-抚州市-崇仁县-白路乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/10/24/361024202.html
+361024203000	江西省-抚州市-崇仁县-三山乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/10/24/361024203.html
+361024204000	江西省-抚州市-崇仁县-白陂乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/10/24/361024204.html
+361024205000	江西省-抚州市-崇仁县-桃源乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/10/24/361024205.html
+361024206000	江西省-抚州市-崇仁县-许坊乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/10/24/361024206.html
+361024207000	江西省-抚州市-崇仁县-郭圩乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/10/24/361024207.html

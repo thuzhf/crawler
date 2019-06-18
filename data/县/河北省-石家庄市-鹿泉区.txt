@@ -1,0 +1,13 @@
+130110100000	河北省-石家庄市-鹿泉区-获鹿镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/01/10/130110100.html
+130110101000	河北省-石家庄市-鹿泉区-铜冶镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/01/10/130110101.html
+130110102000	河北省-石家庄市-鹿泉区-寺家庄镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/01/10/130110102.html
+130110103000	河北省-石家庄市-鹿泉区-上庄镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/01/10/130110103.html
+130110104000	河北省-石家庄市-鹿泉区-李村镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/01/10/130110104.html
+130110105000	河北省-石家庄市-鹿泉区-宜安镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/01/10/130110105.html
+130110106000	河北省-石家庄市-鹿泉区-黄壁庄镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/01/10/130110106.html
+130110107000	河北省-石家庄市-鹿泉区-大河镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/01/10/130110107.html
+130110108000	河北省-石家庄市-鹿泉区-山尹村镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/01/10/130110108.html
+130110200000	河北省-石家庄市-鹿泉区-石井乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/01/10/130110200.html
+130110201000	河北省-石家庄市-鹿泉区-白鹿泉乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/01/10/130110201.html
+130110202000	河北省-石家庄市-鹿泉区-上寨乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/01/10/130110202.html
+130110500000	河北省-石家庄市-鹿泉区-河北鹿泉经济开发区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/01/10/130110500.html

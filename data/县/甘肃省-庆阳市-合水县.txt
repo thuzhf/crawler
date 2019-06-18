@@ -1,0 +1,12 @@
+621024100000	甘肃省-庆阳市-合水县-西华池镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/62/10/24/621024100.html
+621024101000	甘肃省-庆阳市-合水县-老城镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/62/10/24/621024101.html
+621024102000	甘肃省-庆阳市-合水县-太白镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/62/10/24/621024102.html
+621024103000	甘肃省-庆阳市-合水县-板桥镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/62/10/24/621024103.html
+621024104000	甘肃省-庆阳市-合水县-何家畔镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/62/10/24/621024104.html
+621024200000	甘肃省-庆阳市-合水县-吉岘乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/62/10/24/621024200.html
+621024201000	甘肃省-庆阳市-合水县-肖咀乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/62/10/24/621024201.html
+621024202000	甘肃省-庆阳市-合水县-段家集乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/62/10/24/621024202.html
+621024203000	甘肃省-庆阳市-合水县-固城乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/62/10/24/621024203.html
+621024204000	甘肃省-庆阳市-合水县-太莪乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/62/10/24/621024204.html
+621024205000	甘肃省-庆阳市-合水县-店子乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/62/10/24/621024205.html
+621024208000	甘肃省-庆阳市-合水县-蒿咀铺乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/62/10/24/621024208.html

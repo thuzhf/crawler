@@ -1,0 +1,4 @@
+533301000000	云南省-怒江傈僳族自治州-泸水市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/33/533301.html
+533323000000	云南省-怒江傈僳族自治州-福贡县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/33/533323.html
+533324000000	云南省-怒江傈僳族自治州-贡山独龙族怒族自治县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/33/533324.html
+533325000000	云南省-怒江傈僳族自治州-兰坪白族普米族自治县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/33/533325.html

@@ -1,0 +1,10 @@
+130108001000	河北省-石家庄市-裕华区-裕兴街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/01/08/130108001.html
+130108002000	河北省-石家庄市-裕华区-裕强街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/01/08/130108002.html
+130108003000	河北省-石家庄市-裕华区-东苑街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/01/08/130108003.html
+130108004000	河北省-石家庄市-裕华区-建通街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/01/08/130108004.html
+130108005000	河北省-石家庄市-裕华区-槐底街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/01/08/130108005.html
+130108006000	河北省-石家庄市-裕华区-裕华路街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/01/08/130108006.html
+130108007000	河北省-石家庄市-裕华区-裕东街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/01/08/130108007.html
+130108008000	河北省-石家庄市-裕华区-裕翔街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/01/08/130108008.html
+130108009000	河北省-石家庄市-裕华区-建华南街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/01/08/130108009.html
+130108101000	河北省-石家庄市-裕华区-方村镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/01/08/130108101.html

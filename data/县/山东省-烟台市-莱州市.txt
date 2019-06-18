@@ -1,0 +1,17 @@
+370683001000	山东省-烟台市-莱州市-文昌路街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/06/83/370683001.html
+370683002000	山东省-烟台市-莱州市-永安路街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/06/83/370683002.html
+370683003000	山东省-烟台市-莱州市-三山岛街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/06/83/370683003.html
+370683004000	山东省-烟台市-莱州市-城港路街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/06/83/370683004.html
+370683005000	山东省-烟台市-莱州市-文峰路街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/06/83/370683005.html
+370683006000	山东省-烟台市-莱州市-金仓街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/06/83/370683006.html
+370683101000	山东省-烟台市-莱州市-沙河镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/06/83/370683101.html
+370683102000	山东省-烟台市-莱州市-朱桥镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/06/83/370683102.html
+370683103000	山东省-烟台市-莱州市-郭家店镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/06/83/370683103.html
+370683104000	山东省-烟台市-莱州市-金城镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/06/83/370683104.html
+370683105000	山东省-烟台市-莱州市-平里店镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/06/83/370683105.html
+370683106000	山东省-烟台市-莱州市-驿道镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/06/83/370683106.html
+370683107000	山东省-烟台市-莱州市-程郭镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/06/83/370683107.html
+370683108000	山东省-烟台市-莱州市-虎头崖镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/06/83/370683108.html
+370683109000	山东省-烟台市-莱州市-柞村镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/06/83/370683109.html
+370683110000	山东省-烟台市-莱州市-夏邱镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/06/83/370683110.html
+370683111000	山东省-烟台市-莱州市-土山镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/06/83/370683111.html

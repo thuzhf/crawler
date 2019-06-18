@@ -1,0 +1,11 @@
+540302000000	西藏自治区-昌都市-卡若区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/03/540302.html
+540321000000	西藏自治区-昌都市-江达县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/03/540321.html
+540322000000	西藏自治区-昌都市-贡觉县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/03/540322.html
+540323000000	西藏自治区-昌都市-类乌齐县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/03/540323.html
+540324000000	西藏自治区-昌都市-丁青县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/03/540324.html
+540325000000	西藏自治区-昌都市-察雅县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/03/540325.html
+540326000000	西藏自治区-昌都市-八宿县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/03/540326.html
+540327000000	西藏自治区-昌都市-左贡县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/03/540327.html
+540328000000	西藏自治区-昌都市-芒康县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/03/540328.html
+540329000000	西藏自治区-昌都市-洛隆县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/03/540329.html
+540330000000	西藏自治区-昌都市-边坝县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/03/540330.html

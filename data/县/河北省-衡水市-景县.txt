@@ -1,0 +1,17 @@
+131127100000	河北省-衡水市-景县-景州镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/11/27/131127100.html
+131127101000	河北省-衡水市-景县-龙华镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/11/27/131127101.html
+131127102000	河北省-衡水市-景县-广川镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/11/27/131127102.html
+131127103000	河北省-衡水市-景县-王瞳镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/11/27/131127103.html
+131127104000	河北省-衡水市-景县-洚河流镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/11/27/131127104.html
+131127105000	河北省-衡水市-景县-安陵镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/11/27/131127105.html
+131127106000	河北省-衡水市-景县-杜桥镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/11/27/131127106.html
+131127107000	河北省-衡水市-景县-王谦寺镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/11/27/131127107.html
+131127108000	河北省-衡水市-景县-北留智镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/11/27/131127108.html
+131127109000	河北省-衡水市-景县-留智庙镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/11/27/131127109.html
+131127110000	河北省-衡水市-景县-梁集镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/11/27/131127110.html
+131127200000	河北省-衡水市-景县-刘集乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/11/27/131127200.html
+131127201000	河北省-衡水市-景县-连镇乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/11/27/131127201.html
+131127203000	河北省-衡水市-景县-温城乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/11/27/131127203.html
+131127204000	河北省-衡水市-景县-后留名府乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/11/27/131127204.html
+131127205000	河北省-衡水市-景县-青兰乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/11/27/131127205.html
+131127400000	河北省-衡水市-景县-河北景县高新技术产业开发区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/11/27/131127400.html

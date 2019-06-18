@@ -1,0 +1,11 @@
+340406001000	安徽省-淮南市-潘集区-田集街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/04/06/340406001.html
+340406100000	安徽省-淮南市-潘集区-高皇镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/04/06/340406100.html
+340406101000	安徽省-淮南市-潘集区-平圩镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/04/06/340406101.html
+340406102000	安徽省-淮南市-潘集区-泥河镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/04/06/340406102.html
+340406103000	安徽省-淮南市-潘集区-潘集镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/04/06/340406103.html
+340406104000	安徽省-淮南市-潘集区-芦集镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/04/06/340406104.html
+340406105000	安徽省-淮南市-潘集区-架河镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/04/06/340406105.html
+340406106000	安徽省-淮南市-潘集区-夹沟镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/04/06/340406106.html
+340406107000	安徽省-淮南市-潘集区-祁集镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/04/06/340406107.html
+340406108000	安徽省-淮南市-潘集区-贺疃镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/04/06/340406108.html
+340406202000	安徽省-淮南市-潘集区-古沟回族乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/04/06/340406202.html

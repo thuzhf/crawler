@@ -1,0 +1,7 @@
+140501000000	山西省-晋城市-市辖区	
+140502000000	山西省-晋城市-城区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/05/140502.html
+140521000000	山西省-晋城市-沁水县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/05/140521.html
+140522000000	山西省-晋城市-阳城县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/05/140522.html
+140524000000	山西省-晋城市-陵川县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/05/140524.html
+140525000000	山西省-晋城市-泽州县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/05/140525.html
+140581000000	山西省-晋城市-高平市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/05/140581.html

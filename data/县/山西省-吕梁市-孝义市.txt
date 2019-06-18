@@ -1,0 +1,17 @@
+141181001000	山西省-吕梁市-孝义市-新义街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/11/81/141181001.html
+141181002000	山西省-吕梁市-孝义市-中阳楼街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/11/81/141181002.html
+141181003000	山西省-吕梁市-孝义市-振兴街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/11/81/141181003.html
+141181004000	山西省-吕梁市-孝义市-胜溪湖街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/11/81/141181004.html
+141181005000	山西省-吕梁市-孝义市-崇文街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/11/81/141181005.html
+141181100000	山西省-吕梁市-孝义市-兑镇镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/11/81/141181100.html
+141181101000	山西省-吕梁市-孝义市-阳泉曲镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/11/81/141181101.html
+141181102000	山西省-吕梁市-孝义市-下堡镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/11/81/141181102.html
+141181103000	山西省-吕梁市-孝义市-西辛庄镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/11/81/141181103.html
+141181104000	山西省-吕梁市-孝义市-高阳镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/11/81/141181104.html
+141181105000	山西省-吕梁市-孝义市-梧桐镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/11/81/141181105.html
+141181106000	山西省-吕梁市-孝义市-柱濮镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/11/81/141181106.html
+141181200000	山西省-吕梁市-孝义市-大孝堡乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/11/81/141181200.html
+141181201000	山西省-吕梁市-孝义市-下栅乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/11/81/141181201.html
+141181202000	山西省-吕梁市-孝义市-驿马乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/11/81/141181202.html
+141181203000	山西省-吕梁市-孝义市-南阳乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/11/81/141181203.html
+141181204000	山西省-吕梁市-孝义市-杜村乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/11/81/141181204.html

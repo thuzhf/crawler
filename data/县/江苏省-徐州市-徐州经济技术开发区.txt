@@ -1,0 +1,6 @@
+320371001000	江苏省-徐州市-徐州经济技术开发区-金山桥街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/03/71/320371001.html
+320371002000	江苏省-徐州市-徐州经济技术开发区-东环街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/03/71/320371002.html
+320371003000	江苏省-徐州市-徐州经济技术开发区-大黄山街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/03/71/320371003.html
+320371004000	江苏省-徐州市-徐州经济技术开发区-大庙街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/03/71/320371004.html
+320371005000	江苏省-徐州市-徐州经济技术开发区-金龙湖街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/03/71/320371005.html
+320371101000	江苏省-徐州市-徐州经济技术开发区-徐庄镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/03/71/320371101.html

@@ -1,0 +1,12 @@
+640521100000	宁夏回族自治区-中卫市-中宁县-宁安镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/64/05/21/640521100.html
+640521101000	宁夏回族自治区-中卫市-中宁县-鸣沙镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/64/05/21/640521101.html
+640521102000	宁夏回族自治区-中卫市-中宁县-石空镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/64/05/21/640521102.html
+640521103000	宁夏回族自治区-中卫市-中宁县-新堡镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/64/05/21/640521103.html
+640521104000	宁夏回族自治区-中卫市-中宁县-恩和镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/64/05/21/640521104.html
+640521105000	宁夏回族自治区-中卫市-中宁县-大战场镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/64/05/21/640521105.html
+640521200000	宁夏回族自治区-中卫市-中宁县-舟塔乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/64/05/21/640521200.html
+640521201000	宁夏回族自治区-中卫市-中宁县-白马乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/64/05/21/640521201.html
+640521202000	宁夏回族自治区-中卫市-中宁县-余丁乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/64/05/21/640521202.html
+640521204000	宁夏回族自治区-中卫市-中宁县-喊叫水乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/64/05/21/640521204.html
+640521205000	宁夏回族自治区-中卫市-中宁县-徐套乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/64/05/21/640521205.html
+640521206000	宁夏回族自治区-中卫市-中宁县-太阳梁乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/64/05/21/640521206.html

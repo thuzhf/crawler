@@ -1,0 +1,3 @@
+371201000000	山东省-莱芜市-市辖区	
+371202000000	山东省-莱芜市-莱城区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/12/371202.html
+371203000000	山东省-莱芜市-钢城区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/12/371203.html

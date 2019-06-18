@@ -1,0 +1,6 @@
+371101000000	山东省-日照市-市辖区	
+371102000000	山东省-日照市-东港区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/11/371102.html
+371103000000	山东省-日照市-岚山区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/11/371103.html
+371121000000	山东省-日照市-五莲县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/11/371121.html
+371122000000	山东省-日照市-莒县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/11/371122.html
+371171000000	山东省-日照市-日照经济技术开发区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/11/371171.html

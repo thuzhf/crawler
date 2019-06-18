@@ -1,0 +1,6 @@
+540234100000	西藏自治区-日喀则市-吉隆县-宗嘎镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/02/34/540234100.html
+540234101000	西藏自治区-日喀则市-吉隆县-吉隆镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/02/34/540234101.html
+540234200000	西藏自治区-日喀则市-吉隆县-差那乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/02/34/540234200.html
+540234201000	西藏自治区-日喀则市-吉隆县-折巴乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/02/34/540234201.html
+540234202000	西藏自治区-日喀则市-吉隆县-贡当乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/02/34/540234202.html
+540234203000	西藏自治区-日喀则市-吉隆县-萨勒乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/02/34/540234203.html

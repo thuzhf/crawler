@@ -1,0 +1,15 @@
+320582100000	江苏省-苏州市-张家港市-杨舍镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/05/82/320582100.html
+320582101000	江苏省-苏州市-张家港市-塘桥镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/05/82/320582101.html
+320582102000	江苏省-苏州市-张家港市-金港镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/05/82/320582102.html
+320582103000	江苏省-苏州市-张家港市-锦丰镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/05/82/320582103.html
+320582104000	江苏省-苏州市-张家港市-乐余镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/05/82/320582104.html
+320582105000	江苏省-苏州市-张家港市-凤凰镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/05/82/320582105.html
+320582106000	江苏省-苏州市-张家港市-南丰镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/05/82/320582106.html
+320582107000	江苏省-苏州市-张家港市-大新镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/05/82/320582107.html
+320582400000	江苏省-苏州市-张家港市-张家港市现代农业示范园区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/05/82/320582400.html
+320582401000	江苏省-苏州市-张家港市-张家港经济技术开发区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/05/82/320582401.html
+320582403000	江苏省-苏州市-张家港市-张家港保税区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/05/82/320582403.html
+320582404000	江苏省-苏州市-张家港市-张家港市市稻麦良种场	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/05/82/320582404.html
+320582405000	江苏省-苏州市-张家港市-张家港市畜禽良种场	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/05/82/320582405.html
+320582406000	江苏省-苏州市-张家港市-张家港市冶金工业园	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/05/82/320582406.html
+320582407000	江苏省-苏州市-张家港市-双山岛旅游度假区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/05/82/320582407.html

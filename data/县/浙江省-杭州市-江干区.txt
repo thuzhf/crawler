@@ -1,0 +1,10 @@
+330104005000	浙江省-杭州市-江干区-凯旋街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/01/04/330104005.html
+330104006000	浙江省-杭州市-江干区-采荷街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/01/04/330104006.html
+330104007000	浙江省-杭州市-江干区-闸弄口街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/01/04/330104007.html
+330104008000	浙江省-杭州市-江干区-四季青街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/01/04/330104008.html
+330104009000	浙江省-杭州市-江干区-白杨街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/01/04/330104009.html
+330104010000	浙江省-杭州市-江干区-下沙街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/01/04/330104010.html
+330104011000	浙江省-杭州市-江干区-彭埠街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/01/04/330104011.html
+330104012000	浙江省-杭州市-江干区-笕桥街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/01/04/330104012.html
+330104013000	浙江省-杭州市-江干区-丁兰街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/01/04/330104013.html
+330104014000	浙江省-杭州市-江干区-九堡街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/01/04/330104014.html

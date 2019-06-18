@@ -1,0 +1,9 @@
+341102001000	安徽省-滁州市-琅琊区-琅琊街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/11/02/341102001.html
+341102002000	安徽省-滁州市-琅琊区-东门街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/11/02/341102002.html
+341102003000	安徽省-滁州市-琅琊区-西门街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/11/02/341102003.html
+341102004000	安徽省-滁州市-琅琊区-南门街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/11/02/341102004.html
+341102005000	安徽省-滁州市-琅琊区-北门街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/11/02/341102005.html
+341102006000	安徽省-滁州市-琅琊区-清流街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/11/02/341102006.html
+341102007000	安徽省-滁州市-琅琊区-扬子街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/11/02/341102007.html
+341102010000	安徽省-滁州市-琅琊区-西涧街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/11/02/341102010.html
+341102400000	安徽省-滁州市-琅琊区-安徽滁州琅琊经济开发区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/11/02/341102400.html

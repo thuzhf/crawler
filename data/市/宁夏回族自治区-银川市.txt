@@ -1,0 +1,7 @@
+640101000000	宁夏回族自治区-银川市-市辖区	
+640104000000	宁夏回族自治区-银川市-兴庆区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/64/01/640104.html
+640105000000	宁夏回族自治区-银川市-西夏区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/64/01/640105.html
+640106000000	宁夏回族自治区-银川市-金凤区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/64/01/640106.html
+640121000000	宁夏回族自治区-银川市-永宁县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/64/01/640121.html
+640122000000	宁夏回族自治区-银川市-贺兰县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/64/01/640122.html
+640181000000	宁夏回族自治区-银川市-灵武市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/64/01/640181.html

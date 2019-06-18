@@ -1,0 +1,12 @@
+652323100000	新疆维吾尔自治区-昌吉回族自治州-呼图壁县-呼图壁镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/23/23/652323100.html
+652323101000	新疆维吾尔自治区-昌吉回族自治州-呼图壁县-大丰镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/23/23/652323101.html
+652323102000	新疆维吾尔自治区-昌吉回族自治州-呼图壁县-雀尔沟镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/23/23/652323102.html
+652323103000	新疆维吾尔自治区-昌吉回族自治州-呼图壁县-二十里店镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/23/23/652323103.html
+652323104000	新疆维吾尔自治区-昌吉回族自治州-呼图壁县-园户村镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/23/23/652323104.html
+652323105000	新疆维吾尔自治区-昌吉回族自治州-呼图壁县-五工台镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/23/23/652323105.html
+652323201000	新疆维吾尔自治区-昌吉回族自治州-呼图壁县-石梯子哈萨克民族乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/23/23/652323201.html
+652323402000	新疆维吾尔自治区-昌吉回族自治州-呼图壁县-干河子林场	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/23/23/652323402.html
+652323405000	新疆维吾尔自治区-昌吉回族自治州-呼图壁县-呼图壁种牛场	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/23/23/652323405.html
+652323520000	新疆维吾尔自治区-昌吉回族自治州-呼图壁县-兵团一零五团	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/23/23/652323520.html
+652323521000	新疆维吾尔自治区-昌吉回族自治州-呼图壁县-兵团一零六团	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/23/23/652323521.html
+652323523000	新疆维吾尔自治区-昌吉回族自治州-呼图壁县-兵团芳草湖总场	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/23/23/652323523.html

@@ -1,0 +1,13 @@
+330304001000	浙江省-温州市-瓯海区-景山街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/03/04/330304001.html
+330304002000	浙江省-温州市-瓯海区-梧田街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/03/04/330304002.html
+330304003000	浙江省-温州市-瓯海区-南白象街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/03/04/330304003.html
+330304004000	浙江省-温州市-瓯海区-茶山街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/03/04/330304004.html
+330304005000	浙江省-温州市-瓯海区-娄桥街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/03/04/330304005.html
+330304006000	浙江省-温州市-瓯海区-新桥街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/03/04/330304006.html
+330304007000	浙江省-温州市-瓯海区-三垟街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/03/04/330304007.html
+330304008000	浙江省-温州市-瓯海区-瞿溪街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/03/04/330304008.html
+330304009000	浙江省-温州市-瓯海区-郭溪街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/03/04/330304009.html
+330304010000	浙江省-温州市-瓯海区-潘桥街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/03/04/330304010.html
+330304011000	浙江省-温州市-瓯海区-丽岙街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/03/04/330304011.html
+330304012000	浙江省-温州市-瓯海区-仙岩街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/03/04/330304012.html
+330304108000	浙江省-温州市-瓯海区-泽雅镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/03/04/330304108.html

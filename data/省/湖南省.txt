@@ -1,0 +1,14 @@
+430100000000	湖南省-长沙市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/4301.html
+430200000000	湖南省-株洲市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/4302.html
+430300000000	湖南省-湘潭市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/4303.html
+430400000000	湖南省-衡阳市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/4304.html
+430500000000	湖南省-邵阳市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/4305.html
+430600000000	湖南省-岳阳市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/4306.html
+430700000000	湖南省-常德市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/4307.html
+430800000000	湖南省-张家界市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/4308.html
+430900000000	湖南省-益阳市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/4309.html
+431000000000	湖南省-郴州市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/4310.html
+431100000000	湖南省-永州市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/4311.html
+431200000000	湖南省-怀化市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/4312.html
+431300000000	湖南省-娄底市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/4313.html
+433100000000	湖南省-湘西土家族苗族自治州	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/4331.html

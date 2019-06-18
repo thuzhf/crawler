@@ -1,0 +1,12 @@
+310110001000	上海市-市辖区-杨浦区-定海路街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/31/01/10/310110001.html
+310110006000	上海市-市辖区-杨浦区-平凉路街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/31/01/10/310110006.html
+310110008000	上海市-市辖区-杨浦区-江浦路街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/31/01/10/310110008.html
+310110009000	上海市-市辖区-杨浦区-四平路街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/31/01/10/310110009.html
+310110012000	上海市-市辖区-杨浦区-控江路街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/31/01/10/310110012.html
+310110013000	上海市-市辖区-杨浦区-长白新村街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/31/01/10/310110013.html
+310110015000	上海市-市辖区-杨浦区-延吉新村街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/31/01/10/310110015.html
+310110016000	上海市-市辖区-杨浦区-殷行街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/31/01/10/310110016.html
+310110018000	上海市-市辖区-杨浦区-大桥街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/31/01/10/310110018.html
+310110019000	上海市-市辖区-杨浦区-五角场街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/31/01/10/310110019.html
+310110020000	上海市-市辖区-杨浦区-新江湾城街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/31/01/10/310110020.html
+310110101000	上海市-市辖区-杨浦区-五角场镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/31/01/10/310110101.html

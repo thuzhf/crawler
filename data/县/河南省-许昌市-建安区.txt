@@ -1,0 +1,17 @@
+411003001000	河南省-许昌市-建安区-许由办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/10/03/411003001.html
+411003002000	河南省-许昌市-建安区-新元办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/10/03/411003002.html
+411003003000	河南省-许昌市-建安区-邓庄街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/10/03/411003003.html
+411003100000	河南省-许昌市-建安区-将官池镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/10/03/411003100.html
+411003101000	河南省-许昌市-建安区-五女店镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/10/03/411003101.html
+411003102000	河南省-许昌市-建安区-尚集镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/10/03/411003102.html
+411003103000	河南省-许昌市-建安区-苏桥镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/10/03/411003103.html
+411003104000	河南省-许昌市-建安区-蒋李集镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/10/03/411003104.html
+411003105000	河南省-许昌市-建安区-张潘镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/10/03/411003105.html
+411003106000	河南省-许昌市-建安区-灵井镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/10/03/411003106.html
+411003200000	河南省-许昌市-建安区-陈曹乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/10/03/411003200.html
+411003202000	河南省-许昌市-建安区-小召乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/10/03/411003202.html
+411003203000	河南省-许昌市-建安区-河街乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/10/03/411003203.html
+411003204000	河南省-许昌市-建安区-桂村乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/10/03/411003204.html
+411003205000	河南省-许昌市-建安区-椹涧乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/10/03/411003205.html
+411003206000	河南省-许昌市-建安区-榆林乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/10/03/411003206.html
+411003208000	河南省-许昌市-建安区-艾庄回族乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/10/03/411003208.html

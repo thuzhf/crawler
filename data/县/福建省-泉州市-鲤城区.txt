@@ -1,0 +1,9 @@
+350502001000	福建省-泉州市-鲤城区-海滨街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/05/02/350502001.html
+350502002000	福建省-泉州市-鲤城区-临江街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/05/02/350502002.html
+350502003000	福建省-泉州市-鲤城区-鲤中街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/05/02/350502003.html
+350502004000	福建省-泉州市-鲤城区-开元街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/05/02/350502004.html
+350502005000	福建省-泉州市-鲤城区-浮桥街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/05/02/350502005.html
+350502006000	福建省-泉州市-鲤城区-江南街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/05/02/350502006.html
+350502007000	福建省-泉州市-鲤城区-金龙街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/05/02/350502007.html
+350502008000	福建省-泉州市-鲤城区-常泰街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/05/02/350502008.html
+350502400000	福建省-泉州市-鲤城区-清濛经济开发区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/05/02/350502400.html

@@ -1,0 +1,12 @@
+140201000000	山西省-大同市-市辖区	
+140212000000	山西省-大同市-新荣区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/02/140212.html
+140213000000	山西省-大同市-平城区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/02/140213.html
+140214000000	山西省-大同市-云冈区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/02/140214.html
+140215000000	山西省-大同市-云州区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/02/140215.html
+140221000000	山西省-大同市-阳高县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/02/140221.html
+140222000000	山西省-大同市-天镇县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/02/140222.html
+140223000000	山西省-大同市-广灵县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/02/140223.html
+140224000000	山西省-大同市-灵丘县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/02/140224.html
+140225000000	山西省-大同市-浑源县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/02/140225.html
+140226000000	山西省-大同市-左云县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/02/140226.html
+140271000000	山西省-大同市-山西大同经济开发区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/02/140271.html

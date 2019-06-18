@@ -1,0 +1,15 @@
+231083100000	黑龙江省-牡丹江市-海林市-海林镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/10/83/231083100.html
+231083101000	黑龙江省-牡丹江市-海林市-长汀镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/10/83/231083101.html
+231083102000	黑龙江省-牡丹江市-海林市-横道镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/10/83/231083102.html
+231083103000	黑龙江省-牡丹江市-海林市-山市镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/10/83/231083103.html
+231083104000	黑龙江省-牡丹江市-海林市-柴河镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/10/83/231083104.html
+231083105000	黑龙江省-牡丹江市-海林市-二道镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/10/83/231083105.html
+231083106000	黑龙江省-牡丹江市-海林市-新安朝鲜族镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/10/83/231083106.html
+231083107000	黑龙江省-牡丹江市-海林市-三道镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/10/83/231083107.html
+231083400000	黑龙江省-牡丹江市-海林市-牡林工程公司街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/10/83/231083400.html
+231083401000	黑龙江省-牡丹江市-海林市-柴河林机厂街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/10/83/231083401.html
+231083402000	黑龙江省-牡丹江市-海林市-大海林林业局	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/10/83/231083402.html
+231083403000	黑龙江省-牡丹江市-海林市-海林林业局	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/10/83/231083403.html
+231083404000	黑龙江省-牡丹江市-海林市-柴河林业局	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/10/83/231083404.html
+231083500000	黑龙江省-牡丹江市-海林市-海林农场	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/10/83/231083500.html
+231083501000	黑龙江省-牡丹江市-海林市-山市种奶牛场	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/10/83/231083501.html

@@ -1,0 +1,25 @@
+130101000000	河北省-石家庄市-市辖区	
+130102000000	河北省-石家庄市-长安区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/01/130102.html
+130104000000	河北省-石家庄市-桥西区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/01/130104.html
+130105000000	河北省-石家庄市-新华区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/01/130105.html
+130107000000	河北省-石家庄市-井陉矿区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/01/130107.html
+130108000000	河北省-石家庄市-裕华区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/01/130108.html
+130109000000	河北省-石家庄市-藁城区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/01/130109.html
+130110000000	河北省-石家庄市-鹿泉区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/01/130110.html
+130111000000	河北省-石家庄市-栾城区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/01/130111.html
+130121000000	河北省-石家庄市-井陉县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/01/130121.html
+130123000000	河北省-石家庄市-正定县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/01/130123.html
+130125000000	河北省-石家庄市-行唐县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/01/130125.html
+130126000000	河北省-石家庄市-灵寿县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/01/130126.html
+130127000000	河北省-石家庄市-高邑县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/01/130127.html
+130128000000	河北省-石家庄市-深泽县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/01/130128.html
+130129000000	河北省-石家庄市-赞皇县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/01/130129.html
+130130000000	河北省-石家庄市-无极县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/01/130130.html
+130131000000	河北省-石家庄市-平山县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/01/130131.html
+130132000000	河北省-石家庄市-元氏县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/01/130132.html
+130133000000	河北省-石家庄市-赵县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/01/130133.html
+130171000000	河北省-石家庄市-石家庄高新技术产业开发区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/01/130171.html
+130172000000	河北省-石家庄市-石家庄循环化工园区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/01/130172.html
+130181000000	河北省-石家庄市-辛集市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/01/130181.html
+130183000000	河北省-石家庄市-晋州市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/01/130183.html
+130184000000	河北省-石家庄市-新乐市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/01/130184.html

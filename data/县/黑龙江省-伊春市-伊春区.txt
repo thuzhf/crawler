@@ -1,0 +1,12 @@
+230702002000	黑龙江省-伊春市-伊春区-旭日社区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/07/02/230702002.html
+230702003000	黑龙江省-伊春市-伊春区-林都社区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/07/02/230702003.html
+230702005000	黑龙江省-伊春市-伊春区-北郡社区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/07/02/230702005.html
+230702008000	黑龙江省-伊春市-伊春区-东升街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/07/02/230702008.html
+230702009000	黑龙江省-伊春市-伊春区-红升社区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/07/02/230702009.html
+230702010000	黑龙江省-伊春市-伊春区-永红社区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/07/02/230702010.html
+230702011000	黑龙江省-伊春市-伊春区-南郡社区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/07/02/230702011.html
+230702012000	黑龙江省-伊春市-伊春区-新欣社区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/07/02/230702012.html
+230702013000	黑龙江省-伊春市-伊春区-扶林社区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/07/02/230702013.html
+230702014000	黑龙江省-伊春市-伊春区-前进社区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/07/02/230702014.html
+230702015000	黑龙江省-伊春市-伊春区-红光社区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/07/02/230702015.html
+230702016000	黑龙江省-伊春市-伊春区-朝阳社区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/07/02/230702016.html

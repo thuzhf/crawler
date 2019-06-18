@@ -1,0 +1,17 @@
+341182001000	安徽省-滁州市-明光市-明光街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/11/82/341182001.html
+341182002000	安徽省-滁州市-明光市-明东街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/11/82/341182002.html
+341182003000	安徽省-滁州市-明光市-明南街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/11/82/341182003.html
+341182004000	安徽省-滁州市-明光市-明西街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/11/82/341182004.html
+341182100000	安徽省-滁州市-明光市-张八岭镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/11/82/341182100.html
+341182101000	安徽省-滁州市-明光市-三界镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/11/82/341182101.html
+341182102000	安徽省-滁州市-明光市-管店镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/11/82/341182102.html
+341182103000	安徽省-滁州市-明光市-自来桥镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/11/82/341182103.html
+341182104000	安徽省-滁州市-明光市-涧溪镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/11/82/341182104.html
+341182105000	安徽省-滁州市-明光市-石坝镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/11/82/341182105.html
+341182106000	安徽省-滁州市-明光市-苏巷镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/11/82/341182106.html
+341182107000	安徽省-滁州市-明光市-桥头镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/11/82/341182107.html
+341182108000	安徽省-滁州市-明光市-女山湖镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/11/82/341182108.html
+341182109000	安徽省-滁州市-明光市-古沛镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/11/82/341182109.html
+341182110000	安徽省-滁州市-明光市-潘村镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/11/82/341182110.html
+341182111000	安徽省-滁州市-明光市-柳巷镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/11/82/341182111.html
+341182200000	安徽省-滁州市-明光市-泊岗乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/11/82/341182200.html

@@ -1,0 +1,10 @@
+360322101000	江西省-萍乡市-上栗县-上栗镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/03/22/360322101.html
+360322102000	江西省-萍乡市-上栗县-桐木镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/03/22/360322102.html
+360322103000	江西省-萍乡市-上栗县-金山镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/03/22/360322103.html
+360322104000	江西省-萍乡市-上栗县-福田镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/03/22/360322104.html
+360322105000	江西省-萍乡市-上栗县-彭高镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/03/22/360322105.html
+360322106000	江西省-萍乡市-上栗县-赤山镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/03/22/360322106.html
+360322200000	江西省-萍乡市-上栗县-鸡冠山乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/03/22/360322200.html
+360322201000	江西省-萍乡市-上栗县-长平乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/03/22/360322201.html
+360322202000	江西省-萍乡市-上栗县-东源乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/03/22/360322202.html
+360322203000	江西省-萍乡市-上栗县-杨岐乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/03/22/360322203.html

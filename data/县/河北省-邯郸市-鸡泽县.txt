@@ -1,0 +1,7 @@
+130431100000	河北省-邯郸市-鸡泽县-鸡泽镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/04/31/130431100.html
+130431101000	河北省-邯郸市-鸡泽县-小寨镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/04/31/130431101.html
+130431102000	河北省-邯郸市-鸡泽县-双塔镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/04/31/130431102.html
+130431103000	河北省-邯郸市-鸡泽县-曹庄镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/04/31/130431103.html
+130431200000	河北省-邯郸市-鸡泽县-浮图店乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/04/31/130431200.html
+130431201000	河北省-邯郸市-鸡泽县-吴官营乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/04/31/130431201.html
+130431202000	河北省-邯郸市-鸡泽县-风正乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/04/31/130431202.html

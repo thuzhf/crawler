@@ -1,0 +1,9 @@
+152523100000	内蒙古自治区-锡林郭勒盟-苏尼特左旗-满都拉图镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/25/23/152523100.html
+152523101000	内蒙古自治区-锡林郭勒盟-苏尼特左旗-查干敖包镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/25/23/152523101.html
+152523102000	内蒙古自治区-锡林郭勒盟-苏尼特左旗-巴彦淖尔镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/25/23/152523102.html
+152523200000	内蒙古自治区-锡林郭勒盟-苏尼特左旗-巴彦乌拉苏木	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/25/23/152523200.html
+152523201000	内蒙古自治区-锡林郭勒盟-苏尼特左旗-赛罕高毕苏木	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/25/23/152523201.html
+152523202000	内蒙古自治区-锡林郭勒盟-苏尼特左旗-洪格尔苏木	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/25/23/152523202.html
+152523203000	内蒙古自治区-锡林郭勒盟-苏尼特左旗-达来苏木	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/25/23/152523203.html
+152523400000	内蒙古自治区-锡林郭勒盟-苏尼特左旗-苏尼特左旗芒来循环经济产业园区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/25/23/152523400.html
+152523500000	内蒙古自治区-锡林郭勒盟-苏尼特左旗-恩格尔河灌区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/25/23/152523500.html

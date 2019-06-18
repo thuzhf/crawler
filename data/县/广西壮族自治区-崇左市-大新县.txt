@@ -1,0 +1,15 @@
+451424100000	广西壮族自治区-崇左市-大新县-桃城镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/14/24/451424100.html
+451424101000	广西壮族自治区-崇左市-大新县-全茗镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/14/24/451424101.html
+451424102000	广西壮族自治区-崇左市-大新县-雷平镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/14/24/451424102.html
+451424103000	广西壮族自治区-崇左市-大新县-硕龙镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/14/24/451424103.html
+451424104000	广西壮族自治区-崇左市-大新县-下雷镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/14/24/451424104.html
+451424200000	广西壮族自治区-崇左市-大新县-五山乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/14/24/451424200.html
+451424201000	广西壮族自治区-崇左市-大新县-龙门乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/14/24/451424201.html
+451424202000	广西壮族自治区-崇左市-大新县-昌明乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/14/24/451424202.html
+451424203000	广西壮族自治区-崇左市-大新县-福隆乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/14/24/451424203.html
+451424204000	广西壮族自治区-崇左市-大新县-那岭乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/14/24/451424204.html
+451424205000	广西壮族自治区-崇左市-大新县-恩城乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/14/24/451424205.html
+451424206000	广西壮族自治区-崇左市-大新县-榄圩乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/14/24/451424206.html
+451424207000	广西壮族自治区-崇左市-大新县-宝圩乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/14/24/451424207.html
+451424208000	广西壮族自治区-崇左市-大新县-堪圩乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/14/24/451424208.html
+451424400000	广西壮族自治区-崇左市-大新县-国营桃城华侨农场	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/14/24/451424400.html

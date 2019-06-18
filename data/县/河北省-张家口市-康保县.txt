@@ -1,0 +1,17 @@
+130723100000	河北省-张家口市-康保县-康保镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/07/23/130723100.html
+130723101000	河北省-张家口市-康保县-张纪镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/07/23/130723101.html
+130723102000	河北省-张家口市-康保县-土城子镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/07/23/130723102.html
+130723103000	河北省-张家口市-康保县-邓油坊镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/07/23/130723103.html
+130723104000	河北省-张家口市-康保县-李家地镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/07/23/130723104.html
+130723105000	河北省-张家口市-康保县-照阳河镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/07/23/130723105.html
+130723106000	河北省-张家口市-康保县-屯垦镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/07/23/130723106.html
+130723200000	河北省-张家口市-康保县-闫油坊乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/07/23/130723200.html
+130723201000	河北省-张家口市-康保县-丹清河乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/07/23/130723201.html
+130723202000	河北省-张家口市-康保县-哈咇嘎乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/07/23/130723202.html
+130723203000	河北省-张家口市-康保县-二号卜乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/07/23/130723203.html
+130723204000	河北省-张家口市-康保县-芦家营乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/07/23/130723204.html
+130723205000	河北省-张家口市-康保县-忠义乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/07/23/130723205.html
+130723206000	河北省-张家口市-康保县-处长地乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/07/23/130723206.html
+130723207000	河北省-张家口市-康保县-满德堂乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/07/23/130723207.html
+130723500000	河北省-张家口市-康保县-康保牧场	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/07/23/130723500.html
+130723501000	河北省-张家口市-康保县-屯垦林场	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/07/23/130723501.html

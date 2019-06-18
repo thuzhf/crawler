@@ -1,0 +1,12 @@
+130802001000	河北省-承德市-双桥区-西大街街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/08/02/130802001.html
+130802002000	河北省-承德市-双桥区-头道牌楼街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/08/02/130802002.html
+130802003000	河北省-承德市-双桥区-潘家沟街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/08/02/130802003.html
+130802004000	河北省-承德市-双桥区-中华路街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/08/02/130802004.html
+130802005000	河北省-承德市-双桥区-新华路街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/08/02/130802005.html
+130802006000	河北省-承德市-双桥区-石洞子沟街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/08/02/130802006.html
+130802007000	河北省-承德市-双桥区-桥东街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/08/02/130802007.html
+130802100000	河北省-承德市-双桥区-水泉沟镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/08/02/130802100.html
+130802101000	河北省-承德市-双桥区-狮子沟镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/08/02/130802101.html
+130802102000	河北省-承德市-双桥区-牛圈子沟镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/08/02/130802102.html
+130802103000	河北省-承德市-双桥区-大石庙镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/08/02/130802103.html
+130802105000	河北省-承德市-双桥区-双峰寺镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/08/02/130802105.html

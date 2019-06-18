@@ -1,0 +1,10 @@
+350211001000	福建省-厦门市-集美区-集美街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/02/11/350211001.html
+350211002000	福建省-厦门市-集美区-侨英街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/02/11/350211002.html
+350211003000	福建省-厦门市-集美区-杏林街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/02/11/350211003.html
+350211004000	福建省-厦门市-集美区-杏滨街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/02/11/350211004.html
+350211102000	福建省-厦门市-集美区-灌口镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/02/11/350211102.html
+350211103000	福建省-厦门市-集美区-后溪镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/02/11/350211103.html
+350211401000	福建省-厦门市-集美区-第二农场	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/02/11/350211401.html
+350211402000	福建省-厦门市-集美区-省天马种猪场	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/02/11/350211402.html
+350211403000	福建省-厦门市-集美区-天马华侨农场	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/02/11/350211403.html
+350211404000	福建省-厦门市-集美区-坂头防护林场	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/02/11/350211404.html

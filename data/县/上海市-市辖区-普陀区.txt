@@ -1,0 +1,10 @@
+310107005000	上海市-市辖区-普陀区-曹杨新村街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/31/01/07/310107005.html
+310107014000	上海市-市辖区-普陀区-长风新村街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/31/01/07/310107014.html
+310107015000	上海市-市辖区-普陀区-长寿路街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/31/01/07/310107015.html
+310107016000	上海市-市辖区-普陀区-甘泉路街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/31/01/07/310107016.html
+310107017000	上海市-市辖区-普陀区-石泉路街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/31/01/07/310107017.html
+310107020000	上海市-市辖区-普陀区-宜川路街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/31/01/07/310107020.html
+310107021000	上海市-市辖区-普陀区-万里街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/31/01/07/310107021.html
+310107022000	上海市-市辖区-普陀区-真如镇街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/31/01/07/310107022.html
+310107102000	上海市-市辖区-普陀区-长征镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/31/01/07/310107102.html
+310107103000	上海市-市辖区-普陀区-桃浦镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/31/01/07/310107103.html

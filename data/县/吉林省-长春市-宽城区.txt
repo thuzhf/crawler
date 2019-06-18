@@ -1,0 +1,14 @@
+220103001000	吉林省-长春市-宽城区-新发街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/01/03/220103001.html
+220103002000	吉林省-长春市-宽城区-站前街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/01/03/220103002.html
+220103003000	吉林省-长春市-宽城区-南广街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/01/03/220103003.html
+220103004000	吉林省-长春市-宽城区-东广街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/01/03/220103004.html
+220103005000	吉林省-长春市-宽城区-群英街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/01/03/220103005.html
+220103006000	吉林省-长春市-宽城区-兴业街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/01/03/220103006.html
+220103007000	吉林省-长春市-宽城区-凯旋街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/01/03/220103007.html
+220103008000	吉林省-长春市-宽城区-团山街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/01/03/220103008.html
+220103009000	吉林省-长春市-宽城区-柳影街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/01/03/220103009.html
+220103010000	吉林省-长春市-宽城区-欣园街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/01/03/220103010.html
+220103100000	吉林省-长春市-宽城区-兰家镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/01/03/220103100.html
+220103101000	吉林省-长春市-宽城区-米沙子镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/01/03/220103101.html
+220103102000	吉林省-长春市-宽城区-万宝镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/01/03/220103102.html
+220103171000	吉林省-长春市-宽城区-合隆镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/01/03/220103171.html

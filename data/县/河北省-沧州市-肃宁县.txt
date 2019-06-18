@@ -1,0 +1,9 @@
+130926100000	河北省-沧州市-肃宁县-肃宁镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/09/26/130926100.html
+130926101000	河北省-沧州市-肃宁县-梁家村镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/09/26/130926101.html
+130926102000	河北省-沧州市-肃宁县-窝北镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/09/26/130926102.html
+130926103000	河北省-沧州市-肃宁县-尚村镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/09/26/130926103.html
+130926104000	河北省-沧州市-肃宁县-万里镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/09/26/130926104.html
+130926105000	河北省-沧州市-肃宁县-师素镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/09/26/130926105.html
+130926203000	河北省-沧州市-肃宁县-河北留善寺乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/09/26/130926203.html
+130926204000	河北省-沧州市-肃宁县-付家佐乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/09/26/130926204.html
+130926205000	河北省-沧州市-肃宁县-邵庄乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/09/26/130926205.html

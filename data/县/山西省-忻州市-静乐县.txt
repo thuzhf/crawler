@@ -1,0 +1,14 @@
+140926100000	山西省-忻州市-静乐县-鹅城镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/09/26/140926100.html
+140926101000	山西省-忻州市-静乐县-杜家村镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/09/26/140926101.html
+140926102000	山西省-忻州市-静乐县-康家会镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/09/26/140926102.html
+140926103000	山西省-忻州市-静乐县-丰润镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/09/26/140926103.html
+140926201000	山西省-忻州市-静乐县-堂尔上乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/09/26/140926201.html
+140926202000	山西省-忻州市-静乐县-中庄乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/09/26/140926202.html
+140926203000	山西省-忻州市-静乐县-双路乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/09/26/140926203.html
+140926204000	山西省-忻州市-静乐县-段家寨乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/09/26/140926204.html
+140926205000	山西省-忻州市-静乐县-辛村乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/09/26/140926205.html
+140926206000	山西省-忻州市-静乐县-王村乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/09/26/140926206.html
+140926207000	山西省-忻州市-静乐县-神峪沟乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/09/26/140926207.html
+140926208000	山西省-忻州市-静乐县-娘子神乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/09/26/140926208.html
+140926209000	山西省-忻州市-静乐县-娑婆乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/09/26/140926209.html
+140926210000	山西省-忻州市-静乐县-赤泥洼乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/09/26/140926210.html

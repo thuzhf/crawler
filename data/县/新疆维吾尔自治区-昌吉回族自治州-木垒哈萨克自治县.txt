@@ -1,0 +1,12 @@
+652328100000	新疆维吾尔自治区-昌吉回族自治州-木垒哈萨克自治县-木垒镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/23/28/652328100.html
+652328101000	新疆维吾尔自治区-昌吉回族自治州-木垒哈萨克自治县-西吉尔镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/23/28/652328101.html
+652328102000	新疆维吾尔自治区-昌吉回族自治州-木垒哈萨克自治县-东城镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/23/28/652328102.html
+652328103000	新疆维吾尔自治区-昌吉回族自治州-木垒哈萨克自治县-新户镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/23/28/652328103.html
+652328200000	新疆维吾尔自治区-昌吉回族自治州-木垒哈萨克自治县-英格堡乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/23/28/652328200.html
+652328201000	新疆维吾尔自治区-昌吉回族自治州-木垒哈萨克自治县-照壁山乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/23/28/652328201.html
+652328203000	新疆维吾尔自治区-昌吉回族自治州-木垒哈萨克自治县-雀仁乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/23/28/652328203.html
+652328204000	新疆维吾尔自治区-昌吉回族自治州-木垒哈萨克自治县-白杨河乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/23/28/652328204.html
+652328205000	新疆维吾尔自治区-昌吉回族自治州-木垒哈萨克自治县-大石头乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/23/28/652328205.html
+652328206000	新疆维吾尔自治区-昌吉回族自治州-木垒哈萨克自治县-大南沟乌孜别克乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/23/28/652328206.html
+652328207000	新疆维吾尔自治区-昌吉回族自治州-木垒哈萨克自治县-博斯坦乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/23/28/652328207.html
+652328401000	新疆维吾尔自治区-昌吉回族自治州-木垒哈萨克自治县-克热克库都克牧场	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/23/28/652328401.html

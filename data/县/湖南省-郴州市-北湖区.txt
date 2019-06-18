@@ -1,0 +1,14 @@
+431002001000	湖南省-郴州市-北湖区-人民路街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/10/02/431002001.html
+431002002000	湖南省-郴州市-北湖区-北湖街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/10/02/431002002.html
+431002003000	湖南省-郴州市-北湖区-燕泉街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/10/02/431002003.html
+431002004000	湖南省-郴州市-北湖区-下湄桥街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/10/02/431002004.html
+431002005000	湖南省-郴州市-北湖区-骆仙街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/10/02/431002005.html
+431002006000	湖南省-郴州市-北湖区-增福街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/10/02/431002006.html
+431002007000	湖南省-郴州市-北湖区-郴江街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/10/02/431002007.html
+431002008000	湖南省-郴州市-北湖区-涌泉街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/10/02/431002008.html
+431002009000	湖南省-郴州市-北湖区-安和街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/10/02/431002009.html
+431002010000	湖南省-郴州市-北湖区-石盖塘街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/10/02/431002010.html
+431002101000	湖南省-郴州市-北湖区-华塘镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/10/02/431002101.html
+431002102000	湖南省-郴州市-北湖区-鲁塘镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/10/02/431002102.html
+431002209000	湖南省-郴州市-北湖区-仰天湖瑶族乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/10/02/431002209.html
+431002210000	湖南省-郴州市-北湖区-保和瑶族乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/10/02/431002210.html

@@ -1,0 +1,11 @@
+530111001000	云南省-昆明市-官渡区-关上街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/01/11/530111001.html
+530111002000	云南省-昆明市-官渡区-太和街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/01/11/530111002.html
+530111003000	云南省-昆明市-官渡区-吴井街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/01/11/530111003.html
+530111004000	云南省-昆明市-官渡区-金马街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/01/11/530111004.html
+530111005000	云南省-昆明市-官渡区-小板桥街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/01/11/530111005.html
+530111006000	云南省-昆明市-官渡区-官渡街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/01/11/530111006.html
+530111007000	云南省-昆明市-官渡区-矣六街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/01/11/530111007.html
+530111008000	云南省-昆明市-官渡区-六甲街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/01/11/530111008.html
+530111009000	云南省-昆明市-官渡区-大板桥街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/01/11/530111009.html
+530111010000	云南省-昆明市-官渡区-阿拉街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/01/11/530111010.html
+530111402000	云南省-昆明市-官渡区-昆明经济技术开发区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/01/11/530111402.html

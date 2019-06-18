@@ -1,0 +1,16 @@
+130626100000	河北省-保定市-定兴县-定兴镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/06/26/130626100.html
+130626101000	河北省-保定市-定兴县-固城镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/06/26/130626101.html
+130626102000	河北省-保定市-定兴县-贤寓镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/06/26/130626102.html
+130626103000	河北省-保定市-定兴县-北河镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/06/26/130626103.html
+130626104000	河北省-保定市-定兴县-天宫寺镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/06/26/130626104.html
+130626105000	河北省-保定市-定兴县-小朱庄镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/06/26/130626105.html
+130626106000	河北省-保定市-定兴县-姚村镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/06/26/130626106.html
+130626200000	河北省-保定市-定兴县-东落堡乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/06/26/130626200.html
+130626201000	河北省-保定市-定兴县-高里乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/06/26/130626201.html
+130626202000	河北省-保定市-定兴县-张家庄乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/06/26/130626202.html
+130626204000	河北省-保定市-定兴县-肖村乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/06/26/130626204.html
+130626205000	河北省-保定市-定兴县-柳卓乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/06/26/130626205.html
+130626206000	河北省-保定市-定兴县-杨村乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/06/26/130626206.html
+130626207000	河北省-保定市-定兴县-北田乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/06/26/130626207.html
+130626208000	河北省-保定市-定兴县-北南蔡乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/06/26/130626208.html
+130626209000	河北省-保定市-定兴县-李郁庄乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/06/26/130626209.html

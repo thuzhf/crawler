@@ -1,0 +1,12 @@
+150101000000	内蒙古自治区-呼和浩特市-市辖区	
+150102000000	内蒙古自治区-呼和浩特市-新城区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/01/150102.html
+150103000000	内蒙古自治区-呼和浩特市-回民区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/01/150103.html
+150104000000	内蒙古自治区-呼和浩特市-玉泉区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/01/150104.html
+150105000000	内蒙古自治区-呼和浩特市-赛罕区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/01/150105.html
+150121000000	内蒙古自治区-呼和浩特市-土默特左旗	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/01/150121.html
+150122000000	内蒙古自治区-呼和浩特市-托克托县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/01/150122.html
+150123000000	内蒙古自治区-呼和浩特市-和林格尔县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/01/150123.html
+150124000000	内蒙古自治区-呼和浩特市-清水河县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/01/150124.html
+150125000000	内蒙古自治区-呼和浩特市-武川县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/01/150125.html
+150171000000	内蒙古自治区-呼和浩特市-呼和浩特金海工业园区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/01/150171.html
+150172000000	内蒙古自治区-呼和浩特市-呼和浩特经济技术开发区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/01/150172.html

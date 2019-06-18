@@ -1,0 +1,13 @@
+653224001000	新疆维吾尔自治区-和田地区-洛浦县-城区街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/32/24/653224001.html
+653224100000	新疆维吾尔自治区-和田地区-洛浦县-洛浦镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/32/24/653224100.html
+653224101000	新疆维吾尔自治区-和田地区-洛浦县-山普鲁镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/32/24/653224101.html
+653224102000	新疆维吾尔自治区-和田地区-洛浦县-杭桂镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/32/24/653224102.html
+653224201000	新疆维吾尔自治区-和田地区-洛浦县-布亚乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/32/24/653224201.html
+653224203000	新疆维吾尔自治区-和田地区-洛浦县-恰尔巴格乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/32/24/653224203.html
+653224205000	新疆维吾尔自治区-和田地区-洛浦县-多鲁乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/32/24/653224205.html
+653224206000	新疆维吾尔自治区-和田地区-洛浦县-纳瓦乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/32/24/653224206.html
+653224207000	新疆维吾尔自治区-和田地区-洛浦县-拜什托格拉克乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/32/24/653224207.html
+653224208000	新疆维吾尔自治区-和田地区-洛浦县-阿其克乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/32/24/653224208.html
+653224401000	新疆维吾尔自治区-和田地区-洛浦县-良种场	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/32/24/653224401.html
+653224402000	新疆维吾尔自治区-和田地区-洛浦县-洛浦县北京农业科技示范园区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/32/24/653224402.html
+653224403000	新疆维吾尔自治区-和田地区-洛浦县-洛浦县北京工业园区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/32/24/653224403.html

@@ -1,0 +1,5 @@
+450601000000	广西壮族自治区-防城港市-市辖区	
+450602000000	广西壮族自治区-防城港市-港口区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/06/450602.html
+450603000000	广西壮族自治区-防城港市-防城区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/06/450603.html
+450621000000	广西壮族自治区-防城港市-上思县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/06/450621.html
+450681000000	广西壮族自治区-防城港市-东兴市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/06/450681.html

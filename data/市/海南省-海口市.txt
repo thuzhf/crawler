@@ -1,0 +1,5 @@
+460101000000	海南省-海口市-市辖区	
+460105000000	海南省-海口市-秀英区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/46/01/460105.html
+460106000000	海南省-海口市-龙华区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/46/01/460106.html
+460107000000	海南省-海口市-琼山区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/46/01/460107.html
+460108000000	海南省-海口市-美兰区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/46/01/460108.html

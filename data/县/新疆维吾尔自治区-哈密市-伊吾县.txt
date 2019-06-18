@@ -1,0 +1,10 @@
+650522100000	新疆维吾尔自治区-哈密市-伊吾县-伊吾镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/05/22/650522100.html
+650522101000	新疆维吾尔自治区-哈密市-伊吾县-淖毛湖镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/05/22/650522101.html
+650522102000	新疆维吾尔自治区-哈密市-伊吾县-盐池镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/05/22/650522102.html
+650522201000	新疆维吾尔自治区-哈密市-伊吾县-苇子峡乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/05/22/650522201.html
+650522202000	新疆维吾尔自治区-哈密市-伊吾县-下马崖乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/05/22/650522202.html
+650522204000	新疆维吾尔自治区-哈密市-伊吾县-吐葫芦乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/05/22/650522204.html
+650522205000	新疆维吾尔自治区-哈密市-伊吾县-前山哈萨克民族乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/05/22/650522205.html
+650522400000	新疆维吾尔自治区-哈密市-伊吾县-伊吾县工业加工区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/05/22/650522400.html
+650522403000	新疆维吾尔自治区-哈密市-伊吾县-伊吾县山南开发区管委会	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/05/22/650522403.html
+650522500000	新疆维吾尔自治区-哈密市-伊吾县-兵团淖毛湖农场	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/05/22/650522500.html

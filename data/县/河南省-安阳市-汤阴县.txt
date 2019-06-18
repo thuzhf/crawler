@@ -1,0 +1,10 @@
+410523100000	河南省-安阳市-汤阴县-城关镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/05/23/410523100.html
+410523101000	河南省-安阳市-汤阴县-菜园镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/05/23/410523101.html
+410523102000	河南省-安阳市-汤阴县-任固镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/05/23/410523102.html
+410523103000	河南省-安阳市-汤阴县-五陵镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/05/23/410523103.html
+410523104000	河南省-安阳市-汤阴县-宜沟镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/05/23/410523104.html
+410523105000	河南省-安阳市-汤阴县-白营镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/05/23/410523105.html
+410523106000	河南省-安阳市-汤阴县-伏道镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/05/23/410523106.html
+410523107000	河南省-安阳市-汤阴县-韩庄镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/05/23/410523107.html
+410523108000	河南省-安阳市-汤阴县-古贤镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/05/23/410523108.html
+410523203000	河南省-安阳市-汤阴县-瓦岗乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/05/23/410523203.html

@@ -1,0 +1,16 @@
+310101000000	上海市-市辖区-黄浦区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/31/01/310101.html
+310104000000	上海市-市辖区-徐汇区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/31/01/310104.html
+310105000000	上海市-市辖区-长宁区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/31/01/310105.html
+310106000000	上海市-市辖区-静安区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/31/01/310106.html
+310107000000	上海市-市辖区-普陀区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/31/01/310107.html
+310109000000	上海市-市辖区-虹口区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/31/01/310109.html
+310110000000	上海市-市辖区-杨浦区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/31/01/310110.html
+310112000000	上海市-市辖区-闵行区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/31/01/310112.html
+310113000000	上海市-市辖区-宝山区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/31/01/310113.html
+310114000000	上海市-市辖区-嘉定区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/31/01/310114.html
+310115000000	上海市-市辖区-浦东新区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/31/01/310115.html
+310116000000	上海市-市辖区-金山区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/31/01/310116.html
+310117000000	上海市-市辖区-松江区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/31/01/310117.html
+310118000000	上海市-市辖区-青浦区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/31/01/310118.html
+310120000000	上海市-市辖区-奉贤区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/31/01/310120.html
+310151000000	上海市-市辖区-崇明区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/31/01/310151.html

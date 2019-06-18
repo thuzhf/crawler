@@ -1,0 +1,9 @@
+653225100000	新疆维吾尔自治区-和田地区-策勒县-策勒镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/32/25/653225100.html
+653225101000	新疆维吾尔自治区-和田地区-策勒县-固拉合玛镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/32/25/653225101.html
+653225200000	新疆维吾尔自治区-和田地区-策勒县-策勒乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/32/25/653225200.html
+653225202000	新疆维吾尔自治区-和田地区-策勒县-达玛沟乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/32/25/653225202.html
+653225203000	新疆维吾尔自治区-和田地区-策勒县-恰哈乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/32/25/653225203.html
+653225204000	新疆维吾尔自治区-和田地区-策勒县-乌鲁克萨依乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/32/25/653225204.html
+653225205000	新疆维吾尔自治区-和田地区-策勒县-奴尔乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/32/25/653225205.html
+653225206000	新疆维吾尔自治区-和田地区-策勒县-博斯坦乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/32/25/653225206.html
+653225500000	新疆维吾尔自治区-和田地区-策勒县-兵团一牧场	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/32/25/653225500.html

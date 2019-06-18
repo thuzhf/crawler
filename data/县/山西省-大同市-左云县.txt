@@ -1,0 +1,9 @@
+140226100000	山西省-大同市-左云县-云兴镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/02/26/140226100.html
+140226101000	山西省-大同市-左云县-鹊儿山镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/02/26/140226101.html
+140226102000	山西省-大同市-左云县-店湾镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/02/26/140226102.html
+140226200000	山西省-大同市-左云县-管家堡乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/02/26/140226200.html
+140226201000	山西省-大同市-左云县-张家场乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/02/26/140226201.html
+140226205000	山西省-大同市-左云县-三屯乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/02/26/140226205.html
+140226206000	山西省-大同市-左云县-马道头乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/02/26/140226206.html
+140226207000	山西省-大同市-左云县-小京庄乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/02/26/140226207.html
+140226209000	山西省-大同市-左云县-水窑乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/02/26/140226209.html

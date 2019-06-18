@@ -1,0 +1,9 @@
+511701000000	四川省-达州市-市辖区	
+511702000000	四川省-达州市-通川区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/17/511702.html
+511703000000	四川省-达州市-达川区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/17/511703.html
+511722000000	四川省-达州市-宣汉县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/17/511722.html
+511723000000	四川省-达州市-开江县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/17/511723.html
+511724000000	四川省-达州市-大竹县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/17/511724.html
+511725000000	四川省-达州市-渠县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/17/511725.html
+511771000000	四川省-达州市-达州经济开发区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/17/511771.html
+511781000000	四川省-达州市-万源市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/17/511781.html

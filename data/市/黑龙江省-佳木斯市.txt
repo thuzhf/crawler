@@ -1,0 +1,11 @@
+230801000000	黑龙江省-佳木斯市-市辖区	
+230803000000	黑龙江省-佳木斯市-向阳区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/08/230803.html
+230804000000	黑龙江省-佳木斯市-前进区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/08/230804.html
+230805000000	黑龙江省-佳木斯市-东风区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/08/230805.html
+230811000000	黑龙江省-佳木斯市-郊区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/08/230811.html
+230822000000	黑龙江省-佳木斯市-桦南县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/08/230822.html
+230826000000	黑龙江省-佳木斯市-桦川县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/08/230826.html
+230828000000	黑龙江省-佳木斯市-汤原县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/08/230828.html
+230881000000	黑龙江省-佳木斯市-同江市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/08/230881.html
+230882000000	黑龙江省-佳木斯市-富锦市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/08/230882.html
+230883000000	黑龙江省-佳木斯市-抚远市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/08/230883.html

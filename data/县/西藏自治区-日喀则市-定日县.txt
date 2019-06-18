@@ -1,0 +1,13 @@
+540223100000	西藏自治区-日喀则市-定日县-协格尔镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/02/23/540223100.html
+540223101000	西藏自治区-日喀则市-定日县-岗嘎镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/02/23/540223101.html
+540223200000	西藏自治区-日喀则市-定日县-扎西宗乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/02/23/540223200.html
+540223201000	西藏自治区-日喀则市-定日县-绒辖乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/02/23/540223201.html
+540223202000	西藏自治区-日喀则市-定日县-曲当乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/02/23/540223202.html
+540223203000	西藏自治区-日喀则市-定日县-措果乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/02/23/540223203.html
+540223204000	西藏自治区-日喀则市-定日县-曲洛乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/02/23/540223204.html
+540223205000	西藏自治区-日喀则市-定日县-长所乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/02/23/540223205.html
+540223206000	西藏自治区-日喀则市-定日县-尼辖乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/02/23/540223206.html
+540223207000	西藏自治区-日喀则市-定日县-扎果乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/02/23/540223207.html
+540223208000	西藏自治区-日喀则市-定日县-克玛乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/02/23/540223208.html
+540223209000	西藏自治区-日喀则市-定日县-盆吉乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/02/23/540223209.html
+540223210000	西藏自治区-日喀则市-定日县-加措乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/02/23/540223210.html

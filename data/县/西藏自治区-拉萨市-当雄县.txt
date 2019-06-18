@@ -1,0 +1,8 @@
+540122100000	西藏自治区-拉萨市-当雄县-当曲卡镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/01/22/540122100.html
+540122101000	西藏自治区-拉萨市-当雄县-羊八井镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/01/22/540122101.html
+540122200000	西藏自治区-拉萨市-当雄县-格达乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/01/22/540122200.html
+540122201000	西藏自治区-拉萨市-当雄县-宁中乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/01/22/540122201.html
+540122202000	西藏自治区-拉萨市-当雄县-公塘乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/01/22/540122202.html
+540122203000	西藏自治区-拉萨市-当雄县-龙仁乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/01/22/540122203.html
+540122204000	西藏自治区-拉萨市-当雄县-乌玛塘乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/01/22/540122204.html
+540122205000	西藏自治区-拉萨市-当雄县-纳木湖乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/01/22/540122205.html

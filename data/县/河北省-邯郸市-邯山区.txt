@@ -1,0 +1,16 @@
+130402001000	河北省-邯郸市-邯山区-火磨街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/04/02/130402001.html
+130402002000	河北省-邯郸市-邯山区-陵园路街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/04/02/130402002.html
+130402003000	河北省-邯郸市-邯山区-光明路街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/04/02/130402003.html
+130402004000	河北省-邯郸市-邯山区-滏东街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/04/02/130402004.html
+130402005000	河北省-邯郸市-邯山区-罗城头街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/04/02/130402005.html
+130402006000	河北省-邯郸市-邯山区-渚河路街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/04/02/130402006.html
+130402007000	河北省-邯郸市-邯山区-浴新南街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/04/02/130402007.html
+130402008000	河北省-邯郸市-邯山区-农林路街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/04/02/130402008.html
+130402009000	河北省-邯郸市-邯山区-贸东街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/04/02/130402009.html
+130402010000	河北省-邯郸市-邯山区-贸西街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/04/02/130402010.html
+130402011000	河北省-邯郸市-邯山区-盛和路街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/04/02/130402011.html
+130402101000	河北省-邯郸市-邯山区-北张庄镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/04/02/130402101.html
+130402102000	河北省-邯郸市-邯山区-河沙镇镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/04/02/130402102.html
+130402200000	河北省-邯郸市-邯山区-马庄乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/04/02/130402200.html
+130402201000	河北省-邯郸市-邯山区-南堡乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/04/02/130402201.html
+130402202000	河北省-邯郸市-邯山区-代召乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/04/02/130402202.html

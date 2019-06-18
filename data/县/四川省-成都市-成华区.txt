@@ -1,0 +1,14 @@
+510108002000	四川省-成都市-成华区-猛追湾街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/01/08/510108002.html
+510108004000	四川省-成都市-成华区-双桥子街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/01/08/510108004.html
+510108005000	四川省-成都市-成华区-建设路街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/01/08/510108005.html
+510108006000	四川省-成都市-成华区-府青路街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/01/08/510108006.html
+510108007000	四川省-成都市-成华区-二仙桥街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/01/08/510108007.html
+510108008000	四川省-成都市-成华区-跳蹬河街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/01/08/510108008.html
+510108010000	四川省-成都市-成华区-双水碾街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/01/08/510108010.html
+510108011000	四川省-成都市-成华区-万年场街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/01/08/510108011.html
+510108012000	四川省-成都市-成华区-桃蹊路街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/01/08/510108012.html
+510108013000	四川省-成都市-成华区-圣灯街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/01/08/510108013.html
+510108014000	四川省-成都市-成华区-保和街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/01/08/510108014.html
+510108015000	四川省-成都市-成华区-青龙街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/01/08/510108015.html
+510108016000	四川省-成都市-成华区-龙潭街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/01/08/510108016.html
+510108017000	四川省-成都市-成华区-白莲池街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/01/08/510108017.html

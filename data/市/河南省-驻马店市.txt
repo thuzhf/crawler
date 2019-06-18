@@ -1,0 +1,12 @@
+411701000000	河南省-驻马店市-市辖区	
+411702000000	河南省-驻马店市-驿城区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/17/411702.html
+411721000000	河南省-驻马店市-西平县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/17/411721.html
+411722000000	河南省-驻马店市-上蔡县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/17/411722.html
+411723000000	河南省-驻马店市-平舆县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/17/411723.html
+411724000000	河南省-驻马店市-正阳县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/17/411724.html
+411725000000	河南省-驻马店市-确山县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/17/411725.html
+411726000000	河南省-驻马店市-泌阳县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/17/411726.html
+411727000000	河南省-驻马店市-汝南县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/17/411727.html
+411728000000	河南省-驻马店市-遂平县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/17/411728.html
+411729000000	河南省-驻马店市-新蔡县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/17/411729.html
+411771000000	河南省-驻马店市-河南驻马店经济开发区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/17/411771.html

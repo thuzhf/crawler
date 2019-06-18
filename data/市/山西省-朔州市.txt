@@ -1,0 +1,8 @@
+140601000000	山西省-朔州市-市辖区	
+140602000000	山西省-朔州市-朔城区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/06/140602.html
+140603000000	山西省-朔州市-平鲁区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/06/140603.html
+140621000000	山西省-朔州市-山阴县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/06/140621.html
+140622000000	山西省-朔州市-应县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/06/140622.html
+140623000000	山西省-朔州市-右玉县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/06/140623.html
+140671000000	山西省-朔州市-山西朔州经济开发区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/06/140671.html
+140681000000	山西省-朔州市-怀仁市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/06/140681.html

@@ -1,0 +1,12 @@
+330106002000	浙江省-杭州市-西湖区-北山街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/01/06/330106002.html
+330106004000	浙江省-杭州市-西湖区-西溪街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/01/06/330106004.html
+330106005000	浙江省-杭州市-西湖区-翠苑街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/01/06/330106005.html
+330106007000	浙江省-杭州市-西湖区-古荡街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/01/06/330106007.html
+330106008000	浙江省-杭州市-西湖区-西湖街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/01/06/330106008.html
+330106009000	浙江省-杭州市-西湖区-留下街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/01/06/330106009.html
+330106010000	浙江省-杭州市-西湖区-转塘街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/01/06/330106010.html
+330106011000	浙江省-杭州市-西湖区-蒋村街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/01/06/330106011.html
+330106012000	浙江省-杭州市-西湖区-灵隐街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/01/06/330106012.html
+330106013000	浙江省-杭州市-西湖区-文新街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/01/06/330106013.html
+330106109000	浙江省-杭州市-西湖区-三墩镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/01/06/330106109.html
+330106110000	浙江省-杭州市-西湖区-双浦镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/01/06/330106110.html

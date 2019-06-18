@@ -1,0 +1,11 @@
+440515001000	广东省-汕头市-澄海区-凤翔街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/05/15/440515001.html
+440515002000	广东省-汕头市-澄海区-广益街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/05/15/440515002.html
+440515003000	广东省-汕头市-澄海区-澄华街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/05/15/440515003.html
+440515100000	广东省-汕头市-澄海区-上华镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/05/15/440515100.html
+440515101000	广东省-汕头市-澄海区-隆都镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/05/15/440515101.html
+440515102000	广东省-汕头市-澄海区-莲下镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/05/15/440515102.html
+440515103000	广东省-汕头市-澄海区-莲上镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/05/15/440515103.html
+440515104000	广东省-汕头市-澄海区-溪南镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/05/15/440515104.html
+440515105000	广东省-汕头市-澄海区-东里镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/05/15/440515105.html
+440515106000	广东省-汕头市-澄海区-盐鸿镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/05/15/440515106.html
+440515107000	广东省-汕头市-澄海区-莲华镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/05/15/440515107.html

@@ -1,0 +1,6 @@
+140301000000	山西省-阳泉市-市辖区	
+140302000000	山西省-阳泉市-城区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/03/140302.html
+140303000000	山西省-阳泉市-矿区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/03/140303.html
+140311000000	山西省-阳泉市-郊区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/03/140311.html
+140321000000	山西省-阳泉市-平定县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/03/140321.html
+140322000000	山西省-阳泉市-盂县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/03/140322.html

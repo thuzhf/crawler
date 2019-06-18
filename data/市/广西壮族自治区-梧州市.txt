@@ -1,0 +1,8 @@
+450401000000	广西壮族自治区-梧州市-市辖区	
+450403000000	广西壮族自治区-梧州市-万秀区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/04/450403.html
+450405000000	广西壮族自治区-梧州市-长洲区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/04/450405.html
+450406000000	广西壮族自治区-梧州市-龙圩区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/04/450406.html
+450421000000	广西壮族自治区-梧州市-苍梧县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/04/450421.html
+450422000000	广西壮族自治区-梧州市-藤县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/04/450422.html
+450423000000	广西壮族自治区-梧州市-蒙山县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/04/450423.html
+450481000000	广西壮族自治区-梧州市-岑溪市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/04/450481.html

@@ -1,0 +1,12 @@
+421121100000	湖北省-黄冈市-团风县-团风镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/11/21/421121100.html
+421121101000	湖北省-黄冈市-团风县-淋山河镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/11/21/421121101.html
+421121102000	湖北省-黄冈市-团风县-方高坪镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/11/21/421121102.html
+421121103000	湖北省-黄冈市-团风县-回龙山镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/11/21/421121103.html
+421121104000	湖北省-黄冈市-团风县-马曹庙镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/11/21/421121104.html
+421121105000	湖北省-黄冈市-团风县-上巴河镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/11/21/421121105.html
+421121106000	湖北省-黄冈市-团风县-总路咀镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/11/21/421121106.html
+421121107000	湖北省-黄冈市-团风县-但店镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/11/21/421121107.html
+421121200000	湖北省-黄冈市-团风县-贾庙乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/11/21/421121200.html
+421121201000	湖北省-黄冈市-团风县-杜皮乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/11/21/421121201.html
+421121400000	湖北省-黄冈市-团风县-黄湖农场	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/11/21/421121400.html
+421121401000	湖北省-黄冈市-团风县-金锣港农场	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/11/21/421121401.html

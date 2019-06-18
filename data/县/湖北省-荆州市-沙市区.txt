@@ -1,0 +1,10 @@
+421002001000	湖北省-荆州市-沙市区-中山街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/10/02/421002001.html
+421002002000	湖北省-荆州市-沙市区-崇文街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/10/02/421002002.html
+421002003000	湖北省-荆州市-沙市区-解放街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/10/02/421002003.html
+421002004000	湖北省-荆州市-沙市区-胜利街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/10/02/421002004.html
+421002005000	湖北省-荆州市-沙市区-朝阳街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/10/02/421002005.html
+421002006000	湖北省-荆州市-沙市区-立新街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/10/02/421002006.html
+421002100000	湖北省-荆州市-沙市区-锣场镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/10/02/421002100.html
+421002101000	湖北省-荆州市-沙市区-岑河镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/10/02/421002101.html
+421002102000	湖北省-荆州市-沙市区-观音当镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/10/02/421002102.html
+421002103000	湖北省-荆州市-沙市区-关沮镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/10/02/421002103.html

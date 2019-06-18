@@ -1,0 +1,16 @@
+220204001000	吉林省-吉林市-船营区-德胜街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/02/04/220204001.html
+220204002000	吉林省-吉林市-船营区-南京街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/02/04/220204002.html
+220204003000	吉林省-吉林市-船营区-大东街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/02/04/220204003.html
+220204004000	吉林省-吉林市-船营区-青岛街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/02/04/220204004.html
+220204005000	吉林省-吉林市-船营区-向阳街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/02/04/220204005.html
+220204006000	吉林省-吉林市-船营区-北极街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/02/04/220204006.html
+220204007000	吉林省-吉林市-船营区-致和街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/02/04/220204007.html
+220204008000	吉林省-吉林市-船营区-长春路街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/02/04/220204008.html
+220204009000	吉林省-吉林市-船营区-临江街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/02/04/220204009.html
+220204010000	吉林省-吉林市-船营区-北山街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/02/04/220204010.html
+220204011000	吉林省-吉林市-船营区-黄旗街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/02/04/220204011.html
+220204100000	吉林省-吉林市-船营区-大绥河镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/02/04/220204100.html
+220204101000	吉林省-吉林市-船营区-搜登站镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/02/04/220204101.html
+220204102000	吉林省-吉林市-船营区-越北镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/02/04/220204102.html
+220204200000	吉林省-吉林市-船营区-欢喜乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/02/04/220204200.html
+220204400000	吉林省-吉林市-船营区-吉林船营经济开发区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/02/04/220204400.html

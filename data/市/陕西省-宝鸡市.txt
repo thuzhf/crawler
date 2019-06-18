@@ -1,0 +1,13 @@
+610301000000	陕西省-宝鸡市-市辖区	
+610302000000	陕西省-宝鸡市-渭滨区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/61/03/610302.html
+610303000000	陕西省-宝鸡市-金台区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/61/03/610303.html
+610304000000	陕西省-宝鸡市-陈仓区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/61/03/610304.html
+610322000000	陕西省-宝鸡市-凤翔县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/61/03/610322.html
+610323000000	陕西省-宝鸡市-岐山县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/61/03/610323.html
+610324000000	陕西省-宝鸡市-扶风县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/61/03/610324.html
+610326000000	陕西省-宝鸡市-眉县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/61/03/610326.html
+610327000000	陕西省-宝鸡市-陇县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/61/03/610327.html
+610328000000	陕西省-宝鸡市-千阳县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/61/03/610328.html
+610329000000	陕西省-宝鸡市-麟游县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/61/03/610329.html
+610330000000	陕西省-宝鸡市-凤县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/61/03/610330.html
+610331000000	陕西省-宝鸡市-太白县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/61/03/610331.html

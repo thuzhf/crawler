@@ -1,0 +1,12 @@
+340111001000	安徽省-合肥市-包河区-骆岗街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/01/11/340111001.html
+340111002000	安徽省-合肥市-包河区-常青街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/01/11/340111002.html
+340111003000	安徽省-合肥市-包河区-芜湖路街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/01/11/340111003.html
+340111004000	安徽省-合肥市-包河区-包公街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/01/11/340111004.html
+340111005000	安徽省-合肥市-包河区-望湖街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/01/11/340111005.html
+340111006000	安徽省-合肥市-包河区-义城街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/01/11/340111006.html
+340111007000	安徽省-合肥市-包河区-烟墩街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/01/11/340111007.html
+340111008000	安徽省-合肥市-包河区-滨湖世纪社区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/01/11/340111008.html
+340111009000	安徽省-合肥市-包河区-方兴社区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/01/11/340111009.html
+340111010000	安徽省-合肥市-包河区-万年埠街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/01/11/340111010.html
+340111100000	安徽省-合肥市-包河区-淝河镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/01/11/340111100.html
+340111102000	安徽省-合肥市-包河区-大圩镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/01/11/340111102.html

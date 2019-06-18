@@ -1,0 +1,12 @@
+140726100000	山西省-晋中市-太谷县-明星镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/07/26/140726100.html
+140726101000	山西省-晋中市-太谷县-胡村镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/07/26/140726101.html
+140726102000	山西省-晋中市-太谷县-范村镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/07/26/140726102.html
+140726200000	山西省-晋中市-太谷县-侯城乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/07/26/140726200.html
+140726201000	山西省-晋中市-太谷县-北汪乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/07/26/140726201.html
+140726202000	山西省-晋中市-太谷县-水秀乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/07/26/140726202.html
+140726203000	山西省-晋中市-太谷县-阳邑乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/07/26/140726203.html
+140726204000	山西省-晋中市-太谷县-小白乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/07/26/140726204.html
+140726205000	山西省-晋中市-太谷县-任村乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/07/26/140726205.html
+140726401000	山西省-晋中市-太谷县-白塔区管委会	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/07/26/140726401.html
+140726402000	山西省-晋中市-太谷县-北城区管委会	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/07/26/140726402.html
+140726403000	山西省-晋中市-太谷县-南城区管委会	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/07/26/140726403.html

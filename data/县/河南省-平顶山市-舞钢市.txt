@@ -1,0 +1,14 @@
+410481001000	河南省-平顶山市-舞钢市-垭口街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/04/81/410481001.html
+410481002000	河南省-平顶山市-舞钢市-寺坡街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/04/81/410481002.html
+410481003000	河南省-平顶山市-舞钢市-朱兰街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/04/81/410481003.html
+410481004000	河南省-平顶山市-舞钢市-院岭街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/04/81/410481004.html
+410481005000	河南省-平顶山市-舞钢市-矿建街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/04/81/410481005.html
+410481006000	河南省-平顶山市-舞钢市-铁山街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/04/81/410481006.html
+410481007000	河南省-平顶山市-舞钢市-红山街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/04/81/410481007.html
+410481100000	河南省-平顶山市-舞钢市-尚店镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/04/81/410481100.html
+410481101000	河南省-平顶山市-舞钢市-八台镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/04/81/410481101.html
+410481102000	河南省-平顶山市-舞钢市-尹集镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/04/81/410481102.html
+410481103000	河南省-平顶山市-舞钢市-枣林镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/04/81/410481103.html
+410481202000	河南省-平顶山市-舞钢市-庙街乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/04/81/410481202.html
+410481204000	河南省-平顶山市-舞钢市-武功乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/04/81/410481204.html
+410481205000	河南省-平顶山市-舞钢市-杨庄乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/04/81/410481205.html

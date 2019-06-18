@@ -1,0 +1,10 @@
+330105001000	浙江省-杭州市-拱墅区-米市巷街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/01/05/330105001.html
+330105002000	浙江省-杭州市-拱墅区-湖墅街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/01/05/330105002.html
+330105003000	浙江省-杭州市-拱墅区-小河街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/01/05/330105003.html
+330105004000	浙江省-杭州市-拱墅区-和睦街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/01/05/330105004.html
+330105005000	浙江省-杭州市-拱墅区-拱宸桥街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/01/05/330105005.html
+330105007000	浙江省-杭州市-拱墅区-大关街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/01/05/330105007.html
+330105008000	浙江省-杭州市-拱墅区-上塘街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/01/05/330105008.html
+330105009000	浙江省-杭州市-拱墅区-祥符街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/01/05/330105009.html
+330105010000	浙江省-杭州市-拱墅区-康桥街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/01/05/330105010.html
+330105011000	浙江省-杭州市-拱墅区-半山街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/01/05/330105011.html

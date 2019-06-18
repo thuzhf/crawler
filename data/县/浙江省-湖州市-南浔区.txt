@@ -1,0 +1,9 @@
+330503100000	浙江省-湖州市-南浔区-南浔镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/05/03/330503100.html
+330503101000	浙江省-湖州市-南浔区-双林镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/05/03/330503101.html
+330503102000	浙江省-湖州市-南浔区-练市镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/05/03/330503102.html
+330503103000	浙江省-湖州市-南浔区-善琏镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/05/03/330503103.html
+330503104000	浙江省-湖州市-南浔区-旧馆镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/05/03/330503104.html
+330503105000	浙江省-湖州市-南浔区-菱湖镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/05/03/330503105.html
+330503106000	浙江省-湖州市-南浔区-和孚镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/05/03/330503106.html
+330503107000	浙江省-湖州市-南浔区-千金镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/05/03/330503107.html
+330503108000	浙江省-湖州市-南浔区-石淙镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/05/03/330503108.html

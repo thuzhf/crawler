@@ -1,0 +1,16 @@
+360404001000	江西省-九江市-柴桑区-沙河街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/04/04/360404001.html
+360404101000	江西省-九江市-柴桑区-马回岭镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/04/04/360404101.html
+360404102000	江西省-九江市-柴桑区-江洲镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/04/04/360404102.html
+360404103000	江西省-九江市-柴桑区-城子镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/04/04/360404103.html
+360404104000	江西省-九江市-柴桑区-港口街镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/04/04/360404104.html
+360404105000	江西省-九江市-柴桑区-新合镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/04/04/360404105.html
+360404106000	江西省-九江市-柴桑区-狮子镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/04/04/360404106.html
+360404200000	江西省-九江市-柴桑区-永安乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/04/04/360404200.html
+360404201000	江西省-九江市-柴桑区-涌泉乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/04/04/360404201.html
+360404202000	江西省-九江市-柴桑区-新塘乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/04/04/360404202.html
+360404203000	江西省-九江市-柴桑区-城门乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/04/04/360404203.html
+360404204000	江西省-九江市-柴桑区-岷山乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/04/04/360404204.html
+360404403000	江西省-九江市-柴桑区-沙河经济技术开发区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/04/04/360404403.html
+360404501000	江西省-九江市-柴桑区-新洲垦殖场	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/04/04/360404501.html
+360404502000	江西省-九江市-柴桑区-赛城湖水产场	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/04/04/360404502.html
+360404503000	江西省-九江市-柴桑区-岷山林场	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/04/04/360404503.html

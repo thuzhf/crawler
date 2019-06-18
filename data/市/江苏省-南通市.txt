@@ -1,0 +1,10 @@
+320601000000	江苏省-南通市-市辖区	
+320602000000	江苏省-南通市-崇川区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/06/320602.html
+320611000000	江苏省-南通市-港闸区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/06/320611.html
+320612000000	江苏省-南通市-通州区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/06/320612.html
+320623000000	江苏省-南通市-如东县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/06/320623.html
+320671000000	江苏省-南通市-南通经济技术开发区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/06/320671.html
+320681000000	江苏省-南通市-启东市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/06/320681.html
+320682000000	江苏省-南通市-如皋市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/06/320682.html
+320684000000	江苏省-南通市-海门市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/06/320684.html
+320685000000	江苏省-南通市-海安市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/06/320685.html

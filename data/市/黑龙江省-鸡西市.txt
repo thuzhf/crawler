@@ -1,0 +1,10 @@
+230301000000	黑龙江省-鸡西市-市辖区	
+230302000000	黑龙江省-鸡西市-鸡冠区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/03/230302.html
+230303000000	黑龙江省-鸡西市-恒山区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/03/230303.html
+230304000000	黑龙江省-鸡西市-滴道区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/03/230304.html
+230305000000	黑龙江省-鸡西市-梨树区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/03/230305.html
+230306000000	黑龙江省-鸡西市-城子河区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/03/230306.html
+230307000000	黑龙江省-鸡西市-麻山区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/03/230307.html
+230321000000	黑龙江省-鸡西市-鸡东县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/03/230321.html
+230381000000	黑龙江省-鸡西市-虎林市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/03/230381.html
+230382000000	黑龙江省-鸡西市-密山市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/03/230382.html

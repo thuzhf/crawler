@@ -1,0 +1,9 @@
+652901000000	新疆维吾尔自治区-阿克苏地区-阿克苏市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/29/652901.html
+652922000000	新疆维吾尔自治区-阿克苏地区-温宿县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/29/652922.html
+652923000000	新疆维吾尔自治区-阿克苏地区-库车县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/29/652923.html
+652924000000	新疆维吾尔自治区-阿克苏地区-沙雅县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/29/652924.html
+652925000000	新疆维吾尔自治区-阿克苏地区-新和县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/29/652925.html
+652926000000	新疆维吾尔自治区-阿克苏地区-拜城县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/29/652926.html
+652927000000	新疆维吾尔自治区-阿克苏地区-乌什县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/29/652927.html
+652928000000	新疆维吾尔自治区-阿克苏地区-阿瓦提县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/29/652928.html
+652929000000	新疆维吾尔自治区-阿克苏地区-柯坪县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/29/652929.html

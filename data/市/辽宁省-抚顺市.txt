@@ -1,0 +1,8 @@
+210401000000	辽宁省-抚顺市-市辖区	
+210402000000	辽宁省-抚顺市-新抚区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/04/210402.html
+210403000000	辽宁省-抚顺市-东洲区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/04/210403.html
+210404000000	辽宁省-抚顺市-望花区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/04/210404.html
+210411000000	辽宁省-抚顺市-顺城区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/04/210411.html
+210421000000	辽宁省-抚顺市-抚顺县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/04/210421.html
+210422000000	辽宁省-抚顺市-新宾满族自治县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/04/210422.html
+210423000000	辽宁省-抚顺市-清原满族自治县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/04/210423.html

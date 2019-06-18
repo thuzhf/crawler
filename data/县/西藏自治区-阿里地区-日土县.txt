@@ -1,0 +1,5 @@
+542524100000	西藏自治区-阿里地区-日土县-日土镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/25/24/542524100.html
+542524200000	西藏自治区-阿里地区-日土县-热帮乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/25/24/542524200.html
+542524201000	西藏自治区-阿里地区-日土县-日松乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/25/24/542524201.html
+542524202000	西藏自治区-阿里地区-日土县-东汝乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/25/24/542524202.html
+542524203000	西藏自治区-阿里地区-日土县-多玛乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/25/24/542524203.html

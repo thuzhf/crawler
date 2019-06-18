@@ -1,0 +1,14 @@
+360111001000	江西省-南昌市-青山湖区-青山路街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/01/11/360111001.html
+360111003000	江西省-南昌市-青山湖区-上海路街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/01/11/360111003.html
+360111004000	江西省-南昌市-青山湖区-南钢街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/01/11/360111004.html
+360111005000	江西省-南昌市-青山湖区-站东街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/01/11/360111005.html
+360111100000	江西省-南昌市-青山湖区-京东镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/01/11/360111100.html
+360111103000	江西省-南昌市-青山湖区-罗家镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/01/11/360111103.html
+360111104000	江西省-南昌市-青山湖区-湖坊镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/01/11/360111104.html
+360111105000	江西省-南昌市-青山湖区-塘山镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/01/11/360111105.html
+360111180000	江西省-南昌市-青山湖区-蛟桥镇（南昌经济技术开发区）	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/01/11/360111180.html
+360111400000	江西省-南昌市-青山湖区-南昌昌东工业区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/01/11/360111400.html
+360111481000	江西省-南昌市-青山湖区-白水湖管理处（南昌经济技术开发区）	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/01/11/360111481.html
+360111482000	江西省-南昌市-青山湖区-冠山管理处（南昌经济技术开发区）	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/01/11/360111482.html
+360111490000	江西省-南昌市-青山湖区-艾溪湖管理处（南昌高新开发区）	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/01/11/360111490.html
+360111493000	江西省-南昌市-青山湖区-湖西新建区（南昌高新开发区）	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/01/11/360111493.html

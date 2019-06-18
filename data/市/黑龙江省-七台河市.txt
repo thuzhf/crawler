@@ -1,0 +1,5 @@
+230901000000	黑龙江省-七台河市-市辖区	
+230902000000	黑龙江省-七台河市-新兴区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/09/230902.html
+230903000000	黑龙江省-七台河市-桃山区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/09/230903.html
+230904000000	黑龙江省-七台河市-茄子河区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/09/230904.html
+230921000000	黑龙江省-七台河市-勃利县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/09/230921.html

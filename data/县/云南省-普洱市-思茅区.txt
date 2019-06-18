@@ -1,0 +1,7 @@
+530802101000	云南省-普洱市-思茅区-思茅镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/08/02/530802101.html
+530802102000	云南省-普洱市-思茅区-南屏镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/08/02/530802102.html
+530802103000	云南省-普洱市-思茅区-倚象镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/08/02/530802103.html
+530802104000	云南省-普洱市-思茅区-思茅港镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/08/02/530802104.html
+530802105000	云南省-普洱市-思茅区-六顺镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/08/02/530802105.html
+530802201000	云南省-普洱市-思茅区-龙潭彝族傣族乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/08/02/530802201.html
+530802202000	云南省-普洱市-思茅区-云仙彝族乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/08/02/530802202.html

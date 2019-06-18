@@ -1,0 +1,11 @@
+450125100000	广西壮族自治区-南宁市-上林县-大丰镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/01/25/450125100.html
+450125101000	广西壮族自治区-南宁市-上林县-明亮镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/01/25/450125101.html
+450125102000	广西壮族自治区-南宁市-上林县-巷贤镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/01/25/450125102.html
+450125103000	广西壮族自治区-南宁市-上林县-白圩镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/01/25/450125103.html
+450125104000	广西壮族自治区-南宁市-上林县-三里镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/01/25/450125104.html
+450125105000	广西壮族自治区-南宁市-上林县-乔贤镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/01/25/450125105.html
+450125106000	广西壮族自治区-南宁市-上林县-西燕镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/01/25/450125106.html
+450125200000	广西壮族自治区-南宁市-上林县-澄泰乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/01/25/450125200.html
+450125202000	广西壮族自治区-南宁市-上林县-木山乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/01/25/450125202.html
+450125203000	广西壮族自治区-南宁市-上林县-塘红乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/01/25/450125203.html
+450125205000	广西壮族自治区-南宁市-上林县-镇圩瑶族乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/01/25/450125205.html

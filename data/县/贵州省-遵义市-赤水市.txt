@@ -1,0 +1,17 @@
+520381001000	贵州省-遵义市-赤水市-市中街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/52/03/81/520381001.html
+520381002000	贵州省-遵义市-赤水市-文华街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/52/03/81/520381002.html
+520381003000	贵州省-遵义市-赤水市-金华街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/52/03/81/520381003.html
+520381100000	贵州省-遵义市-赤水市-天台镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/52/03/81/520381100.html
+520381101000	贵州省-遵义市-赤水市-复兴镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/52/03/81/520381101.html
+520381102000	贵州省-遵义市-赤水市-大同镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/52/03/81/520381102.html
+520381103000	贵州省-遵义市-赤水市-旺隆镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/52/03/81/520381103.html
+520381104000	贵州省-遵义市-赤水市-葫市镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/52/03/81/520381104.html
+520381105000	贵州省-遵义市-赤水市-元厚镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/52/03/81/520381105.html
+520381106000	贵州省-遵义市-赤水市-官渡镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/52/03/81/520381106.html
+520381107000	贵州省-遵义市-赤水市-长期镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/52/03/81/520381107.html
+520381108000	贵州省-遵义市-赤水市-长沙镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/52/03/81/520381108.html
+520381109000	贵州省-遵义市-赤水市-两河口镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/52/03/81/520381109.html
+520381110000	贵州省-遵义市-赤水市-丙安镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/52/03/81/520381110.html
+520381202000	贵州省-遵义市-赤水市-宝源乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/52/03/81/520381202.html
+520381203000	贵州省-遵义市-赤水市-石堡乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/52/03/81/520381203.html
+520381204000	贵州省-遵义市-赤水市-白云乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/52/03/81/520381204.html

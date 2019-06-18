@@ -1,0 +1,7 @@
+632801000000	青海省-海西蒙古族藏族自治州-格尔木市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/63/28/632801.html
+632802000000	青海省-海西蒙古族藏族自治州-德令哈市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/63/28/632802.html
+632803000000	青海省-海西蒙古族藏族自治州-茫崖市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/63/28/632803.html
+632821000000	青海省-海西蒙古族藏族自治州-乌兰县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/63/28/632821.html
+632822000000	青海省-海西蒙古族藏族自治州-都兰县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/63/28/632822.html
+632823000000	青海省-海西蒙古族藏族自治州-天峻县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/63/28/632823.html
+632857000000	青海省-海西蒙古族藏族自治州-大柴旦行政委员会	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/63/28/632857.html

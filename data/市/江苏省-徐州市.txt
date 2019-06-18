@@ -1,0 +1,12 @@
+320301000000	江苏省-徐州市-市辖区	
+320302000000	江苏省-徐州市-鼓楼区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/03/320302.html
+320303000000	江苏省-徐州市-云龙区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/03/320303.html
+320305000000	江苏省-徐州市-贾汪区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/03/320305.html
+320311000000	江苏省-徐州市-泉山区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/03/320311.html
+320312000000	江苏省-徐州市-铜山区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/03/320312.html
+320321000000	江苏省-徐州市-丰县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/03/320321.html
+320322000000	江苏省-徐州市-沛县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/03/320322.html
+320324000000	江苏省-徐州市-睢宁县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/03/320324.html
+320371000000	江苏省-徐州市-徐州经济技术开发区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/03/320371.html
+320381000000	江苏省-徐州市-新沂市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/03/320381.html
+320382000000	江苏省-徐州市-邳州市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/03/320382.html

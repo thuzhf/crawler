@@ -1,0 +1,16 @@
+431102001000	湖南省-永州市-零陵区-朝阳街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/11/02/431102001.html
+431102002000	湖南省-永州市-零陵区-南津渡街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/11/02/431102002.html
+431102003000	湖南省-永州市-零陵区-七里店街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/11/02/431102003.html
+431102004000	湖南省-永州市-零陵区-徐家井街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/11/02/431102004.html
+431102005000	湖南省-永州市-零陵区-接履桥街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/11/02/431102005.html
+431102006000	湖南省-永州市-零陵区-石山脚街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/11/02/431102006.html
+431102101000	湖南省-永州市-零陵区-水口山镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/11/02/431102101.html
+431102102000	湖南省-永州市-零陵区-珠山镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/11/02/431102102.html
+431102103000	湖南省-永州市-零陵区-黄田铺镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/11/02/431102103.html
+431102104000	湖南省-永州市-零陵区-富家桥镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/11/02/431102104.html
+431102105000	湖南省-永州市-零陵区-菱角塘镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/11/02/431102105.html
+431102106000	湖南省-永州市-零陵区-邮亭圩镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/11/02/431102106.html
+431102108000	湖南省-永州市-零陵区-石岩头镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/11/02/431102108.html
+431102200000	湖南省-永州市-零陵区-大庆坪乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/11/02/431102200.html
+431102201000	湖南省-永州市-零陵区-梳子铺乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/11/02/431102201.html
+431102203000	湖南省-永州市-零陵区-凼底乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/11/02/431102203.html

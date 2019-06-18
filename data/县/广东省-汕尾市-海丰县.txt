@@ -1,0 +1,17 @@
+441521101000	广东省-汕尾市-海丰县-梅陇镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/15/21/441521101.html
+441521102000	广东省-汕尾市-海丰县-小漠镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/15/21/441521102.html
+441521105000	广东省-汕尾市-海丰县-鮜门镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/15/21/441521105.html
+441521106000	广东省-汕尾市-海丰县-联安镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/15/21/441521106.html
+441521107000	广东省-汕尾市-海丰县-陶河镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/15/21/441521107.html
+441521108000	广东省-汕尾市-海丰县-赤坑镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/15/21/441521108.html
+441521109000	广东省-汕尾市-海丰县-大湖镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/15/21/441521109.html
+441521110000	广东省-汕尾市-海丰县-可塘镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/15/21/441521110.html
+441521112000	广东省-汕尾市-海丰县-黄羌镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/15/21/441521112.html
+441521113000	广东省-汕尾市-海丰县-平东镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/15/21/441521113.html
+441521115000	广东省-汕尾市-海丰县-海城镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/15/21/441521115.html
+441521116000	广东省-汕尾市-海丰县-鹅埠镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/15/21/441521116.html
+441521117000	广东省-汕尾市-海丰县-赤石镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/15/21/441521117.html
+441521118000	广东省-汕尾市-海丰县-公平镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/15/21/441521118.html
+441521119000	广东省-汕尾市-海丰县-附城镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/15/21/441521119.html
+441521120000	广东省-汕尾市-海丰县-城东镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/15/21/441521120.html
+441521450000	广东省-汕尾市-海丰县-梅陇农场	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/15/21/441521450.html

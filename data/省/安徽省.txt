@@ -1,0 +1,16 @@
+340100000000	安徽省-合肥市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/3401.html
+340200000000	安徽省-芜湖市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/3402.html
+340300000000	安徽省-蚌埠市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/3403.html
+340400000000	安徽省-淮南市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/3404.html
+340500000000	安徽省-马鞍山市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/3405.html
+340600000000	安徽省-淮北市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/3406.html
+340700000000	安徽省-铜陵市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/3407.html
+340800000000	安徽省-安庆市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/3408.html
+341000000000	安徽省-黄山市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/3410.html
+341100000000	安徽省-滁州市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/3411.html
+341200000000	安徽省-阜阳市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/3412.html
+341300000000	安徽省-宿州市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/3413.html
+341500000000	安徽省-六安市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/3415.html
+341600000000	安徽省-亳州市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/3416.html
+341700000000	安徽省-池州市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/3417.html
+341800000000	安徽省-宣城市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/3418.html

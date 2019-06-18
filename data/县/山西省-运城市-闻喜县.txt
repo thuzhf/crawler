@@ -1,0 +1,14 @@
+140823100000	山西省-运城市-闻喜县-桐城镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/08/23/140823100.html
+140823101000	山西省-运城市-闻喜县-郭家庄镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/08/23/140823101.html
+140823102000	山西省-运城市-闻喜县-畖底镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/08/23/140823102.html
+140823103000	山西省-运城市-闻喜县-薛店镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/08/23/140823103.html
+140823104000	山西省-运城市-闻喜县-东镇镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/08/23/140823104.html
+140823105000	山西省-运城市-闻喜县-礼元镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/08/23/140823105.html
+140823106000	山西省-运城市-闻喜县-河底镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/08/23/140823106.html
+140823200000	山西省-运城市-闻喜县-神柏乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/08/23/140823200.html
+140823201000	山西省-运城市-闻喜县-阳隅乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/08/23/140823201.html
+140823202000	山西省-运城市-闻喜县-侯村乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/08/23/140823202.html
+140823203000	山西省-运城市-闻喜县-裴社乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/08/23/140823203.html
+140823204000	山西省-运城市-闻喜县-后宫乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/08/23/140823204.html
+140823205000	山西省-运城市-闻喜县-石门乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/08/23/140823205.html
+140823400000	山西省-运城市-闻喜县-社区管理办公室	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/08/23/140823400.html

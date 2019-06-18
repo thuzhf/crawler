@@ -1,0 +1,14 @@
+341202001000	安徽省-阜阳市-颍州区-鼓楼街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/12/02/341202001.html
+341202002000	安徽省-阜阳市-颍州区-文峰街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/12/02/341202002.html
+341202003000	安徽省-阜阳市-颍州区-清河街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/12/02/341202003.html
+341202004000	安徽省-阜阳市-颍州区-颍西街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/12/02/341202004.html
+341202005000	安徽省-阜阳市-颍州区-西湖景区街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/12/02/341202005.html
+341202100000	安徽省-阜阳市-颍州区-王店镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/12/02/341202100.html
+341202101000	安徽省-阜阳市-颍州区-程集镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/12/02/341202101.html
+341202102000	安徽省-阜阳市-颍州区-三合镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/12/02/341202102.html
+341202103000	安徽省-阜阳市-颍州区-西湖镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/12/02/341202103.html
+341202104000	安徽省-阜阳市-颍州区-九龙镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/12/02/341202104.html
+341202105000	安徽省-阜阳市-颍州区-三十里铺镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/12/02/341202105.html
+341202106000	安徽省-阜阳市-颍州区-三塔集镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/12/02/341202106.html
+341202200000	安徽省-阜阳市-颍州区-马寨乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/12/02/341202200.html
+341202400000	安徽省-阜阳市-颍州区-安徽颍州经济开发区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/12/02/341202400.html

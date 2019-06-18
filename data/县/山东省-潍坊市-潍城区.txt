@@ -1,0 +1,7 @@
+370702001000	山东省-潍坊市-潍城区-城关街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/07/02/370702001.html
+370702002000	山东省-潍坊市-潍城区-南关街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/07/02/370702002.html
+370702003000	山东省-潍坊市-潍城区-西关街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/07/02/370702003.html
+370702004000	山东省-潍坊市-潍城区-北关街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/07/02/370702004.html
+370702005000	山东省-潍坊市-潍城区-于河街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/07/02/370702005.html
+370702006000	山东省-潍坊市-潍城区-望留街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/07/02/370702006.html
+370702400000	山东省-潍坊市-潍城区-潍城经济开发区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/07/02/370702400.html

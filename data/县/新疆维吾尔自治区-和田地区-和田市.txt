@@ -1,0 +1,14 @@
+653201001000	新疆维吾尔自治区-和田地区-和田市-努尔巴格街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/32/01/653201001.html
+653201002000	新疆维吾尔自治区-和田地区-和田市-古江巴格街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/32/01/653201002.html
+653201003000	新疆维吾尔自治区-和田地区-和田市-古勒巴格街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/32/01/653201003.html
+653201004000	新疆维吾尔自治区-和田地区-和田市-纳尔巴格街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/32/01/653201004.html
+653201100000	新疆维吾尔自治区-和田地区-和田市-拉斯奎镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/32/01/653201100.html
+653201101000	新疆维吾尔自治区-和田地区-和田市-玉龙喀什镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/32/01/653201101.html
+653201102000	新疆维吾尔自治区-和田地区-和田市-吐沙拉镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/32/01/653201102.html
+653201200000	新疆维吾尔自治区-和田地区-和田市-肖尔巴格乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/32/01/653201200.html
+653201201000	新疆维吾尔自治区-和田地区-和田市-伊里其乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/32/01/653201201.html
+653201202000	新疆维吾尔自治区-和田地区-和田市-古江巴格乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/32/01/653201202.html
+653201204000	新疆维吾尔自治区-和田地区-和田市-吉亚乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/32/01/653201204.html
+653201205000	新疆维吾尔自治区-和田地区-和田市-阿克恰勒乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/32/01/653201205.html
+653201401000	新疆维吾尔自治区-和田地区-和田市-北京工业园区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/32/01/653201401.html
+653201402000	新疆维吾尔自治区-和田地区-和田市-和田市京和物流园区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/32/01/653201402.html

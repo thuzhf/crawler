@@ -1,0 +1,8 @@
+130526100000	河北省-邢台市-任县-任城镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/05/26/130526100.html
+130526101000	河北省-邢台市-任县-邢家湾镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/05/26/130526101.html
+130526102000	河北省-邢台市-任县-辛店镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/05/26/130526102.html
+130526103000	河北省-邢台市-任县-天口镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/05/26/130526103.html
+130526200000	河北省-邢台市-任县-西固城乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/05/26/130526200.html
+130526201000	河北省-邢台市-任县-永福庄乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/05/26/130526201.html
+130526202000	河北省-邢台市-任县-大屯乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/05/26/130526202.html
+130526204000	河北省-邢台市-任县-骆庄乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/05/26/130526204.html

@@ -1,0 +1,9 @@
+511801000000	四川省-雅安市-市辖区	
+511802000000	四川省-雅安市-雨城区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/18/511802.html
+511803000000	四川省-雅安市-名山区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/18/511803.html
+511822000000	四川省-雅安市-荥经县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/18/511822.html
+511823000000	四川省-雅安市-汉源县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/18/511823.html
+511824000000	四川省-雅安市-石棉县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/18/511824.html
+511825000000	四川省-雅安市-天全县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/18/511825.html
+511826000000	四川省-雅安市-芦山县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/18/511826.html
+511827000000	四川省-雅安市-宝兴县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/18/511827.html

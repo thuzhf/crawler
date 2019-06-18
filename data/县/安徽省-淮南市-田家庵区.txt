@@ -1,0 +1,14 @@
+340403001000	安徽省-淮南市-田家庵区-田东街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/04/03/340403001.html
+340403002000	安徽省-淮南市-田家庵区-新淮街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/04/03/340403002.html
+340403003000	安徽省-淮南市-田家庵区-国庆街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/04/03/340403003.html
+340403004000	安徽省-淮南市-田家庵区-淮滨街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/04/03/340403004.html
+340403005000	安徽省-淮南市-田家庵区-朝阳街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/04/03/340403005.html
+340403006000	安徽省-淮南市-田家庵区-公园街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/04/03/340403006.html
+340403007000	安徽省-淮南市-田家庵区-洞山街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/04/03/340403007.html
+340403008000	安徽省-淮南市-田家庵区-龙泉街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/04/03/340403008.html
+340403009000	安徽省-淮南市-田家庵区-泉山街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/04/03/340403009.html
+340403100000	安徽省-淮南市-田家庵区-舜耕镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/04/03/340403100.html
+340403101000	安徽省-淮南市-田家庵区-安成镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/04/03/340403101.html
+340403102000	安徽省-淮南市-田家庵区-曹庵镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/04/03/340403102.html
+340403103000	安徽省-淮南市-田家庵区-三和镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/04/03/340403103.html
+340403201000	安徽省-淮南市-田家庵区-史院乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/04/03/340403201.html

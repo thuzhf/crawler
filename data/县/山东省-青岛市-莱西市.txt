@@ -1,0 +1,12 @@
+370285001000	山东省-青岛市-莱西市-水集街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/02/85/370285001.html
+370285002000	山东省-青岛市-莱西市-望城街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/02/85/370285002.html
+370285007000	山东省-青岛市-莱西市-沽河街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/02/85/370285007.html
+370285101000	山东省-青岛市-莱西市-姜山镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/02/85/370285101.html
+370285102000	山东省-青岛市-莱西市-夏格庄镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/02/85/370285102.html
+370285104000	山东省-青岛市-莱西市-院上镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/02/85/370285104.html
+370285105000	山东省-青岛市-莱西市-日庄镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/02/85/370285105.html
+370285106000	山东省-青岛市-莱西市-南墅镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/02/85/370285106.html
+370285107000	山东省-青岛市-莱西市-河头店镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/02/85/370285107.html
+370285108000	山东省-青岛市-莱西市-店埠镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/02/85/370285108.html
+370285116000	山东省-青岛市-莱西市-马连庄镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/02/85/370285116.html
+370285400000	山东省-青岛市-莱西市-莱西经济开发区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/02/85/370285400.html

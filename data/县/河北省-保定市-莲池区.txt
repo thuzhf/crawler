@@ -1,0 +1,17 @@
+130606001000	河北省-保定市-莲池区-和平里街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/06/06/130606001.html
+130606002000	河北省-保定市-莲池区-五四路街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/06/06/130606002.html
+130606003000	河北省-保定市-莲池区-西关街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/06/06/130606003.html
+130606004000	河北省-保定市-莲池区-中华路街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/06/06/130606004.html
+130606005000	河北省-保定市-莲池区-东关街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/06/06/130606005.html
+130606006000	河北省-保定市-莲池区-联盟街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/06/06/130606006.html
+130606007000	河北省-保定市-莲池区-红星街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/06/06/130606007.html
+130606008000	河北省-保定市-莲池区-裕华街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/06/06/130606008.html
+130606009000	河北省-保定市-莲池区-永华街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/06/06/130606009.html
+130606010000	河北省-保定市-莲池区-南关街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/06/06/130606010.html
+130606200000	河北省-保定市-莲池区-韩庄乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/06/06/130606200.html
+130606201000	河北省-保定市-莲池区-东金庄乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/06/06/130606201.html
+130606202000	河北省-保定市-莲池区-百楼乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/06/06/130606202.html
+130606203000	河北省-保定市-莲池区-杨庄乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/06/06/130606203.html
+130606204000	河北省-保定市-莲池区-南大园乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/06/06/130606204.html
+130606205000	河北省-保定市-莲池区-焦庄乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/06/06/130606205.html
+130606206000	河北省-保定市-莲池区-五尧乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/06/06/130606206.html

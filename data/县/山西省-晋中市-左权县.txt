@@ -1,0 +1,11 @@
+140722001000	山西省-晋中市-左权县-城区街道管理委员会	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/07/22/140722001.html
+140722100000	山西省-晋中市-左权县-辽阳镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/07/22/140722100.html
+140722101000	山西省-晋中市-左权县-桐峪镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/07/22/140722101.html
+140722102000	山西省-晋中市-左权县-麻田镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/07/22/140722102.html
+140722103000	山西省-晋中市-左权县-芹泉镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/07/22/140722103.html
+140722104000	山西省-晋中市-左权县-拐儿镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/07/22/140722104.html
+140722200000	山西省-晋中市-左权县-寒王乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/07/22/140722200.html
+140722201000	山西省-晋中市-左权县-石匣乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/07/22/140722201.html
+140722202000	山西省-晋中市-左权县-龙泉乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/07/22/140722202.html
+140722203000	山西省-晋中市-左权县-粟城乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/07/22/140722203.html
+140722204000	山西省-晋中市-左权县-羊角乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/07/22/140722204.html

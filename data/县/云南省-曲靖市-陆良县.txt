@@ -1,0 +1,12 @@
+530322001000	云南省-曲靖市-陆良县-中枢街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/03/22/530322001.html
+530322002000	云南省-曲靖市-陆良县-同乐街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/03/22/530322002.html
+530322102000	云南省-曲靖市-陆良县-板桥镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/03/22/530322102.html
+530322103000	云南省-曲靖市-陆良县-三岔河镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/03/22/530322103.html
+530322104000	云南省-曲靖市-陆良县-马街镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/03/22/530322104.html
+530322105000	云南省-曲靖市-陆良县-召夸镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/03/22/530322105.html
+530322106000	云南省-曲靖市-陆良县-大莫古镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/03/22/530322106.html
+530322107000	云南省-曲靖市-陆良县-芳华镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/03/22/530322107.html
+530322108000	云南省-曲靖市-陆良县-小百户镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/03/22/530322108.html
+530322201000	云南省-曲靖市-陆良县-活水乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/03/22/530322201.html
+530322202000	云南省-曲靖市-陆良县-龙海乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/03/22/530322202.html
+530322501000	云南省-曲靖市-陆良县-陆良华侨管理区（镇）	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/03/22/530322501.html

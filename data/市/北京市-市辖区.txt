@@ -1,0 +1,16 @@
+110101000000	北京市-市辖区-东城区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/11/01/110101.html
+110102000000	北京市-市辖区-西城区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/11/01/110102.html
+110105000000	北京市-市辖区-朝阳区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/11/01/110105.html
+110106000000	北京市-市辖区-丰台区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/11/01/110106.html
+110107000000	北京市-市辖区-石景山区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/11/01/110107.html
+110108000000	北京市-市辖区-海淀区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/11/01/110108.html
+110109000000	北京市-市辖区-门头沟区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/11/01/110109.html
+110111000000	北京市-市辖区-房山区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/11/01/110111.html
+110112000000	北京市-市辖区-通州区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/11/01/110112.html
+110113000000	北京市-市辖区-顺义区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/11/01/110113.html
+110114000000	北京市-市辖区-昌平区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/11/01/110114.html
+110115000000	北京市-市辖区-大兴区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/11/01/110115.html
+110116000000	北京市-市辖区-怀柔区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/11/01/110116.html
+110117000000	北京市-市辖区-平谷区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/11/01/110117.html
+110118000000	北京市-市辖区-密云区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/11/01/110118.html
+110119000000	北京市-市辖区-延庆区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/11/01/110119.html

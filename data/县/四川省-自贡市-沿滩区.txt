@@ -1,0 +1,13 @@
+510311100000	四川省-自贡市-沿滩区-沿滩镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/03/11/510311100.html
+510311101000	四川省-自贡市-沿滩区-卫坪镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/03/11/510311101.html
+510311102000	四川省-自贡市-沿滩区-兴隆镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/03/11/510311102.html
+510311105000	四川省-自贡市-沿滩区-富全镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/03/11/510311105.html
+510311106000	四川省-自贡市-沿滩区-永安镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/03/11/510311106.html
+510311107000	四川省-自贡市-沿滩区-联络镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/03/11/510311107.html
+510311108000	四川省-自贡市-沿滩区-邓关镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/03/11/510311108.html
+510311109000	四川省-自贡市-沿滩区-王井镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/03/11/510311109.html
+510311110000	四川省-自贡市-沿滩区-黄市镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/03/11/510311110.html
+510311111000	四川省-自贡市-沿滩区-瓦市镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/03/11/510311111.html
+510311112000	四川省-自贡市-沿滩区-仙市镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/03/11/510311112.html
+510311203000	四川省-自贡市-沿滩区-刘山乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/03/11/510311203.html
+510311204000	四川省-自贡市-沿滩区-九洪乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/03/11/510311204.html

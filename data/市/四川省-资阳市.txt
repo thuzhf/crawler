@@ -1,0 +1,4 @@
+512001000000	四川省-资阳市-市辖区	
+512002000000	四川省-资阳市-雁江区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/20/512002.html
+512021000000	四川省-资阳市-安岳县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/20/512021.html
+512022000000	四川省-资阳市-乐至县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/20/512022.html

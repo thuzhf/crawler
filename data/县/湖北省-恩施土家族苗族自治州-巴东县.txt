@@ -1,0 +1,12 @@
+422823100000	湖北省-恩施土家族苗族自治州-巴东县-信陵镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/28/23/422823100.html
+422823101000	湖北省-恩施土家族苗族自治州-巴东县-东瀼口镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/28/23/422823101.html
+422823102000	湖北省-恩施土家族苗族自治州-巴东县-沿渡河镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/28/23/422823102.html
+422823103000	湖北省-恩施土家族苗族自治州-巴东县-官渡口镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/28/23/422823103.html
+422823104000	湖北省-恩施土家族苗族自治州-巴东县-茶店子镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/28/23/422823104.html
+422823105000	湖北省-恩施土家族苗族自治州-巴东县-绿葱坡镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/28/23/422823105.html
+422823106000	湖北省-恩施土家族苗族自治州-巴东县-大支坪镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/28/23/422823106.html
+422823107000	湖北省-恩施土家族苗族自治州-巴东县-野三关镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/28/23/422823107.html
+422823108000	湖北省-恩施土家族苗族自治州-巴东县-水布垭镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/28/23/422823108.html
+422823109000	湖北省-恩施土家族苗族自治州-巴东县-清太坪镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/28/23/422823109.html
+422823200000	湖北省-恩施土家族苗族自治州-巴东县-溪丘湾乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/28/23/422823200.html
+422823201000	湖北省-恩施土家族苗族自治州-巴东县-金果坪乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/28/23/422823201.html

@@ -1,0 +1,11 @@
+320901000000	江苏省-盐城市-市辖区	
+320902000000	江苏省-盐城市-亭湖区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/09/320902.html
+320903000000	江苏省-盐城市-盐都区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/09/320903.html
+320904000000	江苏省-盐城市-大丰区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/09/320904.html
+320921000000	江苏省-盐城市-响水县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/09/320921.html
+320922000000	江苏省-盐城市-滨海县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/09/320922.html
+320923000000	江苏省-盐城市-阜宁县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/09/320923.html
+320924000000	江苏省-盐城市-射阳县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/09/320924.html
+320925000000	江苏省-盐城市-建湖县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/09/320925.html
+320971000000	江苏省-盐城市-盐城经济技术开发区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/09/320971.html
+320981000000	江苏省-盐城市-东台市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/09/320981.html

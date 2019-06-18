@@ -1,0 +1,8 @@
+321001000000	江苏省-扬州市-市辖区	
+321002000000	江苏省-扬州市-广陵区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/10/321002.html
+321003000000	江苏省-扬州市-邗江区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/10/321003.html
+321012000000	江苏省-扬州市-江都区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/10/321012.html
+321023000000	江苏省-扬州市-宝应县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/10/321023.html
+321071000000	江苏省-扬州市-扬州经济技术开发区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/10/321071.html
+321081000000	江苏省-扬州市-仪征市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/10/321081.html
+321084000000	江苏省-扬州市-高邮市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/10/321084.html

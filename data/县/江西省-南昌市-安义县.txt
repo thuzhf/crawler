@@ -1,0 +1,12 @@
+360123100000	江西省-南昌市-安义县-龙津镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/01/23/360123100.html
+360123101000	江西省-南昌市-安义县-万埠镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/01/23/360123101.html
+360123102000	江西省-南昌市-安义县-石鼻镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/01/23/360123102.html
+360123103000	江西省-南昌市-安义县-鼎湖镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/01/23/360123103.html
+360123104000	江西省-南昌市-安义县-长埠镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/01/23/360123104.html
+360123105000	江西省-南昌市-安义县-东阳镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/01/23/360123105.html
+360123106000	江西省-南昌市-安义县-黄洲镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/01/23/360123106.html
+360123200000	江西省-南昌市-安义县-乔乐乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/01/23/360123200.html
+360123201000	江西省-南昌市-安义县-长均乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/01/23/360123201.html
+360123202000	江西省-南昌市-安义县-新民乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/01/23/360123202.html
+360123402000	江西省-南昌市-安义县-江西安义工业园区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/01/23/360123402.html
+360123501000	江西省-南昌市-安义县-国营万埠垦殖场	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/01/23/360123501.html

@@ -1,0 +1,10 @@
+150104001000	内蒙古自治区-呼和浩特市-玉泉区-小召前街办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/01/04/150104001.html
+150104002000	内蒙古自治区-呼和浩特市-玉泉区-兴隆巷办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/01/04/150104002.html
+150104003000	内蒙古自治区-呼和浩特市-玉泉区-长和廊办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/01/04/150104003.html
+150104004000	内蒙古自治区-呼和浩特市-玉泉区-石东路办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/01/04/150104004.html
+150104005000	内蒙古自治区-呼和浩特市-玉泉区-大南街办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/01/04/150104005.html
+150104006000	内蒙古自治区-呼和浩特市-玉泉区-鄂尔多斯路办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/01/04/150104006.html
+150104007000	内蒙古自治区-呼和浩特市-玉泉区-西菜园办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/01/04/150104007.html
+150104008000	内蒙古自治区-呼和浩特市-玉泉区-昭君路办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/01/04/150104008.html
+150104100000	内蒙古自治区-呼和浩特市-玉泉区-小黑河镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/01/04/150104100.html
+150104400000	内蒙古自治区-呼和浩特市-玉泉区-裕隆工业园区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/01/04/150104400.html

@@ -1,0 +1,12 @@
+522625100000	贵州省-黔东南苗族侗族自治州-镇远县-舞阳镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/52/26/25/522625100.html
+522625101000	贵州省-黔东南苗族侗族自治州-镇远县-蕉溪镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/52/26/25/522625101.html
+522625102000	贵州省-黔东南苗族侗族自治州-镇远县-青溪镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/52/26/25/522625102.html
+522625103000	贵州省-黔东南苗族侗族自治州-镇远县-羊坪镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/52/26/25/522625103.html
+522625104000	贵州省-黔东南苗族侗族自治州-镇远县-羊场镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/52/26/25/522625104.html
+522625105000	贵州省-黔东南苗族侗族自治州-镇远县-都坪镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/52/26/25/522625105.html
+522625106000	贵州省-黔东南苗族侗族自治州-镇远县-金堡镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/52/26/25/522625106.html
+522625107000	贵州省-黔东南苗族侗族自治州-镇远县-江古镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/52/26/25/522625107.html
+522625201000	贵州省-黔东南苗族侗族自治州-镇远县-涌溪乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/52/26/25/522625201.html
+522625203000	贵州省-黔东南苗族侗族自治州-镇远县-报京乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/52/26/25/522625203.html
+522625204000	贵州省-黔东南苗族侗族自治州-镇远县-大地乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/52/26/25/522625204.html
+522625205000	贵州省-黔东南苗族侗族自治州-镇远县-尚寨土家族乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/52/26/25/522625205.html

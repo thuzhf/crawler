@@ -1,0 +1,9 @@
+340311001000	安徽省-蚌埠市-淮上区-淮滨社区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/03/11/340311001.html
+340311002000	安徽省-蚌埠市-淮上区-明珠社区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/03/11/340311002.html
+340311100000	安徽省-蚌埠市-淮上区-小蚌埠镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/03/11/340311100.html
+340311101000	安徽省-蚌埠市-淮上区-吴小街镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/03/11/340311101.html
+340311102000	安徽省-蚌埠市-淮上区-曹老集镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/03/11/340311102.html
+340311103000	安徽省-蚌埠市-淮上区-梅桥镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/03/11/340311103.html
+340311104000	安徽省-蚌埠市-淮上区-沫河口镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/03/11/340311104.html
+340311400000	安徽省-蚌埠市-淮上区-蚌埠工业园区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/03/11/340311400.html
+340311401000	安徽省-蚌埠市-淮上区-沫河口工业园区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/03/11/340311401.html

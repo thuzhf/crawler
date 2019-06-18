@@ -1,0 +1,8 @@
+210701000000	辽宁省-锦州市-市辖区	
+210702000000	辽宁省-锦州市-古塔区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/07/210702.html
+210703000000	辽宁省-锦州市-凌河区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/07/210703.html
+210711000000	辽宁省-锦州市-太和区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/07/210711.html
+210726000000	辽宁省-锦州市-黑山县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/07/210726.html
+210727000000	辽宁省-锦州市-义县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/07/210727.html
+210781000000	辽宁省-锦州市-凌海市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/07/210781.html
+210782000000	辽宁省-锦州市-北镇市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/07/210782.html

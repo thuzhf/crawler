@@ -1,0 +1,11 @@
+130928100000	河北省-沧州市-吴桥县-桑园镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/09/28/130928100.html
+130928101000	河北省-沧州市-吴桥县-铁城镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/09/28/130928101.html
+130928102000	河北省-沧州市-吴桥县-于集镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/09/28/130928102.html
+130928103000	河北省-沧州市-吴桥县-梁集镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/09/28/130928103.html
+130928104000	河北省-沧州市-吴桥县-安陵镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/09/28/130928104.html
+130928200000	河北省-沧州市-吴桥县-曹家洼乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/09/28/130928200.html
+130928201000	河北省-沧州市-吴桥县-宋门乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/09/28/130928201.html
+130928202000	河北省-沧州市-吴桥县-杨家寺乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/09/28/130928202.html
+130928203000	河北省-沧州市-吴桥县-沟店铺乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/09/28/130928203.html
+130928204000	河北省-沧州市-吴桥县-何庄乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/09/28/130928204.html
+130928400000	河北省-沧州市-吴桥县-吴桥经济技术开发区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/09/28/130928400.html

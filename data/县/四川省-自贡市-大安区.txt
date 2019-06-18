@@ -1,0 +1,16 @@
+510304001000	四川省-自贡市-大安区-大安街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/03/04/510304001.html
+510304002000	四川省-自贡市-大安区-龙井街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/03/04/510304002.html
+510304003000	四川省-自贡市-大安区-马冲口街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/03/04/510304003.html
+510304004000	四川省-自贡市-大安区-凉高山街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/03/04/510304004.html
+510304100000	四川省-自贡市-大安区-大山铺镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/03/04/510304100.html
+510304102000	四川省-自贡市-大安区-团结镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/03/04/510304102.html
+510304103000	四川省-自贡市-大安区-三多寨镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/03/04/510304103.html
+510304104000	四川省-自贡市-大安区-何市镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/03/04/510304104.html
+510304105000	四川省-自贡市-大安区-新店镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/03/04/510304105.html
+510304106000	四川省-自贡市-大安区-新民镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/03/04/510304106.html
+510304107000	四川省-自贡市-大安区-牛佛镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/03/04/510304107.html
+510304108000	四川省-自贡市-大安区-庙坝镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/03/04/510304108.html
+510304109000	四川省-自贡市-大安区-回龙镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/03/04/510304109.html
+510304204000	四川省-自贡市-大安区-永嘉乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/03/04/510304204.html
+510304205000	四川省-自贡市-大安区-和平乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/03/04/510304205.html
+510304207000	四川省-自贡市-大安区-凤凰乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/03/04/510304207.html

@@ -1,0 +1,9 @@
+140212100000	山西省-大同市-新荣区-新荣镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/02/12/140212100.html
+140212101000	山西省-大同市-新荣区-古店镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/02/12/140212101.html
+140212200000	山西省-大同市-新荣区-破鲁堡乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/02/12/140212200.html
+140212202000	山西省-大同市-新荣区-郭家窑乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/02/12/140212202.html
+140212203000	山西省-大同市-新荣区-花元屯乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/02/12/140212203.html
+140212206000	山西省-大同市-新荣区-西村乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/02/12/140212206.html
+140212207000	山西省-大同市-新荣区-上深涧乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/02/12/140212207.html
+140212209000	山西省-大同市-新荣区-堡子湾乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/02/12/140212209.html
+140212400000	山西省-大同市-新荣区-新荣区街道管理中心	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/02/12/140212400.html

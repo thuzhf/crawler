@@ -1,0 +1,6 @@
+131123100000	河北省-衡水市-武强县-武强镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/11/23/131123100.html
+131123101000	河北省-衡水市-武强县-街关镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/11/23/131123101.html
+131123102000	河北省-衡水市-武强县-周窝镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/11/23/131123102.html
+131123103000	河北省-衡水市-武强县-东孙庄镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/11/23/131123103.html
+131123200000	河北省-衡水市-武强县-豆村乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/11/23/131123200.html
+131123201000	河北省-衡水市-武强县-北代乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/11/23/131123201.html

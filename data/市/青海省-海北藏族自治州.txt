@@ -1,0 +1,4 @@
+632221000000	青海省-海北藏族自治州-门源回族自治县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/63/22/632221.html
+632222000000	青海省-海北藏族自治州-祁连县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/63/22/632222.html
+632223000000	青海省-海北藏族自治州-海晏县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/63/22/632223.html
+632224000000	青海省-海北藏族自治州-刚察县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/63/22/632224.html

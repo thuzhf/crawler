@@ -1,0 +1,9 @@
+341002001000	安徽省-黄山市-屯溪区-昱东街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/10/02/341002001.html
+341002002000	安徽省-黄山市-屯溪区-昱中街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/10/02/341002002.html
+341002003000	安徽省-黄山市-屯溪区-昱西街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/10/02/341002003.html
+341002004000	安徽省-黄山市-屯溪区-老街街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/10/02/341002004.html
+341002100000	安徽省-黄山市-屯溪区-屯光镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/10/02/341002100.html
+341002101000	安徽省-黄山市-屯溪区-阳湖镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/10/02/341002101.html
+341002102000	安徽省-黄山市-屯溪区-黎阳镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/10/02/341002102.html
+341002103000	安徽省-黄山市-屯溪区-新潭镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/10/02/341002103.html
+341002104000	安徽省-黄山市-屯溪区-奕棋镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/10/02/341002104.html

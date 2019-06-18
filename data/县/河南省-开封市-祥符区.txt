@@ -1,0 +1,15 @@
+410212100000	河南省-开封市-祥符区-城关镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/02/12/410212100.html
+410212101000	河南省-开封市-祥符区-陈留镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/02/12/410212101.html
+410212102000	河南省-开封市-祥符区-仇楼镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/02/12/410212102.html
+410212103000	河南省-开封市-祥符区-八里湾镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/02/12/410212103.html
+410212104000	河南省-开封市-祥符区-曲兴镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/02/12/410212104.html
+410212106000	河南省-开封市-祥符区-朱仙镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/02/12/410212106.html
+410212200000	河南省-开封市-祥符区-半坡店乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/02/12/410212200.html
+410212202000	河南省-开封市-祥符区-罗王乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/02/12/410212202.html
+410212203000	河南省-开封市-祥符区-刘店乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/02/12/410212203.html
+410212204000	河南省-开封市-祥符区-袁坊乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/02/12/410212204.html
+410212205000	河南省-开封市-祥符区-杜良乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/02/12/410212205.html
+410212206000	河南省-开封市-祥符区-兴隆乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/02/12/410212206.html
+410212208000	河南省-开封市-祥符区-西姜寨乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/02/12/410212208.html
+410212210000	河南省-开封市-祥符区-万隆乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/02/12/410212210.html
+410212211000	河南省-开封市-祥符区-范村乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/02/12/410212211.html

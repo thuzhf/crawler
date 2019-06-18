@@ -1,0 +1,15 @@
+361026100000	江西省-抚州市-宜黄县-凤冈镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/10/26/361026100.html
+361026101000	江西省-抚州市-宜黄县-棠阴镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/10/26/361026101.html
+361026102000	江西省-抚州市-宜黄县-黄陂镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/10/26/361026102.html
+361026103000	江西省-抚州市-宜黄县-东陂镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/10/26/361026103.html
+361026104000	江西省-抚州市-宜黄县-梨溪镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/10/26/361026104.html
+361026105000	江西省-抚州市-宜黄县-二都镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/10/26/361026105.html
+361026106000	江西省-抚州市-宜黄县-中港镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/10/26/361026106.html
+361026107000	江西省-抚州市-宜黄县-桃陂镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/10/26/361026107.html
+361026201000	江西省-抚州市-宜黄县-新丰乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/10/26/361026201.html
+361026202000	江西省-抚州市-宜黄县-神岗乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/10/26/361026202.html
+361026203000	江西省-抚州市-宜黄县-圳口乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/10/26/361026203.html
+361026204000	江西省-抚州市-宜黄县-南源乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/10/26/361026204.html
+361026400000	江西省-抚州市-宜黄县-黄柏岭垦殖场	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/10/26/361026400.html
+361026401000	江西省-抚州市-宜黄县-青年垦殖场	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/10/26/361026401.html
+361026500000	江西省-抚州市-宜黄县-宜黄县工业园区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/10/26/361026500.html

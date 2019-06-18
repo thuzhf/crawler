@@ -1,0 +1,15 @@
+140404100000	山西省-长治市-上党区-韩店镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/04/04/140404100.html
+140404101000	山西省-长治市-上党区-苏店镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/04/04/140404101.html
+140404102000	山西省-长治市-上党区-荫城镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/04/04/140404102.html
+140404103000	山西省-长治市-上党区-西火镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/04/04/140404103.html
+140404104000	山西省-长治市-上党区-八义镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/04/04/140404104.html
+140404105000	山西省-长治市-上党区-贾掌镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/04/04/140404105.html
+140404200000	山西省-长治市-上党区-郝家庄乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/04/04/140404200.html
+140404201000	山西省-长治市-上党区-西池乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/04/04/140404201.html
+140404202000	山西省-长治市-上党区-北呈乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/04/04/140404202.html
+140404203000	山西省-长治市-上党区-东和乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/04/04/140404203.html
+140404204000	山西省-长治市-上党区-南宋乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/04/04/140404204.html
+140404400000	山西省-长治市-上党区-振兴新区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/04/04/140404400.html
+140404401000	山西省-长治市-上党区-上党经济技术开发区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/04/04/140404401.html
+140404406000	山西省-长治市-上党区-长治市经济技术开发区长治县部分	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/04/04/140404406.html
+140404407000	山西省-长治市-上党区-信义管委会	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/04/04/140404407.html

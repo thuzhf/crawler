@@ -1,0 +1,17 @@
+340881001000	安徽省-安庆市-桐城市-龙腾街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/08/81/340881001.html
+340881002000	安徽省-安庆市-桐城市-文昌街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/08/81/340881002.html
+340881003000	安徽省-安庆市-桐城市-龙眠街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/08/81/340881003.html
+340881100000	安徽省-安庆市-桐城市-孔城镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/08/81/340881100.html
+340881101000	安徽省-安庆市-桐城市-吕亭镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/08/81/340881101.html
+340881102000	安徽省-安庆市-桐城市-范岗镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/08/81/340881102.html
+340881103000	安徽省-安庆市-桐城市-新渡镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/08/81/340881103.html
+340881104000	安徽省-安庆市-桐城市-双港镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/08/81/340881104.html
+340881105000	安徽省-安庆市-桐城市-大关镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/08/81/340881105.html
+340881106000	安徽省-安庆市-桐城市-青草镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/08/81/340881106.html
+340881107000	安徽省-安庆市-桐城市-金神镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/08/81/340881107.html
+340881108000	安徽省-安庆市-桐城市-嬉子湖镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/08/81/340881108.html
+340881109000	安徽省-安庆市-桐城市-唐湾镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/08/81/340881109.html
+340881110000	安徽省-安庆市-桐城市-黄甲镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/08/81/340881110.html
+340881111000	安徽省-安庆市-桐城市-鲟鱼镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/08/81/340881111.html
+340881400000	安徽省-安庆市-桐城市-桐城经济开发区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/08/81/340881400.html
+340881401000	安徽省-安庆市-桐城市-桐城双新经济开发区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/08/81/340881401.html

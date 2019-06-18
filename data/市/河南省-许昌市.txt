@@ -1,0 +1,8 @@
+411001000000	河南省-许昌市-市辖区	
+411002000000	河南省-许昌市-魏都区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/10/411002.html
+411003000000	河南省-许昌市-建安区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/10/411003.html
+411024000000	河南省-许昌市-鄢陵县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/10/411024.html
+411025000000	河南省-许昌市-襄城县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/10/411025.html
+411071000000	河南省-许昌市-许昌经济技术开发区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/10/411071.html
+411081000000	河南省-许昌市-禹州市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/10/411081.html
+411082000000	河南省-许昌市-长葛市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/10/411082.html

@@ -1,0 +1,15 @@
+441702001000	广东省-阳江市-江城区-南恩街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/17/02/441702001.html
+441702002000	广东省-阳江市-江城区-城南街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/17/02/441702002.html
+441702003000	广东省-阳江市-江城区-城北街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/17/02/441702003.html
+441702004000	广东省-阳江市-江城区-中洲街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/17/02/441702004.html
+441702006000	广东省-阳江市-江城区-城东街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/17/02/441702006.html
+441702008000	广东省-阳江市-江城区-岗列街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/17/02/441702008.html
+441702009000	广东省-阳江市-江城区-城西街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/17/02/441702009.html
+441702011000	广东省-阳江市-江城区-白沙街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/17/02/441702011.html
+441702102000	广东省-阳江市-江城区-埠场镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/17/02/441702102.html
+441702103000	广东省-阳江市-江城区-平冈镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/17/02/441702103.html
+441702105000	广东省-阳江市-江城区-闸坡镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/17/02/441702105.html
+441702106000	广东省-阳江市-江城区-双捷镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/17/02/441702106.html
+441702401000	广东省-阳江市-江城区-阳江林场罗琴分场	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/17/02/441702401.html
+441702450000	广东省-阳江市-江城区-平冈农场	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/17/02/441702450.html
+441702453000	广东省-阳江市-江城区-红十月农场	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/17/02/441702453.html

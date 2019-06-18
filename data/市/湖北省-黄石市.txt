@@ -1,0 +1,7 @@
+420201000000	湖北省-黄石市-市辖区	
+420202000000	湖北省-黄石市-黄石港区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/02/420202.html
+420203000000	湖北省-黄石市-西塞山区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/02/420203.html
+420204000000	湖北省-黄石市-下陆区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/02/420204.html
+420205000000	湖北省-黄石市-铁山区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/02/420205.html
+420222000000	湖北省-黄石市-阳新县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/02/420222.html
+420281000000	湖北省-黄石市-大冶市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/02/420281.html

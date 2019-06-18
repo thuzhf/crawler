@@ -1,0 +1,10 @@
+230705006000	黑龙江省-伊春市-西林区-河东社区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/07/05/230705006.html
+230705007000	黑龙江省-伊春市-西林区-河西社区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/07/05/230705007.html
+230705008000	黑龙江省-伊春市-西林区-繁荣社区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/07/05/230705008.html
+230705009000	黑龙江省-伊春市-西林区-铁西社区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/07/05/230705009.html
+230705010000	黑龙江省-伊春市-西林区-三公里社区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/07/05/230705010.html
+230705011000	黑龙江省-伊春市-西林区-钢城社区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/07/05/230705011.html
+230705012000	黑龙江省-伊春市-西林区-松胜社区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/07/05/230705012.html
+230705013000	黑龙江省-伊春市-西林区-强达社区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/07/05/230705013.html
+230705014000	黑龙江省-伊春市-西林区-白林社区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/07/05/230705014.html
+230705015000	黑龙江省-伊春市-西林区-苔青社区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/07/05/230705015.html

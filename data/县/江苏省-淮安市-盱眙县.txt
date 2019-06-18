@@ -1,0 +1,15 @@
+320830001000	江苏省-淮安市-盱眙县-盱城街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/08/30/320830001.html
+320830002000	江苏省-淮安市-盱眙县-太和街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/08/30/320830002.html
+320830003000	江苏省-淮安市-盱眙县-古桑街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/08/30/320830003.html
+320830101000	江苏省-淮安市-盱眙县-马坝镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/08/30/320830101.html
+320830102000	江苏省-淮安市-盱眙县-官滩镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/08/30/320830102.html
+320830104000	江苏省-淮安市-盱眙县-桂五镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/08/30/320830104.html
+320830106000	江苏省-淮安市-盱眙县-河桥镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/08/30/320830106.html
+320830107000	江苏省-淮安市-盱眙县-鲍集镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/08/30/320830107.html
+320830108000	江苏省-淮安市-盱眙县-黄花塘镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/08/30/320830108.html
+320830111000	江苏省-淮安市-盱眙县-淮河镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/08/30/320830111.html
+320830114000	江苏省-淮安市-盱眙县-天泉湖镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/08/30/320830114.html
+320830115000	江苏省-淮安市-盱眙县-管仲镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/08/30/320830115.html
+320830116000	江苏省-淮安市-盱眙县-穆店镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/08/30/320830116.html
+320830400000	江苏省-淮安市-盱眙县-三河农场	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/08/30/320830400.html
+320830401000	江苏省-淮安市-盱眙县-淮化集团	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/08/30/320830401.html

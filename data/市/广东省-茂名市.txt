@@ -1,0 +1,6 @@
+440901000000	广东省-茂名市-市辖区	
+440902000000	广东省-茂名市-茂南区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/09/440902.html
+440904000000	广东省-茂名市-电白区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/09/440904.html
+440981000000	广东省-茂名市-高州市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/09/440981.html
+440982000000	广东省-茂名市-化州市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/09/440982.html
+440983000000	广东省-茂名市-信宜市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/09/440983.html

@@ -1,0 +1,14 @@
+222404001000	吉林省-延边朝鲜族自治州-珲春市-靖和街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/24/04/222404001.html
+222404002000	吉林省-延边朝鲜族自治州-珲春市-新安街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/24/04/222404002.html
+222404003000	吉林省-延边朝鲜族自治州-珲春市-河南街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/24/04/222404003.html
+222404060000	吉林省-延边朝鲜族自治州-珲春市-近海街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/24/04/222404060.html
+222404100000	吉林省-延边朝鲜族自治州-珲春市-春化镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/24/04/222404100.html
+222404101000	吉林省-延边朝鲜族自治州-珲春市-敬信镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/24/04/222404101.html
+222404102000	吉林省-延边朝鲜族自治州-珲春市-板石镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/24/04/222404102.html
+222404103000	吉林省-延边朝鲜族自治州-珲春市-英安镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/24/04/222404103.html
+222404200000	吉林省-延边朝鲜族自治州-珲春市-马川子乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/24/04/222404200.html
+222404201000	吉林省-延边朝鲜族自治州-珲春市-杨泡满族乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/24/04/222404201.html
+222404202000	吉林省-延边朝鲜族自治州-珲春市-三家子满族乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/24/04/222404202.html
+222404203000	吉林省-延边朝鲜族自治州-珲春市-密江乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/24/04/222404203.html
+222404204000	吉林省-延边朝鲜族自治州-珲春市-哈达门乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/24/04/222404204.html
+222404400000	吉林省-延边朝鲜族自治州-珲春市-珲春林业局	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/24/04/222404400.html

@@ -1,0 +1,13 @@
+140215100000	山西省-大同市-云州区-西坪镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/02/15/140215100.html
+140215101000	山西省-大同市-云州区-倍加造镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/02/15/140215101.html
+140215102000	山西省-大同市-云州区-周士庄镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/02/15/140215102.html
+140215201000	山西省-大同市-云州区-吉家庄乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/02/15/140215201.html
+140215202000	山西省-大同市-云州区-峰峪乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/02/15/140215202.html
+140215204000	山西省-大同市-云州区-杜庄乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/02/15/140215204.html
+140215205000	山西省-大同市-云州区-党留庄乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/02/15/140215205.html
+140215207000	山西省-大同市-云州区-瓜园乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/02/15/140215207.html
+140215209000	山西省-大同市-云州区-聚乐乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/02/15/140215209.html
+140215211000	山西省-大同市-云州区-许堡乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/02/15/140215211.html
+140215401000	山西省-大同市-云州区-湖东办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/02/15/140215401.html
+140215402000	山西省-大同市-云州区-东街办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/02/15/140215402.html
+140215403000	山西省-大同市-云州区-西街办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/02/15/140215403.html

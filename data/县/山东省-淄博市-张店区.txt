@@ -1,0 +1,13 @@
+370303001000	山东省-淄博市-张店区-车站街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/03/03/370303001.html
+370303002000	山东省-淄博市-张店区-公园街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/03/03/370303002.html
+370303003000	山东省-淄博市-张店区-湖田街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/03/03/370303003.html
+370303004000	山东省-淄博市-张店区-和平街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/03/03/370303004.html
+370303005000	山东省-淄博市-张店区-科苑街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/03/03/370303005.html
+370303006000	山东省-淄博市-张店区-体育场街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/03/03/370303006.html
+370303008000	山东省-淄博市-张店区-四宝山街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/03/03/370303008.html
+370303100000	山东省-淄博市-张店区-马尚镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/03/03/370303100.html
+370303101000	山东省-淄博市-张店区-南定镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/03/03/370303101.html
+370303102000	山东省-淄博市-张店区-沣水镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/03/03/370303102.html
+370303104000	山东省-淄博市-张店区-傅家镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/03/03/370303104.html
+370303105000	山东省-淄博市-张店区-中埠镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/03/03/370303105.html
+370303107000	山东省-淄博市-张店区-房镇镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/03/03/370303107.html

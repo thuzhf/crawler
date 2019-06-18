@@ -1,0 +1,7 @@
+130303001000	河北省-秦皇岛市-山海关区-南关街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/03/03/130303001.html
+130303002000	河北省-秦皇岛市-山海关区-古城街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/03/03/130303002.html
+130303003000	河北省-秦皇岛市-山海关区-西关街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/03/03/130303003.html
+130303004000	河北省-秦皇岛市-山海关区-路南街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/03/03/130303004.html
+130303100000	河北省-秦皇岛市-山海关区-第一关镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/03/03/130303100.html
+130303101000	河北省-秦皇岛市-山海关区-石河镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/03/03/130303101.html
+130303102000	河北省-秦皇岛市-山海关区-孟姜镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/03/03/130303102.html

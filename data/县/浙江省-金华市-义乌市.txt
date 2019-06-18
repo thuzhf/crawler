@@ -1,0 +1,14 @@
+330782001000	浙江省-金华市-义乌市-稠城街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/07/82/330782001.html
+330782002000	浙江省-金华市-义乌市-江东街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/07/82/330782002.html
+330782003000	浙江省-金华市-义乌市-稠江街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/07/82/330782003.html
+330782004000	浙江省-金华市-义乌市-北苑街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/07/82/330782004.html
+330782005000	浙江省-金华市-义乌市-后宅街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/07/82/330782005.html
+330782006000	浙江省-金华市-义乌市-城西街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/07/82/330782006.html
+330782007000	浙江省-金华市-义乌市-廿三里街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/07/82/330782007.html
+330782008000	浙江省-金华市-义乌市-福田街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/07/82/330782008.html
+330782100000	浙江省-金华市-义乌市-佛堂镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/07/82/330782100.html
+330782101000	浙江省-金华市-义乌市-赤岸镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/07/82/330782101.html
+330782102000	浙江省-金华市-义乌市-义亭镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/07/82/330782102.html
+330782104000	浙江省-金华市-义乌市-上溪镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/07/82/330782104.html
+330782105000	浙江省-金华市-义乌市-苏溪镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/07/82/330782105.html
+330782106000	浙江省-金华市-义乌市-大陈镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/07/82/330782106.html

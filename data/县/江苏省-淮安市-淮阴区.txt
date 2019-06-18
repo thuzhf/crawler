@@ -1,0 +1,14 @@
+320804001000	江苏省-淮安市-淮阴区-长江路街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/08/04/320804001.html
+320804002000	江苏省-淮安市-淮阴区-王家营街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/08/04/320804002.html
+320804003000	江苏省-淮安市-淮阴区-新渡口街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/08/04/320804003.html
+320804004000	江苏省-淮安市-淮阴区-古清口街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/08/04/320804004.html
+320804103000	江苏省-淮安市-淮阴区-南陈集镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/08/04/320804103.html
+320804107000	江苏省-淮安市-淮阴区-丁集镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/08/04/320804107.html
+320804109000	江苏省-淮安市-淮阴区-徐溜镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/08/04/320804109.html
+320804110000	江苏省-淮安市-淮阴区-渔沟镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/08/04/320804110.html
+320804113000	江苏省-淮安市-淮阴区-三树镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/08/04/320804113.html
+320804114000	江苏省-淮安市-淮阴区-高家堰镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/08/04/320804114.html
+320804115000	江苏省-淮安市-淮阴区-马头镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/08/04/320804115.html
+320804116000	江苏省-淮安市-淮阴区-刘老庄镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/08/04/320804116.html
+320804117000	江苏省-淮安市-淮阴区-淮高镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/08/04/320804117.html
+320804400000	江苏省-淮安市-淮阴区-淮安高新技术产业开发区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/08/04/320804400.html

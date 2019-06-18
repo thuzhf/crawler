@@ -1,0 +1,12 @@
+371526001000	山东省-聊城市-高唐县-鱼丘湖街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/15/26/371526001.html
+371526002000	山东省-聊城市-高唐县-汇鑫街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/15/26/371526002.html
+371526003000	山东省-聊城市-高唐县-人和街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/15/26/371526003.html
+371526101000	山东省-聊城市-高唐县-梁村镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/15/26/371526101.html
+371526102000	山东省-聊城市-高唐县-尹集镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/15/26/371526102.html
+371526103000	山东省-聊城市-高唐县-清平镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/15/26/371526103.html
+371526104000	山东省-聊城市-高唐县-固河镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/15/26/371526104.html
+371526105000	山东省-聊城市-高唐县-三十里铺镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/15/26/371526105.html
+371526106000	山东省-聊城市-高唐县-琉璃寺镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/15/26/371526106.html
+371526107000	山东省-聊城市-高唐县-赵寨子镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/15/26/371526107.html
+371526108000	山东省-聊城市-高唐县-姜店镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/15/26/371526108.html
+371526109000	山东省-聊城市-高唐县-杨屯镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/15/26/371526109.html

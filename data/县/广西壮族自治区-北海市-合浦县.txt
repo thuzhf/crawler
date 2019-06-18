@@ -1,0 +1,15 @@
+450521100000	广西壮族自治区-北海市-合浦县-廉州镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/05/21/450521100.html
+450521101000	广西壮族自治区-北海市-合浦县-党江镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/05/21/450521101.html
+450521102000	广西壮族自治区-北海市-合浦县-西场镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/05/21/450521102.html
+450521103000	广西壮族自治区-北海市-合浦县-沙岗镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/05/21/450521103.html
+450521104000	广西壮族自治区-北海市-合浦县-乌家镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/05/21/450521104.html
+450521105000	广西壮族自治区-北海市-合浦县-闸口镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/05/21/450521105.html
+450521106000	广西壮族自治区-北海市-合浦县-公馆镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/05/21/450521106.html
+450521107000	广西壮族自治区-北海市-合浦县-白沙镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/05/21/450521107.html
+450521108000	广西壮族自治区-北海市-合浦县-山口镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/05/21/450521108.html
+450521109000	广西壮族自治区-北海市-合浦县-沙田镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/05/21/450521109.html
+450521110000	广西壮族自治区-北海市-合浦县-石湾镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/05/21/450521110.html
+450521111000	广西壮族自治区-北海市-合浦县-石康镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/05/21/450521111.html
+450521112000	广西壮族自治区-北海市-合浦县-常乐镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/05/21/450521112.html
+450521113000	广西壮族自治区-北海市-合浦县-星岛湖镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/05/21/450521113.html
+450521200000	广西壮族自治区-北海市-合浦县-曲樟乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/05/21/450521200.html

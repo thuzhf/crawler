@@ -1,0 +1,13 @@
+653130100000	新疆维吾尔自治区-喀什地区-巴楚县-巴楚镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/31/30/653130100.html
+653130101000	新疆维吾尔自治区-喀什地区-巴楚县-色力布亚镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/31/30/653130101.html
+653130102000	新疆维吾尔自治区-喀什地区-巴楚县-阿瓦提镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/31/30/653130102.html
+653130103000	新疆维吾尔自治区-喀什地区-巴楚县-三岔口镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/31/30/653130103.html
+653130200000	新疆维吾尔自治区-喀什地区-巴楚县-恰尔巴格乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/31/30/653130200.html
+653130201000	新疆维吾尔自治区-喀什地区-巴楚县-多来提巴格乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/31/30/653130201.html
+653130202000	新疆维吾尔自治区-喀什地区-巴楚县-阿纳库勒乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/31/30/653130202.html
+653130203000	新疆维吾尔自治区-喀什地区-巴楚县-夏马勒乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/31/30/653130203.html
+653130204000	新疆维吾尔自治区-喀什地区-巴楚县-阿克萨克玛热勒乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/31/30/653130204.html
+653130205000	新疆维吾尔自治区-喀什地区-巴楚县-阿拉根乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/31/30/653130205.html
+653130206000	新疆维吾尔自治区-喀什地区-巴楚县-琼库恰克乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/31/30/653130206.html
+653130207000	新疆维吾尔自治区-喀什地区-巴楚县-英吾斯坦乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/31/30/653130207.html
+653130508000	新疆维吾尔自治区-喀什地区-巴楚县-兵团四十八团	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/31/30/653130508.html

@@ -1,0 +1,16 @@
+620121100000	甘肃省-兰州市-永登县-城关镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/62/01/21/620121100.html
+620121101000	甘肃省-兰州市-永登县-红城镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/62/01/21/620121101.html
+620121102000	甘肃省-兰州市-永登县-中堡镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/62/01/21/620121102.html
+620121103000	甘肃省-兰州市-永登县-武胜驿镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/62/01/21/620121103.html
+620121104000	甘肃省-兰州市-永登县-河桥镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/62/01/21/620121104.html
+620121105000	甘肃省-兰州市-永登县-连城镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/62/01/21/620121105.html
+620121106000	甘肃省-兰州市-永登县-苦水镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/62/01/21/620121106.html
+620121109000	甘肃省-兰州市-永登县-大同镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/62/01/21/620121109.html
+620121110000	甘肃省-兰州市-永登县-龙泉寺镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/62/01/21/620121110.html
+620121111000	甘肃省-兰州市-永登县-树屏镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/62/01/21/620121111.html
+620121112000	甘肃省-兰州市-永登县-上川镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/62/01/21/620121112.html
+620121113000	甘肃省-兰州市-永登县-柳树镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/62/01/21/620121113.html
+620121114000	甘肃省-兰州市-永登县-通远镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/62/01/21/620121114.html
+620121201000	甘肃省-兰州市-永登县-坪城乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/62/01/21/620121201.html
+620121202000	甘肃省-兰州市-永登县-民乐乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/62/01/21/620121202.html
+620121204000	甘肃省-兰州市-永登县-七山乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/62/01/21/620121204.html

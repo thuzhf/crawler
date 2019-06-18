@@ -1,0 +1,8 @@
+350403001000	福建省-三明市-三元区-城关街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/04/03/350403001.html
+350403002000	福建省-三明市-三元区-白沙街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/04/03/350403002.html
+350403003000	福建省-三明市-三元区-富兴堡街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/04/03/350403003.html
+350403004000	福建省-三明市-三元区-荆西街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/04/03/350403004.html
+350403100000	福建省-三明市-三元区-莘口镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/04/03/350403100.html
+350403101000	福建省-三明市-三元区-岩前镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/04/03/350403101.html
+350403200000	福建省-三明市-三元区-城东乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/04/03/350403200.html
+350403201000	福建省-三明市-三元区-中村乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/04/03/350403201.html

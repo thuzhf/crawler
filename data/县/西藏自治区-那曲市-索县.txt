@@ -1,0 +1,10 @@
+540626100000	西藏自治区-那曲市-索县-亚拉镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/06/26/540626100.html
+540626101000	西藏自治区-那曲市-索县-荣布镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/06/26/540626101.html
+540626201000	西藏自治区-那曲市-索县-若达乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/06/26/540626201.html
+540626202000	西藏自治区-那曲市-索县-加勤乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/06/26/540626202.html
+540626203000	西藏自治区-那曲市-索县-赤多乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/06/26/540626203.html
+540626205000	西藏自治区-那曲市-索县-西昌乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/06/26/540626205.html
+540626206000	西藏自治区-那曲市-索县-江达乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/06/26/540626206.html
+540626208000	西藏自治区-那曲市-索县-热瓦乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/06/26/540626208.html
+540626209000	西藏自治区-那曲市-索县-嘎美乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/06/26/540626209.html
+540626210000	西藏自治区-那曲市-索县-嘎木乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/06/26/540626210.html

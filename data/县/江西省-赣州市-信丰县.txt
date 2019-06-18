@@ -1,0 +1,17 @@
+360722100000	江西省-赣州市-信丰县-嘉定镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/07/22/360722100.html
+360722101000	江西省-赣州市-信丰县-大塘埠镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/07/22/360722101.html
+360722102000	江西省-赣州市-信丰县-古陂镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/07/22/360722102.html
+360722103000	江西省-赣州市-信丰县-大桥镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/07/22/360722103.html
+360722104000	江西省-赣州市-信丰县-新田镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/07/22/360722104.html
+360722105000	江西省-赣州市-信丰县-安西镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/07/22/360722105.html
+360722106000	江西省-赣州市-信丰县-小江镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/07/22/360722106.html
+360722107000	江西省-赣州市-信丰县-铁石口镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/07/22/360722107.html
+360722108000	江西省-赣州市-信丰县-大阿镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/07/22/360722108.html
+360722109000	江西省-赣州市-信丰县-油山镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/07/22/360722109.html
+360722110000	江西省-赣州市-信丰县-小河镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/07/22/360722110.html
+360722111000	江西省-赣州市-信丰县-西牛镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/07/22/360722111.html
+360722112000	江西省-赣州市-信丰县-正平镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/07/22/360722112.html
+360722200000	江西省-赣州市-信丰县-虎山乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/07/22/360722200.html
+360722201000	江西省-赣州市-信丰县-崇仙乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/07/22/360722201.html
+360722202000	江西省-赣州市-信丰县-万隆乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/07/22/360722202.html
+360722400000	江西省-赣州市-信丰县-信丰县工业园	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/07/22/360722400.html

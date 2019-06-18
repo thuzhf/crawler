@@ -1,0 +1,12 @@
+451123100000	广西壮族自治区-贺州市-富川瑶族自治县-富阳镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/11/23/451123100.html
+451123101000	广西壮族自治区-贺州市-富川瑶族自治县-白沙镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/11/23/451123101.html
+451123102000	广西壮族自治区-贺州市-富川瑶族自治县-莲山镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/11/23/451123102.html
+451123103000	广西壮族自治区-贺州市-富川瑶族自治县-古城镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/11/23/451123103.html
+451123104000	广西壮族自治区-贺州市-富川瑶族自治县-福利镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/11/23/451123104.html
+451123105000	广西壮族自治区-贺州市-富川瑶族自治县-麦岭镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/11/23/451123105.html
+451123106000	广西壮族自治区-贺州市-富川瑶族自治县-葛坡镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/11/23/451123106.html
+451123107000	广西壮族自治区-贺州市-富川瑶族自治县-城北镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/11/23/451123107.html
+451123108000	广西壮族自治区-贺州市-富川瑶族自治县-朝东镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/11/23/451123108.html
+451123200000	广西壮族自治区-贺州市-富川瑶族自治县-新华乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/11/23/451123200.html
+451123201000	广西壮族自治区-贺州市-富川瑶族自治县-石家乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/11/23/451123201.html
+451123203000	广西壮族自治区-贺州市-富川瑶族自治县-柳家乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/11/23/451123203.html

@@ -1,0 +1,8 @@
+630100000000	青海省-西宁市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/63/6301.html
+630200000000	青海省-海东市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/63/6302.html
+632200000000	青海省-海北藏族自治州	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/63/6322.html
+632300000000	青海省-黄南藏族自治州	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/63/6323.html
+632500000000	青海省-海南藏族自治州	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/63/6325.html
+632600000000	青海省-果洛藏族自治州	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/63/6326.html
+632700000000	青海省-玉树藏族自治州	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/63/6327.html
+632800000000	青海省-海西蒙古族藏族自治州	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/63/6328.html

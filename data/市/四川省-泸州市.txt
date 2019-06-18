@@ -1,0 +1,8 @@
+510501000000	四川省-泸州市-市辖区	
+510502000000	四川省-泸州市-江阳区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/05/510502.html
+510503000000	四川省-泸州市-纳溪区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/05/510503.html
+510504000000	四川省-泸州市-龙马潭区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/05/510504.html
+510521000000	四川省-泸州市-泸县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/05/510521.html
+510522000000	四川省-泸州市-合江县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/05/510522.html
+510524000000	四川省-泸州市-叙永县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/05/510524.html
+510525000000	四川省-泸州市-古蔺县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/05/510525.html

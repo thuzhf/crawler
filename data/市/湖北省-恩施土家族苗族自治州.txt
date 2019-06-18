@@ -1,0 +1,8 @@
+422801000000	湖北省-恩施土家族苗族自治州-恩施市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/28/422801.html
+422802000000	湖北省-恩施土家族苗族自治州-利川市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/28/422802.html
+422822000000	湖北省-恩施土家族苗族自治州-建始县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/28/422822.html
+422823000000	湖北省-恩施土家族苗族自治州-巴东县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/28/422823.html
+422825000000	湖北省-恩施土家族苗族自治州-宣恩县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/28/422825.html
+422826000000	湖北省-恩施土家族苗族自治州-咸丰县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/28/422826.html
+422827000000	湖北省-恩施土家族苗族自治州-来凤县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/28/422827.html
+422828000000	湖北省-恩施土家族苗族自治州-鹤峰县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/28/422828.html

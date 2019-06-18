@@ -1,0 +1,11 @@
+321112001000	江苏省-镇江市-丹徒区-高资街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/11/12/321112001.html
+321112100000	江苏省-镇江市-丹徒区-高桥镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/11/12/321112100.html
+321112101000	江苏省-镇江市-丹徒区-辛丰镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/11/12/321112101.html
+321112102000	江苏省-镇江市-丹徒区-谷阳镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/11/12/321112102.html
+321112103000	江苏省-镇江市-丹徒区-上党镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/11/12/321112103.html
+321112104000	江苏省-镇江市-丹徒区-宝堰镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/11/12/321112104.html
+321112105000	江苏省-镇江市-丹徒区-世业镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/11/12/321112105.html
+321112400000	江苏省-镇江市-丹徒区-宜城街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/11/12/321112400.html
+321112401000	江苏省-镇江市-丹徒区-江心洲生态农业园区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/11/12/321112401.html
+321112402000	江苏省-镇江市-丹徒区-荣炳盐资源区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/11/12/321112402.html
+321112403000	江苏省-镇江市-丹徒区-高新园区管委会	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/11/12/321112403.html

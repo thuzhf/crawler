@@ -1,0 +1,8 @@
+370725001000	山东省-潍坊市-昌乐县-宝都街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/07/25/370725001.html
+370725002000	山东省-潍坊市-昌乐县-宝城街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/07/25/370725002.html
+370725003000	山东省-潍坊市-昌乐县-朱刘街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/07/25/370725003.html
+370725005000	山东省-潍坊市-昌乐县-五图街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/07/25/370725005.html
+370725107000	山东省-潍坊市-昌乐县-乔官镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/07/25/370725107.html
+370725108000	山东省-潍坊市-昌乐县-唐吾镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/07/25/370725108.html
+370725110000	山东省-潍坊市-昌乐县-红河镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/07/25/370725110.html
+370725116000	山东省-潍坊市-昌乐县-营丘镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/07/25/370725116.html

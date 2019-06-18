@@ -1,0 +1,17 @@
+360923001000	江西省-宜春市-上高县-敖阳街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/09/23/360923001.html
+360923100000	江西省-宜春市-上高县-田心镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/09/23/360923100.html
+360923101000	江西省-宜春市-上高县-徐家渡镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/09/23/360923101.html
+360923102000	江西省-宜春市-上高县-锦江镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/09/23/360923102.html
+360923103000	江西省-宜春市-上高县-泗溪镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/09/23/360923103.html
+360923104000	江西省-宜春市-上高县-翰堂镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/09/23/360923104.html
+360923105000	江西省-宜春市-上高县-南港镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/09/23/360923105.html
+360923106000	江西省-宜春市-上高县-敖山镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/09/23/360923106.html
+360923107000	江西省-宜春市-上高县-新界埠镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/09/23/360923107.html
+360923108000	江西省-宜春市-上高县-蒙山镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/09/23/360923108.html
+360923200000	江西省-宜春市-上高县-芦洲乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/09/23/360923200.html
+360923201000	江西省-宜春市-上高县-塔下乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/09/23/360923201.html
+360923203000	江西省-宜春市-上高县-镇渡乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/09/23/360923203.html
+360923204000	江西省-宜春市-上高县-野市乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/09/23/360923204.html
+360923206000	江西省-宜春市-上高县-墨山乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/09/23/360923206.html
+360923400000	江西省-宜春市-上高县-上高县工业园区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/09/23/360923400.html
+360923501000	江西省-宜春市-上高县-上甘山林场	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/09/23/360923501.html

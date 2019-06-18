@@ -1,0 +1,8 @@
+610103001000	陕西省-西安市-碑林区-南院门街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/61/01/03/610103001.html
+610103002000	陕西省-西安市-碑林区-柏树林街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/61/01/03/610103002.html
+610103003000	陕西省-西安市-碑林区-长乐坊街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/61/01/03/610103003.html
+610103004000	陕西省-西安市-碑林区-东关南街街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/61/01/03/610103004.html
+610103005000	陕西省-西安市-碑林区-太乙路街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/61/01/03/610103005.html
+610103006000	陕西省-西安市-碑林区-文艺路街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/61/01/03/610103006.html
+610103007000	陕西省-西安市-碑林区-长安路街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/61/01/03/610103007.html
+610103008000	陕西省-西安市-碑林区-张家村街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/61/01/03/610103008.html

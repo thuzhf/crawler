@@ -1,0 +1,16 @@
+653123100000	新疆维吾尔自治区-喀什地区-英吉沙县-城镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/31/23/653123100.html
+653123101000	新疆维吾尔自治区-喀什地区-英吉沙县-乌恰镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/31/23/653123101.html
+653123102000	新疆维吾尔自治区-喀什地区-英吉沙县-芒辛镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/31/23/653123102.html
+653123103000	新疆维吾尔自治区-喀什地区-英吉沙县-萨罕镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/31/23/653123103.html
+653123200000	新疆维吾尔自治区-喀什地区-英吉沙县-城关乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/31/23/653123200.html
+653123201000	新疆维吾尔自治区-喀什地区-英吉沙县-乔勒潘乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/31/23/653123201.html
+653123202000	新疆维吾尔自治区-喀什地区-英吉沙县-龙甫乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/31/23/653123202.html
+653123204000	新疆维吾尔自治区-喀什地区-英吉沙县-色提力乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/31/23/653123204.html
+653123206000	新疆维吾尔自治区-喀什地区-英吉沙县-英也尔乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/31/23/653123206.html
+653123207000	新疆维吾尔自治区-喀什地区-英吉沙县-克孜勒乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/31/23/653123207.html
+653123208000	新疆维吾尔自治区-喀什地区-英吉沙县-托普鲁克乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/31/23/653123208.html
+653123209000	新疆维吾尔自治区-喀什地区-英吉沙县-苏盖提乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/31/23/653123209.html
+653123211000	新疆维吾尔自治区-喀什地区-英吉沙县-艾古斯乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/31/23/653123211.html
+653123212000	新疆维吾尔自治区-喀什地区-英吉沙县-依格孜也尔乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/31/23/653123212.html
+653123401000	新疆维吾尔自治区-喀什地区-英吉沙县-英吉沙工业园区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/31/23/653123401.html
+653123500000	新疆维吾尔自治区-喀什地区-英吉沙县-兵团东风农场	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/31/23/653123500.html

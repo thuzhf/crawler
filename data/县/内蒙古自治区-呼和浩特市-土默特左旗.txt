@@ -1,0 +1,10 @@
+150121100000	内蒙古自治区-呼和浩特市-土默特左旗-察素齐镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/01/21/150121100.html
+150121101000	内蒙古自治区-呼和浩特市-土默特左旗-毕克齐镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/01/21/150121101.html
+150121102000	内蒙古自治区-呼和浩特市-土默特左旗-善岱镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/01/21/150121102.html
+150121103000	内蒙古自治区-呼和浩特市-土默特左旗-台阁牧镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/01/21/150121103.html
+150121104000	内蒙古自治区-呼和浩特市-土默特左旗-白庙子镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/01/21/150121104.html
+150121105000	内蒙古自治区-呼和浩特市-土默特左旗-沙尔沁镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/01/21/150121105.html
+150121106000	内蒙古自治区-呼和浩特市-土默特左旗-敕勒川镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/01/21/150121106.html
+150121207000	内蒙古自治区-呼和浩特市-土默特左旗-北什轴乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/01/21/150121207.html
+150121208000	内蒙古自治区-呼和浩特市-土默特左旗-塔布赛乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/01/21/150121208.html
+150121401000	内蒙古自治区-呼和浩特市-土默特左旗-呼和浩特金山经济技术开发区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/01/21/150121401.html

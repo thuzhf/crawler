@@ -1,0 +1,11 @@
+360100000000	江西省-南昌市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/3601.html
+360200000000	江西省-景德镇市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/3602.html
+360300000000	江西省-萍乡市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/3603.html
+360400000000	江西省-九江市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/3604.html
+360500000000	江西省-新余市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/3605.html
+360600000000	江西省-鹰潭市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/3606.html
+360700000000	江西省-赣州市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/3607.html
+360800000000	江西省-吉安市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/3608.html
+360900000000	江西省-宜春市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/3609.html
+361000000000	江西省-抚州市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/3610.html
+361100000000	江西省-上饶市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/3611.html

@@ -1,0 +1,10 @@
+431381001000	湖南省-娄底市-冷水江市-冷水江街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/13/81/431381001.html
+431381002000	湖南省-娄底市-冷水江市-锡矿山街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/13/81/431381002.html
+431381003000	湖南省-娄底市-冷水江市-沙塘湾街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/13/81/431381003.html
+431381004000	湖南省-娄底市-冷水江市-布溪街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/13/81/431381004.html
+431381100000	湖南省-娄底市-冷水江市-禾青镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/13/81/431381100.html
+431381102000	湖南省-娄底市-冷水江市-渣渡镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/13/81/431381102.html
+431381103000	湖南省-娄底市-冷水江市-铎山镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/13/81/431381103.html
+431381105000	湖南省-娄底市-冷水江市-三尖镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/13/81/431381105.html
+431381106000	湖南省-娄底市-冷水江市-金竹山镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/13/81/431381106.html
+431381205000	湖南省-娄底市-冷水江市-中连乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/13/81/431381205.html

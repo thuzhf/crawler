@@ -1,0 +1,11 @@
+320602001000	江苏省-南通市-崇川区-城东街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/06/02/320602001.html
+320602002000	江苏省-南通市-崇川区-和平桥街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/06/02/320602002.html
+320602003000	江苏省-南通市-崇川区-任港街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/06/02/320602003.html
+320602004000	江苏省-南通市-崇川区-新城桥街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/06/02/320602004.html
+320602005000	江苏省-南通市-崇川区-虹桥街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/06/02/320602005.html
+320602006000	江苏省-南通市-崇川区-学田街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/06/02/320602006.html
+320602007000	江苏省-南通市-崇川区-钟秀街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/06/02/320602007.html
+320602008000	江苏省-南通市-崇川区-文峰街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/06/02/320602008.html
+320602009000	江苏省-南通市-崇川区-观音山街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/06/02/320602009.html
+320602010000	江苏省-南通市-崇川区-狼山镇街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/06/02/320602010.html
+320602400000	江苏省-南通市-崇川区-南通崇川经济开发区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/06/02/320602400.html

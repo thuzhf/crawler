@@ -1,0 +1,9 @@
+469026100000	海南省-省直辖县级行政区划-昌江黎族自治县-石碌镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/46/90/26/469026100.html
+469026101000	海南省-省直辖县级行政区划-昌江黎族自治县-叉河镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/46/90/26/469026101.html
+469026102000	海南省-省直辖县级行政区划-昌江黎族自治县-十月田镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/46/90/26/469026102.html
+469026103000	海南省-省直辖县级行政区划-昌江黎族自治县-乌烈镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/46/90/26/469026103.html
+469026104000	海南省-省直辖县级行政区划-昌江黎族自治县-昌化镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/46/90/26/469026104.html
+469026105000	海南省-省直辖县级行政区划-昌江黎族自治县-海尾镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/46/90/26/469026105.html
+469026106000	海南省-省直辖县级行政区划-昌江黎族自治县-七叉镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/46/90/26/469026106.html
+469026200000	海南省-省直辖县级行政区划-昌江黎族自治县-王下乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/46/90/26/469026200.html
+469026500000	海南省-省直辖县级行政区划-昌江黎族自治县-国营霸王岭林场	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/46/90/26/469026500.html

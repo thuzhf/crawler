@@ -1,0 +1,9 @@
+330903001000	浙江省-舟山市-普陀区-沈家门街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/09/03/330903001.html
+330903003000	浙江省-舟山市-普陀区-东港街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/09/03/330903003.html
+330903004000	浙江省-舟山市-普陀区-朱家尖街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/09/03/330903004.html
+330903005000	浙江省-舟山市-普陀区-展茅街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/09/03/330903005.html
+330903100000	浙江省-舟山市-普陀区-六横镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/09/03/330903100.html
+330903102000	浙江省-舟山市-普陀区-虾峙镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/09/03/330903102.html
+330903104000	浙江省-舟山市-普陀区-桃花镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/09/03/330903104.html
+330903105000	浙江省-舟山市-普陀区-东极镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/09/03/330903105.html
+330903106000	浙江省-舟山市-普陀区-普陀山镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/09/03/330903106.html

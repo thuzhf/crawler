@@ -1,0 +1,10 @@
+420802001000	湖北省-荆门市-东宝区-龙泉街道办	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/08/02/420802001.html
+420802002000	湖北省-荆门市-东宝区-泉口街道办	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/08/02/420802002.html
+420802100000	湖北省-荆门市-东宝区-栗溪镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/08/02/420802100.html
+420802101000	湖北省-荆门市-东宝区-子陵镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/08/02/420802101.html
+420802102000	湖北省-荆门市-东宝区-漳河镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/08/02/420802102.html
+420802103000	湖北省-荆门市-东宝区-马河镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/08/02/420802103.html
+420802104000	湖北省-荆门市-东宝区-石桥驿镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/08/02/420802104.html
+420802105000	湖北省-荆门市-东宝区-牌楼镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/08/02/420802105.html
+420802200000	湖北省-荆门市-东宝区-仙居乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/08/02/420802200.html
+420802400000	湖北省-荆门市-东宝区-东宝工业园区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/08/02/420802400.html

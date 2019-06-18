@@ -1,0 +1,12 @@
+610501000000	陕西省-渭南市-市辖区	
+610502000000	陕西省-渭南市-临渭区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/61/05/610502.html
+610503000000	陕西省-渭南市-华州区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/61/05/610503.html
+610522000000	陕西省-渭南市-潼关县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/61/05/610522.html
+610523000000	陕西省-渭南市-大荔县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/61/05/610523.html
+610524000000	陕西省-渭南市-合阳县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/61/05/610524.html
+610525000000	陕西省-渭南市-澄城县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/61/05/610525.html
+610526000000	陕西省-渭南市-蒲城县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/61/05/610526.html
+610527000000	陕西省-渭南市-白水县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/61/05/610527.html
+610528000000	陕西省-渭南市-富平县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/61/05/610528.html
+610581000000	陕西省-渭南市-韩城市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/61/05/610581.html
+610582000000	陕西省-渭南市-华阴市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/61/05/610582.html

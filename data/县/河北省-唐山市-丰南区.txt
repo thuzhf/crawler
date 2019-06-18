@@ -1,0 +1,15 @@
+130207103000	河北省-唐山市-丰南区-小集镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/02/07/130207103.html
+130207104000	河北省-唐山市-丰南区-黄各庄镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/02/07/130207104.html
+130207105000	河北省-唐山市-丰南区-西葛镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/02/07/130207105.html
+130207106000	河北省-唐山市-丰南区-大新庄镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/02/07/130207106.html
+130207107000	河北省-唐山市-丰南区-钱营镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/02/07/130207107.html
+130207108000	河北省-唐山市-丰南区-唐坊镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/02/07/130207108.html
+130207109000	河北省-唐山市-丰南区-王兰庄镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/02/07/130207109.html
+130207110000	河北省-唐山市-丰南区-柳树酄镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/02/07/130207110.html
+130207111000	河北省-唐山市-丰南区-黑沿子镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/02/07/130207111.html
+130207113000	河北省-唐山市-丰南区-丰南镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/02/07/130207113.html
+130207114000	河北省-唐山市-丰南区-大齐各庄镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/02/07/130207114.html
+130207115000	河北省-唐山市-丰南区-岔河镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/02/07/130207115.html
+130207201000	河北省-唐山市-丰南区-南孙庄乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/02/07/130207201.html
+130207202000	河北省-唐山市-丰南区-东田庄乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/02/07/130207202.html
+130207203000	河北省-唐山市-丰南区-尖字沽乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/02/07/130207203.html

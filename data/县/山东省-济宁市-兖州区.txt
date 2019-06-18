@@ -1,0 +1,10 @@
+370812001000	山东省-济宁市-兖州区-鼓楼街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/08/12/370812001.html
+370812003000	山东省-济宁市-兖州区-龙桥街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/08/12/370812003.html
+370812006000	山东省-济宁市-兖州区-酒仙桥街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/08/12/370812006.html
+370812007000	山东省-济宁市-兖州区-兴隆庄街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/08/12/370812007.html
+370812101000	山东省-济宁市-兖州区-大安镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/08/12/370812101.html
+370812102000	山东省-济宁市-兖州区-新驿镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/08/12/370812102.html
+370812103000	山东省-济宁市-兖州区-颜店镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/08/12/370812103.html
+370812105000	山东省-济宁市-兖州区-新兖镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/08/12/370812105.html
+370812107000	山东省-济宁市-兖州区-漕河镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/08/12/370812107.html
+370812111000	山东省-济宁市-兖州区-小孟镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/08/12/370812111.html

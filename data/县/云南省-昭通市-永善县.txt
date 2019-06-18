@@ -1,0 +1,15 @@
+530625101000	云南省-昭通市-永善县-溪洛渡镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/06/25/530625101.html
+530625102000	云南省-昭通市-永善县-桧溪镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/06/25/530625102.html
+530625103000	云南省-昭通市-永善县-黄华镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/06/25/530625103.html
+530625104000	云南省-昭通市-永善县-茂林镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/06/25/530625104.html
+530625105000	云南省-昭通市-永善县-大兴镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/06/25/530625105.html
+530625106000	云南省-昭通市-永善县-莲峰镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/06/25/530625106.html
+530625107000	云南省-昭通市-永善县-务基镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/06/25/530625107.html
+530625108000	云南省-昭通市-永善县-码口镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/06/25/530625108.html
+530625201000	云南省-昭通市-永善县-团结乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/06/25/530625201.html
+530625202000	云南省-昭通市-永善县-细沙乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/06/25/530625202.html
+530625203000	云南省-昭通市-永善县-青胜乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/06/25/530625203.html
+530625205000	云南省-昭通市-永善县-马楠苗族彝族乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/06/25/530625205.html
+530625206000	云南省-昭通市-永善县-水竹乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/06/25/530625206.html
+530625207000	云南省-昭通市-永善县-墨翰乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/06/25/530625207.html
+530625208000	云南省-昭通市-永善县-伍寨彝族苗族乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/06/25/530625208.html

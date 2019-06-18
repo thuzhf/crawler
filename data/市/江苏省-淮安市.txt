@@ -1,0 +1,9 @@
+320801000000	江苏省-淮安市-市辖区	
+320803000000	江苏省-淮安市-淮安区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/08/320803.html
+320804000000	江苏省-淮安市-淮阴区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/08/320804.html
+320812000000	江苏省-淮安市-清江浦区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/08/320812.html
+320813000000	江苏省-淮安市-洪泽区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/08/320813.html
+320826000000	江苏省-淮安市-涟水县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/08/320826.html
+320830000000	江苏省-淮安市-盱眙县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/08/320830.html
+320831000000	江苏省-淮安市-金湖县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/08/320831.html
+320871000000	江苏省-淮安市-淮安经济技术开发区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/08/320871.html

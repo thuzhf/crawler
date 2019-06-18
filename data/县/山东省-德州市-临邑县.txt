@@ -1,0 +1,12 @@
+371424001000	山东省-德州市-临邑县-邢侗街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/14/24/371424001.html
+371424002000	山东省-德州市-临邑县-恒源街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/14/24/371424002.html
+371424003000	山东省-德州市-临邑县-临盘街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/14/24/371424003.html
+371424100000	山东省-德州市-临邑县-临邑镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/14/24/371424100.html
+371424102000	山东省-德州市-临邑县-临南镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/14/24/371424102.html
+371424103000	山东省-德州市-临邑县-德平镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/14/24/371424103.html
+371424104000	山东省-德州市-临邑县-林子镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/14/24/371424104.html
+371424105000	山东省-德州市-临邑县-兴隆镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/14/24/371424105.html
+371424106000	山东省-德州市-临邑县-孟寺镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/14/24/371424106.html
+371424107000	山东省-德州市-临邑县-翟家镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/14/24/371424107.html
+371424108000	山东省-德州市-临邑县-理合务镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/14/24/371424108.html
+371424202000	山东省-德州市-临邑县-宿安乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/14/24/371424202.html

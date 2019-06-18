@@ -1,0 +1,13 @@
+120102001000	天津市-市辖区-河东区-大王庄街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/12/01/02/120102001.html
+120102002000	天津市-市辖区-河东区-大直沽街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/12/01/02/120102002.html
+120102003000	天津市-市辖区-河东区-中山门街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/12/01/02/120102003.html
+120102004000	天津市-市辖区-河东区-富民路街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/12/01/02/120102004.html
+120102005000	天津市-市辖区-河东区-二号桥街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/12/01/02/120102005.html
+120102006000	天津市-市辖区-河东区-春华街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/12/01/02/120102006.html
+120102007000	天津市-市辖区-河东区-唐家口街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/12/01/02/120102007.html
+120102008000	天津市-市辖区-河东区-向阳楼街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/12/01/02/120102008.html
+120102009000	天津市-市辖区-河东区-常州道街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/12/01/02/120102009.html
+120102010000	天津市-市辖区-河东区-上杭路街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/12/01/02/120102010.html
+120102011000	天津市-市辖区-河东区-东新街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/12/01/02/120102011.html
+120102012000	天津市-市辖区-河东区-鲁山道街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/12/01/02/120102012.html
+120102013000	天津市-市辖区-河东区-天津铁厂街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/12/01/02/120102013.html

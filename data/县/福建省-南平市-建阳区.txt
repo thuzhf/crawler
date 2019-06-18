@@ -1,0 +1,13 @@
+350703001000	福建省-南平市-建阳区-潭城街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/07/03/350703001.html
+350703002000	福建省-南平市-建阳区-童游街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/07/03/350703002.html
+350703102000	福建省-南平市-建阳区-将口镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/07/03/350703102.html
+350703103000	福建省-南平市-建阳区-徐市镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/07/03/350703103.html
+350703104000	福建省-南平市-建阳区-莒口镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/07/03/350703104.html
+350703105000	福建省-南平市-建阳区-麻沙镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/07/03/350703105.html
+350703106000	福建省-南平市-建阳区-黄坑镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/07/03/350703106.html
+350703107000	福建省-南平市-建阳区-水吉镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/07/03/350703107.html
+350703108000	福建省-南平市-建阳区-漳墩镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/07/03/350703108.html
+350703109000	福建省-南平市-建阳区-小湖镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/07/03/350703109.html
+350703200000	福建省-南平市-建阳区-崇雒乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/07/03/350703200.html
+350703201000	福建省-南平市-建阳区-书坊乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/07/03/350703201.html
+350703202000	福建省-南平市-建阳区-回龙乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/07/03/350703202.html

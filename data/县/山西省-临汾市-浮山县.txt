@@ -1,0 +1,9 @@
+141027100000	山西省-临汾市-浮山县-天坛镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/10/27/141027100.html
+141027101000	山西省-临汾市-浮山县-响水河镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/10/27/141027101.html
+141027200000	山西省-临汾市-浮山县-张庄乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/10/27/141027200.html
+141027201000	山西省-临汾市-浮山县-东张乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/10/27/141027201.html
+141027202000	山西省-临汾市-浮山县-槐埝乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/10/27/141027202.html
+141027203000	山西省-临汾市-浮山县-北王乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/10/27/141027203.html
+141027204000	山西省-临汾市-浮山县-北韩乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/10/27/141027204.html
+141027205000	山西省-临汾市-浮山县-米家垣乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/10/27/141027205.html
+141027206000	山西省-临汾市-浮山县-寨圪塔乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/10/27/141027206.html

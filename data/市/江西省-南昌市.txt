@@ -1,0 +1,10 @@
+360101000000	江西省-南昌市-市辖区	
+360102000000	江西省-南昌市-东湖区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/01/360102.html
+360103000000	江西省-南昌市-西湖区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/01/360103.html
+360104000000	江西省-南昌市-青云谱区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/01/360104.html
+360105000000	江西省-南昌市-湾里区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/01/360105.html
+360111000000	江西省-南昌市-青山湖区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/01/360111.html
+360112000000	江西省-南昌市-新建区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/01/360112.html
+360121000000	江西省-南昌市-南昌县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/01/360121.html
+360123000000	江西省-南昌市-安义县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/01/360123.html
+360124000000	江西省-南昌市-进贤县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/01/360124.html

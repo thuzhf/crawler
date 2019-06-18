@@ -1,0 +1,4 @@
+360601000000	江西省-鹰潭市-市辖区	
+360602000000	江西省-鹰潭市-月湖区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/06/360602.html
+360603000000	江西省-鹰潭市-余江区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/06/360603.html
+360681000000	江西省-鹰潭市-贵溪市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/06/360681.html

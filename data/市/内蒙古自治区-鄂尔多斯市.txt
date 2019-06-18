@@ -1,0 +1,10 @@
+150601000000	内蒙古自治区-鄂尔多斯市-市辖区	
+150602000000	内蒙古自治区-鄂尔多斯市-东胜区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/06/150602.html
+150603000000	内蒙古自治区-鄂尔多斯市-康巴什区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/06/150603.html
+150621000000	内蒙古自治区-鄂尔多斯市-达拉特旗	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/06/150621.html
+150622000000	内蒙古自治区-鄂尔多斯市-准格尔旗	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/06/150622.html
+150623000000	内蒙古自治区-鄂尔多斯市-鄂托克前旗	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/06/150623.html
+150624000000	内蒙古自治区-鄂尔多斯市-鄂托克旗	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/06/150624.html
+150625000000	内蒙古自治区-鄂尔多斯市-杭锦旗	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/06/150625.html
+150626000000	内蒙古自治区-鄂尔多斯市-乌审旗	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/06/150626.html
+150627000000	内蒙古自治区-鄂尔多斯市-伊金霍洛旗	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/06/150627.html

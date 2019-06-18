@@ -1,0 +1,20 @@
+130901000000	河北省-沧州市-市辖区	
+130902000000	河北省-沧州市-新华区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/09/130902.html
+130903000000	河北省-沧州市-运河区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/09/130903.html
+130921000000	河北省-沧州市-沧县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/09/130921.html
+130922000000	河北省-沧州市-青县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/09/130922.html
+130923000000	河北省-沧州市-东光县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/09/130923.html
+130924000000	河北省-沧州市-海兴县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/09/130924.html
+130925000000	河北省-沧州市-盐山县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/09/130925.html
+130926000000	河北省-沧州市-肃宁县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/09/130926.html
+130927000000	河北省-沧州市-南皮县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/09/130927.html
+130928000000	河北省-沧州市-吴桥县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/09/130928.html
+130929000000	河北省-沧州市-献县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/09/130929.html
+130930000000	河北省-沧州市-孟村回族自治县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/09/130930.html
+130971000000	河北省-沧州市-河北沧州经济开发区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/09/130971.html
+130972000000	河北省-沧州市-沧州高新技术产业开发区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/09/130972.html
+130973000000	河北省-沧州市-沧州渤海新区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/09/130973.html
+130981000000	河北省-沧州市-泊头市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/09/130981.html
+130982000000	河北省-沧州市-任丘市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/09/130982.html
+130983000000	河北省-沧州市-黄骅市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/09/130983.html
+130984000000	河北省-沧州市-河间市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/09/130984.html

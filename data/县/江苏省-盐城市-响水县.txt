@@ -1,0 +1,11 @@
+320921100000	江苏省-盐城市-响水县-响水镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/09/21/320921100.html
+320921101000	江苏省-盐城市-响水县-陈家港镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/09/21/320921101.html
+320921102000	江苏省-盐城市-响水县-小尖镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/09/21/320921102.html
+320921103000	江苏省-盐城市-响水县-黄圩镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/09/21/320921103.html
+320921104000	江苏省-盐城市-响水县-大有镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/09/21/320921104.html
+320921105000	江苏省-盐城市-响水县-双港镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/09/21/320921105.html
+320921106000	江苏省-盐城市-响水县-南河镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/09/21/320921106.html
+320921107000	江苏省-盐城市-响水县-运河镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/09/21/320921107.html
+320921400000	江苏省-盐城市-响水县-县开发区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/09/21/320921400.html
+320921401000	江苏省-盐城市-响水县-省属黄海农场	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/09/21/320921401.html
+320921402000	江苏省-盐城市-响水县-省属灌东盐场	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/09/21/320921402.html

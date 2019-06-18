@@ -1,0 +1,4 @@
+420701000000	湖北省-鄂州市-市辖区	
+420702000000	湖北省-鄂州市-梁子湖区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/07/420702.html
+420703000000	湖北省-鄂州市-华容区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/07/420703.html
+420704000000	湖北省-鄂州市-鄂城区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/07/420704.html

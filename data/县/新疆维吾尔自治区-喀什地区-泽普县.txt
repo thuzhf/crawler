@@ -1,0 +1,17 @@
+653124100000	新疆维吾尔自治区-喀什地区-泽普县-泽普镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/31/24/653124100.html
+653124101000	新疆维吾尔自治区-喀什地区-泽普县-奎依巴格镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/31/24/653124101.html
+653124200000	新疆维吾尔自治区-喀什地区-泽普县-波斯喀木乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/31/24/653124200.html
+653124201000	新疆维吾尔自治区-喀什地区-泽普县-泽普县依玛乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/31/24/653124201.html
+653124202000	新疆维吾尔自治区-喀什地区-泽普县-古勒巴格乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/31/24/653124202.html
+653124203000	新疆维吾尔自治区-喀什地区-泽普县-赛力乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/31/24/653124203.html
+653124204000	新疆维吾尔自治区-喀什地区-泽普县-依肯苏乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/31/24/653124204.html
+653124205000	新疆维吾尔自治区-喀什地区-泽普县-图呼其乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/31/24/653124205.html
+653124206000	新疆维吾尔自治区-喀什地区-泽普县-奎依巴格乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/31/24/653124206.html
+653124207000	新疆维吾尔自治区-喀什地区-泽普县-阿克塔木乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/31/24/653124207.html
+653124208000	新疆维吾尔自治区-喀什地区-泽普县-阿依库勒乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/31/24/653124208.html
+653124209000	新疆维吾尔自治区-喀什地区-泽普县-布依鲁克塔吉克族乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/31/24/653124209.html
+653124210000	新疆维吾尔自治区-喀什地区-泽普县-桐安乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/31/24/653124210.html
+653124400000	新疆维吾尔自治区-喀什地区-泽普县-农场场部	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/31/24/653124400.html
+653124401000	新疆维吾尔自治区-喀什地区-泽普县-泽普县良种场	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/31/24/653124401.html
+653124402000	新疆维吾尔自治区-喀什地区-泽普县-园艺场	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/31/24/653124402.html
+653124403000	新疆维吾尔自治区-喀什地区-泽普县-国营林场	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/31/24/653124403.html

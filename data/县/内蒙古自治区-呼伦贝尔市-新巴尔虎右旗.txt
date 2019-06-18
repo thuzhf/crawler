@@ -1,0 +1,8 @@
+150727100000	内蒙古自治区-呼伦贝尔市-新巴尔虎右旗-阿拉坦额莫勒镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/07/27/150727100.html
+150727101000	内蒙古自治区-呼伦贝尔市-新巴尔虎右旗-阿日哈沙特镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/07/27/150727101.html
+150727102000	内蒙古自治区-呼伦贝尔市-新巴尔虎右旗-呼伦镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/07/27/150727102.html
+150727200000	内蒙古自治区-呼伦贝尔市-新巴尔虎右旗-贝尔苏木	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/07/27/150727200.html
+150727201000	内蒙古自治区-呼伦贝尔市-新巴尔虎右旗-克尔伦苏木	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/07/27/150727201.html
+150727202000	内蒙古自治区-呼伦贝尔市-新巴尔虎右旗-达赉苏木	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/07/27/150727202.html
+150727203000	内蒙古自治区-呼伦贝尔市-新巴尔虎右旗-宝格德乌拉苏木	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/07/27/150727203.html
+150727500000	内蒙古自治区-呼伦贝尔市-新巴尔虎右旗-敖尔金牧场	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/07/27/150727500.html

@@ -1,0 +1,12 @@
+540602100000	西藏自治区-那曲市-色尼区-那曲镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/06/02/540602100.html
+540602101000	西藏自治区-那曲市-色尼区-罗玛镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/06/02/540602101.html
+540602102000	西藏自治区-那曲市-色尼区-古露镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/06/02/540602102.html
+540602200000	西藏自治区-那曲市-色尼区-达萨乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/06/02/540602200.html
+540602202000	西藏自治区-那曲市-色尼区-油恰乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/06/02/540602202.html
+540602203000	西藏自治区-那曲市-色尼区-香茂乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/06/02/540602203.html
+540602205000	西藏自治区-那曲市-色尼区-那么切乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/06/02/540602205.html
+540602209000	西藏自治区-那曲市-色尼区-达前乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/06/02/540602209.html
+540602210000	西藏自治区-那曲市-色尼区-劳麦乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/06/02/540602210.html
+540602211000	西藏自治区-那曲市-色尼区-孔玛乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/06/02/540602211.html
+540602213000	西藏自治区-那曲市-色尼区-尼玛乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/06/02/540602213.html
+540602217000	西藏自治区-那曲市-色尼区-色雄乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/06/02/540602217.html

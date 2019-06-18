@@ -1,0 +1,12 @@
+654323100000	新疆维吾尔自治区-阿勒泰地区-福海县-福海镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/43/23/654323100.html
+654323101000	新疆维吾尔自治区-阿勒泰地区-福海县-喀拉玛盖镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/43/23/654323101.html
+654323102000	新疆维吾尔自治区-阿勒泰地区-福海县-解特阿热勒镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/43/23/654323102.html
+654323201000	新疆维吾尔自治区-阿勒泰地区-福海县-阔克阿尕什乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/43/23/654323201.html
+654323202000	新疆维吾尔自治区-阿勒泰地区-福海县-齐干吉迭乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/43/23/654323202.html
+654323204000	新疆维吾尔自治区-阿勒泰地区-福海县-阿尔达乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/43/23/654323204.html
+654323400000	新疆维吾尔自治区-阿勒泰地区-福海县-地区一农场	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/43/23/654323400.html
+654323401000	新疆维吾尔自治区-阿勒泰地区-福海县-福海监狱	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/43/23/654323401.html
+654323500000	新疆维吾尔自治区-阿勒泰地区-福海县-兵团一八二团	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/43/23/654323500.html
+654323501000	新疆维吾尔自治区-阿勒泰地区-福海县-兵团一八三团	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/43/23/654323501.html
+654323502000	新疆维吾尔自治区-阿勒泰地区-福海县-兵团一八七团	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/43/23/654323502.html
+654323503000	新疆维吾尔自治区-阿勒泰地区-福海县-兵团一八八团	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/43/23/654323503.html

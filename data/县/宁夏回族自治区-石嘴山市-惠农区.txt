@@ -1,0 +1,15 @@
+640205001000	宁夏回族自治区-石嘴山市-惠农区-育才路街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/64/02/05/640205001.html
+640205002000	宁夏回族自治区-石嘴山市-惠农区-南街街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/64/02/05/640205002.html
+640205003000	宁夏回族自治区-石嘴山市-惠农区-中街街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/64/02/05/640205003.html
+640205004000	宁夏回族自治区-石嘴山市-惠农区-北街街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/64/02/05/640205004.html
+640205005000	宁夏回族自治区-石嘴山市-惠农区-河滨街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/64/02/05/640205005.html
+640205006000	宁夏回族自治区-石嘴山市-惠农区-火车站街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/64/02/05/640205006.html
+640205100000	宁夏回族自治区-石嘴山市-惠农区-红果子镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/64/02/05/640205100.html
+640205101000	宁夏回族自治区-石嘴山市-惠农区-尾闸镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/64/02/05/640205101.html
+640205102000	宁夏回族自治区-石嘴山市-惠农区-园艺镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/64/02/05/640205102.html
+640205200000	宁夏回族自治区-石嘴山市-惠农区-庙台乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/64/02/05/640205200.html
+640205201000	宁夏回族自治区-石嘴山市-惠农区-礼和乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/64/02/05/640205201.html
+640205202000	宁夏回族自治区-石嘴山市-惠农区-燕子墩乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/64/02/05/640205202.html
+640205401000	宁夏回族自治区-石嘴山市-惠农区-简泉农场	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/64/02/05/640205401.html
+640205402000	宁夏回族自治区-石嘴山市-惠农区-国营农林牧场	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/64/02/05/640205402.html
+640205403000	宁夏回族自治区-石嘴山市-惠农区-良种繁殖场	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/64/02/05/640205403.html

@@ -1,0 +1,12 @@
+320305001000	江苏省-徐州市-贾汪区-老矿街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/03/05/320305001.html
+320305003000	江苏省-徐州市-贾汪区-大泉街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/03/05/320305003.html
+320305004000	江苏省-徐州市-贾汪区-大吴街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/03/05/320305004.html
+320305005000	江苏省-徐州市-贾汪区-潘安湖街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/03/05/320305005.html
+320305006000	江苏省-徐州市-贾汪区-茱萸山街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/03/05/320305006.html
+320305102000	江苏省-徐州市-贾汪区-青山泉镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/03/05/320305102.html
+320305104000	江苏省-徐州市-贾汪区-紫庄镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/03/05/320305104.html
+320305105000	江苏省-徐州市-贾汪区-塔山镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/03/05/320305105.html
+320305106000	江苏省-徐州市-贾汪区-汴塘镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/03/05/320305106.html
+320305107000	江苏省-徐州市-贾汪区-江庄镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/03/05/320305107.html
+320305401000	江苏省-徐州市-贾汪区-鹿庄粮棉原种场	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/03/05/320305401.html
+320305402000	江苏省-徐州市-贾汪区-工业园区管委会	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/03/05/320305402.html

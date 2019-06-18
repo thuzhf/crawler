@@ -1,0 +1,13 @@
+411203100000	河南省-三门峡市-陕州区-大营镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/12/03/411203100.html
+411203101000	河南省-三门峡市-陕州区-原店镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/12/03/411203101.html
+411203102000	河南省-三门峡市-陕州区-西张村镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/12/03/411203102.html
+411203103000	河南省-三门峡市-陕州区-观音堂镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/12/03/411203103.html
+411203200000	河南省-三门峡市-陕州区-张汴乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/12/03/411203200.html
+411203201000	河南省-三门峡市-陕州区-张湾乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/12/03/411203201.html
+411203203000	河南省-三门峡市-陕州区-菜园乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/12/03/411203203.html
+411203205000	河南省-三门峡市-陕州区-张茅乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/12/03/411203205.html
+411203206000	河南省-三门峡市-陕州区-王家后乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/12/03/411203206.html
+411203207000	河南省-三门峡市-陕州区-硖石乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/12/03/411203207.html
+411203210000	河南省-三门峡市-陕州区-西李村乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/12/03/411203210.html
+411203211000	河南省-三门峡市-陕州区-宫前乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/12/03/411203211.html
+411203212000	河南省-三门峡市-陕州区-店子乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/12/03/411203212.html

@@ -1,0 +1,8 @@
+131102001000	河北省-衡水市-桃城区-河西街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/11/02/131102001.html
+131102002000	河北省-衡水市-桃城区-河东街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/11/02/131102002.html
+131102003000	河北省-衡水市-桃城区-路北街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/11/02/131102003.html
+131102004000	河北省-衡水市-桃城区-中华街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/11/02/131102004.html
+131102100000	河北省-衡水市-桃城区-郑家河沿镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/11/02/131102100.html
+131102101000	河北省-衡水市-桃城区-赵家圈镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/11/02/131102101.html
+131102102000	河北省-衡水市-桃城区-邓庄镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/11/02/131102102.html
+131102200000	河北省-衡水市-桃城区-何家庄乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/11/02/131102200.html

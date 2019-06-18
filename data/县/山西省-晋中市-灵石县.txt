@@ -1,0 +1,15 @@
+140729001000	山西省-晋中市-灵石县-东城管理委员会	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/07/29/140729001.html
+140729002000	山西省-晋中市-灵石县-西城管理委员会	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/07/29/140729002.html
+140729003000	山西省-晋中市-灵石县-北城管理委员会	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/07/29/140729003.html
+140729100000	山西省-晋中市-灵石县-翠峰镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/07/29/140729100.html
+140729101000	山西省-晋中市-灵石县-静升镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/07/29/140729101.html
+140729102000	山西省-晋中市-灵石县-两渡镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/07/29/140729102.html
+140729103000	山西省-晋中市-灵石县-夏门镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/07/29/140729103.html
+140729104000	山西省-晋中市-灵石县-南关镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/07/29/140729104.html
+140729105000	山西省-晋中市-灵石县-段纯镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/07/29/140729105.html
+140729200000	山西省-晋中市-灵石县-马和乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/07/29/140729200.html
+140729201000	山西省-晋中市-灵石县-英武乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/07/29/140729201.html
+140729202000	山西省-晋中市-灵石县-王禹乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/07/29/140729202.html
+140729203000	山西省-晋中市-灵石县-坛镇乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/07/29/140729203.html
+140729204000	山西省-晋中市-灵石县-梁家焉乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/07/29/140729204.html
+140729205000	山西省-晋中市-灵石县-交口乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/07/29/140729205.html

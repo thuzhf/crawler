@@ -1,0 +1,10 @@
+131103100000	河北省-衡水市-冀州区-冀州镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/11/03/131103100.html
+131103102000	河北省-衡水市-冀州区-官道李镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/11/03/131103102.html
+131103103000	河北省-衡水市-冀州区-南午村镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/11/03/131103103.html
+131103104000	河北省-衡水市-冀州区-周村镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/11/03/131103104.html
+131103105000	河北省-衡水市-冀州区-码头李镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/11/03/131103105.html
+131103106000	河北省-衡水市-冀州区-西王镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/11/03/131103106.html
+131103200000	河北省-衡水市-冀州区-门家庄乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/11/03/131103200.html
+131103201000	河北省-衡水市-冀州区-徐家庄乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/11/03/131103201.html
+131103202000	河北省-衡水市-冀州区-北漳淮乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/11/03/131103202.html
+131103203000	河北省-衡水市-冀州区-小寨乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/11/03/131103203.html

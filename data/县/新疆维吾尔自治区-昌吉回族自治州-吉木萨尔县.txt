@@ -1,0 +1,11 @@
+652327100000	新疆维吾尔自治区-昌吉回族自治州-吉木萨尔县-吉木萨尔镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/23/27/652327100.html
+652327101000	新疆维吾尔自治区-昌吉回族自治州-吉木萨尔县-三台镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/23/27/652327101.html
+652327102000	新疆维吾尔自治区-昌吉回族自治州-吉木萨尔县-泉子街镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/23/27/652327102.html
+652327103000	新疆维吾尔自治区-昌吉回族自治州-吉木萨尔县-北庭镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/23/27/652327103.html
+652327104000	新疆维吾尔自治区-昌吉回族自治州-吉木萨尔县-二工镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/23/27/652327104.html
+652327105000	新疆维吾尔自治区-昌吉回族自治州-吉木萨尔县-大有镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/23/27/652327105.html
+652327202000	新疆维吾尔自治区-昌吉回族自治州-吉木萨尔县-庆阳湖乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/23/27/652327202.html
+652327203000	新疆维吾尔自治区-昌吉回族自治州-吉木萨尔县-老台乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/23/27/652327203.html
+652327205000	新疆维吾尔自治区-昌吉回族自治州-吉木萨尔县-新地乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/23/27/652327205.html
+652327400000	新疆维吾尔自治区-昌吉回族自治州-吉木萨尔县-五彩湾工业园区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/23/27/652327400.html
+652327500000	新疆维吾尔自治区-昌吉回族自治州-吉木萨尔县-兵团农六师红旗农场	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/23/27/652327500.html

@@ -1,0 +1,8 @@
+141081001000	山西省-临汾市-侯马市-路东街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/10/81/141081001.html
+141081002000	山西省-临汾市-侯马市-路西街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/10/81/141081002.html
+141081003000	山西省-临汾市-侯马市-浍滨街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/10/81/141081003.html
+141081004000	山西省-临汾市-侯马市-上马街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/10/81/141081004.html
+141081005000	山西省-临汾市-侯马市-张村街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/10/81/141081005.html
+141081200000	山西省-临汾市-侯马市-新田乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/10/81/141081200.html
+141081201000	山西省-临汾市-侯马市-高村乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/10/81/141081201.html
+141081202000	山西省-临汾市-侯马市-凤城乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/10/81/141081202.html

@@ -1,0 +1,15 @@
+350481001000	福建省-三明市-永安市-燕东街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/04/81/350481001.html
+350481002000	福建省-三明市-永安市-燕西街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/04/81/350481002.html
+350481003000	福建省-三明市-永安市-燕南街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/04/81/350481003.html
+350481004000	福建省-三明市-永安市-燕北街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/04/81/350481004.html
+350481100000	福建省-三明市-永安市-西洋镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/04/81/350481100.html
+350481101000	福建省-三明市-永安市-贡川镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/04/81/350481101.html
+350481102000	福建省-三明市-永安市-安砂镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/04/81/350481102.html
+350481103000	福建省-三明市-永安市-小陶镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/04/81/350481103.html
+350481104000	福建省-三明市-永安市-大湖镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/04/81/350481104.html
+350481105000	福建省-三明市-永安市-曹远镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/04/81/350481105.html
+350481106000	福建省-三明市-永安市-洪田镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/04/81/350481106.html
+350481107000	福建省-三明市-永安市-槐南镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/04/81/350481107.html
+350481202000	福建省-三明市-永安市-上坪乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/04/81/350481202.html
+350481203000	福建省-三明市-永安市-罗坊乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/04/81/350481203.html
+350481204000	福建省-三明市-永安市-青水畲族乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/04/81/350481204.html

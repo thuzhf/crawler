@@ -1,0 +1,12 @@
+451202001000	广西壮族自治区-河池市-金城江区-金城江街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/12/02/451202001.html
+451202101000	广西壮族自治区-河池市-金城江区-东江镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/12/02/451202101.html
+451202102000	广西壮族自治区-河池市-金城江区-六圩镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/12/02/451202102.html
+451202103000	广西壮族自治区-河池市-金城江区-六甲镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/12/02/451202103.html
+451202104000	广西壮族自治区-河池市-金城江区-河池镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/12/02/451202104.html
+451202105000	广西壮族自治区-河池市-金城江区-拔贡镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/12/02/451202105.html
+451202106000	广西壮族自治区-河池市-金城江区-九圩镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/12/02/451202106.html
+451202107000	广西壮族自治区-河池市-金城江区-五圩镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/12/02/451202107.html
+451202200000	广西壮族自治区-河池市-金城江区-白土乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/12/02/451202200.html
+451202203000	广西壮族自治区-河池市-金城江区-侧岭乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/12/02/451202203.html
+451202204000	广西壮族自治区-河池市-金城江区-保平乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/12/02/451202204.html
+451202205000	广西壮族自治区-河池市-金城江区-长老乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/12/02/451202205.html

@@ -1,0 +1,13 @@
+140430100000	山西省-长治市-沁县-定昌镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/04/30/140430100.html
+140430101000	山西省-长治市-沁县-郭村镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/04/30/140430101.html
+140430102000	山西省-长治市-沁县-故县镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/04/30/140430102.html
+140430103000	山西省-长治市-沁县-新店镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/04/30/140430103.html
+140430104000	山西省-长治市-沁县-漳源镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/04/30/140430104.html
+140430105000	山西省-长治市-沁县-册村镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/04/30/140430105.html
+140430200000	山西省-长治市-沁县-段柳乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/04/30/140430200.html
+140430201000	山西省-长治市-沁县-松村乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/04/30/140430201.html
+140430202000	山西省-长治市-沁县-次村乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/04/30/140430202.html
+140430203000	山西省-长治市-沁县-牛寺乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/04/30/140430203.html
+140430204000	山西省-长治市-沁县-南里乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/04/30/140430204.html
+140430205000	山西省-长治市-沁县-南泉乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/04/30/140430205.html
+140430206000	山西省-长治市-沁县-杨安乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/04/30/140430206.html

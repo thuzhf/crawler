@@ -1,0 +1,12 @@
+150100000000	内蒙古自治区-呼和浩特市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/1501.html
+150200000000	内蒙古自治区-包头市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/1502.html
+150300000000	内蒙古自治区-乌海市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/1503.html
+150400000000	内蒙古自治区-赤峰市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/1504.html
+150500000000	内蒙古自治区-通辽市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/1505.html
+150600000000	内蒙古自治区-鄂尔多斯市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/1506.html
+150700000000	内蒙古自治区-呼伦贝尔市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/1507.html
+150800000000	内蒙古自治区-巴彦淖尔市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/1508.html
+150900000000	内蒙古自治区-乌兰察布市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/1509.html
+152200000000	内蒙古自治区-兴安盟	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/1522.html
+152500000000	内蒙古自治区-锡林郭勒盟	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/1525.html
+152900000000	内蒙古自治区-阿拉善盟	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/1529.html

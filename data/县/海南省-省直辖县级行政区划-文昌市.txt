@@ -1,0 +1,17 @@
+469005100000	海南省-省直辖县级行政区划-文昌市-文城镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/46/90/05/469005100.html
+469005101000	海南省-省直辖县级行政区划-文昌市-重兴镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/46/90/05/469005101.html
+469005102000	海南省-省直辖县级行政区划-文昌市-蓬莱镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/46/90/05/469005102.html
+469005103000	海南省-省直辖县级行政区划-文昌市-会文镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/46/90/05/469005103.html
+469005104000	海南省-省直辖县级行政区划-文昌市-东路镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/46/90/05/469005104.html
+469005105000	海南省-省直辖县级行政区划-文昌市-潭牛镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/46/90/05/469005105.html
+469005106000	海南省-省直辖县级行政区划-文昌市-东阁镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/46/90/05/469005106.html
+469005107000	海南省-省直辖县级行政区划-文昌市-文教镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/46/90/05/469005107.html
+469005108000	海南省-省直辖县级行政区划-文昌市-东郊镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/46/90/05/469005108.html
+469005109000	海南省-省直辖县级行政区划-文昌市-龙楼镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/46/90/05/469005109.html
+469005110000	海南省-省直辖县级行政区划-文昌市-昌洒镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/46/90/05/469005110.html
+469005111000	海南省-省直辖县级行政区划-文昌市-翁田镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/46/90/05/469005111.html
+469005112000	海南省-省直辖县级行政区划-文昌市-抱罗镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/46/90/05/469005112.html
+469005113000	海南省-省直辖县级行政区划-文昌市-冯坡镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/46/90/05/469005113.html
+469005114000	海南省-省直辖县级行政区划-文昌市-锦山镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/46/90/05/469005114.html
+469005115000	海南省-省直辖县级行政区划-文昌市-铺前镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/46/90/05/469005115.html
+469005116000	海南省-省直辖县级行政区划-文昌市-公坡镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/46/90/05/469005116.html

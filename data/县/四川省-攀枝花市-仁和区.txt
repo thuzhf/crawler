@@ -1,0 +1,15 @@
+510411001000	四川省-攀枝花市-仁和区-大河中路街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/04/11/510411001.html
+510411100000	四川省-攀枝花市-仁和区-仁和镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/04/11/510411100.html
+510411101000	四川省-攀枝花市-仁和区-平地镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/04/11/510411101.html
+510411102000	四川省-攀枝花市-仁和区-大田镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/04/11/510411102.html
+510411103000	四川省-攀枝花市-仁和区-福田镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/04/11/510411103.html
+510411104000	四川省-攀枝花市-仁和区-同德镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/04/11/510411104.html
+510411105000	四川省-攀枝花市-仁和区-金江镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/04/11/510411105.html
+510411106000	四川省-攀枝花市-仁和区-布德镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/04/11/510411106.html
+510411107000	四川省-攀枝花市-仁和区-前进镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/04/11/510411107.html
+510411200000	四川省-攀枝花市-仁和区-大龙潭彝族乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/04/11/510411200.html
+510411201000	四川省-攀枝花市-仁和区-啊喇彝族乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/04/11/510411201.html
+510411202000	四川省-攀枝花市-仁和区-总发乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/04/11/510411202.html
+510411203000	四川省-攀枝花市-仁和区-太平乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/04/11/510411203.html
+510411204000	四川省-攀枝花市-仁和区-务本乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/04/11/510411204.html
+510411205000	四川省-攀枝花市-仁和区-中坝乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/04/11/510411205.html

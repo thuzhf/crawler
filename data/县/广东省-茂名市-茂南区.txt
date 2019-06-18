@@ -1,0 +1,17 @@
+440902001000	广东省-茂名市-茂南区-红旗街道办	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/09/02/440902001.html
+440902002000	广东省-茂名市-茂南区-河西街道办	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/09/02/440902002.html
+440902003000	广东省-茂名市-茂南区-河东街道办	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/09/02/440902003.html
+440902004000	广东省-茂名市-茂南区-露天矿街道办	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/09/02/440902004.html
+440902005000	广东省-茂名市-茂南区-新华街道办	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/09/02/440902005.html
+440902006000	广东省-茂名市-茂南区-官渡街道办	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/09/02/440902006.html
+440902007000	广东省-茂名市-茂南区-站前街道办	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/09/02/440902007.html
+440902100000	广东省-茂名市-茂南区-金塘镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/09/02/440902100.html
+440902101000	广东省-茂名市-茂南区-公馆镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/09/02/440902101.html
+440902102000	广东省-茂名市-茂南区-新坡镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/09/02/440902102.html
+440902103000	广东省-茂名市-茂南区-镇盛镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/09/02/440902103.html
+440902104000	广东省-茂名市-茂南区-鳌头镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/09/02/440902104.html
+440902105000	广东省-茂名市-茂南区-袂花镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/09/02/440902105.html
+440902106000	广东省-茂名市-茂南区-高山镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/09/02/440902106.html
+440902107000	广东省-茂名市-茂南区-山阁镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/09/02/440902107.html
+440902108000	广东省-茂名市-茂南区-羊角镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/09/02/440902108.html
+440902400000	广东省-茂名市-茂南区-茂南开发区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/09/02/440902400.html

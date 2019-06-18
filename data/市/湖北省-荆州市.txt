@@ -1,0 +1,10 @@
+421001000000	湖北省-荆州市-市辖区	
+421002000000	湖北省-荆州市-沙市区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/10/421002.html
+421003000000	湖北省-荆州市-荆州区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/10/421003.html
+421022000000	湖北省-荆州市-公安县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/10/421022.html
+421023000000	湖北省-荆州市-监利县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/10/421023.html
+421024000000	湖北省-荆州市-江陵县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/10/421024.html
+421071000000	湖北省-荆州市-荆州经济技术开发区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/10/421071.html
+421081000000	湖北省-荆州市-石首市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/10/421081.html
+421083000000	湖北省-荆州市-洪湖市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/10/421083.html
+421087000000	湖北省-荆州市-松滋市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/10/421087.html

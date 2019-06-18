@@ -1,0 +1,4 @@
+421301000000	湖北省-随州市-市辖区	
+421303000000	湖北省-随州市-曾都区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/13/421303.html
+421321000000	湖北省-随州市-随县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/13/421321.html
+421381000000	湖北省-随州市-广水市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/13/421381.html

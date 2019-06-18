@@ -1,0 +1,5 @@
+130571100000	河北省-邢台市-河北邢台经济开发区-东汪镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/05/71/130571100.html
+130571101000	河北省-邢台市-河北邢台经济开发区-王快镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/05/71/130571101.html
+130571103000	河北省-邢台市-河北邢台经济开发区-沙河城镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/05/71/130571103.html
+130571104000	河北省-邢台市-河北邢台经济开发区-留村镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/05/71/130571104.html
+130571400000	河北省-邢台市-河北邢台经济开发区-市高新技术开发区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/05/71/130571400.html

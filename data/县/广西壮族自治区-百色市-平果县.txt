@@ -1,0 +1,13 @@
+451023100000	广西壮族自治区-百色市-平果县-马头镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/10/23/451023100.html
+451023101000	广西壮族自治区-百色市-平果县-新安镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/10/23/451023101.html
+451023102000	广西壮族自治区-百色市-平果县-果化镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/10/23/451023102.html
+451023103000	广西壮族自治区-百色市-平果县-太平镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/10/23/451023103.html
+451023104000	广西壮族自治区-百色市-平果县-坡造镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/10/23/451023104.html
+451023105000	广西壮族自治区-百色市-平果县-四塘镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/10/23/451023105.html
+451023106000	广西壮族自治区-百色市-平果县-旧城镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/10/23/451023106.html
+451023107000	广西壮族自治区-百色市-平果县-榜圩镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/10/23/451023107.html
+451023108000	广西壮族自治区-百色市-平果县-凤梧镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/10/23/451023108.html
+451023200000	广西壮族自治区-百色市-平果县-海城乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/10/23/451023200.html
+451023202000	广西壮族自治区-百色市-平果县-黎明乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/10/23/451023202.html
+451023203000	广西壮族自治区-百色市-平果县-同老乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/10/23/451023203.html
+451023450000	广西壮族自治区-百色市-平果县-平果铝	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/10/23/451023450.html

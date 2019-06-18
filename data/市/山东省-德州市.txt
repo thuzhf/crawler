@@ -1,0 +1,14 @@
+371401000000	山东省-德州市-市辖区	
+371402000000	山东省-德州市-德城区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/14/371402.html
+371403000000	山东省-德州市-陵城区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/14/371403.html
+371422000000	山东省-德州市-宁津县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/14/371422.html
+371423000000	山东省-德州市-庆云县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/14/371423.html
+371424000000	山东省-德州市-临邑县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/14/371424.html
+371425000000	山东省-德州市-齐河县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/14/371425.html
+371426000000	山东省-德州市-平原县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/14/371426.html
+371427000000	山东省-德州市-夏津县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/14/371427.html
+371428000000	山东省-德州市-武城县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/14/371428.html
+371471000000	山东省-德州市-德州经济技术开发区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/14/371471.html
+371472000000	山东省-德州市-德州运河经济开发区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/14/371472.html
+371481000000	山东省-德州市-乐陵市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/14/371481.html
+371482000000	山东省-德州市-禹城市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/14/371482.html

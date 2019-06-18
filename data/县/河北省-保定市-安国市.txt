@@ -1,0 +1,12 @@
+130683001000	河北省-保定市-安国市-药都街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/06/83/130683001.html
+130683002000	河北省-保定市-安国市-祁州路街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/06/83/130683002.html
+130683101000	河北省-保定市-安国市-伍仁桥镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/06/83/130683101.html
+130683102000	河北省-保定市-安国市-石佛镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/06/83/130683102.html
+130683103000	河北省-保定市-安国市-郑章镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/06/83/130683103.html
+130683104000	河北省-保定市-安国市-大五女镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/06/83/130683104.html
+130683105000	河北省-保定市-安国市-西佛落镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/06/83/130683105.html
+130683106000	河北省-保定市-安国市-西城镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/06/83/130683106.html
+130683200000	河北省-保定市-安国市-明官店乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/06/83/130683200.html
+130683201000	河北省-保定市-安国市-南娄底乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/06/83/130683201.html
+130683204000	河北省-保定市-安国市-北段村乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/06/83/130683204.html
+130683400000	河北省-保定市-安国市-现代中药工业园区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/06/83/130683400.html

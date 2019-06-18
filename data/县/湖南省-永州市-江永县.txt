@@ -1,0 +1,9 @@
+431125100000	湖南省-永州市-江永县-潇浦镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/11/25/431125100.html
+431125101000	湖南省-永州市-江永县-上江圩镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/11/25/431125101.html
+431125103000	湖南省-永州市-江永县-夏层铺镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/11/25/431125103.html
+431125104000	湖南省-永州市-江永县-桃川镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/11/25/431125104.html
+431125105000	湖南省-永州市-江永县-粗石江镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/11/25/431125105.html
+431125200000	湖南省-永州市-江永县-松柏瑶族乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/11/25/431125200.html
+431125202000	湖南省-永州市-江永县-千家峒瑶族乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/11/25/431125202.html
+431125203000	湖南省-永州市-江永县-兰溪瑶族乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/11/25/431125203.html
+431125204000	湖南省-永州市-江永县-源口瑶族乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/11/25/431125204.html

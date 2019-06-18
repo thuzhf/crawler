@@ -1,0 +1,9 @@
+230401000000	黑龙江省-鹤岗市-市辖区	
+230402000000	黑龙江省-鹤岗市-向阳区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/04/230402.html
+230403000000	黑龙江省-鹤岗市-工农区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/04/230403.html
+230404000000	黑龙江省-鹤岗市-南山区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/04/230404.html
+230405000000	黑龙江省-鹤岗市-兴安区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/04/230405.html
+230406000000	黑龙江省-鹤岗市-东山区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/04/230406.html
+230407000000	黑龙江省-鹤岗市-兴山区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/04/230407.html
+230421000000	黑龙江省-鹤岗市-萝北县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/04/230421.html
+230422000000	黑龙江省-鹤岗市-绥滨县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/04/230422.html

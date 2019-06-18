@@ -1,0 +1,10 @@
+433101000000	湖南省-湘西土家族苗族自治州-吉首市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/31/433101.html
+433122000000	湖南省-湘西土家族苗族自治州-泸溪县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/31/433122.html
+433123000000	湖南省-湘西土家族苗族自治州-凤凰县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/31/433123.html
+433124000000	湖南省-湘西土家族苗族自治州-花垣县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/31/433124.html
+433125000000	湖南省-湘西土家族苗族自治州-保靖县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/31/433125.html
+433126000000	湖南省-湘西土家族苗族自治州-古丈县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/31/433126.html
+433127000000	湖南省-湘西土家族苗族自治州-永顺县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/31/433127.html
+433130000000	湖南省-湘西土家族苗族自治州-龙山县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/31/433130.html
+433172000000	湖南省-湘西土家族苗族自治州-湖南吉首经济开发区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/31/433172.html
+433173000000	湖南省-湘西土家族苗族自治州-湖南永顺经济开发区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/31/433173.html

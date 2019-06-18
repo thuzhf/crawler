@@ -1,0 +1,15 @@
+220101000000	吉林省-长春市-市辖区	
+220102000000	吉林省-长春市-南关区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/01/220102.html
+220103000000	吉林省-长春市-宽城区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/01/220103.html
+220104000000	吉林省-长春市-朝阳区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/01/220104.html
+220105000000	吉林省-长春市-二道区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/01/220105.html
+220106000000	吉林省-长春市-绿园区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/01/220106.html
+220112000000	吉林省-长春市-双阳区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/01/220112.html
+220113000000	吉林省-长春市-九台区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/01/220113.html
+220122000000	吉林省-长春市-农安县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/01/220122.html
+220171000000	吉林省-长春市-长春经济技术开发区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/01/220171.html
+220172000000	吉林省-长春市-长春净月高新技术产业开发区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/01/220172.html
+220173000000	吉林省-长春市-长春高新技术产业开发区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/01/220173.html
+220174000000	吉林省-长春市-长春汽车经济技术开发区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/01/220174.html
+220182000000	吉林省-长春市-榆树市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/01/220182.html
+220183000000	吉林省-长春市-德惠市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/01/220183.html

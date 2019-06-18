@@ -1,0 +1,12 @@
+411221100000	河南省-三门峡市-渑池县-城关镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/12/21/411221100.html
+411221101000	河南省-三门峡市-渑池县-英豪镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/12/21/411221101.html
+411221102000	河南省-三门峡市-渑池县-张村镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/12/21/411221102.html
+411221103000	河南省-三门峡市-渑池县-洪阳镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/12/21/411221103.html
+411221104000	河南省-三门峡市-渑池县-天池镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/12/21/411221104.html
+411221105000	河南省-三门峡市-渑池县-仰韶镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/12/21/411221105.html
+411221203000	河南省-三门峡市-渑池县-仁村乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/12/21/411221203.html
+411221206000	河南省-三门峡市-渑池县-果园乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/12/21/411221206.html
+411221207000	河南省-三门峡市-渑池县-陈村乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/12/21/411221207.html
+411221208000	河南省-三门峡市-渑池县-坡头乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/12/21/411221208.html
+411221209000	河南省-三门峡市-渑池县-段村乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/12/21/411221209.html
+411221210000	河南省-三门峡市-渑池县-南村乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/12/21/411221210.html

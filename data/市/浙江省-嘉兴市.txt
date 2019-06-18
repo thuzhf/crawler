@@ -1,0 +1,8 @@
+330401000000	浙江省-嘉兴市-市辖区	
+330402000000	浙江省-嘉兴市-南湖区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/04/330402.html
+330411000000	浙江省-嘉兴市-秀洲区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/04/330411.html
+330421000000	浙江省-嘉兴市-嘉善县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/04/330421.html
+330424000000	浙江省-嘉兴市-海盐县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/04/330424.html
+330481000000	浙江省-嘉兴市-海宁市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/04/330481.html
+330482000000	浙江省-嘉兴市-平湖市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/04/330482.html
+330483000000	浙江省-嘉兴市-桐乡市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/04/330483.html

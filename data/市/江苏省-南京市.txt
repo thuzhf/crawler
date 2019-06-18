@@ -1,0 +1,12 @@
+320101000000	江苏省-南京市-市辖区	
+320102000000	江苏省-南京市-玄武区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/01/320102.html
+320104000000	江苏省-南京市-秦淮区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/01/320104.html
+320105000000	江苏省-南京市-建邺区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/01/320105.html
+320106000000	江苏省-南京市-鼓楼区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/01/320106.html
+320111000000	江苏省-南京市-浦口区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/01/320111.html
+320113000000	江苏省-南京市-栖霞区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/01/320113.html
+320114000000	江苏省-南京市-雨花台区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/01/320114.html
+320115000000	江苏省-南京市-江宁区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/01/320115.html
+320116000000	江苏省-南京市-六合区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/01/320116.html
+320117000000	江苏省-南京市-溧水区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/01/320117.html
+320118000000	江苏省-南京市-高淳区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/01/320118.html

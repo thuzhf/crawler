@@ -1,0 +1,14 @@
+141101000000	山西省-吕梁市-市辖区	
+141102000000	山西省-吕梁市-离石区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/11/141102.html
+141121000000	山西省-吕梁市-文水县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/11/141121.html
+141122000000	山西省-吕梁市-交城县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/11/141122.html
+141123000000	山西省-吕梁市-兴县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/11/141123.html
+141124000000	山西省-吕梁市-临县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/11/141124.html
+141125000000	山西省-吕梁市-柳林县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/11/141125.html
+141126000000	山西省-吕梁市-石楼县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/11/141126.html
+141127000000	山西省-吕梁市-岚县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/11/141127.html
+141128000000	山西省-吕梁市-方山县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/11/141128.html
+141129000000	山西省-吕梁市-中阳县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/11/141129.html
+141130000000	山西省-吕梁市-交口县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/11/141130.html
+141181000000	山西省-吕梁市-孝义市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/11/141181.html
+141182000000	山西省-吕梁市-汾阳市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/11/141182.html

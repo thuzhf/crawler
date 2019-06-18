@@ -1,0 +1,10 @@
+610100000000	陕西省-西安市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/61/6101.html
+610200000000	陕西省-铜川市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/61/6102.html
+610300000000	陕西省-宝鸡市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/61/6103.html
+610400000000	陕西省-咸阳市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/61/6104.html
+610500000000	陕西省-渭南市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/61/6105.html
+610600000000	陕西省-延安市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/61/6106.html
+610700000000	陕西省-汉中市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/61/6107.html
+610800000000	陕西省-榆林市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/61/6108.html
+610900000000	陕西省-安康市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/61/6109.html
+611000000000	陕西省-商洛市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/61/6110.html

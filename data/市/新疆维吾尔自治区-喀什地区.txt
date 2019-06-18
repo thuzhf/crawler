@@ -1,0 +1,12 @@
+653101000000	新疆维吾尔自治区-喀什地区-喀什市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/31/653101.html
+653121000000	新疆维吾尔自治区-喀什地区-疏附县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/31/653121.html
+653122000000	新疆维吾尔自治区-喀什地区-疏勒县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/31/653122.html
+653123000000	新疆维吾尔自治区-喀什地区-英吉沙县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/31/653123.html
+653124000000	新疆维吾尔自治区-喀什地区-泽普县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/31/653124.html
+653125000000	新疆维吾尔自治区-喀什地区-莎车县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/31/653125.html
+653126000000	新疆维吾尔自治区-喀什地区-叶城县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/31/653126.html
+653127000000	新疆维吾尔自治区-喀什地区-麦盖提县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/31/653127.html
+653128000000	新疆维吾尔自治区-喀什地区-岳普湖县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/31/653128.html
+653129000000	新疆维吾尔自治区-喀什地区-伽师县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/31/653129.html
+653130000000	新疆维吾尔自治区-喀什地区-巴楚县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/31/653130.html
+653131000000	新疆维吾尔自治区-喀什地区-塔什库尔干塔吉克自治县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/31/653131.html

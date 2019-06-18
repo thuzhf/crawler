@@ -1,0 +1,9 @@
+430901000000	湖南省-益阳市-市辖区	
+430902000000	湖南省-益阳市-资阳区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/09/430902.html
+430903000000	湖南省-益阳市-赫山区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/09/430903.html
+430921000000	湖南省-益阳市-南县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/09/430921.html
+430922000000	湖南省-益阳市-桃江县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/09/430922.html
+430923000000	湖南省-益阳市-安化县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/09/430923.html
+430971000000	湖南省-益阳市-益阳市大通湖管理区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/09/430971.html
+430972000000	湖南省-益阳市-湖南益阳高新技术产业园区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/09/430972.html
+430981000000	湖南省-益阳市-沅江市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/09/430981.html

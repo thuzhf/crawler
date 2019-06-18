@@ -1,0 +1,13 @@
+330902002000	浙江省-舟山市-定海区-昌国街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/09/02/330902002.html
+330902003000	浙江省-舟山市-定海区-环南街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/09/02/330902003.html
+330902004000	浙江省-舟山市-定海区-城东街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/09/02/330902004.html
+330902005000	浙江省-舟山市-定海区-盐仓街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/09/02/330902005.html
+330902006000	浙江省-舟山市-定海区-临城街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/09/02/330902006.html
+330902007000	浙江省-舟山市-定海区-岑港街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/09/02/330902007.html
+330902008000	浙江省-舟山市-定海区-马岙街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/09/02/330902008.html
+330902009000	浙江省-舟山市-定海区-双桥街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/09/02/330902009.html
+330902010000	浙江省-舟山市-定海区-小沙街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/09/02/330902010.html
+330902050000	浙江省-舟山市-定海区-千岛街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/09/02/330902050.html
+330902100000	浙江省-舟山市-定海区-金塘镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/09/02/330902100.html
+330902104000	浙江省-舟山市-定海区-白泉镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/09/02/330902104.html
+330902105000	浙江省-舟山市-定海区-干览镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/09/02/330902105.html

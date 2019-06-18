@@ -1,0 +1,15 @@
+650109001000	新疆维吾尔自治区-乌鲁木齐市-米东区-石化街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/01/09/650109001.html
+650109002000	新疆维吾尔自治区-乌鲁木齐市-米东区-地磅街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/01/09/650109002.html
+650109003000	新疆维吾尔自治区-乌鲁木齐市-米东区-卡子湾街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/01/09/650109003.html
+650109004000	新疆维吾尔自治区-乌鲁木齐市-米东区-古牧地东路街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/01/09/650109004.html
+650109005000	新疆维吾尔自治区-乌鲁木齐市-米东区-古牧地西路街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/01/09/650109005.html
+650109006000	新疆维吾尔自治区-乌鲁木齐市-米东区-南路街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/01/09/650109006.html
+650109007000	新疆维吾尔自治区-乌鲁木齐市-米东区-永祥街街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/01/09/650109007.html
+650109008000	新疆维吾尔自治区-乌鲁木齐市-米东区-盛达东路片区管委会	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/01/09/650109008.html
+650109100000	新疆维吾尔自治区-乌鲁木齐市-米东区-古牧地镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/01/09/650109100.html
+650109101000	新疆维吾尔自治区-乌鲁木齐市-米东区-铁厂沟镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/01/09/650109101.html
+650109102000	新疆维吾尔自治区-乌鲁木齐市-米东区-长山子镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/01/09/650109102.html
+650109103000	新疆维吾尔自治区-乌鲁木齐市-米东区-羊毛工镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/01/09/650109103.html
+650109104000	新疆维吾尔自治区-乌鲁木齐市-米东区-三道坝镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/01/09/650109104.html
+650109200000	新疆维吾尔自治区-乌鲁木齐市-米东区-柏杨河乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/01/09/650109200.html
+650109201000	新疆维吾尔自治区-乌鲁木齐市-米东区-芦草沟乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/01/09/650109201.html

@@ -1,0 +1,15 @@
+610401000000	陕西省-咸阳市-市辖区	
+610402000000	陕西省-咸阳市-秦都区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/61/04/610402.html
+610403000000	陕西省-咸阳市-杨陵区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/61/04/610403.html
+610404000000	陕西省-咸阳市-渭城区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/61/04/610404.html
+610422000000	陕西省-咸阳市-三原县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/61/04/610422.html
+610423000000	陕西省-咸阳市-泾阳县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/61/04/610423.html
+610424000000	陕西省-咸阳市-乾县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/61/04/610424.html
+610425000000	陕西省-咸阳市-礼泉县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/61/04/610425.html
+610426000000	陕西省-咸阳市-永寿县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/61/04/610426.html
+610428000000	陕西省-咸阳市-长武县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/61/04/610428.html
+610429000000	陕西省-咸阳市-旬邑县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/61/04/610429.html
+610430000000	陕西省-咸阳市-淳化县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/61/04/610430.html
+610431000000	陕西省-咸阳市-武功县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/61/04/610431.html
+610481000000	陕西省-咸阳市-兴平市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/61/04/610481.html
+610482000000	陕西省-咸阳市-彬州市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/61/04/610482.html

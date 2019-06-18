@@ -1,0 +1,7 @@
+540402000000	西藏自治区-林芝市-巴宜区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/04/540402.html
+540421000000	西藏自治区-林芝市-工布江达县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/04/540421.html
+540422000000	西藏自治区-林芝市-米林县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/04/540422.html
+540423000000	西藏自治区-林芝市-墨脱县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/04/540423.html
+540424000000	西藏自治区-林芝市-波密县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/04/540424.html
+540425000000	西藏自治区-林芝市-察隅县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/04/540425.html
+540426000000	西藏自治区-林芝市-朗县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/04/540426.html

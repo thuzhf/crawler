@@ -1,0 +1,15 @@
+370783001000	山东省-潍坊市-寿光市-圣城街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/07/83/370783001.html
+370783003000	山东省-潍坊市-寿光市-文家街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/07/83/370783003.html
+370783004000	山东省-潍坊市-寿光市-古城街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/07/83/370783004.html
+370783005000	山东省-潍坊市-寿光市-洛城街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/07/83/370783005.html
+370783006000	山东省-潍坊市-寿光市-孙家集街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/07/83/370783006.html
+370783100000	山东省-潍坊市-寿光市-化龙镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/07/83/370783100.html
+370783103000	山东省-潍坊市-寿光市-营里镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/07/83/370783103.html
+370783104000	山东省-潍坊市-寿光市-台头镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/07/83/370783104.html
+370783106000	山东省-潍坊市-寿光市-田柳镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/07/83/370783106.html
+370783108000	山东省-潍坊市-寿光市-上口镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/07/83/370783108.html
+370783109000	山东省-潍坊市-寿光市-侯镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/07/83/370783109.html
+370783111000	山东省-潍坊市-寿光市-纪台镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/07/83/370783111.html
+370783112000	山东省-潍坊市-寿光市-稻田镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/07/83/370783112.html
+370783115000	山东省-潍坊市-寿光市-羊口镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/07/83/370783115.html
+370783400000	山东省-潍坊市-寿光市-双王城生态经济园区管委会	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/07/83/370783400.html

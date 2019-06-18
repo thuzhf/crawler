@@ -1,0 +1,14 @@
+350921001000	福建省-宁德市-霞浦县-松城街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/09/21/350921001.html
+350921002000	福建省-宁德市-霞浦县-松港街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/09/21/350921002.html
+350921101000	福建省-宁德市-霞浦县-长春镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/09/21/350921101.html
+350921102000	福建省-宁德市-霞浦县-牙城镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/09/21/350921102.html
+350921103000	福建省-宁德市-霞浦县-溪南镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/09/21/350921103.html
+350921104000	福建省-宁德市-霞浦县-沙江镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/09/21/350921104.html
+350921105000	福建省-宁德市-霞浦县-下浒镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/09/21/350921105.html
+350921106000	福建省-宁德市-霞浦县-三沙镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/09/21/350921106.html
+350921200000	福建省-宁德市-霞浦县-盐田畲族乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/09/21/350921200.html
+350921201000	福建省-宁德市-霞浦县-水门畲族乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/09/21/350921201.html
+350921202000	福建省-宁德市-霞浦县-崇儒畲族乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/09/21/350921202.html
+350921203000	福建省-宁德市-霞浦县-柏洋乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/09/21/350921203.html
+350921204000	福建省-宁德市-霞浦县-北壁乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/09/21/350921204.html
+350921205000	福建省-宁德市-霞浦县-海岛乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/09/21/350921205.html

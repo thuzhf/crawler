@@ -1,0 +1,13 @@
+530524101000	云南省-保山市-昌宁县-田园镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/05/24/530524101.html
+530524102000	云南省-保山市-昌宁县-漭水镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/05/24/530524102.html
+530524103000	云南省-保山市-昌宁县-柯街镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/05/24/530524103.html
+530524104000	云南省-保山市-昌宁县-卡斯镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/05/24/530524104.html
+530524105000	云南省-保山市-昌宁县-勐统镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/05/24/530524105.html
+530524106000	云南省-保山市-昌宁县-温泉镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/05/24/530524106.html
+530524107000	云南省-保山市-昌宁县-大田坝镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/05/24/530524107.html
+530524108000	云南省-保山市-昌宁县-鸡飞镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/05/24/530524108.html
+530524109000	云南省-保山市-昌宁县-翁堵镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/05/24/530524109.html
+530524205000	云南省-保山市-昌宁县-湾甸傣族乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/05/24/530524205.html
+530524206000	云南省-保山市-昌宁县-更戛乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/05/24/530524206.html
+530524207000	云南省-保山市-昌宁县-珠街彝族乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/05/24/530524207.html
+530524208000	云南省-保山市-昌宁县-耈街彝族苗族乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/05/24/530524208.html

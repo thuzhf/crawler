@@ -1,0 +1,14 @@
+361023100000	江西省-抚州市-南丰县-琴城镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/10/23/361023100.html
+361023101000	江西省-抚州市-南丰县-太和镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/10/23/361023101.html
+361023102000	江西省-抚州市-南丰县-白舍镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/10/23/361023102.html
+361023103000	江西省-抚州市-南丰县-市山镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/10/23/361023103.html
+361023104000	江西省-抚州市-南丰县-洽湾镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/10/23/361023104.html
+361023105000	江西省-抚州市-南丰县-桑田镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/10/23/361023105.html
+361023106000	江西省-抚州市-南丰县-紫霄镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/10/23/361023106.html
+361023200000	江西省-抚州市-南丰县-三溪乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/10/23/361023200.html
+361023201000	江西省-抚州市-南丰县-东坪乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/10/23/361023201.html
+361023202000	江西省-抚州市-南丰县-莱溪乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/10/23/361023202.html
+361023203000	江西省-抚州市-南丰县-太源乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/10/23/361023203.html
+361023204000	江西省-抚州市-南丰县-傅坊乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/10/23/361023204.html
+361023400000	江西省-抚州市-南丰县-南丰县长红垦殖场	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/10/23/361023400.html
+361023500000	江西省-抚州市-南丰县-南丰工业园区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/10/23/361023500.html

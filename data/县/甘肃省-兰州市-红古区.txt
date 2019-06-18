@@ -1,0 +1,8 @@
+620111001000	甘肃省-兰州市-红古区-窑街街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/62/01/11/620111001.html
+620111002000	甘肃省-兰州市-红古区-下窑街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/62/01/11/620111002.html
+620111003000	甘肃省-兰州市-红古区-矿区街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/62/01/11/620111003.html
+620111004000	甘肃省-兰州市-红古区-华龙街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/62/01/11/620111004.html
+620111101000	甘肃省-兰州市-红古区-海石湾镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/62/01/11/620111101.html
+620111102000	甘肃省-兰州市-红古区-花庄镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/62/01/11/620111102.html
+620111103000	甘肃省-兰州市-红古区-平安镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/62/01/11/620111103.html
+620111104000	甘肃省-兰州市-红古区-红古镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/62/01/11/620111104.html

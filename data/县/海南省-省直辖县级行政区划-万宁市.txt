@@ -1,0 +1,14 @@
+469006100000	海南省-省直辖县级行政区划-万宁市-万城镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/46/90/06/469006100.html
+469006101000	海南省-省直辖县级行政区划-万宁市-龙滚镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/46/90/06/469006101.html
+469006102000	海南省-省直辖县级行政区划-万宁市-和乐镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/46/90/06/469006102.html
+469006103000	海南省-省直辖县级行政区划-万宁市-后安镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/46/90/06/469006103.html
+469006104000	海南省-省直辖县级行政区划-万宁市-大茂镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/46/90/06/469006104.html
+469006105000	海南省-省直辖县级行政区划-万宁市-东澳镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/46/90/06/469006105.html
+469006106000	海南省-省直辖县级行政区划-万宁市-礼纪镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/46/90/06/469006106.html
+469006107000	海南省-省直辖县级行政区划-万宁市-长丰镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/46/90/06/469006107.html
+469006108000	海南省-省直辖县级行政区划-万宁市-山根镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/46/90/06/469006108.html
+469006109000	海南省-省直辖县级行政区划-万宁市-北大镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/46/90/06/469006109.html
+469006110000	海南省-省直辖县级行政区划-万宁市-南桥镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/46/90/06/469006110.html
+469006111000	海南省-省直辖县级行政区划-万宁市-三更罗镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/46/90/06/469006111.html
+469006500000	海南省-省直辖县级行政区划-万宁市-兴隆华侨农场	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/46/90/06/469006500.html
+469006501000	海南省-省直辖县级行政区划-万宁市-地方国营六连林场	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/46/90/06/469006501.html

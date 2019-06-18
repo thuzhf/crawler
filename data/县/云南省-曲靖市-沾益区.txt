@@ -1,0 +1,11 @@
+530303001000	云南省-曲靖市-沾益区-西平街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/03/03/530303001.html
+530303002000	云南省-曲靖市-沾益区-龙华街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/03/03/530303002.html
+530303003000	云南省-曲靖市-沾益区-金龙街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/03/03/530303003.html
+530303004000	云南省-曲靖市-沾益区-花山街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/03/03/530303004.html
+530303101000	云南省-曲靖市-沾益区-白水镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/03/03/530303101.html
+530303102000	云南省-曲靖市-沾益区-盘江镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/03/03/530303102.html
+530303201000	云南省-曲靖市-沾益区-炎方乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/03/03/530303201.html
+530303202000	云南省-曲靖市-沾益区-播乐乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/03/03/530303202.html
+530303203000	云南省-曲靖市-沾益区-大坡乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/03/03/530303203.html
+530303204000	云南省-曲靖市-沾益区-菱角乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/03/03/530303204.html
+530303205000	云南省-曲靖市-沾益区-德泽乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/03/03/530303205.html

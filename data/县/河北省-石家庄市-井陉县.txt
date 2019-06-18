@@ -1,0 +1,17 @@
+130121100000	河北省-石家庄市-井陉县-微水镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/01/21/130121100.html
+130121101000	河北省-石家庄市-井陉县-上安镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/01/21/130121101.html
+130121102000	河北省-石家庄市-井陉县-天长镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/01/21/130121102.html
+130121103000	河北省-石家庄市-井陉县-秀林镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/01/21/130121103.html
+130121104000	河北省-石家庄市-井陉县-南峪镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/01/21/130121104.html
+130121105000	河北省-石家庄市-井陉县-威州镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/01/21/130121105.html
+130121106000	河北省-石家庄市-井陉县-小作镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/01/21/130121106.html
+130121107000	河北省-石家庄市-井陉县-南障城镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/01/21/130121107.html
+130121108000	河北省-石家庄市-井陉县-苍岩山镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/01/21/130121108.html
+130121109000	河北省-石家庄市-井陉县-测鱼镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/01/21/130121109.html
+130121200000	河北省-石家庄市-井陉县-吴家窑乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/01/21/130121200.html
+130121201000	河北省-石家庄市-井陉县-北正乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/01/21/130121201.html
+130121202000	河北省-石家庄市-井陉县-于家乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/01/21/130121202.html
+130121203000	河北省-石家庄市-井陉县-孙庄乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/01/21/130121203.html
+130121204000	河北省-石家庄市-井陉县-南陉乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/01/21/130121204.html
+130121205000	河北省-石家庄市-井陉县-辛庄乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/01/21/130121205.html
+130121206000	河北省-石家庄市-井陉县-南王庄乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/01/21/130121206.html

@@ -1,0 +1,5 @@
+540525100000	西藏自治区-山南市-曲松县-曲松镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/05/25/540525100.html
+540525101000	西藏自治区-山南市-曲松县-罗布沙镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/05/25/540525101.html
+540525200000	西藏自治区-山南市-曲松县-下江乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/05/25/540525200.html
+540525201000	西藏自治区-山南市-曲松县-邱多江乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/05/25/540525201.html
+540525202000	西藏自治区-山南市-曲松县-堆随乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/05/25/540525202.html

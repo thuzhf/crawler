@@ -1,0 +1,10 @@
+540231100000	西藏自治区-日喀则市-定结县-江嘎镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/02/31/540231100.html
+540231101000	西藏自治区-日喀则市-定结县-陈塘镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/02/31/540231101.html
+540231102000	西藏自治区-日喀则市-定结县-日屋镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/02/31/540231102.html
+540231201000	西藏自治区-日喀则市-定结县-确布乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/02/31/540231201.html
+540231202000	西藏自治区-日喀则市-定结县-定结乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/02/31/540231202.html
+540231203000	西藏自治区-日喀则市-定结县-多布扎乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/02/31/540231203.html
+540231204000	西藏自治区-日喀则市-定结县-扎西岗乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/02/31/540231204.html
+540231205000	西藏自治区-日喀则市-定结县-琼孜乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/02/31/540231205.html
+540231206000	西藏自治区-日喀则市-定结县-萨尔乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/02/31/540231206.html
+540231207000	西藏自治区-日喀则市-定结县-郭加乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/02/31/540231207.html

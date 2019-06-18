@@ -1,0 +1,15 @@
+210112009000	辽宁省-沈阳市-浑南区-东湖街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/01/12/210112009.html
+210112010000	辽宁省-沈阳市-浑南区-五三街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/01/12/210112010.html
+210112012000	辽宁省-沈阳市-浑南区-浑河站东街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/01/12/210112012.html
+210112014000	辽宁省-沈阳市-浑南区-高坎街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/01/12/210112014.html
+210112015000	辽宁省-沈阳市-浑南区-满堂街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/01/12/210112015.html
+210112016000	辽宁省-沈阳市-浑南区-深井子街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/01/12/210112016.html
+210112017000	辽宁省-沈阳市-浑南区-祝家街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/01/12/210112017.html
+210112018000	辽宁省-沈阳市-浑南区-白塔街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/01/12/210112018.html
+210112019000	辽宁省-沈阳市-浑南区-桃仙街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/01/12/210112019.html
+210112020000	辽宁省-沈阳市-浑南区-李相街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/01/12/210112020.html
+210112021000	辽宁省-沈阳市-浑南区-营城子街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/01/12/210112021.html
+210112022000	辽宁省-沈阳市-浑南区-汪家街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/01/12/210112022.html
+210112023000	辽宁省-沈阳市-浑南区-王滨街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/01/12/210112023.html
+210112024000	辽宁省-沈阳市-浑南区-望滨街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/01/12/210112024.html
+210112025000	辽宁省-沈阳市-浑南区-永胜街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/01/12/210112025.html

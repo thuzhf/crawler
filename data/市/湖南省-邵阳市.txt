@@ -1,0 +1,13 @@
+430501000000	湖南省-邵阳市-市辖区	
+430502000000	湖南省-邵阳市-双清区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/05/430502.html
+430503000000	湖南省-邵阳市-大祥区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/05/430503.html
+430511000000	湖南省-邵阳市-北塔区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/05/430511.html
+430521000000	湖南省-邵阳市-邵东县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/05/430521.html
+430522000000	湖南省-邵阳市-新邵县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/05/430522.html
+430523000000	湖南省-邵阳市-邵阳县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/05/430523.html
+430524000000	湖南省-邵阳市-隆回县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/05/430524.html
+430525000000	湖南省-邵阳市-洞口县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/05/430525.html
+430527000000	湖南省-邵阳市-绥宁县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/05/430527.html
+430528000000	湖南省-邵阳市-新宁县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/05/430528.html
+430529000000	湖南省-邵阳市-城步苗族自治县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/05/430529.html
+430581000000	湖南省-邵阳市-武冈市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/05/430581.html

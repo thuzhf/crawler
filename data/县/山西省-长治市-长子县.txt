@@ -1,0 +1,13 @@
+140428100000	山西省-长治市-长子县-丹朱镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/04/28/140428100.html
+140428101000	山西省-长治市-长子县-鲍店镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/04/28/140428101.html
+140428102000	山西省-长治市-长子县-石哲镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/04/28/140428102.html
+140428103000	山西省-长治市-长子县-大堡头镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/04/28/140428103.html
+140428104000	山西省-长治市-长子县-慈林镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/04/28/140428104.html
+140428105000	山西省-长治市-长子县-色头镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/04/28/140428105.html
+140428106000	山西省-长治市-长子县-南漳镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/04/28/140428106.html
+140428200000	山西省-长治市-长子县-岚水乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/04/28/140428200.html
+140428201000	山西省-长治市-长子县-碾张乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/04/28/140428201.html
+140428202000	山西省-长治市-长子县-常张乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/04/28/140428202.html
+140428203000	山西省-长治市-长子县-南陈乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/04/28/140428203.html
+140428204000	山西省-长治市-长子县-宋村乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/04/28/140428204.html
+140428400000	山西省-长治市-长子县-长子经济技术开发区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/04/28/140428400.html

@@ -1,0 +1,14 @@
+210101000000	辽宁省-沈阳市-市辖区	
+210102000000	辽宁省-沈阳市-和平区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/01/210102.html
+210103000000	辽宁省-沈阳市-沈河区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/01/210103.html
+210104000000	辽宁省-沈阳市-大东区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/01/210104.html
+210105000000	辽宁省-沈阳市-皇姑区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/01/210105.html
+210106000000	辽宁省-沈阳市-铁西区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/01/210106.html
+210111000000	辽宁省-沈阳市-苏家屯区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/01/210111.html
+210112000000	辽宁省-沈阳市-浑南区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/01/210112.html
+210113000000	辽宁省-沈阳市-沈北新区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/01/210113.html
+210114000000	辽宁省-沈阳市-于洪区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/01/210114.html
+210115000000	辽宁省-沈阳市-辽中区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/01/210115.html
+210123000000	辽宁省-沈阳市-康平县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/01/210123.html
+210124000000	辽宁省-沈阳市-法库县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/01/210124.html
+210181000000	辽宁省-沈阳市-新民市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/01/210181.html

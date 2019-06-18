@@ -1,0 +1,8 @@
+469001100000	海南省-省直辖县级行政区划-五指山市-通什镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/46/90/01/469001100.html
+469001101000	海南省-省直辖县级行政区划-五指山市-南圣镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/46/90/01/469001101.html
+469001102000	海南省-省直辖县级行政区划-五指山市-毛阳镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/46/90/01/469001102.html
+469001103000	海南省-省直辖县级行政区划-五指山市-番阳镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/46/90/01/469001103.html
+469001198000	海南省-省直辖县级行政区划-五指山市-畅好镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/46/90/01/469001198.html
+469001200000	海南省-省直辖县级行政区划-五指山市-畅好乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/46/90/01/469001200.html
+469001201000	海南省-省直辖县级行政区划-五指山市-毛道乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/46/90/01/469001201.html
+469001202000	海南省-省直辖县级行政区划-五指山市-水满乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/46/90/01/469001202.html

@@ -1,0 +1,7 @@
+440512001000	广东省-汕头市-濠江区-达濠街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/05/12/440512001.html
+440512002000	广东省-汕头市-濠江区-马窖街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/05/12/440512002.html
+440512003000	广东省-汕头市-濠江区-礐石街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/05/12/440512003.html
+440512004000	广东省-汕头市-濠江区-广澳街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/05/12/440512004.html
+440512005000	广东省-汕头市-濠江区-滨海街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/05/12/440512005.html
+440512006000	广东省-汕头市-濠江区-河浦街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/05/12/440512006.html
+440512007000	广东省-汕头市-濠江区-玉新街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/05/12/440512007.html

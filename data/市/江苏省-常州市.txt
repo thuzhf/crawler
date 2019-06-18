@@ -1,0 +1,7 @@
+320401000000	江苏省-常州市-市辖区	
+320402000000	江苏省-常州市-天宁区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/04/320402.html
+320404000000	江苏省-常州市-钟楼区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/04/320404.html
+320411000000	江苏省-常州市-新北区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/04/320411.html
+320412000000	江苏省-常州市-武进区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/04/320412.html
+320413000000	江苏省-常州市-金坛区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/04/320413.html
+320481000000	江苏省-常州市-溧阳市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/04/320481.html

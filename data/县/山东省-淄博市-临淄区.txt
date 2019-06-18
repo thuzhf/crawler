@@ -1,0 +1,12 @@
+370305001000	山东省-淄博市-临淄区-闻韶街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/03/05/370305001.html
+370305002000	山东省-淄博市-临淄区-雪宫街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/03/05/370305002.html
+370305003000	山东省-淄博市-临淄区-辛店街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/03/05/370305003.html
+370305004000	山东省-淄博市-临淄区-稷下街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/03/05/370305004.html
+370305005000	山东省-淄博市-临淄区-齐陵街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/03/05/370305005.html
+370305100000	山东省-淄博市-临淄区-齐都镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/03/05/370305100.html
+370305102000	山东省-淄博市-临淄区-皇城镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/03/05/370305102.html
+370305103000	山东省-淄博市-临淄区-敬仲镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/03/05/370305103.html
+370305104000	山东省-淄博市-临淄区-朱台镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/03/05/370305104.html
+370305107000	山东省-淄博市-临淄区-金岭镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/03/05/370305107.html
+370305109000	山东省-淄博市-临淄区-凤凰镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/03/05/370305109.html
+370305111000	山东省-淄博市-临淄区-金山镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/03/05/370305111.html

@@ -1,0 +1,12 @@
+441882100000	广东省-清远市-连州市-连州镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/18/82/441882100.html
+441882101000	广东省-清远市-连州市-星子镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/18/82/441882101.html
+441882102000	广东省-清远市-连州市-大路边镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/18/82/441882102.html
+441882103000	广东省-清远市-连州市-龙坪镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/18/82/441882103.html
+441882104000	广东省-清远市-连州市-西岸镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/18/82/441882104.html
+441882105000	广东省-清远市-连州市-保安镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/18/82/441882105.html
+441882106000	广东省-清远市-连州市-丰阳镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/18/82/441882106.html
+441882107000	广东省-清远市-连州市-东陂镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/18/82/441882107.html
+441882109000	广东省-清远市-连州市-九陂镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/18/82/441882109.html
+441882118000	广东省-清远市-连州市-西江镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/18/82/441882118.html
+441882200000	广东省-清远市-连州市-瑶安瑶族乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/18/82/441882200.html
+441882201000	广东省-清远市-连州市-三水瑶族乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/18/82/441882201.html

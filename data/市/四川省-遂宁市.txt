@@ -1,0 +1,6 @@
+510901000000	四川省-遂宁市-市辖区	
+510903000000	四川省-遂宁市-船山区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/09/510903.html
+510904000000	四川省-遂宁市-安居区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/09/510904.html
+510921000000	四川省-遂宁市-蓬溪县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/09/510921.html
+510922000000	四川省-遂宁市-射洪县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/09/510922.html
+510923000000	四川省-遂宁市-大英县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/09/510923.html

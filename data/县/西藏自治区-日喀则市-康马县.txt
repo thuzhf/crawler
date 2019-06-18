@@ -1,0 +1,9 @@
+540230100000	西藏自治区-日喀则市-康马县-康马镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/02/30/540230100.html
+540230200000	西藏自治区-日喀则市-康马县-南尼乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/02/30/540230200.html
+540230201000	西藏自治区-日喀则市-康马县-少岗乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/02/30/540230201.html
+540230202000	西藏自治区-日喀则市-康马县-康如乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/02/30/540230202.html
+540230203000	西藏自治区-日喀则市-康马县-萨玛达乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/02/30/540230203.html
+540230204000	西藏自治区-日喀则市-康马县-嘎拉乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/02/30/540230204.html
+540230205000	西藏自治区-日喀则市-康马县-涅如堆乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/02/30/540230205.html
+540230206000	西藏自治区-日喀则市-康马县-涅如麦乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/02/30/540230206.html
+540230207000	西藏自治区-日喀则市-康马县-雄章乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/02/30/540230207.html

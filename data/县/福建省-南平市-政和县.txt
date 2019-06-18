@@ -1,0 +1,10 @@
+350725001000	福建省-南平市-政和县-熊山街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/07/25/350725001.html
+350725101000	福建省-南平市-政和县-东平镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/07/25/350725101.html
+350725102000	福建省-南平市-政和县-石屯镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/07/25/350725102.html
+350725103000	福建省-南平市-政和县-铁山镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/07/25/350725103.html
+350725104000	福建省-南平市-政和县-镇前镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/07/25/350725104.html
+350725200000	福建省-南平市-政和县-星溪乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/07/25/350725200.html
+350725201000	福建省-南平市-政和县-外屯乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/07/25/350725201.html
+350725202000	福建省-南平市-政和县-杨源乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/07/25/350725202.html
+350725203000	福建省-南平市-政和县-澄源乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/07/25/350725203.html
+350725204000	福建省-南平市-政和县-岭腰乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/07/25/350725204.html

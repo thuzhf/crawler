@@ -1,0 +1,8 @@
+321203001000	江苏省-泰州市-高港区-口岸街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/12/03/321203001.html
+321203002000	江苏省-泰州市-高港区-刁铺街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/12/03/321203002.html
+321203003000	江苏省-泰州市-高港区-许庄街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/12/03/321203003.html
+321203100000	江苏省-泰州市-高港区-永安洲镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/12/03/321203100.html
+321203101000	江苏省-泰州市-高港区-白马镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/12/03/321203101.html
+321203103000	江苏省-泰州市-高港区-胡庄镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/12/03/321203103.html
+321203104000	江苏省-泰州市-高港区-大泗镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/12/03/321203104.html
+321203400000	江苏省-泰州市-高港区-泰州市高港区科技创业园管理委员会	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/12/03/321203400.html

@@ -1,0 +1,16 @@
+330624001000	浙江省-绍兴市-新昌县-羽林街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/06/24/330624001.html
+330624002000	浙江省-绍兴市-新昌县-南明街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/06/24/330624002.html
+330624003000	浙江省-绍兴市-新昌县-七星街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/06/24/330624003.html
+330624101000	浙江省-绍兴市-新昌县-澄潭镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/06/24/330624101.html
+330624102000	浙江省-绍兴市-新昌县-梅渚镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/06/24/330624102.html
+330624104000	浙江省-绍兴市-新昌县-回山镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/06/24/330624104.html
+330624106000	浙江省-绍兴市-新昌县-大市聚镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/06/24/330624106.html
+330624107000	浙江省-绍兴市-新昌县-小将镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/06/24/330624107.html
+330624108000	浙江省-绍兴市-新昌县-沙溪镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/06/24/330624108.html
+330624109000	浙江省-绍兴市-新昌县-镜岭镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/06/24/330624109.html
+330624110000	浙江省-绍兴市-新昌县-儒岙镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/06/24/330624110.html
+330624200000	浙江省-绍兴市-新昌县-城南乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/06/24/330624200.html
+330624201000	浙江省-绍兴市-新昌县-东茗乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/06/24/330624201.html
+330624203000	浙江省-绍兴市-新昌县-双彩乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/06/24/330624203.html
+330624205000	浙江省-绍兴市-新昌县-新林乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/06/24/330624205.html
+330624206000	浙江省-绍兴市-新昌县-巧英乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/06/24/330624206.html

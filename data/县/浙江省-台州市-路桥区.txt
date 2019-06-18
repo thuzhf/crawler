@@ -1,0 +1,12 @@
+331004001000	浙江省-台州市-路桥区-路南街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/10/04/331004001.html
+331004002000	浙江省-台州市-路桥区-路桥街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/10/04/331004002.html
+331004003000	浙江省-台州市-路桥区-路北街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/10/04/331004003.html
+331004004000	浙江省-台州市-路桥区-螺洋街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/10/04/331004004.html
+331004005000	浙江省-台州市-路桥区-桐屿街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/10/04/331004005.html
+331004006000	浙江省-台州市-路桥区-峰江街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/10/04/331004006.html
+331004103000	浙江省-台州市-路桥区-新桥镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/10/04/331004103.html
+331004104000	浙江省-台州市-路桥区-横街镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/10/04/331004104.html
+331004106000	浙江省-台州市-路桥区-金清镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/10/04/331004106.html
+331004107000	浙江省-台州市-路桥区-蓬街镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/10/04/331004107.html
+331004400000	浙江省-台州市-路桥区-滨海工业城	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/10/04/331004400.html
+331004401000	浙江省-台州市-路桥区-滨海新区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/10/04/331004401.html

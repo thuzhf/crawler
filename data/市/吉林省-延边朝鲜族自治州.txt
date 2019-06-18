@@ -1,0 +1,8 @@
+222401000000	吉林省-延边朝鲜族自治州-延吉市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/24/222401.html
+222402000000	吉林省-延边朝鲜族自治州-图们市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/24/222402.html
+222403000000	吉林省-延边朝鲜族自治州-敦化市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/24/222403.html
+222404000000	吉林省-延边朝鲜族自治州-珲春市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/24/222404.html
+222405000000	吉林省-延边朝鲜族自治州-龙井市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/24/222405.html
+222406000000	吉林省-延边朝鲜族自治州-和龙市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/24/222406.html
+222424000000	吉林省-延边朝鲜族自治州-汪清县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/24/222424.html
+222426000000	吉林省-延边朝鲜族自治州-安图县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/24/222426.html

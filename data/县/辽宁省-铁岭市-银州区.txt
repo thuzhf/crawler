@@ -1,0 +1,9 @@
+211202001000	辽宁省-铁岭市-银州区-红旗街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/12/02/211202001.html
+211202002000	辽宁省-铁岭市-银州区-工人街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/12/02/211202002.html
+211202003000	辽宁省-铁岭市-银州区-铁西街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/12/02/211202003.html
+211202004000	辽宁省-铁岭市-银州区-铜钟街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/12/02/211202004.html
+211202005000	辽宁省-铁岭市-银州区-柴河街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/12/02/211202005.html
+211202006000	辽宁省-铁岭市-银州区-岭东街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/12/02/211202006.html
+211202007000	辽宁省-铁岭市-银州区-辽海街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/12/02/211202007.html
+211202201000	辽宁省-铁岭市-银州区-龙山乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/12/02/211202201.html
+211202401000	辽宁省-铁岭市-银州区-铁岭经济开发区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/12/02/211202401.html

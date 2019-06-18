@@ -1,0 +1,15 @@
+445321100000	广东省-云浮市-新兴县-新城镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/53/21/445321100.html
+445321101000	广东省-云浮市-新兴县-车岗镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/53/21/445321101.html
+445321103000	广东省-云浮市-新兴县-水台镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/53/21/445321103.html
+445321104000	广东省-云浮市-新兴县-稔村镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/53/21/445321104.html
+445321105000	广东省-云浮市-新兴县-东成镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/53/21/445321105.html
+445321107000	广东省-云浮市-新兴县-太平镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/53/21/445321107.html
+445321108000	广东省-云浮市-新兴县-里洞镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/53/21/445321108.html
+445321110000	广东省-云浮市-新兴县-大江镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/53/21/445321110.html
+445321112000	广东省-云浮市-新兴县-天堂镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/53/21/445321112.html
+445321113000	广东省-云浮市-新兴县-河头镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/53/21/445321113.html
+445321114000	广东省-云浮市-新兴县-簕竹镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/53/21/445321114.html
+445321115000	广东省-云浮市-新兴县-六祖镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/53/21/445321115.html
+445321501000	广东省-云浮市-新兴县-广东省西江林业局良洞迳林场	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/53/21/445321501.html
+445321502000	广东省-云浮市-新兴县-云浮市国有水台林场	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/53/21/445321502.html
+445321503000	广东省-云浮市-新兴县-国营新兴县岩头林场	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/53/21/445321503.html

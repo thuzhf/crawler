@@ -1,0 +1,14 @@
+120111001000	天津市-市辖区-西青区-西营门街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/12/01/11/120111001.html
+120111002000	天津市-市辖区-西青区-李七庄街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/12/01/11/120111002.html
+120111003000	天津市-市辖区-西青区-赤龙南街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/12/01/11/120111003.html
+120111100000	天津市-市辖区-西青区-中北镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/12/01/11/120111100.html
+120111101000	天津市-市辖区-西青区-杨柳青镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/12/01/11/120111101.html
+120111102000	天津市-市辖区-西青区-辛口镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/12/01/11/120111102.html
+120111103000	天津市-市辖区-西青区-张家窝镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/12/01/11/120111103.html
+120111104000	天津市-市辖区-西青区-精武镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/12/01/11/120111104.html
+120111105000	天津市-市辖区-西青区-大寺镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/12/01/11/120111105.html
+120111106000	天津市-市辖区-西青区-王稳庄镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/12/01/11/120111106.html
+120111400000	天津市-市辖区-西青区-天津开发区微电子小区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/12/01/11/120111400.html
+120111401000	天津市-市辖区-西青区-新技术产业园区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/12/01/11/120111401.html
+120111402000	天津市-市辖区-西青区-西青高校区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/12/01/11/120111402.html
+120111450000	天津市-市辖区-西青区-西青区开发区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/12/01/11/120111450.html

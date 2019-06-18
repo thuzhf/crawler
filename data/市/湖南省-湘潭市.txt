@@ -1,0 +1,9 @@
+430301000000	湖南省-湘潭市-市辖区	
+430302000000	湖南省-湘潭市-雨湖区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/03/430302.html
+430304000000	湖南省-湘潭市-岳塘区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/03/430304.html
+430321000000	湖南省-湘潭市-湘潭县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/03/430321.html
+430371000000	湖南省-湘潭市-湖南湘潭高新技术产业园区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/03/430371.html
+430372000000	湖南省-湘潭市-湘潭昭山示范区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/03/430372.html
+430373000000	湖南省-湘潭市-湘潭九华示范区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/03/430373.html
+430381000000	湖南省-湘潭市-湘乡市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/03/430381.html
+430382000000	湖南省-湘潭市-韶山市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/03/430382.html

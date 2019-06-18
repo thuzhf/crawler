@@ -1,0 +1,9 @@
+621001000000	甘肃省-庆阳市-市辖区	
+621002000000	甘肃省-庆阳市-西峰区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/62/10/621002.html
+621021000000	甘肃省-庆阳市-庆城县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/62/10/621021.html
+621022000000	甘肃省-庆阳市-环县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/62/10/621022.html
+621023000000	甘肃省-庆阳市-华池县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/62/10/621023.html
+621024000000	甘肃省-庆阳市-合水县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/62/10/621024.html
+621025000000	甘肃省-庆阳市-正宁县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/62/10/621025.html
+621026000000	甘肃省-庆阳市-宁县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/62/10/621026.html
+621027000000	甘肃省-庆阳市-镇原县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/62/10/621027.html

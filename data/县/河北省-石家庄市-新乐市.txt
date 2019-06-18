@@ -1,0 +1,12 @@
+130184001000	河北省-石家庄市-新乐市-长寿街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/01/84/130184001.html
+130184101000	河北省-石家庄市-新乐市-化皮镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/01/84/130184101.html
+130184102000	河北省-石家庄市-新乐市-承安镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/01/84/130184102.html
+130184103000	河北省-石家庄市-新乐市-正莫镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/01/84/130184103.html
+130184104000	河北省-石家庄市-新乐市-南大岳镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/01/84/130184104.html
+130184105000	河北省-石家庄市-新乐市-杜固镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/01/84/130184105.html
+130184106000	河北省-石家庄市-新乐市-邯邰镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/01/84/130184106.html
+130184107000	河北省-石家庄市-新乐市-东王镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/01/84/130184107.html
+130184108000	河北省-石家庄市-新乐市-马头铺镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/01/84/130184108.html
+130184200000	河北省-石家庄市-新乐市-协神乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/01/84/130184200.html
+130184201000	河北省-石家庄市-新乐市-木村乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/01/84/130184201.html
+130184202000	河北省-石家庄市-新乐市-彭家庄回族乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/01/84/130184202.html

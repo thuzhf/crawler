@@ -1,0 +1,12 @@
+620423100000	甘肃省-白银市-景泰县-一条山镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/62/04/23/620423100.html
+620423101000	甘肃省-白银市-景泰县-芦阳镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/62/04/23/620423101.html
+620423102000	甘肃省-白银市-景泰县-上沙沃镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/62/04/23/620423102.html
+620423103000	甘肃省-白银市-景泰县-喜泉镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/62/04/23/620423103.html
+620423104000	甘肃省-白银市-景泰县-草窝滩镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/62/04/23/620423104.html
+620423105000	甘肃省-白银市-景泰县-红水镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/62/04/23/620423105.html
+620423106000	甘肃省-白银市-景泰县-中泉镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/62/04/23/620423106.html
+620423107000	甘肃省-白银市-景泰县-正路镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/62/04/23/620423107.html
+620423203000	甘肃省-白银市-景泰县-寺滩乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/62/04/23/620423203.html
+620423205000	甘肃省-白银市-景泰县-五佛乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/62/04/23/620423205.html
+620423207000	甘肃省-白银市-景泰县-漫水滩乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/62/04/23/620423207.html
+620423400000	甘肃省-白银市-景泰县-条山集团	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/62/04/23/620423400.html

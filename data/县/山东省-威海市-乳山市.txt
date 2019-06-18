@@ -1,0 +1,15 @@
+371083001000	山东省-威海市-乳山市-城区街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/10/83/371083001.html
+371083100000	山东省-威海市-乳山市-夏村镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/10/83/371083100.html
+371083101000	山东省-威海市-乳山市-乳山口镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/10/83/371083101.html
+371083102000	山东省-威海市-乳山市-海阳所镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/10/83/371083102.html
+371083103000	山东省-威海市-乳山市-白沙滩镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/10/83/371083103.html
+371083104000	山东省-威海市-乳山市-大孤山镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/10/83/371083104.html
+371083105000	山东省-威海市-乳山市-南黄镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/10/83/371083105.html
+371083106000	山东省-威海市-乳山市-冯家镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/10/83/371083106.html
+371083107000	山东省-威海市-乳山市-下初镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/10/83/371083107.html
+371083108000	山东省-威海市-乳山市-午极镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/10/83/371083108.html
+371083109000	山东省-威海市-乳山市-育黎镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/10/83/371083109.html
+371083110000	山东省-威海市-乳山市-崖子镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/10/83/371083110.html
+371083111000	山东省-威海市-乳山市-诸往镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/10/83/371083111.html
+371083112000	山东省-威海市-乳山市-乳山寨镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/10/83/371083112.html
+371083114000	山东省-威海市-乳山市-徐家镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/10/83/371083114.html

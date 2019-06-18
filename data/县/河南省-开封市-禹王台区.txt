@@ -1,0 +1,7 @@
+410205001000	河南省-开封市-禹王台区-三里堡街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/02/05/410205001.html
+410205002000	河南省-开封市-禹王台区-新门关街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/02/05/410205002.html
+410205003000	河南省-开封市-禹王台区-繁塔街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/02/05/410205003.html
+410205004000	河南省-开封市-禹王台区-官坊街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/02/05/410205004.html
+410205005000	河南省-开封市-禹王台区-菜市街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/02/05/410205005.html
+410205200000	河南省-开封市-禹王台区-南郊乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/02/05/410205200.html
+410205201000	河南省-开封市-禹王台区-汪屯乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/02/05/410205201.html

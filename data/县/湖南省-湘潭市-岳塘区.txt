@@ -1,0 +1,9 @@
+430304001000	湖南省-湘潭市-岳塘区-岳塘街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/03/04/430304001.html
+430304002000	湖南省-湘潭市-岳塘区-东坪街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/03/04/430304002.html
+430304004000	湖南省-湘潭市-岳塘区-书院路街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/03/04/430304004.html
+430304005000	湖南省-湘潭市-岳塘区-下摄司街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/03/04/430304005.html
+430304006000	湖南省-湘潭市-岳塘区-建设路街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/03/04/430304006.html
+430304008000	湖南省-湘潭市-岳塘区-五里堆街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/03/04/430304008.html
+430304010000	湖南省-湘潭市-岳塘区-宝塔街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/03/04/430304010.html
+430304014000	湖南省-湘潭市-岳塘区-霞城街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/03/04/430304014.html
+430304015000	湖南省-湘潭市-岳塘区-荷塘街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/03/04/430304015.html

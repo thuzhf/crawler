@@ -1,0 +1,14 @@
+430624100000	湖南省-岳阳市-湘阴县-文星镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/06/24/430624100.html
+430624101000	湖南省-岳阳市-湘阴县-东塘镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/06/24/430624101.html
+430624104000	湖南省-岳阳市-湘阴县-樟树镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/06/24/430624104.html
+430624110000	湖南省-岳阳市-湘阴县-三塘镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/06/24/430624110.html
+430624116000	湖南省-岳阳市-湘阴县-岭北镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/06/24/430624116.html
+430624117000	湖南省-岳阳市-湘阴县-新泉镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/06/24/430624117.html
+430624118000	湖南省-岳阳市-湘阴县-湘滨镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/06/24/430624118.html
+430624119000	湖南省-岳阳市-湘阴县-南湖洲镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/06/24/430624119.html
+430624120000	湖南省-岳阳市-湘阴县-鹤龙湖镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/06/24/430624120.html
+430624121000	湖南省-岳阳市-湘阴县-金龙镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/06/24/430624121.html
+430624122000	湖南省-岳阳市-湘阴县-静河镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/06/24/430624122.html
+430624123000	湖南省-岳阳市-湘阴县-玉华镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/06/24/430624123.html
+430624201000	湖南省-岳阳市-湘阴县-六塘乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/06/24/430624201.html
+430624206000	湖南省-岳阳市-湘阴县-杨林寨乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/06/24/430624206.html

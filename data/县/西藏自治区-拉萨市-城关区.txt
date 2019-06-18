@@ -1,0 +1,12 @@
+540102002000	西藏自治区-拉萨市-城关区-八廓街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/01/02/540102002.html
+540102003000	西藏自治区-拉萨市-城关区-吉日街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/01/02/540102003.html
+540102004000	西藏自治区-拉萨市-城关区-吉崩岗街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/01/02/540102004.html
+540102005000	西藏自治区-拉萨市-城关区-扎细街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/01/02/540102005.html
+540102006000	西藏自治区-拉萨市-城关区-公德林街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/01/02/540102006.html
+540102007000	西藏自治区-拉萨市-城关区-嘎玛贡桑街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/01/02/540102007.html
+540102008000	西藏自治区-拉萨市-城关区-两岛街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/01/02/540102008.html
+540102009000	西藏自治区-拉萨市-城关区-金珠西路街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/01/02/540102009.html
+540102200000	西藏自治区-拉萨市-城关区-蔡公堂乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/01/02/540102200.html
+540102201000	西藏自治区-拉萨市-城关区-纳金乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/01/02/540102201.html
+540102202000	西藏自治区-拉萨市-城关区-娘热乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/01/02/540102202.html
+540102203000	西藏自治区-拉萨市-城关区-夺底乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/01/02/540102203.html

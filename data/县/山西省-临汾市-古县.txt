@@ -1,0 +1,7 @@
+141025100000	山西省-临汾市-古县-岳阳镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/10/25/141025100.html
+141025101000	山西省-临汾市-古县-北平镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/10/25/141025101.html
+141025102000	山西省-临汾市-古县-古阳镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/10/25/141025102.html
+141025103000	山西省-临汾市-古县-旧县镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/10/25/141025103.html
+141025200000	山西省-临汾市-古县-石壁乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/10/25/141025200.html
+141025201000	山西省-临汾市-古县-永乐乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/10/25/141025201.html
+141025202000	山西省-临汾市-古县-南垣乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/10/25/141025202.html

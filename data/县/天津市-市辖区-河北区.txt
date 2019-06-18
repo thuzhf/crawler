@@ -1,0 +1,10 @@
+120105001000	天津市-市辖区-河北区-光复道街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/12/01/05/120105001.html
+120105002000	天津市-市辖区-河北区-望海楼街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/12/01/05/120105002.html
+120105003000	天津市-市辖区-河北区-鸿顺里街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/12/01/05/120105003.html
+120105004000	天津市-市辖区-河北区-新开河街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/12/01/05/120105004.html
+120105005000	天津市-市辖区-河北区-铁东路街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/12/01/05/120105005.html
+120105006000	天津市-市辖区-河北区-建昌道街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/12/01/05/120105006.html
+120105007000	天津市-市辖区-河北区-宁园街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/12/01/05/120105007.html
+120105008000	天津市-市辖区-河北区-王串场街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/12/01/05/120105008.html
+120105009000	天津市-市辖区-河北区-江都路街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/12/01/05/120105009.html
+120105010000	天津市-市辖区-河北区-月牙河街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/12/01/05/120105010.html

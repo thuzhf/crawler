@@ -1,0 +1,12 @@
+411602001000	河南省-周口市-川汇区-陈州回族街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/16/02/411602001.html
+411602002000	河南省-周口市-川汇区-七一路街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/16/02/411602002.html
+411602003000	河南省-周口市-川汇区-荷花街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/16/02/411602003.html
+411602004000	河南省-周口市-川汇区-人和街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/16/02/411602004.html
+411602005000	河南省-周口市-川汇区-小桥街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/16/02/411602005.html
+411602006000	河南省-周口市-川汇区-城南办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/16/02/411602006.html
+411602007000	河南省-周口市-川汇区-城北办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/16/02/411602007.html
+411602008000	河南省-周口市-川汇区-文昌办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/16/02/411602008.html
+411602009000	河南省-周口市-川汇区-搬口办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/16/02/411602009.html
+411602010000	河南省-周口市-川汇区-金海路办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/16/02/411602010.html
+411602200000	河南省-周口市-川汇区-李埠口乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/16/02/411602200.html
+411602201000	河南省-周口市-川汇区-许湾乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/16/02/411602201.html

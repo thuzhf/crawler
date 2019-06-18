@@ -1,0 +1,14 @@
+230822103000	黑龙江省-佳木斯市-桦南县-驼腰子镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/08/22/230822103.html
+230822104000	黑龙江省-佳木斯市-桦南县-石头河子镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/08/22/230822104.html
+230822106000	黑龙江省-佳木斯市-桦南县-桦南镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/08/22/230822106.html
+230822107000	黑龙江省-佳木斯市-桦南县-土龙山镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/08/22/230822107.html
+230822108000	黑龙江省-佳木斯市-桦南县-孟家岗镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/08/22/230822108.html
+230822109000	黑龙江省-佳木斯市-桦南县-闫家镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/08/22/230822109.html
+230822205000	黑龙江省-佳木斯市-桦南县-金沙乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/08/22/230822205.html
+230822213000	黑龙江省-佳木斯市-桦南县-梨树乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/08/22/230822213.html
+230822214000	黑龙江省-佳木斯市-桦南县-明义乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/08/22/230822214.html
+230822215000	黑龙江省-佳木斯市-桦南县-大八浪乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/08/22/230822215.html
+230822400000	黑龙江省-佳木斯市-桦南县-桦南林业局	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/08/22/230822400.html
+230822480000	黑龙江省-佳木斯市-桦南县-黑龙江桦南经济开发区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/08/22/230822480.html
+230822500000	黑龙江省-佳木斯市-桦南县-曙光农场	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/08/22/230822500.html
+230822580000	黑龙江省-佳木斯市-桦南县-桦南种畜场	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/08/22/230822580.html

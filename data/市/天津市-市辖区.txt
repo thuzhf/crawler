@@ -1,0 +1,16 @@
+120101000000	天津市-市辖区-和平区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/12/01/120101.html
+120102000000	天津市-市辖区-河东区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/12/01/120102.html
+120103000000	天津市-市辖区-河西区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/12/01/120103.html
+120104000000	天津市-市辖区-南开区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/12/01/120104.html
+120105000000	天津市-市辖区-河北区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/12/01/120105.html
+120106000000	天津市-市辖区-红桥区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/12/01/120106.html
+120110000000	天津市-市辖区-东丽区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/12/01/120110.html
+120111000000	天津市-市辖区-西青区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/12/01/120111.html
+120112000000	天津市-市辖区-津南区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/12/01/120112.html
+120113000000	天津市-市辖区-北辰区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/12/01/120113.html
+120114000000	天津市-市辖区-武清区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/12/01/120114.html
+120115000000	天津市-市辖区-宝坻区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/12/01/120115.html
+120116000000	天津市-市辖区-滨海新区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/12/01/120116.html
+120117000000	天津市-市辖区-宁河区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/12/01/120117.html
+120118000000	天津市-市辖区-静海区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/12/01/120118.html
+120119000000	天津市-市辖区-蓟州区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/12/01/120119.html

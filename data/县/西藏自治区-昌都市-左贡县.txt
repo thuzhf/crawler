@@ -1,0 +1,10 @@
+540327100000	西藏自治区-昌都市-左贡县-旺达镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/03/27/540327100.html
+540327101000	西藏自治区-昌都市-左贡县-田妥镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/03/27/540327101.html
+540327102000	西藏自治区-昌都市-左贡县-扎玉镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/03/27/540327102.html
+540327203000	西藏自治区-昌都市-左贡县-东坝乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/03/27/540327203.html
+540327204000	西藏自治区-昌都市-左贡县-仁果乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/03/27/540327204.html
+540327207000	西藏自治区-昌都市-左贡县-绕金乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/03/27/540327207.html
+540327208000	西藏自治区-昌都市-左贡县-碧土乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/03/27/540327208.html
+540327210000	西藏自治区-昌都市-左贡县-美玉乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/03/27/540327210.html
+540327211000	西藏自治区-昌都市-左贡县-中林卡乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/03/27/540327211.html
+540327212000	西藏自治区-昌都市-左贡县-下林卡乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/03/27/540327212.html

@@ -1,0 +1,12 @@
+130708001000	河北省-张家口市-万全区-孔家庄街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/07/08/130708001.html
+130708100000	河北省-张家口市-万全区-孔家庄镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/07/08/130708100.html
+130708101000	河北省-张家口市-万全区-万全镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/07/08/130708101.html
+130708102000	河北省-张家口市-万全区-洗马林镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/07/08/130708102.html
+130708103000	河北省-张家口市-万全区-郭磊庄镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/07/08/130708103.html
+130708200000	河北省-张家口市-万全区-膳房堡乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/07/08/130708200.html
+130708201000	河北省-张家口市-万全区-北新屯乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/07/08/130708201.html
+130708202000	河北省-张家口市-万全区-宣平堡乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/07/08/130708202.html
+130708203000	河北省-张家口市-万全区-高庙堡乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/07/08/130708203.html
+130708204000	河北省-张家口市-万全区-旧堡乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/07/08/130708204.html
+130708205000	河北省-张家口市-万全区-安家堡乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/07/08/130708205.html
+130708206000	河北省-张家口市-万全区-北沙城乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/07/08/130708206.html

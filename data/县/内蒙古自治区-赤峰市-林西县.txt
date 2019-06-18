@@ -1,0 +1,12 @@
+150424100000	内蒙古自治区-赤峰市-林西县-林西镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/04/24/150424100.html
+150424101000	内蒙古自治区-赤峰市-林西县-新城子镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/04/24/150424101.html
+150424102000	内蒙古自治区-赤峰市-林西县-新林镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/04/24/150424102.html
+150424103000	内蒙古自治区-赤峰市-林西县-五十家子镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/04/24/150424103.html
+150424104000	内蒙古自治区-赤峰市-林西县-官地镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/04/24/150424104.html
+150424105000	内蒙古自治区-赤峰市-林西县-大井镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/04/24/150424105.html
+150424106000	内蒙古自治区-赤峰市-林西县-统部镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/04/24/150424106.html
+150424200000	内蒙古自治区-赤峰市-林西县-大营子乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/04/24/150424200.html
+150424201000	内蒙古自治区-赤峰市-林西县-十二吐乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/04/24/150424201.html
+150424400000	内蒙古自治区-赤峰市-林西县-城北街道办事处筹备处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/04/24/150424400.html
+150424401000	内蒙古自治区-赤峰市-林西县-城南街道办事处筹备处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/04/24/150424401.html
+150424402000	内蒙古自治区-赤峰市-林西县-内蒙古林西工业园区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/04/24/150424402.html

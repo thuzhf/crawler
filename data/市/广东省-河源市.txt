@@ -1,0 +1,7 @@
+441601000000	广东省-河源市-市辖区	
+441602000000	广东省-河源市-源城区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/16/441602.html
+441621000000	广东省-河源市-紫金县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/16/441621.html
+441622000000	广东省-河源市-龙川县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/16/441622.html
+441623000000	广东省-河源市-连平县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/16/441623.html
+441624000000	广东省-河源市-和平县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/16/441624.html
+441625000000	广东省-河源市-东源县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/16/441625.html

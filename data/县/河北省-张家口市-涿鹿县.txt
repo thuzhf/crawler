@@ -1,0 +1,17 @@
+130731100000	河北省-张家口市-涿鹿县-涿鹿镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/07/31/130731100.html
+130731101000	河北省-张家口市-涿鹿县-张家堡镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/07/31/130731101.html
+130731102000	河北省-张家口市-涿鹿县-武家沟镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/07/31/130731102.html
+130731103000	河北省-张家口市-涿鹿县-五堡镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/07/31/130731103.html
+130731104000	河北省-张家口市-涿鹿县-保岱镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/07/31/130731104.html
+130731105000	河北省-张家口市-涿鹿县-矾山镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/07/31/130731105.html
+130731106000	河北省-张家口市-涿鹿县-大堡镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/07/31/130731106.html
+130731107000	河北省-张家口市-涿鹿县-河东镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/07/31/130731107.html
+130731108000	河北省-张家口市-涿鹿县-东小庄镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/07/31/130731108.html
+130731109000	河北省-张家口市-涿鹿县-辉耀镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/07/31/130731109.html
+130731110000	河北省-张家口市-涿鹿县-大河南镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/07/31/130731110.html
+130731111000	河北省-张家口市-涿鹿县-温泉屯镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/07/31/130731111.html
+130731112000	河北省-张家口市-涿鹿县-蟒石口镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/07/31/130731112.html
+130731201000	河北省-张家口市-涿鹿县-栾庄乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/07/31/130731201.html
+130731204000	河北省-张家口市-涿鹿县-黑山寺乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/07/31/130731204.html
+130731205000	河北省-张家口市-涿鹿县-卧佛寺乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/07/31/130731205.html
+130731206000	河北省-张家口市-涿鹿县-谢家堡乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/07/31/130731206.html

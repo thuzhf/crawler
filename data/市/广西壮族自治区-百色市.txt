@@ -1,0 +1,13 @@
+451001000000	广西壮族自治区-百色市-市辖区	
+451002000000	广西壮族自治区-百色市-右江区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/10/451002.html
+451021000000	广西壮族自治区-百色市-田阳县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/10/451021.html
+451022000000	广西壮族自治区-百色市-田东县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/10/451022.html
+451023000000	广西壮族自治区-百色市-平果县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/10/451023.html
+451024000000	广西壮族自治区-百色市-德保县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/10/451024.html
+451026000000	广西壮族自治区-百色市-那坡县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/10/451026.html
+451027000000	广西壮族自治区-百色市-凌云县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/10/451027.html
+451028000000	广西壮族自治区-百色市-乐业县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/10/451028.html
+451029000000	广西壮族自治区-百色市-田林县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/10/451029.html
+451030000000	广西壮族自治区-百色市-西林县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/10/451030.html
+451031000000	广西壮族自治区-百色市-隆林各族自治县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/10/451031.html
+451081000000	广西壮族自治区-百色市-靖西市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/10/451081.html

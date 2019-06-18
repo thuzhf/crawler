@@ -1,0 +1,7 @@
+350201000000	福建省-厦门市-市辖区	
+350203000000	福建省-厦门市-思明区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/02/350203.html
+350205000000	福建省-厦门市-海沧区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/02/350205.html
+350206000000	福建省-厦门市-湖里区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/02/350206.html
+350211000000	福建省-厦门市-集美区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/02/350211.html
+350212000000	福建省-厦门市-同安区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/02/350212.html
+350213000000	福建省-厦门市-翔安区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/02/350213.html

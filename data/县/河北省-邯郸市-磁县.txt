@@ -1,0 +1,11 @@
+130427100000	河北省-邯郸市-磁县-磁州镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/04/27/130427100.html
+130427103000	河北省-邯郸市-磁县-讲武城镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/04/27/130427103.html
+130427104000	河北省-邯郸市-磁县-岳城镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/04/27/130427104.html
+130427105000	河北省-邯郸市-磁县-观台镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/04/27/130427105.html
+130427107000	河北省-邯郸市-磁县-白土镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/04/27/130427107.html
+130427108000	河北省-邯郸市-磁县-黄沙镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/04/27/130427108.html
+130427200000	河北省-邯郸市-磁县-路村营乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/04/27/130427200.html
+130427204000	河北省-邯郸市-磁县-时村营乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/04/27/130427204.html
+130427207000	河北省-邯郸市-磁县-陶泉乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/04/27/130427207.html
+130427208000	河北省-邯郸市-磁县-都党乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/04/27/130427208.html
+130427209000	河北省-邯郸市-磁县-北贾壁乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/04/27/130427209.html

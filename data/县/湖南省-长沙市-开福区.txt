@@ -1,0 +1,16 @@
+430105001000	湖南省-长沙市-开福区-芙蓉北路街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/01/05/430105001.html
+430105002000	湖南省-长沙市-开福区-东风路街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/01/05/430105002.html
+430105003000	湖南省-长沙市-开福区-清水塘街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/01/05/430105003.html
+430105004000	湖南省-长沙市-开福区-望麓园街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/01/05/430105004.html
+430105005000	湖南省-长沙市-开福区-湘雅路街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/01/05/430105005.html
+430105006000	湖南省-长沙市-开福区-伍家岭街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/01/05/430105006.html
+430105009000	湖南省-长沙市-开福区-新河街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/01/05/430105009.html
+430105010000	湖南省-长沙市-开福区-通泰街街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/01/05/430105010.html
+430105012000	湖南省-长沙市-开福区-四方坪街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/01/05/430105012.html
+430105013000	湖南省-长沙市-开福区-洪山街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/01/05/430105013.html
+430105014000	湖南省-长沙市-开福区-浏阳河街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/01/05/430105014.html
+430105015000	湖南省-长沙市-开福区-月湖街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/01/05/430105015.html
+430105016000	湖南省-长沙市-开福区-秀峰街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/01/05/430105016.html
+430105019000	湖南省-长沙市-开福区-沙坪街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/01/05/430105019.html
+430105020000	湖南省-长沙市-开福区-捞刀河街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/01/05/430105020.html
+430105021000	湖南省-长沙市-开福区-青竹湖街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/01/05/430105021.html

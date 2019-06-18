@@ -1,0 +1,14 @@
+371427001000	山东省-德州市-夏津县-银城街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/14/27/371427001.html
+371427002000	山东省-德州市-夏津县-北城街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/14/27/371427002.html
+371427100000	山东省-德州市-夏津县-南城镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/14/27/371427100.html
+371427101000	山东省-德州市-夏津县-苏留庄镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/14/27/371427101.html
+371427102000	山东省-德州市-夏津县-新盛店镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/14/27/371427102.html
+371427103000	山东省-德州市-夏津县-雷集镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/14/27/371427103.html
+371427104000	山东省-德州市-夏津县-郑保屯镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/14/27/371427104.html
+371427105000	山东省-德州市-夏津县-白马湖镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/14/27/371427105.html
+371427106000	山东省-德州市-夏津县-东李官屯镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/14/27/371427106.html
+371427107000	山东省-德州市-夏津县-宋楼镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/14/27/371427107.html
+371427108000	山东省-德州市-夏津县-香赵庄镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/14/27/371427108.html
+371427109000	山东省-德州市-夏津县-双庙镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/14/27/371427109.html
+371427200000	山东省-德州市-夏津县-渡口驿乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/14/27/371427200.html
+371427204000	山东省-德州市-夏津县-田庄乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/14/27/371427204.html

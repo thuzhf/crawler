@@ -1,0 +1,15 @@
+654024100000	新疆维吾尔自治区-伊犁哈萨克自治州-巩留县-巩留镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/40/24/654024100.html
+654024101000	新疆维吾尔自治区-伊犁哈萨克自治州-巩留县-阿克吐别克镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/40/24/654024101.html
+654024102000	新疆维吾尔自治区-伊犁哈萨克自治州-巩留县-库尔德宁镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/40/24/654024102.html
+654024103000	新疆维吾尔自治区-伊犁哈萨克自治州-巩留县-东买里镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/40/24/654024103.html
+654024104000	新疆维吾尔自治区-伊犁哈萨克自治州-巩留县-阿尕尔森镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/40/24/654024104.html
+654024105000	新疆维吾尔自治区-伊犁哈萨克自治州-巩留县-提克阿热克镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/40/24/654024105.html
+654024201000	新疆维吾尔自治区-伊犁哈萨克自治州-巩留县-吉尔格郎乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/40/24/654024201.html
+654024204000	新疆维吾尔自治区-伊犁哈萨克自治州-巩留县-塔斯托别乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/40/24/654024204.html
+654024400000	新疆维吾尔自治区-伊犁哈萨克自治州-巩留县-综合农场	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/40/24/654024400.html
+654024401000	新疆维吾尔自治区-伊犁哈萨克自治州-巩留县-阔什阿尕什羊场	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/40/24/654024401.html
+654024402000	新疆维吾尔自治区-伊犁哈萨克自治州-巩留县-牛场	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/40/24/654024402.html
+654024403000	新疆维吾尔自治区-伊犁哈萨克自治州-巩留县-良凡场	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/40/24/654024403.html
+654024405000	新疆维吾尔自治区-伊犁哈萨克自治州-巩留县-林场	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/40/24/654024405.html
+654024406000	新疆维吾尔自治区-伊犁哈萨克自治州-巩留县-莫乎尔农场	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/40/24/654024406.html
+654024510000	新疆维吾尔自治区-伊犁哈萨克自治州-巩留县-兵团七十三团	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/40/24/654024510.html

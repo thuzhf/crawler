@@ -1,0 +1,14 @@
+140427100000	山西省-长治市-壶关县-龙泉镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/04/27/140427100.html
+140427101000	山西省-长治市-壶关县-百尺镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/04/27/140427101.html
+140427102000	山西省-长治市-壶关县-店上镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/04/27/140427102.html
+140427103000	山西省-长治市-壶关县-晋庄镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/04/27/140427103.html
+140427104000	山西省-长治市-壶关县-树掌镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/04/27/140427104.html
+140427200000	山西省-长治市-壶关县-集店乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/04/27/140427200.html
+140427201000	山西省-长治市-壶关县-黄山乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/04/27/140427201.html
+140427202000	山西省-长治市-壶关县-东井岭乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/04/27/140427202.html
+140427203000	山西省-长治市-壶关县-石坡乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/04/27/140427203.html
+140427204000	山西省-长治市-壶关县-五龙山乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/04/27/140427204.html
+140427205000	山西省-长治市-壶关县-鹅屋乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/04/27/140427205.html
+140427206000	山西省-长治市-壶关县-桥上乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/04/27/140427206.html
+140427400000	山西省-长治市-壶关县-常平办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/04/27/140427400.html
+140427401000	山西省-长治市-壶关县-壶关经济开发区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/04/27/140427401.html

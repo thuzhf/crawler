@@ -1,0 +1,15 @@
+511825100000	四川省-雅安市-天全县-城厢镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/18/25/511825100.html
+511825101000	四川省-雅安市-天全县-始阳镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/18/25/511825101.html
+511825200000	四川省-雅安市-天全县-小河乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/18/25/511825200.html
+511825201000	四川省-雅安市-天全县-思经乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/18/25/511825201.html
+511825202000	四川省-雅安市-天全县-鱼泉乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/18/25/511825202.html
+511825203000	四川省-雅安市-天全县-紫石乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/18/25/511825203.html
+511825204000	四川省-雅安市-天全县-两路乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/18/25/511825204.html
+511825205000	四川省-雅安市-天全县-大坪乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/18/25/511825205.html
+511825206000	四川省-雅安市-天全县-乐英乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/18/25/511825206.html
+511825207000	四川省-雅安市-天全县-多功乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/18/25/511825207.html
+511825208000	四川省-雅安市-天全县-仁义乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/18/25/511825208.html
+511825209000	四川省-雅安市-天全县-老场乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/18/25/511825209.html
+511825210000	四川省-雅安市-天全县-新华乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/18/25/511825210.html
+511825211000	四川省-雅安市-天全县-新场乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/18/25/511825211.html
+511825212000	四川省-雅安市-天全县-兴业乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/18/25/511825212.html

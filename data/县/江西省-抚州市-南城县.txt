@@ -1,0 +1,13 @@
+361021100000	江西省-抚州市-南城县-建昌镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/10/21/361021100.html
+361021101000	江西省-抚州市-南城县-株良镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/10/21/361021101.html
+361021102000	江西省-抚州市-南城县-上唐镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/10/21/361021102.html
+361021103000	江西省-抚州市-南城县-里塔镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/10/21/361021103.html
+361021104000	江西省-抚州市-南城县-洪门镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/10/21/361021104.html
+361021105000	江西省-抚州市-南城县-沙洲镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/10/21/361021105.html
+361021106000	江西省-抚州市-南城县-龙湖镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/10/21/361021106.html
+361021107000	江西省-抚州市-南城县-新丰街镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/10/21/361021107.html
+361021108000	江西省-抚州市-南城县-万坊镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/10/21/361021108.html
+361021109000	江西省-抚州市-南城县-徐家镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/10/21/361021109.html
+361021201000	江西省-抚州市-南城县-天井源乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/10/21/361021201.html
+361021203000	江西省-抚州市-南城县-浔溪乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/10/21/361021203.html
+361021400000	江西省-抚州市-南城县-南城县工业园区管理委员会	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/10/21/361021400.html

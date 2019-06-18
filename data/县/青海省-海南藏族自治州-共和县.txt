@@ -1,0 +1,15 @@
+632521100000	青海省-海南藏族自治州-共和县-恰卜恰镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/63/25/21/632521100.html
+632521101000	青海省-海南藏族自治州-共和县-倒淌河镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/63/25/21/632521101.html
+632521102000	青海省-海南藏族自治州-共和县-龙羊峡镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/63/25/21/632521102.html
+632521103000	青海省-海南藏族自治州-共和县-塘格木镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/63/25/21/632521103.html
+632521104000	青海省-海南藏族自治州-共和县-黑马河镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/63/25/21/632521104.html
+632521105000	青海省-海南藏族自治州-共和县-石乃亥镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/63/25/21/632521105.html
+632521106000	青海省-海南藏族自治州-共和县-江西沟镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/63/25/21/632521106.html
+632521202000	青海省-海南藏族自治州-共和县-沙珠玉乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/63/25/21/632521202.html
+632521203000	青海省-海南藏族自治州-共和县-铁盖乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/63/25/21/632521203.html
+632521204000	青海省-海南藏族自治州-共和县-廿地乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/63/25/21/632521204.html
+632521205000	青海省-海南藏族自治州-共和县-切吉乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/63/25/21/632521205.html
+632521401000	青海省-海南藏族自治州-共和县-湖东种羊场	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/63/25/21/632521401.html
+632521402000	青海省-海南藏族自治州-共和县-巴卡台农场	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/63/25/21/632521402.html
+632521403000	青海省-海南藏族自治州-共和县-安置农场	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/63/25/21/632521403.html
+632521404000	青海省-海南藏族自治州-共和县-铁卜加草改站	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/63/25/21/632521404.html

@@ -1,0 +1,14 @@
+222401001000	吉林省-延边朝鲜族自治州-延吉市-进学街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/24/01/222401001.html
+222401002000	吉林省-延边朝鲜族自治州-延吉市-北山街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/24/01/222401002.html
+222401003000	吉林省-延边朝鲜族自治州-延吉市-新兴街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/24/01/222401003.html
+222401004000	吉林省-延边朝鲜族自治州-延吉市-公园街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/24/01/222401004.html
+222401005000	吉林省-延边朝鲜族自治州-延吉市-河南街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/24/01/222401005.html
+222401006000	吉林省-延边朝鲜族自治州-延吉市-建工街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/24/01/222401006.html
+222401100000	吉林省-延边朝鲜族自治州-延吉市-小营镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/24/01/222401100.html
+222401101000	吉林省-延边朝鲜族自治州-延吉市-依兰镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/24/01/222401101.html
+222401102000	吉林省-延边朝鲜族自治州-延吉市-三道湾镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/24/01/222401102.html
+222401105000	吉林省-延边朝鲜族自治州-延吉市-朝阳川镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/24/01/222401105.html
+222401400000	吉林省-延边朝鲜族自治州-延吉市-延吉市林业局	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/24/01/222401400.html
+222401401000	吉林省-延边朝鲜族自治州-延吉市-东山农场	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/24/01/222401401.html
+222401402000	吉林省-延边朝鲜族自治州-延吉市-延边原种场	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/24/01/222401402.html
+222401404000	吉林省-延边朝鲜族自治州-延吉市-延边新兴工业集中区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/24/01/222401404.html

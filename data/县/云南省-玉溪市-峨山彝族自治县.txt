@@ -1,0 +1,8 @@
+530426001000	云南省-玉溪市-峨山彝族自治县-双江街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/04/26/530426001.html
+530426002000	云南省-玉溪市-峨山彝族自治县-小街街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/04/26/530426002.html
+530426103000	云南省-玉溪市-峨山彝族自治县-甸中镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/04/26/530426103.html
+530426104000	云南省-玉溪市-峨山彝族自治县-化念镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/04/26/530426104.html
+530426105000	云南省-玉溪市-峨山彝族自治县-塔甸镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/04/26/530426105.html
+530426201000	云南省-玉溪市-峨山彝族自治县-岔河乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/04/26/530426201.html
+530426202000	云南省-玉溪市-峨山彝族自治县-大龙潭乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/04/26/530426202.html
+530426203000	云南省-玉溪市-峨山彝族自治县-富良棚乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/04/26/530426203.html

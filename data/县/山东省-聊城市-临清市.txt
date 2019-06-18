@@ -1,0 +1,16 @@
+371581001000	山东省-聊城市-临清市-青年路街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/15/81/371581001.html
+371581002000	山东省-聊城市-临清市-新华路街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/15/81/371581002.html
+371581003000	山东省-聊城市-临清市-先锋路街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/15/81/371581003.html
+371581004000	山东省-聊城市-临清市-大辛庄街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/15/81/371581004.html
+371581101000	山东省-聊城市-临清市-松林镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/15/81/371581101.html
+371581102000	山东省-聊城市-临清市-老赵庄镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/15/81/371581102.html
+371581103000	山东省-聊城市-临清市-康庄镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/15/81/371581103.html
+371581104000	山东省-聊城市-临清市-魏湾镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/15/81/371581104.html
+371581105000	山东省-聊城市-临清市-刘垓子镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/15/81/371581105.html
+371581107000	山东省-聊城市-临清市-八岔路镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/15/81/371581107.html
+371581108000	山东省-聊城市-临清市-潘庄镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/15/81/371581108.html
+371581109000	山东省-聊城市-临清市-烟店镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/15/81/371581109.html
+371581110000	山东省-聊城市-临清市-唐园镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/15/81/371581110.html
+371581111000	山东省-聊城市-临清市-金郝庄镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/15/81/371581111.html
+371581112000	山东省-聊城市-临清市-戴湾镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/15/81/371581112.html
+371581113000	山东省-聊城市-临清市-尚店镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/15/81/371581113.html

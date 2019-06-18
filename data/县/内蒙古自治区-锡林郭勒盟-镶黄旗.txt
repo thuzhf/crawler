@@ -1,0 +1,4 @@
+152528100000	内蒙古自治区-锡林郭勒盟-镶黄旗-新宝拉格镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/25/28/152528100.html
+152528101000	内蒙古自治区-锡林郭勒盟-镶黄旗-巴彦塔拉镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/25/28/152528101.html
+152528200000	内蒙古自治区-锡林郭勒盟-镶黄旗-翁贡乌拉苏木	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/25/28/152528200.html
+152528201000	内蒙古自治区-锡林郭勒盟-镶黄旗-宝格达音髙勒苏木	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/25/28/152528201.html

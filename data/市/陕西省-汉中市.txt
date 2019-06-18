@@ -1,0 +1,12 @@
+610701000000	陕西省-汉中市-市辖区	
+610702000000	陕西省-汉中市-汉台区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/61/07/610702.html
+610703000000	陕西省-汉中市-南郑区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/61/07/610703.html
+610722000000	陕西省-汉中市-城固县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/61/07/610722.html
+610723000000	陕西省-汉中市-洋县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/61/07/610723.html
+610724000000	陕西省-汉中市-西乡县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/61/07/610724.html
+610725000000	陕西省-汉中市-勉县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/61/07/610725.html
+610726000000	陕西省-汉中市-宁强县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/61/07/610726.html
+610727000000	陕西省-汉中市-略阳县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/61/07/610727.html
+610728000000	陕西省-汉中市-镇巴县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/61/07/610728.html
+610729000000	陕西省-汉中市-留坝县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/61/07/610729.html
+610730000000	陕西省-汉中市-佛坪县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/61/07/610730.html

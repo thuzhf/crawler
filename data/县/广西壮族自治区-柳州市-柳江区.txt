@@ -1,0 +1,12 @@
+450206100000	广西壮族自治区-柳州市-柳江区-拉堡镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/02/06/450206100.html
+450206102000	广西壮族自治区-柳州市-柳江区-百朋镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/02/06/450206102.html
+450206103000	广西壮族自治区-柳州市-柳江区-成团镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/02/06/450206103.html
+450206104000	广西壮族自治区-柳州市-柳江区-洛满镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/02/06/450206104.html
+450206105000	广西壮族自治区-柳州市-柳江区-流山镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/02/06/450206105.html
+450206106000	广西壮族自治区-柳州市-柳江区-三都镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/02/06/450206106.html
+450206107000	广西壮族自治区-柳州市-柳江区-里高镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/02/06/450206107.html
+450206108000	广西壮族自治区-柳州市-柳江区-进德镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/02/06/450206108.html
+450206109000	广西壮族自治区-柳州市-柳江区-穿山镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/02/06/450206109.html
+450206110000	广西壮族自治区-柳州市-柳江区-土博镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/02/06/450206110.html
+450206400000	广西壮族自治区-柳州市-柳江区-新兴工业园	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/02/06/450206400.html
+450206401000	广西壮族自治区-柳州市-柳江区-新兴农场	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/02/06/450206401.html

@@ -1,0 +1,13 @@
+540501000000	西藏自治区-山南市-市辖区	
+540502000000	西藏自治区-山南市-乃东区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/05/540502.html
+540521000000	西藏自治区-山南市-扎囊县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/05/540521.html
+540522000000	西藏自治区-山南市-贡嘎县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/05/540522.html
+540523000000	西藏自治区-山南市-桑日县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/05/540523.html
+540524000000	西藏自治区-山南市-琼结县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/05/540524.html
+540525000000	西藏自治区-山南市-曲松县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/05/540525.html
+540526000000	西藏自治区-山南市-措美县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/05/540526.html
+540527000000	西藏自治区-山南市-洛扎县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/05/540527.html
+540528000000	西藏自治区-山南市-加查县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/05/540528.html
+540529000000	西藏自治区-山南市-隆子县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/05/540529.html
+540530000000	西藏自治区-山南市-错那县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/05/540530.html
+540531000000	西藏自治区-山南市-浪卡子县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/05/540531.html

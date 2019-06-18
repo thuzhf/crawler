@@ -1,0 +1,7 @@
+411101000000	河南省-漯河市-市辖区	
+411102000000	河南省-漯河市-源汇区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/11/411102.html
+411103000000	河南省-漯河市-郾城区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/11/411103.html
+411104000000	河南省-漯河市-召陵区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/11/411104.html
+411121000000	河南省-漯河市-舞阳县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/11/411121.html
+411122000000	河南省-漯河市-临颍县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/11/411122.html
+411171000000	河南省-漯河市-漯河经济技术开发区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/11/411171.html

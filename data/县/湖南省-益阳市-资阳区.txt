@@ -1,0 +1,9 @@
+430902005000	湖南省-益阳市-资阳区-大码头街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/09/02/430902005.html
+430902006000	湖南省-益阳市-资阳区-汽车路街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/09/02/430902006.html
+430902102000	湖南省-益阳市-资阳区-迎风桥镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/09/02/430902102.html
+430902104000	湖南省-益阳市-资阳区-沙头镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/09/02/430902104.html
+430902105000	湖南省-益阳市-资阳区-茈湖口镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/09/02/430902105.html
+430902106000	湖南省-益阳市-资阳区-长春镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/09/02/430902106.html
+430902107000	湖南省-益阳市-资阳区-新桥河镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/09/02/430902107.html
+430902203000	湖南省-益阳市-资阳区-张家塞乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/09/02/430902203.html
+430902401000	湖南省-益阳市-资阳区-长春工业园	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/09/02/430902401.html

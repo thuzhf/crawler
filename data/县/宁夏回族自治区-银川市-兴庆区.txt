@@ -1,0 +1,16 @@
+640104001000	宁夏回族自治区-银川市-兴庆区-凤凰北街街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/64/01/04/640104001.html
+640104002000	宁夏回族自治区-银川市-兴庆区-解放西街街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/64/01/04/640104002.html
+640104003000	宁夏回族自治区-银川市-兴庆区-文化街街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/64/01/04/640104003.html
+640104004000	宁夏回族自治区-银川市-兴庆区-富宁街街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/64/01/04/640104004.html
+640104005000	宁夏回族自治区-银川市-兴庆区-新华街街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/64/01/04/640104005.html
+640104006000	宁夏回族自治区-银川市-兴庆区-玉皇阁北街街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/64/01/04/640104006.html
+640104007000	宁夏回族自治区-银川市-兴庆区-前进街街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/64/01/04/640104007.html
+640104008000	宁夏回族自治区-银川市-兴庆区-中山南街街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/64/01/04/640104008.html
+640104009000	宁夏回族自治区-银川市-兴庆区-银古路街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/64/01/04/640104009.html
+640104010000	宁夏回族自治区-银川市-兴庆区-胜利街街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/64/01/04/640104010.html
+640104011000	宁夏回族自治区-银川市-兴庆区-丽景街街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/64/01/04/640104011.html
+640104100000	宁夏回族自治区-银川市-兴庆区-掌政镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/64/01/04/640104100.html
+640104101000	宁夏回族自治区-银川市-兴庆区-大新镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/64/01/04/640104101.html
+640104200000	宁夏回族自治区-银川市-兴庆区-通贵乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/64/01/04/640104200.html
+640104201000	宁夏回族自治区-银川市-兴庆区-月牙湖乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/64/01/04/640104201.html
+640104400000	宁夏回族自治区-银川市-兴庆区-燕鸽湖管委会	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/64/01/04/640104400.html

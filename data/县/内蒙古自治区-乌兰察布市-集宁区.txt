@@ -1,0 +1,12 @@
+150902001000	内蒙古自治区-乌兰察布市-集宁区-新体路街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/09/02/150902001.html
+150902002000	内蒙古自治区-乌兰察布市-集宁区-桥东街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/09/02/150902002.html
+150902003000	内蒙古自治区-乌兰察布市-集宁区-前进路街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/09/02/150902003.html
+150902004000	内蒙古自治区-乌兰察布市-集宁区-常青街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/09/02/150902004.html
+150902005000	内蒙古自治区-乌兰察布市-集宁区-虎山街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/09/02/150902005.html
+150902006000	内蒙古自治区-乌兰察布市-集宁区-桥西街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/09/02/150902006.html
+150902007000	内蒙古自治区-乌兰察布市-集宁区-新华街街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/09/02/150902007.html
+150902008000	内蒙古自治区-乌兰察布市-集宁区-泉山街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/09/02/150902008.html
+150902009000	内蒙古自治区-乌兰察布市-集宁区-卧龙街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/09/02/150902009.html
+150902010000	内蒙古自治区-乌兰察布市-集宁区-霸王河街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/09/02/150902010.html
+150902105000	内蒙古自治区-乌兰察布市-集宁区-白海子镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/09/02/150902105.html
+150902205000	内蒙古自治区-乌兰察布市-集宁区-马莲渠乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/09/02/150902205.html

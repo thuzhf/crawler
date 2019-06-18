@@ -1,0 +1,11 @@
+350701000000	福建省-南平市-市辖区	
+350702000000	福建省-南平市-延平区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/07/350702.html
+350703000000	福建省-南平市-建阳区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/07/350703.html
+350721000000	福建省-南平市-顺昌县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/07/350721.html
+350722000000	福建省-南平市-浦城县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/07/350722.html
+350723000000	福建省-南平市-光泽县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/07/350723.html
+350724000000	福建省-南平市-松溪县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/07/350724.html
+350725000000	福建省-南平市-政和县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/07/350725.html
+350781000000	福建省-南平市-邵武市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/07/350781.html
+350782000000	福建省-南平市-武夷山市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/07/350782.html
+350783000000	福建省-南平市-建瓯市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/07/350783.html

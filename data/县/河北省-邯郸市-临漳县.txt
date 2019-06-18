@@ -1,0 +1,14 @@
+130423100000	河北省-邯郸市-临漳县-临漳镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/04/23/130423100.html
+130423101000	河北省-邯郸市-临漳县-南东坊镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/04/23/130423101.html
+130423102000	河北省-邯郸市-临漳县-孙陶集镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/04/23/130423102.html
+130423103000	河北省-邯郸市-临漳县-柳园镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/04/23/130423103.html
+130423104000	河北省-邯郸市-临漳县-称勾集镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/04/23/130423104.html
+130423105000	河北省-邯郸市-临漳县-邺城镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/04/23/130423105.html
+130423106000	河北省-邯郸市-临漳县-章里集镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/04/23/130423106.html
+130423200000	河北省-邯郸市-临漳县-狄邱乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/04/23/130423200.html
+130423201000	河北省-邯郸市-临漳县-张村集乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/04/23/130423201.html
+130423202000	河北省-邯郸市-临漳县-西羊羔乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/04/23/130423202.html
+130423204000	河北省-邯郸市-临漳县-杜村集乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/04/23/130423204.html
+130423206000	河北省-邯郸市-临漳县-习文乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/04/23/130423206.html
+130423207000	河北省-邯郸市-临漳县-砖寨营乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/04/23/130423207.html
+130423208000	河北省-邯郸市-临漳县-柏鹤集乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/04/23/130423208.html

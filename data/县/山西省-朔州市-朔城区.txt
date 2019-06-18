@@ -1,0 +1,15 @@
+140602001000	山西省-朔州市-朔城区-北城街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/06/02/140602001.html
+140602002000	山西省-朔州市-朔城区-南城街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/06/02/140602002.html
+140602003000	山西省-朔州市-朔城区-神头街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/06/02/140602003.html
+140602004000	山西省-朔州市-朔城区-北旺庄街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/06/02/140602004.html
+140602100000	山西省-朔州市-朔城区-神头镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/06/02/140602100.html
+140602101000	山西省-朔州市-朔城区-利民镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/06/02/140602101.html
+140602200000	山西省-朔州市-朔城区-下团堡乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/06/02/140602200.html
+140602201000	山西省-朔州市-朔城区-小平易乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/06/02/140602201.html
+140602202000	山西省-朔州市-朔城区-滋润乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/06/02/140602202.html
+140602203000	山西省-朔州市-朔城区-福善庄乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/06/02/140602203.html
+140602204000	山西省-朔州市-朔城区-南榆林乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/06/02/140602204.html
+140602205000	山西省-朔州市-朔城区-贾庄乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/06/02/140602205.html
+140602206000	山西省-朔州市-朔城区-沙塄河乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/06/02/140602206.html
+140602207000	山西省-朔州市-朔城区-窑子头乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/06/02/140602207.html
+140602208000	山西省-朔州市-朔城区-张蔡庄乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/06/02/140602208.html

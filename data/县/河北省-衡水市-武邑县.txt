@@ -1,0 +1,9 @@
+131122100000	河北省-衡水市-武邑县-武邑镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/11/22/131122100.html
+131122101000	河北省-衡水市-武邑县-清凉店镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/11/22/131122101.html
+131122102000	河北省-衡水市-武邑县-审坡镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/11/22/131122102.html
+131122103000	河北省-衡水市-武邑县-赵桥镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/11/22/131122103.html
+131122104000	河北省-衡水市-武邑县-韩庄镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/11/22/131122104.html
+131122105000	河北省-衡水市-武邑县-肖桥头镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/11/22/131122105.html
+131122106000	河北省-衡水市-武邑县-龙店镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/11/22/131122106.html
+131122201000	河北省-衡水市-武邑县-圈头乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/11/22/131122201.html
+131122203000	河北省-衡水市-武邑县-大紫塔乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/11/22/131122203.html

@@ -1,0 +1,9 @@
+350925100000	福建省-宁德市-周宁县-狮城镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/09/25/350925100.html
+350925101000	福建省-宁德市-周宁县-咸村镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/09/25/350925101.html
+350925102000	福建省-宁德市-周宁县-浦源镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/09/25/350925102.html
+350925103000	福建省-宁德市-周宁县-七步镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/09/25/350925103.html
+350925104000	福建省-宁德市-周宁县-李墩镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/09/25/350925104.html
+350925105000	福建省-宁德市-周宁县-纯池镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/09/25/350925105.html
+350925200000	福建省-宁德市-周宁县-泗桥乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/09/25/350925200.html
+350925201000	福建省-宁德市-周宁县-礼门乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/09/25/350925201.html
+350925202000	福建省-宁德市-周宁县-玛坑乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/09/25/350925202.html

@@ -1,0 +1,11 @@
+540228100000	西藏自治区-日喀则市-白朗县-洛江镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/02/28/540228100.html
+540228101000	西藏自治区-日喀则市-白朗县-嘎东镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/02/28/540228101.html
+540228200000	西藏自治区-日喀则市-白朗县-巴扎乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/02/28/540228200.html
+540228201000	西藏自治区-日喀则市-白朗县-玛乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/02/28/540228201.html
+540228202000	西藏自治区-日喀则市-白朗县-旺丹乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/02/28/540228202.html
+540228203000	西藏自治区-日喀则市-白朗县-曲奴乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/02/28/540228203.html
+540228204000	西藏自治区-日喀则市-白朗县-杜琼乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/02/28/540228204.html
+540228205000	西藏自治区-日喀则市-白朗县-强堆乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/02/28/540228205.html
+540228206000	西藏自治区-日喀则市-白朗县-嘎普乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/02/28/540228206.html
+540228207000	西藏自治区-日喀则市-白朗县-者下乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/02/28/540228207.html
+540228208000	西藏自治区-日喀则市-白朗县-东喜乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/02/28/540228208.html

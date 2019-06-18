@@ -1,0 +1,18 @@
+450301000000	广西壮族自治区-桂林市-市辖区	
+450302000000	广西壮族自治区-桂林市-秀峰区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/03/450302.html
+450303000000	广西壮族自治区-桂林市-叠彩区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/03/450303.html
+450304000000	广西壮族自治区-桂林市-象山区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/03/450304.html
+450305000000	广西壮族自治区-桂林市-七星区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/03/450305.html
+450311000000	广西壮族自治区-桂林市-雁山区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/03/450311.html
+450312000000	广西壮族自治区-桂林市-临桂区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/03/450312.html
+450321000000	广西壮族自治区-桂林市-阳朔县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/03/450321.html
+450323000000	广西壮族自治区-桂林市-灵川县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/03/450323.html
+450324000000	广西壮族自治区-桂林市-全州县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/03/450324.html
+450325000000	广西壮族自治区-桂林市-兴安县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/03/450325.html
+450326000000	广西壮族自治区-桂林市-永福县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/03/450326.html
+450327000000	广西壮族自治区-桂林市-灌阳县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/03/450327.html
+450328000000	广西壮族自治区-桂林市-龙胜各族自治县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/03/450328.html
+450329000000	广西壮族自治区-桂林市-资源县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/03/450329.html
+450330000000	广西壮族自治区-桂林市-平乐县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/03/450330.html
+450332000000	广西壮族自治区-桂林市-恭城瑶族自治县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/03/450332.html
+450381000000	广西壮族自治区-桂林市-荔浦市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/03/450381.html

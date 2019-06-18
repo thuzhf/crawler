@@ -1,0 +1,13 @@
+640502100000	宁夏回族自治区-中卫市-沙坡头区-滨河镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/64/05/02/640502100.html
+640502101000	宁夏回族自治区-中卫市-沙坡头区-文昌镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/64/05/02/640502101.html
+640502102000	宁夏回族自治区-中卫市-沙坡头区-东园镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/64/05/02/640502102.html
+640502103000	宁夏回族自治区-中卫市-沙坡头区-柔远镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/64/05/02/640502103.html
+640502104000	宁夏回族自治区-中卫市-沙坡头区-镇罗镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/64/05/02/640502104.html
+640502105000	宁夏回族自治区-中卫市-沙坡头区-宣和镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/64/05/02/640502105.html
+640502106000	宁夏回族自治区-中卫市-沙坡头区-永康镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/64/05/02/640502106.html
+640502107000	宁夏回族自治区-中卫市-沙坡头区-常乐镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/64/05/02/640502107.html
+640502108000	宁夏回族自治区-中卫市-沙坡头区-迎水桥镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/64/05/02/640502108.html
+640502109000	宁夏回族自治区-中卫市-沙坡头区-兴仁镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/64/05/02/640502109.html
+640502200000	宁夏回族自治区-中卫市-沙坡头区-香山乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/64/05/02/640502200.html
+640502400000	宁夏回族自治区-中卫市-沙坡头区-中卫山羊选育场	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/64/05/02/640502400.html
+640502401000	宁夏回族自治区-中卫市-沙坡头区-中卫工业园区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/64/05/02/640502401.html

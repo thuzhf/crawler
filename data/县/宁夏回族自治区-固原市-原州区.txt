@@ -1,0 +1,14 @@
+640402001000	宁夏回族自治区-固原市-原州区-南关街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/64/04/02/640402001.html
+640402002000	宁夏回族自治区-固原市-原州区-古雁街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/64/04/02/640402002.html
+640402003000	宁夏回族自治区-固原市-原州区-北塬街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/64/04/02/640402003.html
+640402100000	宁夏回族自治区-固原市-原州区-三营镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/64/04/02/640402100.html
+640402103000	宁夏回族自治区-固原市-原州区-官厅镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/64/04/02/640402103.html
+640402104000	宁夏回族自治区-固原市-原州区-开城镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/64/04/02/640402104.html
+640402105000	宁夏回族自治区-固原市-原州区-张易镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/64/04/02/640402105.html
+640402106000	宁夏回族自治区-固原市-原州区-彭堡镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/64/04/02/640402106.html
+640402107000	宁夏回族自治区-固原市-原州区-头营镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/64/04/02/640402107.html
+640402108000	宁夏回族自治区-固原市-原州区-黄铎堡镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/64/04/02/640402108.html
+640402200000	宁夏回族自治区-固原市-原州区-中河乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/64/04/02/640402200.html
+640402201000	宁夏回族自治区-固原市-原州区-河川乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/64/04/02/640402201.html
+640402204000	宁夏回族自治区-固原市-原州区-炭山乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/64/04/02/640402204.html
+640402205000	宁夏回族自治区-固原市-原州区-寨科乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/64/04/02/640402205.html

@@ -1,0 +1,7 @@
+620701000000	甘肃省-张掖市-市辖区	
+620702000000	甘肃省-张掖市-甘州区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/62/07/620702.html
+620721000000	甘肃省-张掖市-肃南裕固族自治县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/62/07/620721.html
+620722000000	甘肃省-张掖市-民乐县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/62/07/620722.html
+620723000000	甘肃省-张掖市-临泽县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/62/07/620723.html
+620724000000	甘肃省-张掖市-高台县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/62/07/620724.html
+620725000000	甘肃省-张掖市-山丹县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/62/07/620725.html

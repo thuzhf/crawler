@@ -1,0 +1,8 @@
+310109009000	上海市-市辖区-虹口区-欧阳路街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/31/01/09/310109009.html
+310109010000	上海市-市辖区-虹口区-曲阳路街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/31/01/09/310109010.html
+310109011000	上海市-市辖区-虹口区-广中路街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/31/01/09/310109011.html
+310109014000	上海市-市辖区-虹口区-嘉兴路街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/31/01/09/310109014.html
+310109016000	上海市-市辖区-虹口区-凉城新村街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/31/01/09/310109016.html
+310109017000	上海市-市辖区-虹口区-四川北路街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/31/01/09/310109017.html
+310109018000	上海市-市辖区-虹口区-北外滩街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/31/01/09/310109018.html
+310109019000	上海市-市辖区-虹口区-江湾镇街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/31/01/09/310109019.html

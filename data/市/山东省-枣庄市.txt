@@ -1,0 +1,7 @@
+370401000000	山东省-枣庄市-市辖区	
+370402000000	山东省-枣庄市-市中区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/04/370402.html
+370403000000	山东省-枣庄市-薛城区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/04/370403.html
+370404000000	山东省-枣庄市-峄城区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/04/370404.html
+370405000000	山东省-枣庄市-台儿庄区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/04/370405.html
+370406000000	山东省-枣庄市-山亭区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/04/370406.html
+370481000000	山东省-枣庄市-滕州市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/04/370481.html

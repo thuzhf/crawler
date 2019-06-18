@@ -1,0 +1,13 @@
+141023100000	山西省-临汾市-襄汾县-新城镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/10/23/141023100.html
+141023101000	山西省-临汾市-襄汾县-赵康镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/10/23/141023101.html
+141023102000	山西省-临汾市-襄汾县-汾城镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/10/23/141023102.html
+141023103000	山西省-临汾市-襄汾县-南贾镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/10/23/141023103.html
+141023104000	山西省-临汾市-襄汾县-古城镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/10/23/141023104.html
+141023105000	山西省-临汾市-襄汾县-襄陵镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/10/23/141023105.html
+141023106000	山西省-临汾市-襄汾县-邓庄镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/10/23/141023106.html
+141023200000	山西省-临汾市-襄汾县-陶寺乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/10/23/141023200.html
+141023201000	山西省-临汾市-襄汾县-永固乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/10/23/141023201.html
+141023202000	山西省-临汾市-襄汾县-景毛乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/10/23/141023202.html
+141023203000	山西省-临汾市-襄汾县-西贾乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/10/23/141023203.html
+141023204000	山西省-临汾市-襄汾县-南辛店乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/10/23/141023204.html
+141023205000	山西省-临汾市-襄汾县-大邓乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/10/23/141023205.html

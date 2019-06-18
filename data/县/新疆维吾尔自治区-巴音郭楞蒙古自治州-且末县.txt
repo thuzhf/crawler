@@ -1,0 +1,15 @@
+652825100000	新疆维吾尔自治区-巴音郭楞蒙古自治州-且末县-且末镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/28/25/652825100.html
+652825101000	新疆维吾尔自治区-巴音郭楞蒙古自治州-且末县-奥依亚依拉克镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/28/25/652825101.html
+652825102000	新疆维吾尔自治区-巴音郭楞蒙古自治州-且末县-塔提让镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/28/25/652825102.html
+652825103000	新疆维吾尔自治区-巴音郭楞蒙古自治州-且末县-塔中镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/28/25/652825103.html
+652825104000	新疆维吾尔自治区-巴音郭楞蒙古自治州-且末县-阿羌镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/28/25/652825104.html
+652825105000	新疆维吾尔自治区-巴音郭楞蒙古自治州-且末县-阿热勒镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/28/25/652825105.html
+652825201000	新疆维吾尔自治区-巴音郭楞蒙古自治州-且末县-琼库勒乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/28/25/652825201.html
+652825202000	新疆维吾尔自治区-巴音郭楞蒙古自治州-且末县-托格拉克勒克乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/28/25/652825202.html
+652825203000	新疆维吾尔自治区-巴音郭楞蒙古自治州-且末县-巴格艾日克乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/28/25/652825203.html
+652825204000	新疆维吾尔自治区-巴音郭楞蒙古自治州-且末县-英吾斯塘乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/28/25/652825204.html
+652825205000	新疆维吾尔自治区-巴音郭楞蒙古自治州-且末县-阿克提坎墩乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/28/25/652825205.html
+652825206000	新疆维吾尔自治区-巴音郭楞蒙古自治州-且末县-阔什萨特玛乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/28/25/652825206.html
+652825209000	新疆维吾尔自治区-巴音郭楞蒙古自治州-且末县-库拉木勒克乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/28/25/652825209.html
+652825501000	新疆维吾尔自治区-巴音郭楞蒙古自治州-且末县-兵团三十七团	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/28/25/652825501.html
+652825502000	新疆维吾尔自治区-巴音郭楞蒙古自治州-且末县-兵团三十八团	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/28/25/652825502.html

@@ -1,0 +1,5 @@
+542525100000	西藏自治区-阿里地区-革吉县-革吉镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/25/25/542525100.html
+542525200000	西藏自治区-阿里地区-革吉县-雄巴乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/25/25/542525200.html
+542525201000	西藏自治区-阿里地区-革吉县-亚热乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/25/25/542525201.html
+542525202000	西藏自治区-阿里地区-革吉县-盐湖乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/25/25/542525202.html
+542525203000	西藏自治区-阿里地区-革吉县-文布当桑乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/25/25/542525203.html

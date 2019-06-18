@@ -1,0 +1,13 @@
+610481001000	陕西省-咸阳市-兴平市-东城街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/61/04/81/610481001.html
+610481002000	陕西省-咸阳市-兴平市-西城街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/61/04/81/610481002.html
+610481003000	陕西省-咸阳市-兴平市-店张街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/61/04/81/610481003.html
+610481004000	陕西省-咸阳市-兴平市-西吴街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/61/04/81/610481004.html
+610481005000	陕西省-咸阳市-兴平市-马嵬街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/61/04/81/610481005.html
+610481101000	陕西省-咸阳市-兴平市-赵村镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/61/04/81/610481101.html
+610481102000	陕西省-咸阳市-兴平市-桑镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/61/04/81/610481102.html
+610481104000	陕西省-咸阳市-兴平市-南市镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/61/04/81/610481104.html
+610481105000	陕西省-咸阳市-兴平市-庄头镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/61/04/81/610481105.html
+610481106000	陕西省-咸阳市-兴平市-南位镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/61/04/81/610481106.html
+610481107000	陕西省-咸阳市-兴平市-阜寨镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/61/04/81/610481107.html
+610481108000	陕西省-咸阳市-兴平市-丰仪镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/61/04/81/610481108.html
+610481109000	陕西省-咸阳市-兴平市-汤坊镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/61/04/81/610481109.html

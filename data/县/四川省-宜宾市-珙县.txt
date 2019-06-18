@@ -1,0 +1,17 @@
+511526100000	四川省-宜宾市-珙县-珙泉镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/15/26/511526100.html
+511526101000	四川省-宜宾市-珙县-巡场镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/15/26/511526101.html
+511526102000	四川省-宜宾市-珙县-孝儿镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/15/26/511526102.html
+511526103000	四川省-宜宾市-珙县-底洞镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/15/26/511526103.html
+511526104000	四川省-宜宾市-珙县-上罗镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/15/26/511526104.html
+511526105000	四川省-宜宾市-珙县-洛表镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/15/26/511526105.html
+511526106000	四川省-宜宾市-珙县-洛亥镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/15/26/511526106.html
+511526107000	四川省-宜宾市-珙县-王家镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/15/26/511526107.html
+511526108000	四川省-宜宾市-珙县-沐滩镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/15/26/511526108.html
+511526109000	四川省-宜宾市-珙县-下罗镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/15/26/511526109.html
+511526110000	四川省-宜宾市-珙县-曹营镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/15/26/511526110.html
+511526200000	四川省-宜宾市-珙县-恒丰乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/15/26/511526200.html
+511526203000	四川省-宜宾市-珙县-仁义乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/15/26/511526203.html
+511526205000	四川省-宜宾市-珙县-玉和苗族乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/15/26/511526205.html
+511526209000	四川省-宜宾市-珙县-罗渡苗族乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/15/26/511526209.html
+511526211000	四川省-宜宾市-珙县-石碑乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/15/26/511526211.html
+511526212000	四川省-宜宾市-珙县-观斗苗族乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/15/26/511526212.html

@@ -1,0 +1,13 @@
+451024100000	广西壮族自治区-百色市-德保县-城关镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/10/24/451024100.html
+451024101000	广西壮族自治区-百色市-德保县-足荣镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/10/24/451024101.html
+451024102000	广西壮族自治区-百色市-德保县-隆桑镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/10/24/451024102.html
+451024103000	广西壮族自治区-百色市-德保县-敬德镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/10/24/451024103.html
+451024104000	广西壮族自治区-百色市-德保县-马隘镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/10/24/451024104.html
+451024105000	广西壮族自治区-百色市-德保县-东凌镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/10/24/451024105.html
+451024106000	广西壮族自治区-百色市-德保县-那甲镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/10/24/451024106.html
+451024200000	广西壮族自治区-百色市-德保县-都安乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/10/24/451024200.html
+451024203000	广西壮族自治区-百色市-德保县-荣华乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/10/24/451024203.html
+451024204000	广西壮族自治区-百色市-德保县-燕峒乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/10/24/451024204.html
+451024205000	广西壮族自治区-百色市-德保县-龙光乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/10/24/451024205.html
+451024206000	广西壮族自治区-百色市-德保县-巴头乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/10/24/451024206.html
+451024450000	广西壮族自治区-百色市-德保县-德保铝业	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/10/24/451024450.html

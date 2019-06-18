@@ -1,0 +1,5 @@
+220401000000	吉林省-辽源市-市辖区	
+220402000000	吉林省-辽源市-龙山区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/04/220402.html
+220403000000	吉林省-辽源市-西安区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/04/220403.html
+220421000000	吉林省-辽源市-东丰县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/04/220421.html
+220422000000	吉林省-辽源市-东辽县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/04/220422.html

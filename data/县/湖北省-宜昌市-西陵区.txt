@@ -1,0 +1,10 @@
+420502001000	湖北省-宜昌市-西陵区-西陵街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/05/02/420502001.html
+420502002000	湖北省-宜昌市-西陵区-学院街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/05/02/420502002.html
+420502003000	湖北省-宜昌市-西陵区-云集街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/05/02/420502003.html
+420502004000	湖北省-宜昌市-西陵区-西坝街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/05/02/420502004.html
+420502005000	湖北省-宜昌市-西陵区-葛洲坝街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/05/02/420502005.html
+420502006000	湖北省-宜昌市-西陵区-夜明珠街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/05/02/420502006.html
+420502007000	湖北省-宜昌市-西陵区-东苑街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/05/02/420502007.html
+420502008000	湖北省-宜昌市-西陵区-南苑街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/05/02/420502008.html
+420502009000	湖北省-宜昌市-西陵区-北苑街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/05/02/420502009.html
+420502010000	湖北省-宜昌市-西陵区-窑湾街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/05/02/420502010.html

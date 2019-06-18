@@ -1,0 +1,13 @@
+220102001000	吉林省-长春市-南关区-南岭街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/01/02/220102001.html
+220102002000	吉林省-长春市-南关区-自强街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/01/02/220102002.html
+220102003000	吉林省-长春市-南关区-民康街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/01/02/220102003.html
+220102004000	吉林省-长春市-南关区-新春街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/01/02/220102004.html
+220102005000	吉林省-长春市-南关区-长通街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/01/02/220102005.html
+220102006000	吉林省-长春市-南关区-全安街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/01/02/220102006.html
+220102007000	吉林省-长春市-南关区-曙光街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/01/02/220102007.html
+220102008000	吉林省-长春市-南关区-永吉街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/01/02/220102008.html
+220102009000	吉林省-长春市-南关区-桃源街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/01/02/220102009.html
+220102010000	吉林省-长春市-南关区-鸿城街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/01/02/220102010.html
+220102011000	吉林省-长春市-南关区-明珠街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/01/02/220102011.html
+220102012000	吉林省-长春市-南关区-富裕街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/01/02/220102012.html
+220102200000	吉林省-长春市-南关区-幸福乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/01/02/220102200.html

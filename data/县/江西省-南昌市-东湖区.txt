@@ -1,0 +1,14 @@
+360102001000	江西省-南昌市-东湖区-公园街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/01/02/360102001.html
+360102002000	江西省-南昌市-东湖区-滕王阁街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/01/02/360102002.html
+360102003000	江西省-南昌市-东湖区-八一桥街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/01/02/360102003.html
+360102004000	江西省-南昌市-东湖区-百花洲街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/01/02/360102004.html
+360102005000	江西省-南昌市-东湖区-墩子塘街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/01/02/360102005.html
+360102006000	江西省-南昌市-东湖区-大院街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/01/02/360102006.html
+360102007000	江西省-南昌市-东湖区-豫章街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/01/02/360102007.html
+360102008000	江西省-南昌市-东湖区-董家窑街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/01/02/360102008.html
+360102009000	江西省-南昌市-东湖区-彭家桥街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/01/02/360102009.html
+360102050000	江西省-南昌市-东湖区-沙井街道办事处（红谷滩新区）	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/01/02/360102050.html
+360102100000	江西省-南昌市-东湖区-扬子洲镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/01/02/360102100.html
+360102400000	江西省-南昌市-东湖区-贤士湖管理处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/01/02/360102400.html
+360102401000	江西省-南昌市-东湖区-扬农管理处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/01/02/360102401.html
+360102450000	江西省-南昌市-东湖区-凤凰洲管理处（红谷滩新区）	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/01/02/360102450.html

@@ -1,0 +1,16 @@
+350427001000	福建省-三明市-沙县-凤岗街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/04/27/350427001.html
+350427002000	福建省-三明市-沙县-虬江街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/04/27/350427002.html
+350427101000	福建省-三明市-沙县-青州镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/04/27/350427101.html
+350427102000	福建省-三明市-沙县-夏茂镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/04/27/350427102.html
+350427104000	福建省-三明市-沙县-高砂镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/04/27/350427104.html
+350427105000	福建省-三明市-沙县-高桥镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/04/27/350427105.html
+350427106000	福建省-三明市-沙县-富口镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/04/27/350427106.html
+350427107000	福建省-三明市-沙县-大洛镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/04/27/350427107.html
+350427201000	福建省-三明市-沙县-南霞乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/04/27/350427201.html
+350427203000	福建省-三明市-沙县-南阳乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/04/27/350427203.html
+350427204000	福建省-三明市-沙县-郑湖乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/04/27/350427204.html
+350427205000	福建省-三明市-沙县-湖源乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/04/27/350427205.html
+350427400000	福建省-三明市-沙县-金沙园开发区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/04/27/350427400.html
+350427401000	福建省-三明市-沙县-金古园开发区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/04/27/350427401.html
+350427402000	福建省-三明市-沙县-青山纸业工业区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/04/27/350427402.html
+350427403000	福建省-三明市-沙县-海西物流园区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/04/27/350427403.html

@@ -1,0 +1,11 @@
+440118001000	广东省-广州市-增城区-荔城街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/01/18/440118001.html
+440118002000	广东省-广州市-增城区-增江街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/01/18/440118002.html
+440118003000	广东省-广州市-增城区-朱村街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/01/18/440118003.html
+440118004000	广东省-广州市-增城区-永宁街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/01/18/440118004.html
+440118101000	广东省-广州市-增城区-新塘镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/01/18/440118101.html
+440118102000	广东省-广州市-增城区-石滩镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/01/18/440118102.html
+440118103000	广东省-广州市-增城区-中新镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/01/18/440118103.html
+440118104000	广东省-广州市-增城区-正果镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/01/18/440118104.html
+440118105000	广东省-广州市-增城区-派潭镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/01/18/440118105.html
+440118106000	广东省-广州市-增城区-小楼镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/01/18/440118106.html
+440118107000	广东省-广州市-增城区-仙村镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/01/18/440118107.html

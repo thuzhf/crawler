@@ -1,0 +1,16 @@
+530100000000	云南省-昆明市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/5301.html
+530300000000	云南省-曲靖市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/5303.html
+530400000000	云南省-玉溪市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/5304.html
+530500000000	云南省-保山市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/5305.html
+530600000000	云南省-昭通市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/5306.html
+530700000000	云南省-丽江市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/5307.html
+530800000000	云南省-普洱市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/5308.html
+530900000000	云南省-临沧市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/5309.html
+532300000000	云南省-楚雄彝族自治州	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/5323.html
+532500000000	云南省-红河哈尼族彝族自治州	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/5325.html
+532600000000	云南省-文山壮族苗族自治州	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/5326.html
+532800000000	云南省-西双版纳傣族自治州	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/5328.html
+532900000000	云南省-大理白族自治州	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/5329.html
+533100000000	云南省-德宏傣族景颇族自治州	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/5331.html
+533300000000	云南省-怒江傈僳族自治州	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/5333.html
+533400000000	云南省-迪庆藏族自治州	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/5334.html

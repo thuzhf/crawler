@@ -1,0 +1,10 @@
+530401000000	云南省-玉溪市-市辖区	
+530402000000	云南省-玉溪市-红塔区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/04/530402.html
+530403000000	云南省-玉溪市-江川区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/04/530403.html
+530422000000	云南省-玉溪市-澄江县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/04/530422.html
+530423000000	云南省-玉溪市-通海县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/04/530423.html
+530424000000	云南省-玉溪市-华宁县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/04/530424.html
+530425000000	云南省-玉溪市-易门县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/04/530425.html
+530426000000	云南省-玉溪市-峨山彝族自治县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/04/530426.html
+530427000000	云南省-玉溪市-新平彝族傣族自治县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/04/530427.html
+530428000000	云南省-玉溪市-元江哈尼族彝族傣族自治县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/04/530428.html

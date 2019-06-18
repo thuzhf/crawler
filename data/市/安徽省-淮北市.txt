@@ -1,0 +1,5 @@
+340601000000	安徽省-淮北市-市辖区	
+340602000000	安徽省-淮北市-杜集区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/06/340602.html
+340603000000	安徽省-淮北市-相山区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/06/340603.html
+340604000000	安徽省-淮北市-烈山区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/06/340604.html
+340621000000	安徽省-淮北市-濉溪县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/06/340621.html

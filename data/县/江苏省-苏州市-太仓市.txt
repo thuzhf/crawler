@@ -1,0 +1,8 @@
+320585100000	江苏省-苏州市-太仓市-城厢镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/05/85/320585100.html
+320585101000	江苏省-苏州市-太仓市-沙溪镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/05/85/320585101.html
+320585102000	江苏省-苏州市-太仓市-浏河镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/05/85/320585102.html
+320585103000	江苏省-苏州市-太仓市-浮桥镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/05/85/320585103.html
+320585104000	江苏省-苏州市-太仓市-璜泾镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/05/85/320585104.html
+320585105000	江苏省-苏州市-太仓市-双凤镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/05/85/320585105.html
+320585400000	江苏省-苏州市-太仓市-经济开发区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/05/85/320585400.html
+320585403000	江苏省-苏州市-太仓市-科教新城	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/05/85/320585403.html

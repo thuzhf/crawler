@@ -1,0 +1,10 @@
+532301000000	云南省-楚雄彝族自治州-楚雄市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/23/532301.html
+532322000000	云南省-楚雄彝族自治州-双柏县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/23/532322.html
+532323000000	云南省-楚雄彝族自治州-牟定县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/23/532323.html
+532324000000	云南省-楚雄彝族自治州-南华县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/23/532324.html
+532325000000	云南省-楚雄彝族自治州-姚安县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/23/532325.html
+532326000000	云南省-楚雄彝族自治州-大姚县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/23/532326.html
+532327000000	云南省-楚雄彝族自治州-永仁县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/23/532327.html
+532328000000	云南省-楚雄彝族自治州-元谋县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/23/532328.html
+532329000000	云南省-楚雄彝族自治州-武定县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/23/532329.html
+532331000000	云南省-楚雄彝族自治州-禄丰县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/23/532331.html

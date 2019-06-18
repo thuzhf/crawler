@@ -1,0 +1,4 @@
+652701000000	新疆维吾尔自治区-博尔塔拉蒙古自治州-博乐市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/27/652701.html
+652702000000	新疆维吾尔自治区-博尔塔拉蒙古自治州-阿拉山口市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/27/652702.html
+652722000000	新疆维吾尔自治区-博尔塔拉蒙古自治州-精河县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/27/652722.html
+652723000000	新疆维吾尔自治区-博尔塔拉蒙古自治州-温泉县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/27/652723.html

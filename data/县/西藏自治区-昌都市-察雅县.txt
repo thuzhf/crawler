@@ -1,0 +1,13 @@
+540325100000	西藏自治区-昌都市-察雅县-烟多镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/03/25/540325100.html
+540325101000	西藏自治区-昌都市-察雅县-香堆镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/03/25/540325101.html
+540325102000	西藏自治区-昌都市-察雅县-吉塘镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/03/25/540325102.html
+540325200000	西藏自治区-昌都市-察雅县-宗沙乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/03/25/540325200.html
+540325201000	西藏自治区-昌都市-察雅县-卡贡乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/03/25/540325201.html
+540325202000	西藏自治区-昌都市-察雅县-荣周乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/03/25/540325202.html
+540325203000	西藏自治区-昌都市-察雅县-巴日乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/03/25/540325203.html
+540325204000	西藏自治区-昌都市-察雅县-阿孜乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/03/25/540325204.html
+540325205000	西藏自治区-昌都市-察雅县-王卡乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/03/25/540325205.html
+540325206000	西藏自治区-昌都市-察雅县-新卡乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/03/25/540325206.html
+540325207000	西藏自治区-昌都市-察雅县-肯通乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/03/25/540325207.html
+540325208000	西藏自治区-昌都市-察雅县-扩达乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/03/25/540325208.html
+540325209000	西藏自治区-昌都市-察雅县-察拉乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/03/25/540325209.html

@@ -1,0 +1,11 @@
+530102001000	云南省-昆明市-五华区-华山街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/01/02/530102001.html
+530102002000	云南省-昆明市-五华区-护国街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/01/02/530102002.html
+530102003000	云南省-昆明市-五华区-大观街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/01/02/530102003.html
+530102004000	云南省-昆明市-五华区-龙翔街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/01/02/530102004.html
+530102005000	云南省-昆明市-五华区-丰宁街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/01/02/530102005.html
+530102006000	云南省-昆明市-五华区-莲华街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/01/02/530102006.html
+530102007000	云南省-昆明市-五华区-红云街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/01/02/530102007.html
+530102008000	云南省-昆明市-五华区-黑林铺街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/01/02/530102008.html
+530102009000	云南省-昆明市-五华区-普吉街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/01/02/530102009.html
+530102010000	云南省-昆明市-五华区-西翥街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/01/02/530102010.html
+530102401000	云南省-昆明市-五华区-昆明国家高新技术产业开发区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/01/02/530102401.html

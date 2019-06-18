@@ -1,0 +1,14 @@
+370681001000	山东省-烟台市-龙口市-东莱街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/06/81/370681001.html
+370681002000	山东省-烟台市-龙口市-龙港街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/06/81/370681002.html
+370681003000	山东省-烟台市-龙口市-新嘉街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/06/81/370681003.html
+370681004000	山东省-烟台市-龙口市-徐福街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/06/81/370681004.html
+370681005000	山东省-烟台市-龙口市-东江街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/06/81/370681005.html
+370681102000	山东省-烟台市-龙口市-黄山馆镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/06/81/370681102.html
+370681103000	山东省-烟台市-龙口市-北马镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/06/81/370681103.html
+370681104000	山东省-烟台市-龙口市-芦头镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/06/81/370681104.html
+370681106000	山东省-烟台市-龙口市-下丁家镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/06/81/370681106.html
+370681107000	山东省-烟台市-龙口市-七甲镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/06/81/370681107.html
+370681108000	山东省-烟台市-龙口市-石良镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/06/81/370681108.html
+370681109000	山东省-烟台市-龙口市-兰高镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/06/81/370681109.html
+370681110000	山东省-烟台市-龙口市-诸由观镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/06/81/370681110.html
+370681401000	山东省-烟台市-龙口市-山东龙口高新技术产业园区管理委员会	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/06/81/370681401.html

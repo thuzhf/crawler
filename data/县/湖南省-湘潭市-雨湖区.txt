@@ -1,0 +1,12 @@
+430302001000	湖南省-湘潭市-雨湖区-雨湖路街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/03/02/430302001.html
+430302002000	湖南省-湘潭市-雨湖区-城正街街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/03/02/430302002.html
+430302003000	湖南省-湘潭市-雨湖区-云塘街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/03/02/430302003.html
+430302004000	湖南省-湘潭市-雨湖区-广场街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/03/02/430302004.html
+430302005000	湖南省-湘潭市-雨湖区-窑湾街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/03/02/430302005.html
+430302006000	湖南省-湘潭市-雨湖区-昭潭街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/03/02/430302006.html
+430302007000	湖南省-湘潭市-雨湖区-万楼街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/03/02/430302007.html
+430302008000	湖南省-湘潭市-雨湖区-先锋街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/03/02/430302008.html
+430302100000	湖南省-湘潭市-雨湖区-鹤岭镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/03/02/430302100.html
+430302101000	湖南省-湘潭市-雨湖区-楠竹山镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/03/02/430302101.html
+430302102000	湖南省-湘潭市-雨湖区-姜畲镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/03/02/430302102.html
+430302202000	湖南省-湘潭市-雨湖区-长城乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/03/02/430302202.html

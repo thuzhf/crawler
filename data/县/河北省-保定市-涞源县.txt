@@ -1,0 +1,17 @@
+130630100000	河北省-保定市-涞源县-涞源镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/06/30/130630100.html
+130630101000	河北省-保定市-涞源县-银坊镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/06/30/130630101.html
+130630102000	河北省-保定市-涞源县-走马驿镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/06/30/130630102.html
+130630103000	河北省-保定市-涞源县-水堡镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/06/30/130630103.html
+130630104000	河北省-保定市-涞源县-王安镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/06/30/130630104.html
+130630105000	河北省-保定市-涞源县-杨家庄镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/06/30/130630105.html
+130630106000	河北省-保定市-涞源县-白石山镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/06/30/130630106.html
+130630107000	河北省-保定市-涞源县-南屯镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/06/30/130630107.html
+130630201000	河北省-保定市-涞源县-南马庄乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/06/30/130630201.html
+130630202000	河北省-保定市-涞源县-北石佛乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/06/30/130630202.html
+130630203000	河北省-保定市-涞源县-金家井乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/06/30/130630203.html
+130630204000	河北省-保定市-涞源县-留家庄乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/06/30/130630204.html
+130630205000	河北省-保定市-涞源县-上庄乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/06/30/130630205.html
+130630206000	河北省-保定市-涞源县-东团堡乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/06/30/130630206.html
+130630207000	河北省-保定市-涞源县-塔崖驿乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/06/30/130630207.html
+130630208000	河北省-保定市-涞源县-乌龙沟乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/06/30/130630208.html
+130630209000	河北省-保定市-涞源县-烟煤洞乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/06/30/130630209.html

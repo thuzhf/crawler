@@ -1,0 +1,16 @@
+410726100000	河南省-新乡市-延津县-城关镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/07/26/410726100.html
+410726101000	河南省-新乡市-延津县-东屯镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/07/26/410726101.html
+410726102000	河南省-新乡市-延津县-丰庄镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/07/26/410726102.html
+410726103000	河南省-新乡市-延津县-石婆固镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/07/26/410726103.html
+410726104000	河南省-新乡市-延津县-王楼镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/07/26/410726104.html
+410726200000	河南省-新乡市-延津县-僧固乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/07/26/410726200.html
+410726202000	河南省-新乡市-延津县-位邱乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/07/26/410726202.html
+410726203000	河南省-新乡市-延津县-司寨乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/07/26/410726203.html
+410726205000	河南省-新乡市-延津县-马庄乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/07/26/410726205.html
+410726206000	河南省-新乡市-延津县-胙城乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/07/26/410726206.html
+410726207000	河南省-新乡市-延津县-榆林乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/07/26/410726207.html
+410726208000	河南省-新乡市-延津县-小潭乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/07/26/410726208.html
+410726400000	河南省-新乡市-延津县-国营林场	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/07/26/410726400.html
+410726401000	河南省-新乡市-延津县-新兴农场	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/07/26/410726401.html
+410726402000	河南省-新乡市-延津县-新乡市食品工业聚集区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/07/26/410726402.html
+410726403000	河南省-新乡市-延津县-新乡市纺织工业聚集区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/07/26/410726403.html

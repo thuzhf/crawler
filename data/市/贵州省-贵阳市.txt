@@ -1,0 +1,11 @@
+520101000000	贵州省-贵阳市-市辖区	
+520102000000	贵州省-贵阳市-南明区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/52/01/520102.html
+520103000000	贵州省-贵阳市-云岩区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/52/01/520103.html
+520111000000	贵州省-贵阳市-花溪区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/52/01/520111.html
+520112000000	贵州省-贵阳市-乌当区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/52/01/520112.html
+520113000000	贵州省-贵阳市-白云区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/52/01/520113.html
+520115000000	贵州省-贵阳市-观山湖区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/52/01/520115.html
+520121000000	贵州省-贵阳市-开阳县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/52/01/520121.html
+520122000000	贵州省-贵阳市-息烽县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/52/01/520122.html
+520123000000	贵州省-贵阳市-修文县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/52/01/520123.html
+520181000000	贵州省-贵阳市-清镇市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/52/01/520181.html

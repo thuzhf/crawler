@@ -1,0 +1,12 @@
+441324001000	广东省-惠州市-龙门县-龙城街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/13/24/441324001.html
+441324002000	广东省-惠州市-龙门县-平陵街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/13/24/441324002.html
+441324100000	广东省-惠州市-龙门县-麻榨镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/13/24/441324100.html
+441324101000	广东省-惠州市-龙门县-永汉镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/13/24/441324101.html
+441324115000	广东省-惠州市-龙门县-龙田镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/13/24/441324115.html
+441324116000	广东省-惠州市-龙门县-龙潭镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/13/24/441324116.html
+441324117000	广东省-惠州市-龙门县-地派镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/13/24/441324117.html
+441324118000	广东省-惠州市-龙门县-龙华镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/13/24/441324118.html
+441324119000	广东省-惠州市-龙门县-龙江镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/13/24/441324119.html
+441324200000	广东省-惠州市-龙门县-蓝田瑶族乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/13/24/441324200.html
+441324453000	广东省-惠州市-龙门县-龙门县密溪林场	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/13/24/441324453.html
+441324570000	广东省-惠州市-龙门县-南昆山生态旅游区管理委员会	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/13/24/441324570.html

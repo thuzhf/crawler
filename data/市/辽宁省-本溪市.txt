@@ -1,0 +1,7 @@
+210501000000	辽宁省-本溪市-市辖区	
+210502000000	辽宁省-本溪市-平山区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/05/210502.html
+210503000000	辽宁省-本溪市-溪湖区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/05/210503.html
+210504000000	辽宁省-本溪市-明山区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/05/210504.html
+210505000000	辽宁省-本溪市-南芬区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/05/210505.html
+210521000000	辽宁省-本溪市-本溪满族自治县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/05/210521.html
+210522000000	辽宁省-本溪市-桓仁满族自治县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/05/210522.html

@@ -1,0 +1,11 @@
+533401101000	云南省-迪庆藏族自治州-香格里拉市-建塘镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/34/01/533401101.html
+533401102000	云南省-迪庆藏族自治州-香格里拉市-小中甸镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/34/01/533401102.html
+533401103000	云南省-迪庆藏族自治州-香格里拉市-虎跳峡镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/34/01/533401103.html
+533401104000	云南省-迪庆藏族自治州-香格里拉市-金江镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/34/01/533401104.html
+533401201000	云南省-迪庆藏族自治州-香格里拉市-上江乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/34/01/533401201.html
+533401202000	云南省-迪庆藏族自治州-香格里拉市-三坝纳西族乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/34/01/533401202.html
+533401203000	云南省-迪庆藏族自治州-香格里拉市-洛吉乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/34/01/533401203.html
+533401204000	云南省-迪庆藏族自治州-香格里拉市-尼西乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/34/01/533401204.html
+533401205000	云南省-迪庆藏族自治州-香格里拉市-格咱乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/34/01/533401205.html
+533401206000	云南省-迪庆藏族自治州-香格里拉市-东旺乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/34/01/533401206.html
+533401207000	云南省-迪庆藏族自治州-香格里拉市-五境乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/34/01/533401207.html

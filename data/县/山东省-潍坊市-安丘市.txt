@@ -1,0 +1,12 @@
+370784001000	山东省-潍坊市-安丘市-兴安街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/07/84/370784001.html
+370784003000	山东省-潍坊市-安丘市-新安街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/07/84/370784003.html
+370784100000	山东省-潍坊市-安丘市-景芝镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/07/84/370784100.html
+370784103000	山东省-潍坊市-安丘市-凌河镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/07/84/370784103.html
+370784104000	山东省-潍坊市-安丘市-官庄镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/07/84/370784104.html
+370784107000	山东省-潍坊市-安丘市-大盛镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/07/84/370784107.html
+370784111000	山东省-潍坊市-安丘市-石埠子镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/07/84/370784111.html
+370784112000	山东省-潍坊市-安丘市-石堆镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/07/84/370784112.html
+370784118000	山东省-潍坊市-安丘市-柘山镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/07/84/370784118.html
+370784119000	山东省-潍坊市-安丘市-辉渠镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/07/84/370784119.html
+370784120000	山东省-潍坊市-安丘市-吾山镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/07/84/370784120.html
+370784121000	山东省-潍坊市-安丘市-金冢子镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/07/84/370784121.html

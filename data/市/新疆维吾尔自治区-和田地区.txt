@@ -1,0 +1,8 @@
+653201000000	新疆维吾尔自治区-和田地区-和田市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/32/653201.html
+653221000000	新疆维吾尔自治区-和田地区-和田县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/32/653221.html
+653222000000	新疆维吾尔自治区-和田地区-墨玉县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/32/653222.html
+653223000000	新疆维吾尔自治区-和田地区-皮山县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/32/653223.html
+653224000000	新疆维吾尔自治区-和田地区-洛浦县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/32/653224.html
+653225000000	新疆维吾尔自治区-和田地区-策勒县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/32/653225.html
+653226000000	新疆维吾尔自治区-和田地区-于田县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/32/653226.html
+653227000000	新疆维吾尔自治区-和田地区-民丰县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/32/653227.html

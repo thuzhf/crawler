@@ -1,0 +1,11 @@
+220105001000	吉林省-长春市-二道区-东盛街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/01/05/220105001.html
+220105002000	吉林省-长春市-二道区-吉林街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/01/05/220105002.html
+220105003000	吉林省-长春市-二道区-荣光街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/01/05/220105003.html
+220105004000	吉林省-长春市-二道区-东站街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/01/05/220105004.html
+220105005000	吉林省-长春市-二道区-远达街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/01/05/220105005.html
+220105006000	吉林省-长春市-二道区-八里堡街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/01/05/220105006.html
+220105007000	吉林省-长春市-二道区-长青街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/01/05/220105007.html
+220105100000	吉林省-长春市-二道区-英俊镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/01/05/220105100.html
+220105173000	吉林省-长春市-二道区-劝农山镇（长春莲花山生态旅游度假区省级）	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/01/05/220105173.html
+220105174000	吉林省-长春市-二道区-泉眼镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/01/05/220105174.html
+220105270000	吉林省-长春市-二道区-四家乡（长春莲花山生态旅游度假区省级）	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/01/05/220105270.html

@@ -1,0 +1,16 @@
+430528100000	湖南省-邵阳市-新宁县-金石镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/05/28/430528100.html
+430528101000	湖南省-邵阳市-新宁县-水庙镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/05/28/430528101.html
+430528102000	湖南省-邵阳市-新宁县-崀山镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/05/28/430528102.html
+430528104000	湖南省-邵阳市-新宁县-黄龙镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/05/28/430528104.html
+430528105000	湖南省-邵阳市-新宁县-高桥镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/05/28/430528105.html
+430528106000	湖南省-邵阳市-新宁县-回龙寺镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/05/28/430528106.html
+430528107000	湖南省-邵阳市-新宁县-一渡水镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/05/28/430528107.html
+430528108000	湖南省-邵阳市-新宁县-马头桥镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/05/28/430528108.html
+430528200000	湖南省-邵阳市-新宁县-黄金瑶族乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/05/28/430528200.html
+430528201000	湖南省-邵阳市-新宁县-麻林瑶族乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/05/28/430528201.html
+430528203000	湖南省-邵阳市-新宁县-万塘乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/05/28/430528203.html
+430528204000	湖南省-邵阳市-新宁县-清江桥乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/05/28/430528204.html
+430528205000	湖南省-邵阳市-新宁县-安山乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/05/28/430528205.html
+430528206000	湖南省-邵阳市-新宁县-丰田乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/05/28/430528206.html
+430528208000	湖南省-邵阳市-新宁县-巡田乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/05/28/430528208.html
+430528209000	湖南省-邵阳市-新宁县-靖位乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/05/28/430528209.html

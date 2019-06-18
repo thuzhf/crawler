@@ -1,0 +1,8 @@
+130903001000	河北省-沧州市-运河区-水月寺街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/09/03/130903001.html
+130903002000	河北省-沧州市-运河区-南环中路街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/09/03/130903002.html
+130903003000	河北省-沧州市-运河区-南湖街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/09/03/130903003.html
+130903004000	河北省-沧州市-运河区-市场街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/09/03/130903004.html
+130903005000	河北省-沧州市-运河区-西环中街街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/09/03/130903005.html
+130903006000	河北省-沧州市-运河区-公园街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/09/03/130903006.html
+130903100000	河北省-沧州市-运河区-小王庄镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/09/03/130903100.html
+130903200000	河北省-沧州市-运河区-南陈屯乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/09/03/130903200.html

@@ -1,0 +1,13 @@
+511403001000	四川省-眉山市-彭山区-凤鸣街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/14/03/511403001.html
+511403002000	四川省-眉山市-彭山区-彭溪街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/14/03/511403002.html
+511403115000	四川省-眉山市-彭山区-武阳镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/14/03/511403115.html
+511403116000	四川省-眉山市-彭山区-江口镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/14/03/511403116.html
+511403118000	四川省-眉山市-彭山区-公义镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/14/03/511403118.html
+511403119000	四川省-眉山市-彭山区-牧马镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/14/03/511403119.html
+511403120000	四川省-眉山市-彭山区-谢家镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/14/03/511403120.html
+511403121000	四川省-眉山市-彭山区-黄丰镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/14/03/511403121.html
+511403122000	四川省-眉山市-彭山区-观音镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/14/03/511403122.html
+511403124000	四川省-眉山市-彭山区-青龙镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/14/03/511403124.html
+511403214000	四川省-眉山市-彭山区-保胜乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/14/03/511403214.html
+511403215000	四川省-眉山市-彭山区-义和乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/14/03/511403215.html
+511403216000	四川省-眉山市-彭山区-锦江乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/14/03/511403216.html

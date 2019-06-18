@@ -1,0 +1,7 @@
+220601000000	吉林省-白山市-市辖区	
+220602000000	吉林省-白山市-浑江区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/06/220602.html
+220605000000	吉林省-白山市-江源区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/06/220605.html
+220621000000	吉林省-白山市-抚松县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/06/220621.html
+220622000000	吉林省-白山市-靖宇县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/06/220622.html
+220623000000	吉林省-白山市-长白朝鲜族自治县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/06/220623.html
+220681000000	吉林省-白山市-临江市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/06/220681.html

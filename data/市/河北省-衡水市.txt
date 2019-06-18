@@ -1,0 +1,14 @@
+131101000000	河北省-衡水市-市辖区	
+131102000000	河北省-衡水市-桃城区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/11/131102.html
+131103000000	河北省-衡水市-冀州区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/11/131103.html
+131121000000	河北省-衡水市-枣强县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/11/131121.html
+131122000000	河北省-衡水市-武邑县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/11/131122.html
+131123000000	河北省-衡水市-武强县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/11/131123.html
+131124000000	河北省-衡水市-饶阳县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/11/131124.html
+131125000000	河北省-衡水市-安平县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/11/131125.html
+131126000000	河北省-衡水市-故城县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/11/131126.html
+131127000000	河北省-衡水市-景县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/11/131127.html
+131128000000	河北省-衡水市-阜城县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/11/131128.html
+131171000000	河北省-衡水市-河北衡水高新技术产业开发区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/11/131171.html
+131172000000	河北省-衡水市-衡水滨湖新区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/11/131172.html
+131182000000	河北省-衡水市-深州市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/11/131182.html

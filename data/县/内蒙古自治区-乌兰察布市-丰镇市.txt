@@ -1,0 +1,13 @@
+150981005000	内蒙古自治区-乌兰察布市-丰镇市-新城区街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/09/81/150981005.html
+150981006000	内蒙古自治区-乌兰察布市-丰镇市-旧城区街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/09/81/150981006.html
+150981007000	内蒙古自治区-乌兰察布市-丰镇市-北城区街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/09/81/150981007.html
+150981008000	内蒙古自治区-乌兰察布市-丰镇市-工业区街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/09/81/150981008.html
+150981009000	内蒙古自治区-乌兰察布市-丰镇市-南城区街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/09/81/150981009.html
+150981107000	内蒙古自治区-乌兰察布市-丰镇市-隆盛庄镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/09/81/150981107.html
+150981108000	内蒙古自治区-乌兰察布市-丰镇市-黑土台镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/09/81/150981108.html
+150981109000	内蒙古自治区-乌兰察布市-丰镇市-红砂坝镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/09/81/150981109.html
+150981110000	内蒙古自治区-乌兰察布市-丰镇市-巨宝庄镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/09/81/150981110.html
+150981111000	内蒙古自治区-乌兰察布市-丰镇市-三义泉镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/09/81/150981111.html
+150981207000	内蒙古自治区-乌兰察布市-丰镇市-浑源窑乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/09/81/150981207.html
+150981208000	内蒙古自治区-乌兰察布市-丰镇市-元山子乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/09/81/150981208.html
+150981209000	内蒙古自治区-乌兰察布市-丰镇市-官屯堡乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/09/81/150981209.html

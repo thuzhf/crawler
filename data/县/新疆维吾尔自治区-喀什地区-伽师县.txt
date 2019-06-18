@@ -1,0 +1,14 @@
+653129100000	新疆维吾尔自治区-喀什地区-伽师县-巴仁镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/31/29/653129100.html
+653129101000	新疆维吾尔自治区-喀什地区-伽师县-西克尔库勒镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/31/29/653129101.html
+653129102000	新疆维吾尔自治区-喀什地区-伽师县-夏普吐勒镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/31/29/653129102.html
+653129103000	新疆维吾尔自治区-喀什地区-伽师县-卧里托格拉克镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/31/29/653129103.html
+653129104000	新疆维吾尔自治区-喀什地区-伽师县-克孜勒博依镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/31/29/653129104.html
+653129107000	新疆维吾尔自治区-喀什地区-伽师县-和夏阿瓦提镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/31/29/653129107.html
+653129200000	新疆维吾尔自治区-喀什地区-伽师县-铁日木乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/31/29/653129200.html
+653129201000	新疆维吾尔自治区-喀什地区-伽师县-英买里乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/31/29/653129201.html
+653129202000	新疆维吾尔自治区-喀什地区-伽师县-江巴孜乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/31/29/653129202.html
+653129205000	新疆维吾尔自治区-喀什地区-伽师县-米夏乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/31/29/653129205.html
+653129208000	新疆维吾尔自治区-喀什地区-伽师县-克孜勒苏乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/31/29/653129208.html
+653129209000	新疆维吾尔自治区-喀什地区-伽师县-古勒鲁克乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/31/29/653129209.html
+653129210000	新疆维吾尔自治区-喀什地区-伽师县-玉代克力克乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/31/29/653129210.html
+653129500000	新疆维吾尔自治区-喀什地区-伽师县-兵团伽师总场	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/31/29/653129500.html

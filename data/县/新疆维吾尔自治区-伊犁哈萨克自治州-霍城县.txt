@@ -1,0 +1,14 @@
+654023100000	新疆维吾尔自治区-伊犁哈萨克自治州-霍城县-水定镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/40/23/654023100.html
+654023101000	新疆维吾尔自治区-伊犁哈萨克自治州-霍城县-清水河镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/40/23/654023101.html
+654023102000	新疆维吾尔自治区-伊犁哈萨克自治州-霍城县-芦草沟镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/40/23/654023102.html
+654023103000	新疆维吾尔自治区-伊犁哈萨克自治州-霍城县-惠远镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/40/23/654023103.html
+654023104000	新疆维吾尔自治区-伊犁哈萨克自治州-霍城县-萨尔布拉克镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/40/23/654023104.html
+654023200000	新疆维吾尔自治区-伊犁哈萨克自治州-霍城县-兰干乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/40/23/654023200.html
+654023201000	新疆维吾尔自治区-伊犁哈萨克自治州-霍城县-三道河乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/40/23/654023201.html
+654023204000	新疆维吾尔自治区-伊犁哈萨克自治州-霍城县-三宫乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/40/23/654023204.html
+654023205000	新疆维吾尔自治区-伊犁哈萨克自治州-霍城县-大西沟乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/40/23/654023205.html
+654023402000	新疆维吾尔自治区-伊犁哈萨克自治州-霍城县-果子沟牧场	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/40/23/654023402.html
+654023403000	新疆维吾尔自治区-伊犁哈萨克自治州-霍城县-良种繁育中心	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/40/23/654023403.html
+654023507000	新疆维吾尔自治区-伊犁哈萨克自治州-霍城县-兵团六十三团	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/40/23/654023507.html
+654023508000	新疆维吾尔自治区-伊犁哈萨克自治州-霍城县-兵团六十四团	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/40/23/654023508.html
+654023509000	新疆维吾尔自治区-伊犁哈萨克自治州-霍城县-兵团六十六团（中心团场）	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/40/23/654023509.html

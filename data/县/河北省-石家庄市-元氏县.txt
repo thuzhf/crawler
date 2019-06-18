@@ -1,0 +1,16 @@
+130132001000	河北省-石家庄市-元氏县-城区街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/01/32/130132001.html
+130132100000	河北省-石家庄市-元氏县-槐阳镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/01/32/130132100.html
+130132101000	河北省-石家庄市-元氏县-殷村镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/01/32/130132101.html
+130132102000	河北省-石家庄市-元氏县-南佐镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/01/32/130132102.html
+130132103000	河北省-石家庄市-元氏县-宋曹镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/01/32/130132103.html
+130132104000	河北省-石家庄市-元氏县-南因镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/01/32/130132104.html
+130132105000	河北省-石家庄市-元氏县-姬村镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/01/32/130132105.html
+130132106000	河北省-石家庄市-元氏县-北褚镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/01/32/130132106.html
+130132107000	河北省-石家庄市-元氏县-马村镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/01/32/130132107.html
+130132201000	河北省-石家庄市-元氏县-东张乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/01/32/130132201.html
+130132202000	河北省-石家庄市-元氏县-赵同乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/01/32/130132202.html
+130132204000	河北省-石家庄市-元氏县-苏村乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/01/32/130132204.html
+130132205000	河北省-石家庄市-元氏县-苏阳乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/01/32/130132205.html
+130132206000	河北省-石家庄市-元氏县-北正乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/01/32/130132206.html
+130132207000	河北省-石家庄市-元氏县-前仙乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/01/32/130132207.html
+130132208000	河北省-石家庄市-元氏县-黑水河乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/01/32/130132208.html

@@ -1,0 +1,13 @@
+140423100000	山西省-长治市-襄垣县-古韩镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/04/23/140423100.html
+140423101000	山西省-长治市-襄垣县-王桥镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/04/23/140423101.html
+140423102000	山西省-长治市-襄垣县-侯堡镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/04/23/140423102.html
+140423103000	山西省-长治市-襄垣县-夏店镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/04/23/140423103.html
+140423104000	山西省-长治市-襄垣县-虒亭镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/04/23/140423104.html
+140423105000	山西省-长治市-襄垣县-西营镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/04/23/140423105.html
+140423106000	山西省-长治市-襄垣县-王村镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/04/23/140423106.html
+140423107000	山西省-长治市-襄垣县-下良镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/04/23/140423107.html
+140423200000	山西省-长治市-襄垣县-善福乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/04/23/140423200.html
+140423201000	山西省-长治市-襄垣县-北底乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/04/23/140423201.html
+140423202000	山西省-长治市-襄垣县-上马乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/04/23/140423202.html
+140423400000	山西省-长治市-襄垣县-富阳工业园区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/04/23/140423400.html
+140423402000	山西省-长治市-襄垣县-襄垣经济技术开发区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/04/23/140423402.html

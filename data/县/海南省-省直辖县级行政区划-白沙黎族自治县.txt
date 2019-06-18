@@ -1,0 +1,11 @@
+469025100000	海南省-省直辖县级行政区划-白沙黎族自治县-牙叉镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/46/90/25/469025100.html
+469025101000	海南省-省直辖县级行政区划-白沙黎族自治县-七坊镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/46/90/25/469025101.html
+469025102000	海南省-省直辖县级行政区划-白沙黎族自治县-邦溪镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/46/90/25/469025102.html
+469025103000	海南省-省直辖县级行政区划-白沙黎族自治县-打安镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/46/90/25/469025103.html
+469025200000	海南省-省直辖县级行政区划-白沙黎族自治县-细水乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/46/90/25/469025200.html
+469025201000	海南省-省直辖县级行政区划-白沙黎族自治县-元门乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/46/90/25/469025201.html
+469025202000	海南省-省直辖县级行政区划-白沙黎族自治县-南开乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/46/90/25/469025202.html
+469025203000	海南省-省直辖县级行政区划-白沙黎族自治县-阜龙乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/46/90/25/469025203.html
+469025204000	海南省-省直辖县级行政区划-白沙黎族自治县-青松乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/46/90/25/469025204.html
+469025205000	海南省-省直辖县级行政区划-白沙黎族自治县-金波乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/46/90/25/469025205.html
+469025206000	海南省-省直辖县级行政区划-白沙黎族自治县-荣邦乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/46/90/25/469025206.html

@@ -1,0 +1,11 @@
+341101000000	安徽省-滁州市-市辖区	
+341102000000	安徽省-滁州市-琅琊区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/11/341102.html
+341103000000	安徽省-滁州市-南谯区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/11/341103.html
+341122000000	安徽省-滁州市-来安县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/11/341122.html
+341124000000	安徽省-滁州市-全椒县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/11/341124.html
+341125000000	安徽省-滁州市-定远县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/11/341125.html
+341126000000	安徽省-滁州市-凤阳县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/11/341126.html
+341171000000	安徽省-滁州市-苏滁现代产业园	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/11/341171.html
+341172000000	安徽省-滁州市-滁州经济技术开发区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/11/341172.html
+341181000000	安徽省-滁州市-天长市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/11/341181.html
+341182000000	安徽省-滁州市-明光市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/11/341182.html

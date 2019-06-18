@@ -1,0 +1,12 @@
+140101000000	山西省-太原市-市辖区	
+140105000000	山西省-太原市-小店区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/01/140105.html
+140106000000	山西省-太原市-迎泽区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/01/140106.html
+140107000000	山西省-太原市-杏花岭区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/01/140107.html
+140108000000	山西省-太原市-尖草坪区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/01/140108.html
+140109000000	山西省-太原市-万柏林区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/01/140109.html
+140110000000	山西省-太原市-晋源区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/01/140110.html
+140121000000	山西省-太原市-清徐县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/01/140121.html
+140122000000	山西省-太原市-阳曲县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/01/140122.html
+140123000000	山西省-太原市-娄烦县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/01/140123.html
+140171000000	山西省-太原市-山西转型综合改革示范区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/01/140171.html
+140181000000	山西省-太原市-古交市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/01/140181.html

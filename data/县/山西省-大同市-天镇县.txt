@@ -1,0 +1,12 @@
+140222100000	山西省-大同市-天镇县-玉泉镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/02/22/140222100.html
+140222101000	山西省-大同市-天镇县-谷前堡镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/02/22/140222101.html
+140222102000	山西省-大同市-天镇县-米薪关镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/02/22/140222102.html
+140222103000	山西省-大同市-天镇县-逯家湾镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/02/22/140222103.html
+140222104000	山西省-大同市-天镇县-新平堡镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/02/22/140222104.html
+140222200000	山西省-大同市-天镇县-卅里铺乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/02/22/140222200.html
+140222202000	山西省-大同市-天镇县-南河堡乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/02/22/140222202.html
+140222204000	山西省-大同市-天镇县-贾家屯乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/02/22/140222204.html
+140222206000	山西省-大同市-天镇县-赵家沟乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/02/22/140222206.html
+140222208000	山西省-大同市-天镇县-南高崖乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/02/22/140222208.html
+140222209000	山西省-大同市-天镇县-张西河乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/02/22/140222209.html
+140222210000	山西省-大同市-天镇县-马家皂乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/02/22/140222210.html

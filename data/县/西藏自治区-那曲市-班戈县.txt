@@ -1,0 +1,10 @@
+540627100000	西藏自治区-那曲市-班戈县-普保镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/06/27/540627100.html
+540627101000	西藏自治区-那曲市-班戈县-北拉镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/06/27/540627101.html
+540627102000	西藏自治区-那曲市-班戈县-德庆镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/06/27/540627102.html
+540627103000	西藏自治区-那曲市-班戈县-佳琼镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/06/27/540627103.html
+540627205000	西藏自治区-那曲市-班戈县-尼玛乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/06/27/540627205.html
+540627207000	西藏自治区-那曲市-班戈县-保吉乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/06/27/540627207.html
+540627209000	西藏自治区-那曲市-班戈县-青龙乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/06/27/540627209.html
+540627211000	西藏自治区-那曲市-班戈县-马前乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/06/27/540627211.html
+540627215000	西藏自治区-那曲市-班戈县-门当乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/06/27/540627215.html
+540627216000	西藏自治区-那曲市-班戈县-新吉乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/06/27/540627216.html

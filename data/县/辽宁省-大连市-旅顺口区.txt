@@ -1,0 +1,15 @@
+210212001000	辽宁省-大连市-旅顺口区-登峰街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/02/12/210212001.html
+210212002000	辽宁省-大连市-旅顺口区-市场街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/02/12/210212002.html
+210212003000	辽宁省-大连市-旅顺口区-得胜街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/02/12/210212003.html
+210212004000	辽宁省-大连市-旅顺口区-光荣街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/02/12/210212004.html
+210212005000	辽宁省-大连市-旅顺口区-水师营街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/02/12/210212005.html
+210212006000	辽宁省-大连市-旅顺口区-龙王塘街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/02/12/210212006.html
+210212007000	辽宁省-大连市-旅顺口区-铁山街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/02/12/210212007.html
+210212009000	辽宁省-大连市-旅顺口区-双岛湾街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/02/12/210212009.html
+210212010000	辽宁省-大连市-旅顺口区-三涧堡街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/02/12/210212010.html
+210212011000	辽宁省-大连市-旅顺口区-长城街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/02/12/210212011.html
+210212012000	辽宁省-大连市-旅顺口区-龙头街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/02/12/210212012.html
+210212013000	辽宁省-大连市-旅顺口区-北海街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/02/12/210212013.html
+210212400000	辽宁省-大连市-旅顺口区-旅顺经济开发区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/02/12/210212400.html
+210212401000	辽宁省-大连市-旅顺口区-大连奶牛场	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/02/12/210212401.html
+210212402000	辽宁省-大连市-旅顺口区-龙头分园	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/02/12/210212402.html

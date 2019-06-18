@@ -1,0 +1,6 @@
+420702100000	湖北省-鄂州市-梁子湖区-太和镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/07/02/420702100.html
+420702101000	湖北省-鄂州市-梁子湖区-东沟镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/07/02/420702101.html
+420702102000	湖北省-鄂州市-梁子湖区-梁子生态管理区（镇）	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/07/02/420702102.html
+420702103000	湖北省-鄂州市-梁子湖区-涂家垴镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/07/02/420702103.html
+420702104000	湖北省-鄂州市-梁子湖区-沼山镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/07/02/420702104.html
+420702400000	湖北省-鄂州市-梁子湖区-梧桐湖新区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/07/02/420702400.html

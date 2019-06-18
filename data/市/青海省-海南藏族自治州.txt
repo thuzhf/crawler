@@ -1,0 +1,5 @@
+632521000000	青海省-海南藏族自治州-共和县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/63/25/632521.html
+632522000000	青海省-海南藏族自治州-同德县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/63/25/632522.html
+632523000000	青海省-海南藏族自治州-贵德县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/63/25/632523.html
+632524000000	青海省-海南藏族自治州-兴海县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/63/25/632524.html
+632525000000	青海省-海南藏族自治州-贵南县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/63/25/632525.html

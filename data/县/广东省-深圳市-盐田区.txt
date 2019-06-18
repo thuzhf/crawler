@@ -1,0 +1,6 @@
+440308001000	广东省-深圳市-盐田区-梅沙街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/03/08/440308001.html
+440308002000	广东省-深圳市-盐田区-盐田街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/03/08/440308002.html
+440308003000	广东省-深圳市-盐田区-沙头角街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/03/08/440308003.html
+440308004000	广东省-深圳市-盐田区-海山街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/03/08/440308004.html
+440308400000	广东省-深圳市-盐田区-市保税区（沙头角）	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/03/08/440308400.html
+440308401000	广东省-深圳市-盐田区-市保税区（盐田港）	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/03/08/440308401.html

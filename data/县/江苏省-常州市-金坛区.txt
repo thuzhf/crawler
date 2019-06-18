@@ -1,0 +1,9 @@
+320413001000	江苏省-常州市-金坛区-西城街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/04/13/320413001.html
+320413100000	江苏省-常州市-金坛区-金城镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/04/13/320413100.html
+320413104000	江苏省-常州市-金坛区-儒林镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/04/13/320413104.html
+320413106000	江苏省-常州市-金坛区-直溪镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/04/13/320413106.html
+320413108000	江苏省-常州市-金坛区-朱林镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/04/13/320413108.html
+320413109000	江苏省-常州市-金坛区-薛埠镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/04/13/320413109.html
+320413112000	江苏省-常州市-金坛区-指前镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/04/13/320413112.html
+320413400000	江苏省-常州市-金坛区-开发区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/04/13/320413400.html
+320413401000	江苏省-常州市-金坛区-茅山旅游度假区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/04/13/320413401.html

@@ -1,0 +1,7 @@
+640303001000	宁夏回族自治区-吴忠市-红寺堡区-红寺堡区新民街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/64/03/03/640303001.html
+640303100000	宁夏回族自治区-吴忠市-红寺堡区-红寺堡区红寺堡镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/64/03/03/640303100.html
+640303101000	宁夏回族自治区-吴忠市-红寺堡区-红寺堡区太阳山镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/64/03/03/640303101.html
+640303200000	宁夏回族自治区-吴忠市-红寺堡区-红寺堡区大河乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/64/03/03/640303200.html
+640303201000	宁夏回族自治区-吴忠市-红寺堡区-红寺堡区新庄集乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/64/03/03/640303201.html
+640303202000	宁夏回族自治区-吴忠市-红寺堡区-红寺堡区柳泉乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/64/03/03/640303202.html
+640303400000	宁夏回族自治区-吴忠市-红寺堡区-红寺堡工业园区管委会	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/64/03/03/640303400.html

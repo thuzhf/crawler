@@ -1,0 +1,12 @@
+371703001000	山东省-菏泽市-定陶区-天中街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/17/03/371703001.html
+371703002000	山东省-菏泽市-定陶区-滨河街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/17/03/371703002.html
+371703101000	山东省-菏泽市-定陶区-陈集镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/17/03/371703101.html
+371703102000	山东省-菏泽市-定陶区-冉固镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/17/03/371703102.html
+371703103000	山东省-菏泽市-定陶区-张湾镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/17/03/371703103.html
+371703104000	山东省-菏泽市-定陶区-黄店镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/17/03/371703104.html
+371703105000	山东省-菏泽市-定陶区-孟海镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/17/03/371703105.html
+371703106000	山东省-菏泽市-定陶区-马集镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/17/03/371703106.html
+371703107000	山东省-菏泽市-定陶区-仿山镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/17/03/371703107.html
+371703108000	山东省-菏泽市-定陶区-半堤镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/17/03/371703108.html
+371703109000	山东省-菏泽市-定陶区-杜堂镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/17/03/371703109.html
+371703110000	山东省-菏泽市-定陶区-南王店镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/17/03/371703110.html

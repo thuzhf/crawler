@@ -1,0 +1,14 @@
+371523001000	山东省-聊城市-茌平县-振兴街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/15/23/371523001.html
+371523002000	山东省-聊城市-茌平县-信发街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/15/23/371523002.html
+371523003000	山东省-聊城市-茌平县-温陈街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/15/23/371523003.html
+371523101000	山东省-聊城市-茌平县-乐平铺镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/15/23/371523101.html
+371523102000	山东省-聊城市-茌平县-冯官屯镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/15/23/371523102.html
+371523103000	山东省-聊城市-茌平县-菜屯镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/15/23/371523103.html
+371523104000	山东省-聊城市-茌平县-博平镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/15/23/371523104.html
+371523105000	山东省-聊城市-茌平县-杜郎口镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/15/23/371523105.html
+371523106000	山东省-聊城市-茌平县-韩屯镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/15/23/371523106.html
+371523107000	山东省-聊城市-茌平县-胡屯镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/15/23/371523107.html
+371523108000	山东省-聊城市-茌平县-肖庄镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/15/23/371523108.html
+371523109000	山东省-聊城市-茌平县-贾寨镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/15/23/371523109.html
+371523110000	山东省-聊城市-茌平县-洪官屯镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/15/23/371523110.html
+371523208000	山东省-聊城市-茌平县-杨官屯乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/15/23/371523208.html

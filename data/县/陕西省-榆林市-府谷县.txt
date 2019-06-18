@@ -1,0 +1,14 @@
+610822100000	陕西省-榆林市-府谷县-府谷镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/61/08/22/610822100.html
+610822101000	陕西省-榆林市-府谷县-黄甫镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/61/08/22/610822101.html
+610822103000	陕西省-榆林市-府谷县-哈镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/61/08/22/610822103.html
+610822104000	陕西省-榆林市-府谷县-庙沟门镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/61/08/22/610822104.html
+610822105000	陕西省-榆林市-府谷县-新民镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/61/08/22/610822105.html
+610822106000	陕西省-榆林市-府谷县-孤山镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/61/08/22/610822106.html
+610822107000	陕西省-榆林市-府谷县-清水镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/61/08/22/610822107.html
+610822108000	陕西省-榆林市-府谷县-大昌汗镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/61/08/22/610822108.html
+610822109000	陕西省-榆林市-府谷县-古城镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/61/08/22/610822109.html
+610822110000	陕西省-榆林市-府谷县-三道沟镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/61/08/22/610822110.html
+610822111000	陕西省-榆林市-府谷县-老高川镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/61/08/22/610822111.html
+610822112000	陕西省-榆林市-府谷县-武家庄镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/61/08/22/610822112.html
+610822113000	陕西省-榆林市-府谷县-木瓜镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/61/08/22/610822113.html
+610822114000	陕西省-榆林市-府谷县-田家寨镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/61/08/22/610822114.html

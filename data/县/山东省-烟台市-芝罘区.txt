@@ -1,0 +1,12 @@
+370602001000	山东省-烟台市-芝罘区-向阳街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/06/02/370602001.html
+370602002000	山东省-烟台市-芝罘区-东山街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/06/02/370602002.html
+370602003000	山东省-烟台市-芝罘区-毓璜顶街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/06/02/370602003.html
+370602004000	山东省-烟台市-芝罘区-通伸街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/06/02/370602004.html
+370602005000	山东省-烟台市-芝罘区-凤凰台街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/06/02/370602005.html
+370602006000	山东省-烟台市-芝罘区-奇山街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/06/02/370602006.html
+370602007000	山东省-烟台市-芝罘区-白石街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/06/02/370602007.html
+370602008000	山东省-烟台市-芝罘区-芝罘岛街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/06/02/370602008.html
+370602009000	山东省-烟台市-芝罘区-黄务街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/06/02/370602009.html
+370602010000	山东省-烟台市-芝罘区-只楚街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/06/02/370602010.html
+370602011000	山东省-烟台市-芝罘区-世回尧街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/06/02/370602011.html
+370602012000	山东省-烟台市-芝罘区-幸福街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/06/02/370602012.html

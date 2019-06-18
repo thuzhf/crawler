@@ -1,0 +1,9 @@
+130631100000	河北省-保定市-望都县-望都镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/06/31/130631100.html
+130631101000	河北省-保定市-望都县-固店镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/06/31/130631101.html
+130631102000	河北省-保定市-望都县-贾村镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/06/31/130631102.html
+130631103000	河北省-保定市-望都县-中韩庄镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/06/31/130631103.html
+130631200000	河北省-保定市-望都县-寺庄乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/06/31/130631200.html
+130631201000	河北省-保定市-望都县-赵庄乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/06/31/130631201.html
+130631202000	河北省-保定市-望都县-黑堡乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/06/31/130631202.html
+130631204000	河北省-保定市-望都县-高岭乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/06/31/130631204.html
+130631400000	河北省-保定市-望都县-望都经济开发区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/06/31/130631400.html

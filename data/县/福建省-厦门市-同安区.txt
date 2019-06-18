@@ -1,0 +1,9 @@
+350212001000	福建省-厦门市-同安区-大同街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/02/12/350212001.html
+350212002000	福建省-厦门市-同安区-祥平街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/02/12/350212002.html
+350212105000	福建省-厦门市-同安区-莲花镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/02/12/350212105.html
+350212106000	福建省-厦门市-同安区-新民镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/02/12/350212106.html
+350212107000	福建省-厦门市-同安区-洪塘镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/02/12/350212107.html
+350212108000	福建省-厦门市-同安区-西柯镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/02/12/350212108.html
+350212109000	福建省-厦门市-同安区-汀溪镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/02/12/350212109.html
+350212110000	福建省-厦门市-同安区-五显镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/02/12/350212110.html
+350212403000	福建省-厦门市-同安区-竹坝华侨农场（竹坝华侨经济开发区）	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/02/12/350212403.html

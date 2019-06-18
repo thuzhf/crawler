@@ -1,0 +1,16 @@
+140925100000	山西省-忻州市-宁武县-凤凰镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/09/25/140925100.html
+140925101000	山西省-忻州市-宁武县-阳方口镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/09/25/140925101.html
+140925102000	山西省-忻州市-宁武县-东寨镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/09/25/140925102.html
+140925103000	山西省-忻州市-宁武县-石家庄镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/09/25/140925103.html
+140925200000	山西省-忻州市-宁武县-薛家洼乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/09/25/140925200.html
+140925201000	山西省-忻州市-宁武县-余庄乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/09/25/140925201.html
+140925202000	山西省-忻州市-宁武县-涔山乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/09/25/140925202.html
+140925203000	山西省-忻州市-宁武县-化北屯乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/09/25/140925203.html
+140925204000	山西省-忻州市-宁武县-西马坊乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/09/25/140925204.html
+140925205000	山西省-忻州市-宁武县-新堡乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/09/25/140925205.html
+140925206000	山西省-忻州市-宁武县-迭台寺乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/09/25/140925206.html
+140925207000	山西省-忻州市-宁武县-圪廖乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/09/25/140925207.html
+140925208000	山西省-忻州市-宁武县-怀道乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/09/25/140925208.html
+140925209000	山西省-忻州市-宁武县-东马坊乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/09/25/140925209.html
+140925400000	山西省-忻州市-宁武县-阳方口煤矿生活区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/09/25/140925400.html
+140925401000	山西省-忻州市-宁武县-城区居民办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/09/25/140925401.html

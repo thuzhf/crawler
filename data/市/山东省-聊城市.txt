@@ -1,0 +1,9 @@
+371501000000	山东省-聊城市-市辖区	
+371502000000	山东省-聊城市-东昌府区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/15/371502.html
+371521000000	山东省-聊城市-阳谷县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/15/371521.html
+371522000000	山东省-聊城市-莘县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/15/371522.html
+371523000000	山东省-聊城市-茌平县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/15/371523.html
+371524000000	山东省-聊城市-东阿县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/15/371524.html
+371525000000	山东省-聊城市-冠县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/15/371525.html
+371526000000	山东省-聊城市-高唐县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/15/371526.html
+371581000000	山东省-聊城市-临清市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/15/371581.html

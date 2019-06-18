@@ -1,0 +1,14 @@
+321282001000	江苏省-泰州市-靖江市-靖城街道办	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/12/82/321282001.html
+321282101000	江苏省-泰州市-靖江市-新桥镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/12/82/321282101.html
+321282102000	江苏省-泰州市-靖江市-东兴镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/12/82/321282102.html
+321282103000	江苏省-泰州市-靖江市-斜桥镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/12/82/321282103.html
+321282104000	江苏省-泰州市-靖江市-西来镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/12/82/321282104.html
+321282105000	江苏省-泰州市-靖江市-季市镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/12/82/321282105.html
+321282106000	江苏省-泰州市-靖江市-孤山镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/12/82/321282106.html
+321282108000	江苏省-泰州市-靖江市-生祠镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/12/82/321282108.html
+321282109000	江苏省-泰州市-靖江市-马桥镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/12/82/321282109.html
+321282401000	江苏省-泰州市-靖江市-城南办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/12/82/321282401.html
+321282402000	江苏省-泰州市-靖江市-新港城	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/12/82/321282402.html
+321282403000	江苏省-泰州市-靖江市-城北园区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/12/82/321282403.html
+321282404000	江苏省-泰州市-靖江市-江阴园区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/12/82/321282404.html
+321282406000	江苏省-泰州市-靖江市-滨江新城	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/12/82/321282406.html

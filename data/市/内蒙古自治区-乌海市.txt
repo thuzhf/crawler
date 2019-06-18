@@ -1,0 +1,4 @@
+150301000000	内蒙古自治区-乌海市-市辖区	
+150302000000	内蒙古自治区-乌海市-海勃湾区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/03/150302.html
+150303000000	内蒙古自治区-乌海市-海南区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/03/150303.html
+150304000000	内蒙古自治区-乌海市-乌达区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/03/150304.html

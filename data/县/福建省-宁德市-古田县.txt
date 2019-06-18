@@ -1,0 +1,14 @@
+350922001000	福建省-宁德市-古田县-城东街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/09/22/350922001.html
+350922002000	福建省-宁德市-古田县-城西街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/09/22/350922002.html
+350922101000	福建省-宁德市-古田县-平湖镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/09/22/350922101.html
+350922102000	福建省-宁德市-古田县-大桥镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/09/22/350922102.html
+350922103000	福建省-宁德市-古田县-黄田镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/09/22/350922103.html
+350922104000	福建省-宁德市-古田县-鹤塘镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/09/22/350922104.html
+350922105000	福建省-宁德市-古田县-杉洋镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/09/22/350922105.html
+350922106000	福建省-宁德市-古田县-凤都镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/09/22/350922106.html
+350922107000	福建省-宁德市-古田县-水口镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/09/22/350922107.html
+350922108000	福建省-宁德市-古田县-大甲镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/09/22/350922108.html
+350922201000	福建省-宁德市-古田县-吉巷乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/09/22/350922201.html
+350922203000	福建省-宁德市-古田县-泮洋乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/09/22/350922203.html
+350922204000	福建省-宁德市-古田县-凤埔乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/09/22/350922204.html
+350922205000	福建省-宁德市-古田县-卓洋乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/09/22/350922205.html

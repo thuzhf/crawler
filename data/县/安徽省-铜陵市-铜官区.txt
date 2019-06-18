@@ -1,0 +1,5 @@
+340705005000	安徽省-铜陵市-铜官区-东郊办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/07/05/340705005.html
+340705006000	安徽省-铜陵市-铜官区-新城办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/07/05/340705006.html
+340705100000	安徽省-铜陵市-铜官区-西湖镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/07/05/340705100.html
+340705198000	安徽省-铜陵市-铜官区-铜官区虚镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/07/05/340705198.html
+340705400000	安徽省-铜陵市-铜官区-铜陵市经济开发区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/07/05/340705400.html

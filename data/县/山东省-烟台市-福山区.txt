@@ -1,0 +1,7 @@
+370611001000	山东省-烟台市-福山区-清洋街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/06/11/370611001.html
+370611002000	山东省-烟台市-福山区-福新街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/06/11/370611002.html
+370611006000	山东省-烟台市-福山区-东厅街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/06/11/370611006.html
+370611007000	山东省-烟台市-福山区-门楼街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/06/11/370611007.html
+370611102000	山东省-烟台市-福山区-高疃镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/06/11/370611102.html
+370611103000	山东省-烟台市-福山区-张格庄镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/06/11/370611103.html
+370611104000	山东省-烟台市-福山区-回里镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/06/11/370611104.html

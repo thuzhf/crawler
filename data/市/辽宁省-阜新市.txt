@@ -1,0 +1,8 @@
+210901000000	辽宁省-阜新市-市辖区	
+210902000000	辽宁省-阜新市-海州区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/09/210902.html
+210903000000	辽宁省-阜新市-新邱区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/09/210903.html
+210904000000	辽宁省-阜新市-太平区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/09/210904.html
+210905000000	辽宁省-阜新市-清河门区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/09/210905.html
+210911000000	辽宁省-阜新市-细河区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/09/210911.html
+210921000000	辽宁省-阜新市-阜新蒙古族自治县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/09/210921.html
+210922000000	辽宁省-阜新市-彰武县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/09/210922.html

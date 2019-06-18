@@ -1,0 +1,9 @@
+350625100000	福建省-漳州市-长泰县-武安镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/06/25/350625100.html
+350625101000	福建省-漳州市-长泰县-岩溪镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/06/25/350625101.html
+350625102000	福建省-漳州市-长泰县-陈巷镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/06/25/350625102.html
+350625103000	福建省-漳州市-长泰县-枋洋镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/06/25/350625103.html
+350625200000	福建省-漳州市-长泰县-坂里乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/06/25/350625200.html
+350625400000	福建省-漳州市-长泰县-国营古农农场	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/06/25/350625400.html
+350625500000	福建省-漳州市-长泰县-长泰经济开发区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/06/25/350625500.html
+350625501000	福建省-漳州市-长泰县-马洋溪生态旅游区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/06/25/350625501.html
+350625502000	福建省-漳州市-长泰县-林墩工业区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/06/25/350625502.html

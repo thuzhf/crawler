@@ -1,0 +1,6 @@
+152201000000	内蒙古自治区-兴安盟-乌兰浩特市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/22/152201.html
+152202000000	内蒙古自治区-兴安盟-阿尔山市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/22/152202.html
+152221000000	内蒙古自治区-兴安盟-科尔沁右翼前旗	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/22/152221.html
+152222000000	内蒙古自治区-兴安盟-科尔沁右翼中旗	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/22/152222.html
+152223000000	内蒙古自治区-兴安盟-扎赉特旗	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/22/152223.html
+152224000000	内蒙古自治区-兴安盟-突泉县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/22/152224.html

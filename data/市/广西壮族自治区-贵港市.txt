@@ -1,0 +1,6 @@
+450801000000	广西壮族自治区-贵港市-市辖区	
+450802000000	广西壮族自治区-贵港市-港北区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/08/450802.html
+450803000000	广西壮族自治区-贵港市-港南区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/08/450803.html
+450804000000	广西壮族自治区-贵港市-覃塘区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/08/450804.html
+450821000000	广西壮族自治区-贵港市-平南县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/08/450821.html
+450881000000	广西壮族自治区-贵港市-桂平市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/08/450881.html

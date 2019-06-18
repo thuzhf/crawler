@@ -1,0 +1,11 @@
+152525100000	内蒙古自治区-锡林郭勒盟-东乌珠穆沁旗-乌里雅斯太镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/25/25/152525100.html
+152525101000	内蒙古自治区-锡林郭勒盟-东乌珠穆沁旗-道特淖尔镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/25/25/152525101.html
+152525102000	内蒙古自治区-锡林郭勒盟-东乌珠穆沁旗-嘎达布其镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/25/25/152525102.html
+152525103000	内蒙古自治区-锡林郭勒盟-东乌珠穆沁旗-满都胡宝拉格镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/25/25/152525103.html
+152525104000	内蒙古自治区-锡林郭勒盟-东乌珠穆沁旗-额吉淖尔镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/25/25/152525104.html
+152525200000	内蒙古自治区-锡林郭勒盟-东乌珠穆沁旗-呼热图淖尔苏木	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/25/25/152525200.html
+152525201000	内蒙古自治区-锡林郭勒盟-东乌珠穆沁旗-萨麦苏木	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/25/25/152525201.html
+152525202000	内蒙古自治区-锡林郭勒盟-东乌珠穆沁旗-嘎海乐苏木	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/25/25/152525202.html
+152525203000	内蒙古自治区-锡林郭勒盟-东乌珠穆沁旗-阿拉坦合力苏木	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/25/25/152525203.html
+152525400000	内蒙古自治区-锡林郭勒盟-东乌珠穆沁旗-乌里雅斯太工业区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/25/25/152525400.html
+152525503000	内蒙古自治区-锡林郭勒盟-东乌珠穆沁旗-宝格达乌拉总场	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/25/25/152525503.html

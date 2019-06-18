@@ -1,0 +1,13 @@
+320106001000	江苏省-南京市-鼓楼区-宁海路街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/01/06/320106001.html
+320106002000	江苏省-南京市-鼓楼区-华侨路街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/01/06/320106002.html
+320106003000	江苏省-南京市-鼓楼区-湖南路街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/01/06/320106003.html
+320106004000	江苏省-南京市-鼓楼区-中央门街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/01/06/320106004.html
+320106005000	江苏省-南京市-鼓楼区-挹江门街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/01/06/320106005.html
+320106006000	江苏省-南京市-鼓楼区-江东街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/01/06/320106006.html
+320106007000	江苏省-南京市-鼓楼区-凤凰街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/01/06/320106007.html
+320106008000	江苏省-南京市-鼓楼区-下关街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/01/06/320106008.html
+320106009000	江苏省-南京市-鼓楼区-热河南路街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/01/06/320106009.html
+320106010000	江苏省-南京市-鼓楼区-幕府山街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/01/06/320106010.html
+320106011000	江苏省-南京市-鼓楼区-建宁路街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/01/06/320106011.html
+320106012000	江苏省-南京市-鼓楼区-宝塔桥街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/01/06/320106012.html
+320106013000	江苏省-南京市-鼓楼区-小市街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/01/06/320106013.html

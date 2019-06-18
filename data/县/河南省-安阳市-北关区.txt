@@ -1,0 +1,10 @@
+410503001000	河南省-安阳市-北关区-红旗路街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/05/03/410503001.html
+410503003000	河南省-安阳市-北关区-解放路街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/05/03/410503003.html
+410503004000	河南省-安阳市-北关区-灯塔路街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/05/03/410503004.html
+410503005000	河南省-安阳市-北关区-豆腐营街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/05/03/410503005.html
+410503006000	河南省-安阳市-北关区-洹北街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/05/03/410503006.html
+410503008000	河南省-安阳市-北关区-彰东街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/05/03/410503008.html
+410503009000	河南省-安阳市-北关区-彰北街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/05/03/410503009.html
+410503010000	河南省-安阳市-北关区-民航路街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/05/03/410503010.html
+410503011000	河南省-安阳市-北关区-曙光路街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/05/03/410503011.html
+410503100000	河南省-安阳市-北关区-柏庄镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/05/03/410503100.html

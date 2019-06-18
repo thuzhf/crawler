@@ -1,0 +1,9 @@
+530821101000	云南省-普洱市-宁洱哈尼族彝族自治县-宁洱镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/08/21/530821101.html
+530821102000	云南省-普洱市-宁洱哈尼族彝族自治县-磨黑镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/08/21/530821102.html
+530821103000	云南省-普洱市-宁洱哈尼族彝族自治县-德化镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/08/21/530821103.html
+530821104000	云南省-普洱市-宁洱哈尼族彝族自治县-同心镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/08/21/530821104.html
+530821105000	云南省-普洱市-宁洱哈尼族彝族自治县-勐先镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/08/21/530821105.html
+530821106000	云南省-普洱市-宁洱哈尼族彝族自治县-梅子镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/08/21/530821106.html
+530821201000	云南省-普洱市-宁洱哈尼族彝族自治县-德安乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/08/21/530821201.html
+530821205000	云南省-普洱市-宁洱哈尼族彝族自治县-普义乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/08/21/530821205.html
+530821206000	云南省-普洱市-宁洱哈尼族彝族自治县-黎明乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/08/21/530821206.html

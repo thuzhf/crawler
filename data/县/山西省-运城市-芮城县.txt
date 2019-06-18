@@ -1,0 +1,12 @@
+140830100000	山西省-运城市-芮城县-古魏镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/08/30/140830100.html
+140830101000	山西省-运城市-芮城县-风陵渡镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/08/30/140830101.html
+140830102000	山西省-运城市-芮城县-陌南镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/08/30/140830102.html
+140830103000	山西省-运城市-芮城县-西陌镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/08/30/140830103.html
+140830104000	山西省-运城市-芮城县-永乐镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/08/30/140830104.html
+140830105000	山西省-运城市-芮城县-大王镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/08/30/140830105.html
+140830106000	山西省-运城市-芮城县-阳城镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/08/30/140830106.html
+140830200000	山西省-运城市-芮城县-东垆乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/08/30/140830200.html
+140830201000	山西省-运城市-芮城县-南卫乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/08/30/140830201.html
+140830202000	山西省-运城市-芮城县-学张乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/08/30/140830202.html
+140830401000	山西省-运城市-芮城县-城镇社区管理委员会	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/08/30/140830401.html
+140830402000	山西省-运城市-芮城县-山西风陵渡经济开发区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/08/30/140830402.html

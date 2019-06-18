@@ -1,0 +1,16 @@
+653121100000	新疆维吾尔自治区-喀什地区-疏附县-托克扎克镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/31/21/653121100.html
+653121101000	新疆维吾尔自治区-喀什地区-疏附县-兰干镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/31/21/653121101.html
+653121102000	新疆维吾尔自治区-喀什地区-疏附县-吾库萨克镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/31/21/653121102.html
+653121103000	新疆维吾尔自治区-喀什地区-疏附县-乌帕尔镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/31/21/653121103.html
+653121201000	新疆维吾尔自治区-喀什地区-疏附县-塔什米里克乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/31/21/653121201.html
+653121202000	新疆维吾尔自治区-喀什地区-疏附县-铁日木乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/31/21/653121202.html
+653121203000	新疆维吾尔自治区-喀什地区-疏附县-布拉克苏乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/31/21/653121203.html
+653121204000	新疆维吾尔自治区-喀什地区-疏附县-萨依巴格乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/31/21/653121204.html
+653121205000	新疆维吾尔自治区-喀什地区-疏附县-站敏乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/31/21/653121205.html
+653121211000	新疆维吾尔自治区-喀什地区-疏附县-木什乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/31/21/653121211.html
+653121400000	新疆维吾尔自治区-喀什地区-疏附县-县种畜场	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/31/21/653121400.html
+653121401000	新疆维吾尔自治区-喀什地区-疏附县-县园艺场	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/31/21/653121401.html
+653121402000	新疆维吾尔自治区-喀什地区-疏附县-县林场	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/31/21/653121402.html
+653121403000	新疆维吾尔自治区-喀什地区-疏附县-县良种场	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/31/21/653121403.html
+653121404000	新疆维吾尔自治区-喀什地区-疏附县-县英艾力克大畜场	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/31/21/653121404.html
+653121406000	新疆维吾尔自治区-喀什地区-疏附县-疏附广州工业城	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/31/21/653121406.html

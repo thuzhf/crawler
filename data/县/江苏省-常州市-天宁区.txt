@@ -1,0 +1,7 @@
+320402001000	江苏省-常州市-天宁区-雕庄街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/04/02/320402001.html
+320402002000	江苏省-常州市-天宁区-青龙街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/04/02/320402002.html
+320402003000	江苏省-常州市-天宁区-茶山街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/04/02/320402003.html
+320402004000	江苏省-常州市-天宁区-红梅街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/04/02/320402004.html
+320402005000	江苏省-常州市-天宁区-天宁街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/04/02/320402005.html
+320402006000	江苏省-常州市-天宁区-兰陵街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/04/02/320402006.html
+320402109000	江苏省-常州市-天宁区-郑陆镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/04/02/320402109.html

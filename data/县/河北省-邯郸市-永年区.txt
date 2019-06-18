@@ -1,0 +1,17 @@
+130408100000	河北省-邯郸市-永年区-临洺关镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/04/08/130408100.html
+130408101000	河北省-邯郸市-永年区-大北汪镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/04/08/130408101.html
+130408102000	河北省-邯郸市-永年区-张西堡镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/04/08/130408102.html
+130408103000	河北省-邯郸市-永年区-广府镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/04/08/130408103.html
+130408105000	河北省-邯郸市-永年区-永合会镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/04/08/130408105.html
+130408106000	河北省-邯郸市-永年区-刘营镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/04/08/130408106.html
+130408107000	河北省-邯郸市-永年区-西苏镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/04/08/130408107.html
+130408108000	河北省-邯郸市-永年区-讲武镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/04/08/130408108.html
+130408109000	河北省-邯郸市-永年区-东杨庄镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/04/08/130408109.html
+130408201000	河北省-邯郸市-永年区-界河店乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/04/08/130408201.html
+130408203000	河北省-邯郸市-永年区-刘汉乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/04/08/130408203.html
+130408204000	河北省-邯郸市-永年区-正西乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/04/08/130408204.html
+130408206000	河北省-邯郸市-永年区-曲陌乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/04/08/130408206.html
+130408207000	河北省-邯郸市-永年区-辛庄堡乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/04/08/130408207.html
+130408208000	河北省-邯郸市-永年区-小龙马乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/04/08/130408208.html
+130408211000	河北省-邯郸市-永年区-西河庄乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/04/08/130408211.html
+130408213000	河北省-邯郸市-永年区-西阳城乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/04/08/130408213.html

@@ -1,0 +1,16 @@
+340121100000	安徽省-合肥市-长丰县-水湖镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/01/21/340121100.html
+340121101000	安徽省-合肥市-长丰县-庄墓镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/01/21/340121101.html
+340121102000	安徽省-合肥市-长丰县-杨庙镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/01/21/340121102.html
+340121103000	安徽省-合肥市-长丰县-吴山镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/01/21/340121103.html
+340121104000	安徽省-合肥市-长丰县-岗集镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/01/21/340121104.html
+340121105000	安徽省-合肥市-长丰县-双墩镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/01/21/340121105.html
+340121106000	安徽省-合肥市-长丰县-下塘镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/01/21/340121106.html
+340121107000	安徽省-合肥市-长丰县-朱巷镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/01/21/340121107.html
+340121109000	安徽省-合肥市-长丰县-陶楼镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/01/21/340121109.html
+340121110000	安徽省-合肥市-长丰县-杜集镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/01/21/340121110.html
+340121200000	安徽省-合肥市-长丰县-罗塘乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/01/21/340121200.html
+340121201000	安徽省-合肥市-长丰县-义井乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/01/21/340121201.html
+340121203000	安徽省-合肥市-长丰县-造甲乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/01/21/340121203.html
+340121204000	安徽省-合肥市-长丰县-左店乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/01/21/340121204.html
+340121400000	安徽省-合肥市-长丰县-双凤开发区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/01/21/340121400.html
+340121401000	安徽省-合肥市-长丰县-安徽省水家湖农场	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/01/21/340121401.html

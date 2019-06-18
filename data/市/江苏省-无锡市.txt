@@ -1,0 +1,8 @@
+320201000000	江苏省-无锡市-市辖区	
+320205000000	江苏省-无锡市-锡山区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/02/320205.html
+320206000000	江苏省-无锡市-惠山区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/02/320206.html
+320211000000	江苏省-无锡市-滨湖区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/02/320211.html
+320213000000	江苏省-无锡市-梁溪区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/02/320213.html
+320214000000	江苏省-无锡市-新吴区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/02/320214.html
+320281000000	江苏省-无锡市-江阴市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/02/320281.html
+320282000000	江苏省-无锡市-宜兴市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/02/320282.html

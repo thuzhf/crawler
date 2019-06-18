@@ -1,0 +1,7 @@
+440507001000	广东省-汕头市-龙湖区-金霞街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/05/07/440507001.html
+440507003000	广东省-汕头市-龙湖区-珠池街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/05/07/440507003.html
+440507004000	广东省-汕头市-龙湖区-新津街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/05/07/440507004.html
+440507005000	广东省-汕头市-龙湖区-鸥汀街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/05/07/440507005.html
+440507008000	广东省-汕头市-龙湖区-龙祥街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/05/07/440507008.html
+440507100000	广东省-汕头市-龙湖区-外砂镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/05/07/440507100.html
+440507101000	广东省-汕头市-龙湖区-新溪镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/05/07/440507101.html

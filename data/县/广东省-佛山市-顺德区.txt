@@ -1,0 +1,10 @@
+440606003000	广东省-佛山市-顺德区-伦教街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/06/06/440606003.html
+440606004000	广东省-佛山市-顺德区-勒流街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/06/06/440606004.html
+440606005000	广东省-佛山市-顺德区-大良街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/06/06/440606005.html
+440606006000	广东省-佛山市-顺德区-容桂街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/06/06/440606006.html
+440606101000	广东省-佛山市-顺德区-陈村镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/06/06/440606101.html
+440606102000	广东省-佛山市-顺德区-北滘镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/06/06/440606102.html
+440606103000	广东省-佛山市-顺德区-乐从镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/06/06/440606103.html
+440606104000	广东省-佛山市-顺德区-龙江镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/06/06/440606104.html
+440606105000	广东省-佛山市-顺德区-杏坛镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/06/06/440606105.html
+440606106000	广东省-佛山市-顺德区-均安镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/06/06/440606106.html

@@ -1,0 +1,10 @@
+530301000000	云南省-曲靖市-市辖区	
+530302000000	云南省-曲靖市-麒麟区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/03/530302.html
+530303000000	云南省-曲靖市-沾益区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/03/530303.html
+530304000000	云南省-曲靖市-马龙区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/03/530304.html
+530322000000	云南省-曲靖市-陆良县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/03/530322.html
+530323000000	云南省-曲靖市-师宗县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/03/530323.html
+530324000000	云南省-曲靖市-罗平县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/03/530324.html
+530325000000	云南省-曲靖市-富源县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/03/530325.html
+530326000000	云南省-曲靖市-会泽县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/03/530326.html
+530381000000	云南省-曲靖市-宣威市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/03/530381.html

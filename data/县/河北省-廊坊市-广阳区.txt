@@ -1,0 +1,10 @@
+131003001000	河北省-廊坊市-广阳区-银河北路街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/10/03/131003001.html
+131003002000	河北省-廊坊市-广阳区-爱民东道街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/10/03/131003002.html
+131003003000	河北省-廊坊市-广阳区-解放道街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/10/03/131003003.html
+131003004000	河北省-廊坊市-广阳区-新开路街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/10/03/131003004.html
+131003005000	河北省-廊坊市-广阳区-新源道街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/10/03/131003005.html
+131003100000	河北省-廊坊市-广阳区-南尖塔镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/10/03/131003100.html
+131003101000	河北省-廊坊市-广阳区-万庄镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/10/03/131003101.html
+131003102000	河北省-廊坊市-广阳区-九州镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/10/03/131003102.html
+131003200000	河北省-廊坊市-广阳区-北旺乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/10/03/131003200.html
+131003500000	河北省-廊坊市-广阳区-新世纪步行街管理委员会	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/10/03/131003500.html

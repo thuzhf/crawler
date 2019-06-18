@@ -1,0 +1,12 @@
+220523100000	吉林省-通化市-辉南县-朝阳镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/05/23/220523100.html
+220523101000	吉林省-通化市-辉南县-辉南镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/05/23/220523101.html
+220523102000	吉林省-通化市-辉南县-样子哨镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/05/23/220523102.html
+220523103000	吉林省-通化市-辉南县-杉松岗镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/05/23/220523103.html
+220523104000	吉林省-通化市-辉南县-石道河镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/05/23/220523104.html
+220523105000	吉林省-通化市-辉南县-辉发城镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/05/23/220523105.html
+220523106000	吉林省-通化市-辉南县-抚民镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/05/23/220523106.html
+220523107000	吉林省-通化市-辉南县-金川镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/05/23/220523107.html
+220523108000	吉林省-通化市-辉南县-团林镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/05/23/220523108.html
+220523109000	吉林省-通化市-辉南县-庆阳镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/05/23/220523109.html
+220523200000	吉林省-通化市-辉南县-楼街朝鲜族乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/05/23/220523200.html
+220523400000	吉林省-通化市-辉南县-辉南县经济技术开发区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/05/23/220523400.html

@@ -1,0 +1,10 @@
+610429001000	陕西省-咸阳市-旬邑县-城关街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/61/04/29/610429001.html
+610429101000	陕西省-咸阳市-旬邑县-土桥镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/61/04/29/610429101.html
+610429102000	陕西省-咸阳市-旬邑县-职田镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/61/04/29/610429102.html
+610429103000	陕西省-咸阳市-旬邑县-张洪镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/61/04/29/610429103.html
+610429104000	陕西省-咸阳市-旬邑县-太村镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/61/04/29/610429104.html
+610429105000	陕西省-咸阳市-旬邑县-郑家镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/61/04/29/610429105.html
+610429106000	陕西省-咸阳市-旬邑县-湫坡头镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/61/04/29/610429106.html
+610429107000	陕西省-咸阳市-旬邑县-底庙镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/61/04/29/610429107.html
+610429109000	陕西省-咸阳市-旬邑县-马栏镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/61/04/29/610429109.html
+610429110000	陕西省-咸阳市-旬邑县-清塬镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/61/04/29/610429110.html

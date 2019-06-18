@@ -1,0 +1,10 @@
+340301000000	安徽省-蚌埠市-市辖区	
+340302000000	安徽省-蚌埠市-龙子湖区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/03/340302.html
+340303000000	安徽省-蚌埠市-蚌山区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/03/340303.html
+340304000000	安徽省-蚌埠市-禹会区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/03/340304.html
+340311000000	安徽省-蚌埠市-淮上区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/03/340311.html
+340321000000	安徽省-蚌埠市-怀远县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/03/340321.html
+340322000000	安徽省-蚌埠市-五河县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/03/340322.html
+340323000000	安徽省-蚌埠市-固镇县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/03/340323.html
+340371000000	安徽省-蚌埠市-蚌埠市高新技术开发区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/03/340371.html
+340372000000	安徽省-蚌埠市-蚌埠市经济开发区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/03/340372.html

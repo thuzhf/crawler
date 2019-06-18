@@ -1,0 +1,11 @@
+140825100000	山西省-运城市-新绛县-龙兴镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/08/25/140825100.html
+140825101000	山西省-运城市-新绛县-三泉镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/08/25/140825101.html
+140825102000	山西省-运城市-新绛县-泽掌镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/08/25/140825102.html
+140825103000	山西省-运城市-新绛县-北张镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/08/25/140825103.html
+140825104000	山西省-运城市-新绛县-古交镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/08/25/140825104.html
+140825105000	山西省-运城市-新绛县-万安镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/08/25/140825105.html
+140825106000	山西省-运城市-新绛县-阳王镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/08/25/140825106.html
+140825107000	山西省-运城市-新绛县-泉掌镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/08/25/140825107.html
+140825200000	山西省-运城市-新绛县-横桥乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/08/25/140825200.html
+140825400000	山西省-运城市-新绛县-社区办	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/08/25/140825400.html
+140825498000	山西省-运城市-新绛县-新绛县煤化园区管委会	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/08/25/140825498.html

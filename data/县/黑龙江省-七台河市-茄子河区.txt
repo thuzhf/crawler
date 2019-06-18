@@ -1,0 +1,17 @@
+230904011000	黑龙江省-七台河市-茄子河区-东风社区公共服务站	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/09/04/230904011.html
+230904012000	黑龙江省-七台河市-茄子河区-康富社区公共服务站	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/09/04/230904012.html
+230904013000	黑龙江省-七台河市-茄子河区-湖东社区公共服务站	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/09/04/230904013.html
+230904014000	黑龙江省-七台河市-茄子河区-康乐社区公共服务站	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/09/04/230904014.html
+230904015000	黑龙江省-七台河市-茄子河区-永泰社区公共服务站	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/09/04/230904015.html
+230904016000	黑龙江省-七台河市-茄子河区-通达社区公共服务站	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/09/04/230904016.html
+230904017000	黑龙江省-七台河市-茄子河区-惠民社区公共服务站	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/09/04/230904017.html
+230904018000	黑龙江省-七台河市-茄子河区-安民社区公共服务站	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/09/04/230904018.html
+230904019000	黑龙江省-七台河市-茄子河区-盛馨社区公共服务站	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/09/04/230904019.html
+230904020000	黑龙江省-七台河市-茄子河区-欣苑社区公共服务站	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/09/04/230904020.html
+230904021000	黑龙江省-七台河市-茄子河区-东胜社区公共服务站	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/09/04/230904021.html
+230904022000	黑龙江省-七台河市-茄子河区-富强社区公共服务站	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/09/04/230904022.html
+230904023000	黑龙江省-七台河市-茄子河区-龙湖社区公共服务站	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/09/04/230904023.html
+230904100000	黑龙江省-七台河市-茄子河区-茄子河镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/09/04/230904100.html
+230904101000	黑龙江省-七台河市-茄子河区-宏伟镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/09/04/230904101.html
+230904200000	黑龙江省-七台河市-茄子河区-铁山乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/09/04/230904200.html
+230904201000	黑龙江省-七台河市-茄子河区-中心河乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/09/04/230904201.html

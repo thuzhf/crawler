@@ -1,0 +1,11 @@
+370402001000	山东省-枣庄市-市中区-中心街街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/04/02/370402001.html
+370402002000	山东省-枣庄市-市中区-各塔埠街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/04/02/370402002.html
+370402003000	山东省-枣庄市-市中区-矿区街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/04/02/370402003.html
+370402004000	山东省-枣庄市-市中区-文化路街道办事	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/04/02/370402004.html
+370402005000	山东省-枣庄市-市中区-龙山路街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/04/02/370402005.html
+370402006000	山东省-枣庄市-市中区-光明路街道办事	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/04/02/370402006.html
+370402101000	山东省-枣庄市-市中区-税郭镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/04/02/370402101.html
+370402102000	山东省-枣庄市-市中区-孟庄镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/04/02/370402102.html
+370402103000	山东省-枣庄市-市中区-齐村镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/04/02/370402103.html
+370402104000	山东省-枣庄市-市中区-永安镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/04/02/370402104.html
+370402105000	山东省-枣庄市-市中区-西王庄镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/04/02/370402105.html

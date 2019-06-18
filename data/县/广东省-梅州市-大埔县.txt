@@ -1,0 +1,17 @@
+441422100000	广东省-梅州市-大埔县-湖寮镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/14/22/441422100.html
+441422103000	广东省-梅州市-大埔县-青溪镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/14/22/441422103.html
+441422105000	广东省-梅州市-大埔县-三河镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/14/22/441422105.html
+441422108000	广东省-梅州市-大埔县-银江镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/14/22/441422108.html
+441422109000	广东省-梅州市-大埔县-洲瑞镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/14/22/441422109.html
+441422112000	广东省-梅州市-大埔县-光德镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/14/22/441422112.html
+441422113000	广东省-梅州市-大埔县-桃源镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/14/22/441422113.html
+441422116000	广东省-梅州市-大埔县-百侯镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/14/22/441422116.html
+441422117000	广东省-梅州市-大埔县-大东镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/14/22/441422117.html
+441422121000	广东省-梅州市-大埔县-大麻镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/14/22/441422121.html
+441422122000	广东省-梅州市-大埔县-枫朗镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/14/22/441422122.html
+441422123000	广东省-梅州市-大埔县-茶阳镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/14/22/441422123.html
+441422124000	广东省-梅州市-大埔县-高陂镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/14/22/441422124.html
+441422125000	广东省-梅州市-大埔县-西河镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/14/22/441422125.html
+441422400000	广东省-梅州市-大埔县-丰溪林场	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/14/22/441422400.html
+441422401000	广东省-梅州市-大埔县-洲瑞林场	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/14/22/441422401.html
+441422402000	广东省-梅州市-大埔县-大埔林场	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/14/22/441422402.html

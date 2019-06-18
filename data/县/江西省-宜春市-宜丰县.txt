@@ -1,0 +1,17 @@
+360924100000	江西省-宜春市-宜丰县-新昌镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/09/24/360924100.html
+360924101000	江西省-宜春市-宜丰县-澄塘镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/09/24/360924101.html
+360924102000	江西省-宜春市-宜丰县-棠浦镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/09/24/360924102.html
+360924103000	江西省-宜春市-宜丰县-新庄镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/09/24/360924103.html
+360924104000	江西省-宜春市-宜丰县-潭山镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/09/24/360924104.html
+360924105000	江西省-宜春市-宜丰县-芳溪镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/09/24/360924105.html
+360924106000	江西省-宜春市-宜丰县-石市镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/09/24/360924106.html
+360924107000	江西省-宜春市-宜丰县-黄岗镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/09/24/360924107.html
+360924200000	江西省-宜春市-宜丰县-花桥乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/09/24/360924200.html
+360924201000	江西省-宜春市-宜丰县-同安乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/09/24/360924201.html
+360924202000	江西省-宜春市-宜丰县-天宝乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/09/24/360924202.html
+360924204000	江西省-宜春市-宜丰县-桥西乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/09/24/360924204.html
+360924400000	江西省-宜春市-宜丰县-宜丰县工业园区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/09/24/360924400.html
+360924500000	江西省-宜春市-宜丰县-车上林场	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/09/24/360924500.html
+360924501000	江西省-宜春市-宜丰县-双峰林场	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/09/24/360924501.html
+360924502000	江西省-宜春市-宜丰县-石花尖垦殖场	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/09/24/360924502.html
+360924503000	江西省-宜春市-宜丰县-黄岗山垦殖场	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/09/24/360924503.html

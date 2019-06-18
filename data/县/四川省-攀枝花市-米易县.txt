@@ -1,0 +1,12 @@
+510421100000	四川省-攀枝花市-米易县-攀莲镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/04/21/510421100.html
+510421101000	四川省-攀枝花市-米易县-丙谷镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/04/21/510421101.html
+510421102000	四川省-攀枝花市-米易县-得石镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/04/21/510421102.html
+510421103000	四川省-攀枝花市-米易县-撒莲镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/04/21/510421103.html
+510421104000	四川省-攀枝花市-米易县-垭口镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/04/21/510421104.html
+510421105000	四川省-攀枝花市-米易县-白马镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/04/21/510421105.html
+510421106000	四川省-攀枝花市-米易县-普威镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/04/21/510421106.html
+510421200000	四川省-攀枝花市-米易县-草场乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/04/21/510421200.html
+510421201000	四川省-攀枝花市-米易县-湾丘彝族乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/04/21/510421201.html
+510421202000	四川省-攀枝花市-米易县-白坡彝族乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/04/21/510421202.html
+510421203000	四川省-攀枝花市-米易县-麻陇彝族乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/04/21/510421203.html
+510421204000	四川省-攀枝花市-米易县-新山傈僳族乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/04/21/510421204.html

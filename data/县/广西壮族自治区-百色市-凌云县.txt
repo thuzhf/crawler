@@ -1,0 +1,8 @@
+451027100000	广西壮族自治区-百色市-凌云县-泗城镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/10/27/451027100.html
+451027101000	广西壮族自治区-百色市-凌云县-逻楼镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/10/27/451027101.html
+451027102000	广西壮族自治区-百色市-凌云县-加尤镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/10/27/451027102.html
+451027103000	广西壮族自治区-百色市-凌云县-下甲镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/10/27/451027103.html
+451027201000	广西壮族自治区-百色市-凌云县-伶站瑶族乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/10/27/451027201.html
+451027202000	广西壮族自治区-百色市-凌云县-朝里瑶族乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/10/27/451027202.html
+451027203000	广西壮族自治区-百色市-凌云县-沙里瑶族乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/10/27/451027203.html
+451027205000	广西壮族自治区-百色市-凌云县-玉洪瑶族乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/10/27/451027205.html

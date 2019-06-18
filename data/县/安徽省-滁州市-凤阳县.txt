@@ -1,0 +1,17 @@
+341126100000	安徽省-滁州市-凤阳县-府城镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/11/26/341126100.html
+341126101000	安徽省-滁州市-凤阳县-临淮关镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/11/26/341126101.html
+341126102000	安徽省-滁州市-凤阳县-武店镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/11/26/341126102.html
+341126103000	安徽省-滁州市-凤阳县-西泉镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/11/26/341126103.html
+341126104000	安徽省-滁州市-凤阳县-官塘镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/11/26/341126104.html
+341126105000	安徽省-滁州市-凤阳县-刘府镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/11/26/341126105.html
+341126106000	安徽省-滁州市-凤阳县-大庙镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/11/26/341126106.html
+341126107000	安徽省-滁州市-凤阳县-殷涧镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/11/26/341126107.html
+341126108000	安徽省-滁州市-凤阳县-总铺镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/11/26/341126108.html
+341126109000	安徽省-滁州市-凤阳县-红心镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/11/26/341126109.html
+341126110000	安徽省-滁州市-凤阳县-板桥镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/11/26/341126110.html
+341126111000	安徽省-滁州市-凤阳县-大溪河镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/11/26/341126111.html
+341126112000	安徽省-滁州市-凤阳县-小溪河镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/11/26/341126112.html
+341126113000	安徽省-滁州市-凤阳县-枣巷镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/11/26/341126113.html
+341126201000	安徽省-滁州市-凤阳县-黄湾乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/11/26/341126201.html
+341126400000	安徽省-滁州市-凤阳县-安徽凤阳经济开发区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/11/26/341126400.html
+341126401000	安徽省-滁州市-凤阳县-安徽凤阳硅工业园区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/11/26/341126401.html

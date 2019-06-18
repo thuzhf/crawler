@@ -1,0 +1,12 @@
+140524100000	山西省-晋城市-陵川县-崇文镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/05/24/140524100.html
+140524101000	山西省-晋城市-陵川县-礼义镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/05/24/140524101.html
+140524102000	山西省-晋城市-陵川县-附城镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/05/24/140524102.html
+140524103000	山西省-晋城市-陵川县-西河底镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/05/24/140524103.html
+140524104000	山西省-晋城市-陵川县-平城镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/05/24/140524104.html
+140524105000	山西省-晋城市-陵川县-杨村镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/05/24/140524105.html
+140524106000	山西省-晋城市-陵川县-潞城镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/05/24/140524106.html
+140524204000	山西省-晋城市-陵川县-夺火乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/05/24/140524204.html
+140524206000	山西省-晋城市-陵川县-马圪当乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/05/24/140524206.html
+140524207000	山西省-晋城市-陵川县-古郊乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/05/24/140524207.html
+140524209000	山西省-晋城市-陵川县-六泉乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/05/24/140524209.html
+140524212000	山西省-晋城市-陵川县-秦家庄乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/05/24/140524212.html

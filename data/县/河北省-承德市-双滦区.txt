@@ -1,0 +1,9 @@
+130803001000	河北省-承德市-双滦区-元宝山街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/08/03/130803001.html
+130803002000	河北省-承德市-双滦区-钢城街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/08/03/130803002.html
+130803003000	河北省-承德市-双滦区-秀水街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/08/03/130803003.html
+130803100000	河北省-承德市-双滦区-双塔山镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/08/03/130803100.html
+130803101000	河北省-承德市-双滦区-滦河镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/08/03/130803101.html
+130803102000	河北省-承德市-双滦区-大庙镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/08/03/130803102.html
+130803103000	河北省-承德市-双滦区-偏桥子镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/08/03/130803103.html
+130803104000	河北省-承德市-双滦区-西地镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/08/03/130803104.html
+130803200000	河北省-承德市-双滦区-陈栅子乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/08/03/130803200.html

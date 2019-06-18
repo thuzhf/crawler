@@ -1,0 +1,8 @@
+321201000000	江苏省-泰州市-市辖区	
+321202000000	江苏省-泰州市-海陵区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/12/321202.html
+321203000000	江苏省-泰州市-高港区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/12/321203.html
+321204000000	江苏省-泰州市-姜堰区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/12/321204.html
+321271000000	江苏省-泰州市-泰州医药高新技术产业开发区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/12/321271.html
+321281000000	江苏省-泰州市-兴化市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/12/321281.html
+321282000000	江苏省-泰州市-靖江市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/12/321282.html
+321283000000	江苏省-泰州市-泰兴市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/12/321283.html

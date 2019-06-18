@@ -1,0 +1,2 @@
+500100000000	重庆市-市辖区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/50/5001.html
+500200000000	重庆市-县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/50/5002.html

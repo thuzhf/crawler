@@ -1,0 +1,10 @@
+140932100000	山西省-忻州市-偏关县-新关镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/09/32/140932100.html
+140932101000	山西省-忻州市-偏关县-天峰坪镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/09/32/140932101.html
+140932102000	山西省-忻州市-偏关县-老营镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/09/32/140932102.html
+140932103000	山西省-忻州市-偏关县-万家寨镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/09/32/140932103.html
+140932200000	山西省-忻州市-偏关县-窑头乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/09/32/140932200.html
+140932201000	山西省-忻州市-偏关县-楼沟乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/09/32/140932201.html
+140932202000	山西省-忻州市-偏关县-尚峪乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/09/32/140932202.html
+140932203000	山西省-忻州市-偏关县-南堡子乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/09/32/140932203.html
+140932204000	山西省-忻州市-偏关县-水泉乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/09/32/140932204.html
+140932205000	山西省-忻州市-偏关县-陈家营乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/09/32/140932205.html

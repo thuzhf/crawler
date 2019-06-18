@@ -1,0 +1,12 @@
+331002001000	浙江省-台州市-椒江区-海门街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/10/02/331002001.html
+331002002000	浙江省-台州市-椒江区-白云街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/10/02/331002002.html
+331002003000	浙江省-台州市-椒江区-葭沚街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/10/02/331002003.html
+331002004000	浙江省-台州市-椒江区-洪家街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/10/02/331002004.html
+331002005000	浙江省-台州市-椒江区-三甲街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/10/02/331002005.html
+331002006000	浙江省-台州市-椒江区-下陈街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/10/02/331002006.html
+331002007000	浙江省-台州市-椒江区-前所街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/10/02/331002007.html
+331002008000	浙江省-台州市-椒江区-章安街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/10/02/331002008.html
+331002101000	浙江省-台州市-椒江区-大陈镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/10/02/331002101.html
+331002400000	浙江省-台州市-椒江区-椒江农场	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/10/02/331002400.html
+331002401000	浙江省-台州市-椒江区-滨海工业区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/10/02/331002401.html
+331002402000	浙江省-台州市-椒江区-月湖新城	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/10/02/331002402.html

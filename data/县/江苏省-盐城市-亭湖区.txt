@@ -1,0 +1,16 @@
+320902001000	江苏省-盐城市-亭湖区-五星街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/09/02/320902001.html
+320902002000	江苏省-盐城市-亭湖区-文峰街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/09/02/320902002.html
+320902003000	江苏省-盐城市-亭湖区-先锋街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/09/02/320902003.html
+320902004000	江苏省-盐城市-亭湖区-毓龙街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/09/02/320902004.html
+320902007000	江苏省-盐城市-亭湖区-新洋街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/09/02/320902007.html
+320902008000	江苏省-盐城市-亭湖区-大洋街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/09/02/320902008.html
+320902050000	江苏省-盐城市-亭湖区-伍佑街道（城南新区）	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/09/02/320902050.html
+320902051000	江苏省-盐城市-亭湖区-黄海街道（城南新区）	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/09/02/320902051.html
+320902052000	江苏省-盐城市-亭湖区-新河街道（城南新区）	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/09/02/320902052.html
+320902100000	江苏省-盐城市-亭湖区-南洋镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/09/02/320902100.html
+320902102000	江苏省-盐城市-亭湖区-新兴镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/09/02/320902102.html
+320902104000	江苏省-盐城市-亭湖区-便仓镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/09/02/320902104.html
+320902107000	江苏省-盐城市-亭湖区-盐东镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/09/02/320902107.html
+320902108000	江苏省-盐城市-亭湖区-黄尖镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/09/02/320902108.html
+320902400000	江苏省-盐城市-亭湖区-亭湖新区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/09/02/320902400.html
+320902402000	江苏省-盐城市-亭湖区-环保产业园	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/09/02/320902402.html

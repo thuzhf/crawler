@@ -1,0 +1,10 @@
+320214050000	江苏省-无锡市-新吴区-旺庄街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/02/14/320214050.html
+320214051000	江苏省-无锡市-新吴区-硕放街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/02/14/320214051.html
+320214052000	江苏省-无锡市-新吴区-江溪街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/02/14/320214052.html
+320214053000	江苏省-无锡市-新吴区-新安街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/02/14/320214053.html
+320214054000	江苏省-无锡市-新吴区-梅村街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/02/14/320214054.html
+320214055000	江苏省-无锡市-新吴区-鸿山街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/02/14/320214055.html
+320214450000	江苏省-无锡市-新吴区-无锡新加坡工业园	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/02/14/320214450.html
+320214451000	江苏省-无锡市-新吴区-无锡高新技术产业开发区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/02/14/320214451.html
+320214452000	江苏省-无锡市-新吴区-无锡高新区综合保税区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/02/14/320214452.html
+320214453000	江苏省-无锡市-新吴区-无锡太湖国际科技园	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/02/14/320214453.html

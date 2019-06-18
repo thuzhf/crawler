@@ -1,0 +1,12 @@
+220602001000	吉林省-白山市-浑江区-新建街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/06/02/220602001.html
+220602002000	吉林省-白山市-浑江区-通沟街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/06/02/220602002.html
+220602003000	吉林省-白山市-浑江区-东兴街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/06/02/220602003.html
+220602004000	吉林省-白山市-浑江区-红旗街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/06/02/220602004.html
+220602005000	吉林省-白山市-浑江区-城南街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/06/02/220602005.html
+220602006000	吉林省-白山市-浑江区-江北街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/06/02/220602006.html
+220602007000	吉林省-白山市-浑江区-河口街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/06/02/220602007.html
+220602008000	吉林省-白山市-浑江区-板石街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/06/02/220602008.html
+220602100000	吉林省-白山市-浑江区-七道江镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/06/02/220602100.html
+220602101000	吉林省-白山市-浑江区-六道江镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/06/02/220602101.html
+220602102000	吉林省-白山市-浑江区-红土崖镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/06/02/220602102.html
+220602103000	吉林省-白山市-浑江区-三道沟镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/06/02/220602103.html

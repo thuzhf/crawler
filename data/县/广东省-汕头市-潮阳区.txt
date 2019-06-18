@@ -1,0 +1,13 @@
+440513001000	广东省-汕头市-潮阳区-文光街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/05/13/440513001.html
+440513002000	广东省-汕头市-潮阳区-棉北街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/05/13/440513002.html
+440513003000	广东省-汕头市-潮阳区-城南街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/05/13/440513003.html
+440513004000	广东省-汕头市-潮阳区-金浦街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/05/13/440513004.html
+440513100000	广东省-汕头市-潮阳区-海门镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/05/13/440513100.html
+440513101000	广东省-汕头市-潮阳区-河溪镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/05/13/440513101.html
+440513102000	广东省-汕头市-潮阳区-和平镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/05/13/440513102.html
+440513103000	广东省-汕头市-潮阳区-西胪镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/05/13/440513103.html
+440513104000	广东省-汕头市-潮阳区-关埠镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/05/13/440513104.html
+440513106000	广东省-汕头市-潮阳区-谷饶镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/05/13/440513106.html
+440513107000	广东省-汕头市-潮阳区-贵屿镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/05/13/440513107.html
+440513108000	广东省-汕头市-潮阳区-铜盂镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/05/13/440513108.html
+440513110000	广东省-汕头市-潮阳区-金灶镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/05/13/440513110.html

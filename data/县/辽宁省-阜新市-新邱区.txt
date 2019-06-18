@@ -1,0 +1,5 @@
+210903001000	辽宁省-阜新市-新邱区-兴隆街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/09/03/210903001.html
+210903002000	辽宁省-阜新市-新邱区-中兴街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/09/03/210903002.html
+210903003000	辽宁省-阜新市-新邱区-益民街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/09/03/210903003.html
+210903004000	辽宁省-阜新市-新邱区-新发街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/09/03/210903004.html
+210903101000	辽宁省-阜新市-新邱区-长营子蒙古族镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/09/03/210903101.html

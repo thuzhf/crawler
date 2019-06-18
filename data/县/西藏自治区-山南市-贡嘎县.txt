@@ -1,0 +1,9 @@
+540522100000	西藏自治区-山南市-贡嘎县-吉雄镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/05/22/540522100.html
+540522101000	西藏自治区-山南市-贡嘎县-甲竹林镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/05/22/540522101.html
+540522102000	西藏自治区-山南市-贡嘎县-杰德秀镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/05/22/540522102.html
+540522103000	西藏自治区-山南市-贡嘎县-岗堆镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/05/22/540522103.html
+540522104000	西藏自治区-山南市-贡嘎县-江塘镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/05/22/540522104.html
+540522200000	西藏自治区-山南市-贡嘎县-朗杰学乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/05/22/540522200.html
+540522201000	西藏自治区-山南市-贡嘎县-昌果乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/05/22/540522201.html
+540522205000	西藏自治区-山南市-贡嘎县-东拉乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/05/22/540522205.html
+540522206000	西藏自治区-山南市-贡嘎县-克西乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/05/22/540522206.html

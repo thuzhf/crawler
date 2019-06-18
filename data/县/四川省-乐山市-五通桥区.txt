@@ -1,0 +1,12 @@
+511112100000	四川省-乐山市-五通桥区-竹根镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/11/12/511112100.html
+511112101000	四川省-乐山市-五通桥区-牛华镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/11/12/511112101.html
+511112102000	四川省-乐山市-五通桥区-杨柳镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/11/12/511112102.html
+511112103000	四川省-乐山市-五通桥区-桥沟镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/11/12/511112103.html
+511112104000	四川省-乐山市-五通桥区-金粟镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/11/12/511112104.html
+511112105000	四川省-乐山市-五通桥区-金山镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/11/12/511112105.html
+511112106000	四川省-乐山市-五通桥区-辉山镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/11/12/511112106.html
+511112107000	四川省-乐山市-五通桥区-西坝镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/11/12/511112107.html
+511112108000	四川省-乐山市-五通桥区-冠英镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/11/12/511112108.html
+511112109000	四川省-乐山市-五通桥区-蔡金镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/11/12/511112109.html
+511112110000	四川省-乐山市-五通桥区-石麟镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/11/12/511112110.html
+511112200000	四川省-乐山市-五通桥区-新云乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/11/12/511112200.html

@@ -1,0 +1,12 @@
+540202001000	西藏自治区-日喀则市-桑珠孜区-城南街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/02/02/540202001.html
+540202002000	西藏自治区-日喀则市-桑珠孜区-城北街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/02/02/540202002.html
+540202200000	西藏自治区-日喀则市-桑珠孜区-曲布雄乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/02/02/540202200.html
+540202201000	西藏自治区-日喀则市-桑珠孜区-曲美乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/02/02/540202201.html
+540202202000	西藏自治区-日喀则市-桑珠孜区-聂日雄乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/02/02/540202202.html
+540202203000	西藏自治区-日喀则市-桑珠孜区-甲措雄乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/02/02/540202203.html
+540202204000	西藏自治区-日喀则市-桑珠孜区-纳尔乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/02/02/540202204.html
+540202205000	西藏自治区-日喀则市-桑珠孜区-东嘎乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/02/02/540202205.html
+540202206000	西藏自治区-日喀则市-桑珠孜区-边雄乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/02/02/540202206.html
+540202207000	西藏自治区-日喀则市-桑珠孜区-江当乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/02/02/540202207.html
+540202208000	西藏自治区-日喀则市-桑珠孜区-年木乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/02/02/540202208.html
+540202209000	西藏自治区-日喀则市-桑珠孜区-联乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/02/02/540202209.html

@@ -1,0 +1,9 @@
+232701100000	黑龙江省-大兴安岭地区-漠河市-西林吉镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/27/01/232701100.html
+232701101000	黑龙江省-大兴安岭地区-漠河市-图强镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/27/01/232701101.html
+232701102000	黑龙江省-大兴安岭地区-漠河市-阿木尔镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/27/01/232701102.html
+232701103000	黑龙江省-大兴安岭地区-漠河市-兴安镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/27/01/232701103.html
+232701104000	黑龙江省-大兴安岭地区-漠河市-北极镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/27/01/232701104.html
+232701105000	黑龙江省-大兴安岭地区-漠河市-古莲镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/27/01/232701105.html
+232701400000	黑龙江省-大兴安岭地区-漠河市-西林吉林业局	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/27/01/232701400.html
+232701401000	黑龙江省-大兴安岭地区-漠河市-图强林业局	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/27/01/232701401.html
+232701402000	黑龙江省-大兴安岭地区-漠河市-阿木尔林业局	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/27/01/232701402.html

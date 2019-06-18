@@ -1,0 +1,8 @@
+469022100000	海南省-省直辖县级行政区划-屯昌县-屯城镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/46/90/22/469022100.html
+469022101000	海南省-省直辖县级行政区划-屯昌县-新兴镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/46/90/22/469022101.html
+469022102000	海南省-省直辖县级行政区划-屯昌县-枫木镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/46/90/22/469022102.html
+469022103000	海南省-省直辖县级行政区划-屯昌县-乌坡镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/46/90/22/469022103.html
+469022104000	海南省-省直辖县级行政区划-屯昌县-南吕镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/46/90/22/469022104.html
+469022105000	海南省-省直辖县级行政区划-屯昌县-南坤镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/46/90/22/469022105.html
+469022106000	海南省-省直辖县级行政区划-屯昌县-坡心镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/46/90/22/469022106.html
+469022107000	海南省-省直辖县级行政区划-屯昌县-西昌镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/46/90/22/469022107.html

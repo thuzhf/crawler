@@ -1,0 +1,15 @@
+510106024000	四川省-成都市-金牛区-西安路街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/01/06/510106024.html
+510106025000	四川省-成都市-金牛区-西华街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/01/06/510106025.html
+510106026000	四川省-成都市-金牛区-人民北路街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/01/06/510106026.html
+510106027000	四川省-成都市-金牛区-荷花池街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/01/06/510106027.html
+510106030000	四川省-成都市-金牛区-驷马桥街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/01/06/510106030.html
+510106031000	四川省-成都市-金牛区-茶店子街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/01/06/510106031.html
+510106032000	四川省-成都市-金牛区-抚琴街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/01/06/510106032.html
+510106035000	四川省-成都市-金牛区-九里堤街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/01/06/510106035.html
+510106036000	四川省-成都市-金牛区-五块石街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/01/06/510106036.html
+510106037000	四川省-成都市-金牛区-黄忠街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/01/06/510106037.html
+510106038000	四川省-成都市-金牛区-营门口街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/01/06/510106038.html
+510106040000	四川省-成都市-金牛区-金泉街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/01/06/510106040.html
+510106041000	四川省-成都市-金牛区-沙河源街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/01/06/510106041.html
+510106042000	四川省-成都市-金牛区-天回镇街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/01/06/510106042.html
+510106043000	四川省-成都市-金牛区-凤凰山街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/01/06/510106043.html

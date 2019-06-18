@@ -1,0 +1,13 @@
+361101000000	江西省-上饶市-市辖区	
+361102000000	江西省-上饶市-信州区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/11/361102.html
+361103000000	江西省-上饶市-广丰区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/11/361103.html
+361121000000	江西省-上饶市-上饶县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/11/361121.html
+361123000000	江西省-上饶市-玉山县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/11/361123.html
+361124000000	江西省-上饶市-铅山县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/11/361124.html
+361125000000	江西省-上饶市-横峰县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/11/361125.html
+361126000000	江西省-上饶市-弋阳县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/11/361126.html
+361127000000	江西省-上饶市-余干县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/11/361127.html
+361128000000	江西省-上饶市-鄱阳县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/11/361128.html
+361129000000	江西省-上饶市-万年县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/11/361129.html
+361130000000	江西省-上饶市-婺源县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/11/361130.html
+361181000000	江西省-上饶市-德兴市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/11/361181.html

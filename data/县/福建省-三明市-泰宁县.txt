@@ -1,0 +1,9 @@
+350429100000	福建省-三明市-泰宁县-杉城镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/04/29/350429100.html
+350429101000	福建省-三明市-泰宁县-朱口镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/04/29/350429101.html
+350429200000	福建省-三明市-泰宁县-新桥乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/04/29/350429200.html
+350429201000	福建省-三明市-泰宁县-上青乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/04/29/350429201.html
+350429202000	福建省-三明市-泰宁县-大田乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/04/29/350429202.html
+350429203000	福建省-三明市-泰宁县-梅口乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/04/29/350429203.html
+350429204000	福建省-三明市-泰宁县-下渠乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/04/29/350429204.html
+350429205000	福建省-三明市-泰宁县-开善乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/04/29/350429205.html
+350429208000	福建省-三明市-泰宁县-大龙乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/04/29/350429208.html

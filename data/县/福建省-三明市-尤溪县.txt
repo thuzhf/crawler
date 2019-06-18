@@ -1,0 +1,15 @@
+350426100000	福建省-三明市-尤溪县-城关镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/04/26/350426100.html
+350426101000	福建省-三明市-尤溪县-梅仙镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/04/26/350426101.html
+350426102000	福建省-三明市-尤溪县-西滨镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/04/26/350426102.html
+350426103000	福建省-三明市-尤溪县-洋中镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/04/26/350426103.html
+350426104000	福建省-三明市-尤溪县-新阳镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/04/26/350426104.html
+350426105000	福建省-三明市-尤溪县-管前镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/04/26/350426105.html
+350426106000	福建省-三明市-尤溪县-西城镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/04/26/350426106.html
+350426107000	福建省-三明市-尤溪县-尤溪口镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/04/26/350426107.html
+350426108000	福建省-三明市-尤溪县-坂面镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/04/26/350426108.html
+350426109000	福建省-三明市-尤溪县-联合镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/04/26/350426109.html
+350426201000	福建省-三明市-尤溪县-汤川乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/04/26/350426201.html
+350426202000	福建省-三明市-尤溪县-溪尾乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/04/26/350426202.html
+350426203000	福建省-三明市-尤溪县-中仙乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/04/26/350426203.html
+350426204000	福建省-三明市-尤溪县-台溪乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/04/26/350426204.html
+350426206000	福建省-三明市-尤溪县-八字桥乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/04/26/350426206.html

@@ -1,0 +1,5 @@
+659001000000	新疆维吾尔自治区-自治区直辖县级行政区划-石河子市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/90/659001.html
+659002000000	新疆维吾尔自治区-自治区直辖县级行政区划-阿拉尔市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/90/659002.html
+659003000000	新疆维吾尔自治区-自治区直辖县级行政区划-图木舒克市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/90/659003.html
+659004000000	新疆维吾尔自治区-自治区直辖县级行政区划-五家渠市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/90/659004.html
+659006000000	新疆维吾尔自治区-自治区直辖县级行政区划-铁门关市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/90/659006.html

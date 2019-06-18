@@ -1,0 +1,11 @@
+340103001000	安徽省-合肥市-庐阳区-亳州路街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/01/03/340103001.html
+340103002000	安徽省-合肥市-庐阳区-双岗街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/01/03/340103002.html
+340103003000	安徽省-合肥市-庐阳区-杏林街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/01/03/340103003.html
+340103004000	安徽省-合肥市-庐阳区-海棠街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/01/03/340103004.html
+340103005000	安徽省-合肥市-庐阳区-杏花村街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/01/03/340103005.html
+340103006000	安徽省-合肥市-庐阳区-逍遥津街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/01/03/340103006.html
+340103009000	安徽省-合肥市-庐阳区-三孝口街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/01/03/340103009.html
+340103012000	安徽省-合肥市-庐阳区-四里河街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/01/03/340103012.html
+340103100000	安徽省-合肥市-庐阳区-大杨镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/01/03/340103100.html
+340103200000	安徽省-合肥市-庐阳区-三十岗乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/01/03/340103200.html
+340103400000	安徽省-合肥市-庐阳区-庐阳工业区（林店街道）	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/01/03/340103400.html

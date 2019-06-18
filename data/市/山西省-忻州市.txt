@@ -1,0 +1,16 @@
+140901000000	山西省-忻州市-市辖区	
+140902000000	山西省-忻州市-忻府区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/09/140902.html
+140921000000	山西省-忻州市-定襄县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/09/140921.html
+140922000000	山西省-忻州市-五台县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/09/140922.html
+140923000000	山西省-忻州市-代县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/09/140923.html
+140924000000	山西省-忻州市-繁峙县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/09/140924.html
+140925000000	山西省-忻州市-宁武县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/09/140925.html
+140926000000	山西省-忻州市-静乐县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/09/140926.html
+140927000000	山西省-忻州市-神池县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/09/140927.html
+140928000000	山西省-忻州市-五寨县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/09/140928.html
+140929000000	山西省-忻州市-岢岚县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/09/140929.html
+140930000000	山西省-忻州市-河曲县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/09/140930.html
+140931000000	山西省-忻州市-保德县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/09/140931.html
+140932000000	山西省-忻州市-偏关县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/09/140932.html
+140971000000	山西省-忻州市-五台山风景名胜区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/09/140971.html
+140981000000	山西省-忻州市-原平市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/09/140981.html

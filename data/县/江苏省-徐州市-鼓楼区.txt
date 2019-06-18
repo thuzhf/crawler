@@ -1,0 +1,7 @@
+320302001000	江苏省-徐州市-鼓楼区-黄楼街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/03/02/320302001.html
+320302002000	江苏省-徐州市-鼓楼区-丰财街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/03/02/320302002.html
+320302003000	江苏省-徐州市-鼓楼区-琵琶街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/03/02/320302003.html
+320302004000	江苏省-徐州市-鼓楼区-牌楼街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/03/02/320302004.html
+320302005000	江苏省-徐州市-鼓楼区-铜沛街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/03/02/320302005.html
+320302006000	江苏省-徐州市-鼓楼区-环城街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/03/02/320302006.html
+320302007000	江苏省-徐州市-鼓楼区-九里街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/03/02/320302007.html

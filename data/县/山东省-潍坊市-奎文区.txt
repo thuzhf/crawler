@@ -1,0 +1,10 @@
+370705001000	山东省-潍坊市-奎文区-东关街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/07/05/370705001.html
+370705002000	山东省-潍坊市-奎文区-大虞街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/07/05/370705002.html
+370705003000	山东省-潍坊市-奎文区-梨园街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/07/05/370705003.html
+370705004000	山东省-潍坊市-奎文区-廿里堡街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/07/05/370705004.html
+370705005000	山东省-潍坊市-奎文区-潍州路街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/07/05/370705005.html
+370705006000	山东省-潍坊市-奎文区-北苑街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/07/05/370705006.html
+370705007000	山东省-潍坊市-奎文区-广文街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/07/05/370705007.html
+370705009000	山东省-潍坊市-奎文区-新城街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/07/05/370705009.html
+370705010000	山东省-潍坊市-奎文区-清池街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/07/05/370705010.html
+370705012000	山东省-潍坊市-奎文区-北海路街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/07/05/370705012.html

@@ -1,0 +1,7 @@
+130111100000	河北省-石家庄市-栾城区-栾城镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/01/11/130111100.html
+130111103000	河北省-石家庄市-栾城区-冶河镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/01/11/130111103.html
+130111104000	河北省-石家庄市-栾城区-窦妪镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/01/11/130111104.html
+130111105000	河北省-石家庄市-栾城区-楼底镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/01/11/130111105.html
+130111200000	河北省-石家庄市-栾城区-南高乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/01/11/130111200.html
+130111201000	河北省-石家庄市-栾城区-柳林屯乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/01/11/130111201.html
+130111202000	河北省-石家庄市-栾城区-西营乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/01/11/130111202.html

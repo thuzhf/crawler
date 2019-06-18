@@ -1,0 +1,17 @@
+231123001000	黑龙江省-黑河市-逊克县-奇克街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/11/23/231123001.html
+231123100000	黑龙江省-黑河市-逊克县-奇克镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/11/23/231123100.html
+231123101000	黑龙江省-黑河市-逊克县-逊河镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/11/23/231123101.html
+231123102000	黑龙江省-黑河市-逊克县-逊克县克林镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/11/23/231123102.html
+231123201000	黑龙江省-黑河市-逊克县-干岔子乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/11/23/231123201.html
+231123202000	黑龙江省-黑河市-逊克县-松树沟乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/11/23/231123202.html
+231123203000	黑龙江省-黑河市-逊克县-车陆乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/11/23/231123203.html
+231123204000	黑龙江省-黑河市-逊克县-新鄂乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/11/23/231123204.html
+231123205000	黑龙江省-黑河市-逊克县-新兴乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/11/23/231123205.html
+231123207000	黑龙江省-黑河市-逊克县-宝山乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/11/23/231123207.html
+231123402000	黑龙江省-黑河市-逊克县-道干林场	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/11/23/231123402.html
+231123403000	黑龙江省-黑河市-逊克县-干岔子林场	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/11/23/231123403.html
+231123404000	黑龙江省-黑河市-逊克县-新立林场	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/11/23/231123404.html
+231123405000	黑龙江省-黑河市-逊克县-三间房林场	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/11/23/231123405.html
+231123406000	黑龙江省-黑河市-逊克县-良种场	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/11/23/231123406.html
+231123407000	黑龙江省-黑河市-逊克县-种畜场	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/11/23/231123407.html
+231123500000	黑龙江省-黑河市-逊克县-逊克农场	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/11/23/231123500.html

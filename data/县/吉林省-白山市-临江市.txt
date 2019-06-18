@@ -1,0 +1,15 @@
+220681001000	吉林省-白山市-临江市-建国街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/06/81/220681001.html
+220681002000	吉林省-白山市-临江市-新市街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/06/81/220681002.html
+220681003000	吉林省-白山市-临江市-兴隆街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/06/81/220681003.html
+220681004000	吉林省-白山市-临江市-大湖街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/06/81/220681004.html
+220681005000	吉林省-白山市-临江市-森工街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/06/81/220681005.html
+220681006000	吉林省-白山市-临江市-大栗子街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/06/81/220681006.html
+220681100000	吉林省-白山市-临江市-桦树镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/06/81/220681100.html
+220681101000	吉林省-白山市-临江市-六道沟镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/06/81/220681101.html
+220681102000	吉林省-白山市-临江市-苇沙河镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/06/81/220681102.html
+220681103000	吉林省-白山市-临江市-花山镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/06/81/220681103.html
+220681104000	吉林省-白山市-临江市-闹枝镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/06/81/220681104.html
+220681105000	吉林省-白山市-临江市-四道沟镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/06/81/220681105.html
+220681200000	吉林省-白山市-临江市-蚂蚁河乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/06/81/220681200.html
+220681400000	吉林省-白山市-临江市-临江经济开发区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/06/81/220681400.html
+220681401000	吉林省-白山市-临江市-临江硅藻土工业集中区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/06/81/220681401.html

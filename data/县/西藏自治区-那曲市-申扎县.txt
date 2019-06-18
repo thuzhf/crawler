@@ -1,0 +1,8 @@
+540625100000	西藏自治区-那曲市-申扎县-申扎镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/06/25/540625100.html
+540625101000	西藏自治区-那曲市-申扎县-雄梅镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/06/25/540625101.html
+540625201000	西藏自治区-那曲市-申扎县-下过乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/06/25/540625201.html
+540625202000	西藏自治区-那曲市-申扎县-卡乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/06/25/540625202.html
+540625203000	西藏自治区-那曲市-申扎县-巴扎乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/06/25/540625203.html
+540625204000	西藏自治区-那曲市-申扎县-塔尔玛乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/06/25/540625204.html
+540625206000	西藏自治区-那曲市-申扎县-买巴乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/06/25/540625206.html
+540625207000	西藏自治区-那曲市-申扎县-马跃乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/06/25/540625207.html

@@ -1,0 +1,12 @@
+140727001000	山西省-晋中市-祁县-昌源城区管理委员会	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/07/27/140727001.html
+140727002000	山西省-晋中市-祁县-丹枫城区管理委员会	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/07/27/140727002.html
+140727003000	山西省-晋中市-祁县-麓台城区管理委员会	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/07/27/140727003.html
+140727100000	山西省-晋中市-祁县-昭馀镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/07/27/140727100.html
+140727101000	山西省-晋中市-祁县-东观镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/07/27/140727101.html
+140727102000	山西省-晋中市-祁县-古县镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/07/27/140727102.html
+140727103000	山西省-晋中市-祁县-贾令镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/07/27/140727103.html
+140727104000	山西省-晋中市-祁县-城赵镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/07/27/140727104.html
+140727105000	山西省-晋中市-祁县-来远镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/07/27/140727105.html
+140727200000	山西省-晋中市-祁县-西六支乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/07/27/140727200.html
+140727201000	山西省-晋中市-祁县-峪口乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/07/27/140727201.html
+140727400000	山西省-晋中市-祁县-祁县经济开发区管理委员会	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/07/27/140727400.html

@@ -1,0 +1,9 @@
+511827100000	四川省-雅安市-宝兴县-穆坪镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/18/27/511827100.html
+511827101000	四川省-雅安市-宝兴县-灵关镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/18/27/511827101.html
+511827102000	四川省-雅安市-宝兴县-陇东镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/18/27/511827102.html
+511827201000	四川省-雅安市-宝兴县-蜂桶寨乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/18/27/511827201.html
+511827202000	四川省-雅安市-宝兴县-硗碛乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/18/27/511827202.html
+511827203000	四川省-雅安市-宝兴县-永富乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/18/27/511827203.html
+511827204000	四川省-雅安市-宝兴县-明礼乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/18/27/511827204.html
+511827205000	四川省-雅安市-宝兴县-五龙乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/18/27/511827205.html
+511827206000	四川省-雅安市-宝兴县-大溪乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/18/27/511827206.html

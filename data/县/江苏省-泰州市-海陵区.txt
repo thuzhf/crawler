@@ -1,0 +1,14 @@
+321202001000	江苏省-泰州市-海陵区-城东街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/12/02/321202001.html
+321202002000	江苏省-泰州市-海陵区-城西街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/12/02/321202002.html
+321202003000	江苏省-泰州市-海陵区-城南街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/12/02/321202003.html
+321202004000	江苏省-泰州市-海陵区-城中街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/12/02/321202004.html
+321202005000	江苏省-泰州市-海陵区-城北街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/12/02/321202005.html
+321202007000	江苏省-泰州市-海陵区-京泰路街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/12/02/321202007.html
+321202050000	江苏省-泰州市-海陵区-红旗街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/12/02/321202050.html
+321202100000	江苏省-泰州市-海陵区-九龙镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/12/02/321202100.html
+321202101000	江苏省-泰州市-海陵区-罡杨镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/12/02/321202101.html
+321202102000	江苏省-泰州市-海陵区-苏陈镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/12/02/321202102.html
+321202401000	江苏省-泰州市-海陵区-城北物流园区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/12/02/321202401.html
+321202406000	江苏省-泰州市-海陵区-海陵工业园区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/12/02/321202406.html
+321202407000	江苏省-泰州市-海陵区-农业示范园区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/12/02/321202407.html
+321202408000	江苏省-泰州市-海陵区-火车站街区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/12/02/321202408.html

@@ -1,0 +1,16 @@
+152201001000	内蒙古自治区-兴安盟-乌兰浩特市-爱国办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/22/01/152201001.html
+152201002000	内蒙古自治区-兴安盟-乌兰浩特市-和平办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/22/01/152201002.html
+152201003000	内蒙古自治区-兴安盟-乌兰浩特市-兴安办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/22/01/152201003.html
+152201004000	内蒙古自治区-兴安盟-乌兰浩特市-胜利办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/22/01/152201004.html
+152201005000	内蒙古自治区-兴安盟-乌兰浩特市-铁西办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/22/01/152201005.html
+152201006000	内蒙古自治区-兴安盟-乌兰浩特市-都林办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/22/01/152201006.html
+152201007000	内蒙古自治区-兴安盟-乌兰浩特市-五一办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/22/01/152201007.html
+152201008000	内蒙古自治区-兴安盟-乌兰浩特市-城郊办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/22/01/152201008.html
+152201009000	内蒙古自治区-兴安盟-乌兰浩特市-新城办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/22/01/152201009.html
+152201100000	内蒙古自治区-兴安盟-乌兰浩特市-乌兰哈达镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/22/01/152201100.html
+152201101000	内蒙古自治区-兴安盟-乌兰浩特市-葛根庙镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/22/01/152201101.html
+152201102000	内蒙古自治区-兴安盟-乌兰浩特市-太本站镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/22/01/152201102.html
+152201103000	内蒙古自治区-兴安盟-乌兰浩特市-义勒力特镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/22/01/152201103.html
+152201401000	内蒙古自治区-兴安盟-乌兰浩特市-呼和马场	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/22/01/152201401.html
+152201402000	内蒙古自治区-兴安盟-乌兰浩特市-乌兰浩特工业经济开发区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/22/01/152201402.html
+152201403000	内蒙古自治区-兴安盟-乌兰浩特市-乌兰浩特经济技术开发区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/22/01/152201403.html

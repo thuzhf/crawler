@@ -1,0 +1,18 @@
+141001000000	山西省-临汾市-市辖区	
+141002000000	山西省-临汾市-尧都区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/10/141002.html
+141021000000	山西省-临汾市-曲沃县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/10/141021.html
+141022000000	山西省-临汾市-翼城县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/10/141022.html
+141023000000	山西省-临汾市-襄汾县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/10/141023.html
+141024000000	山西省-临汾市-洪洞县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/10/141024.html
+141025000000	山西省-临汾市-古县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/10/141025.html
+141026000000	山西省-临汾市-安泽县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/10/141026.html
+141027000000	山西省-临汾市-浮山县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/10/141027.html
+141028000000	山西省-临汾市-吉县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/10/141028.html
+141029000000	山西省-临汾市-乡宁县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/10/141029.html
+141030000000	山西省-临汾市-大宁县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/10/141030.html
+141031000000	山西省-临汾市-隰县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/10/141031.html
+141032000000	山西省-临汾市-永和县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/10/141032.html
+141033000000	山西省-临汾市-蒲县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/10/141033.html
+141034000000	山西省-临汾市-汾西县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/10/141034.html
+141081000000	山西省-临汾市-侯马市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/10/141081.html
+141082000000	山西省-临汾市-霍州市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/10/141082.html

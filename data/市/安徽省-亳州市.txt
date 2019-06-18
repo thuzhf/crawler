@@ -1,0 +1,5 @@
+341601000000	安徽省-亳州市-市辖区	
+341602000000	安徽省-亳州市-谯城区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/16/341602.html
+341621000000	安徽省-亳州市-涡阳县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/16/341621.html
+341622000000	安徽省-亳州市-蒙城县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/16/341622.html
+341623000000	安徽省-亳州市-利辛县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/16/341623.html

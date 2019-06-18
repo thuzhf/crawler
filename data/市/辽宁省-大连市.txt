@@ -1,0 +1,11 @@
+210201000000	辽宁省-大连市-市辖区	
+210202000000	辽宁省-大连市-中山区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/02/210202.html
+210203000000	辽宁省-大连市-西岗区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/02/210203.html
+210204000000	辽宁省-大连市-沙河口区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/02/210204.html
+210211000000	辽宁省-大连市-甘井子区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/02/210211.html
+210212000000	辽宁省-大连市-旅顺口区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/02/210212.html
+210213000000	辽宁省-大连市-金州区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/02/210213.html
+210214000000	辽宁省-大连市-普兰店区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/02/210214.html
+210224000000	辽宁省-大连市-长海县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/02/210224.html
+210281000000	辽宁省-大连市-瓦房店市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/02/210281.html
+210283000000	辽宁省-大连市-庄河市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/02/210283.html

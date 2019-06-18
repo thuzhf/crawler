@@ -1,0 +1,6 @@
+522636100000	贵州省-黔东南苗族侗族自治州-丹寨县-龙泉镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/52/26/36/522636100.html
+522636101000	贵州省-黔东南苗族侗族自治州-丹寨县-兴仁镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/52/26/36/522636101.html
+522636102000	贵州省-黔东南苗族侗族自治州-丹寨县-排调镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/52/26/36/522636102.html
+522636103000	贵州省-黔东南苗族侗族自治州-丹寨县-扬武镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/52/26/36/522636103.html
+522636202000	贵州省-黔东南苗族侗族自治州-丹寨县-雅灰乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/52/26/36/522636202.html
+522636203000	贵州省-黔东南苗族侗族自治州-丹寨县-南皋乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/52/26/36/522636203.html

@@ -1,0 +1,10 @@
+530523101000	云南省-保山市-龙陵县-龙山镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/05/23/530523101.html
+530523102000	云南省-保山市-龙陵县-镇安镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/05/23/530523102.html
+530523103000	云南省-保山市-龙陵县-勐糯镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/05/23/530523103.html
+530523104000	云南省-保山市-龙陵县-腊勐镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/05/23/530523104.html
+530523105000	云南省-保山市-龙陵县-象达镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/05/23/530523105.html
+530523201000	云南省-保山市-龙陵县-龙江乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/05/23/530523201.html
+530523203000	云南省-保山市-龙陵县-碧寨乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/05/23/530523203.html
+530523204000	云南省-保山市-龙陵县-龙新乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/05/23/530523204.html
+530523206000	云南省-保山市-龙陵县-平达乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/05/23/530523206.html
+530523207000	云南省-保山市-龙陵县-木城彝族傈僳族乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/05/23/530523207.html

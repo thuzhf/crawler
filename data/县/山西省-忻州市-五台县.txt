@@ -1,0 +1,16 @@
+140922100000	山西省-忻州市-五台县-台城镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/09/22/140922100.html
+140922102000	山西省-忻州市-五台县-耿镇镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/09/22/140922102.html
+140922103000	山西省-忻州市-五台县-豆村镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/09/22/140922103.html
+140922104000	山西省-忻州市-五台县-白家庄镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/09/22/140922104.html
+140922105000	山西省-忻州市-五台县-东冶镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/09/22/140922105.html
+140922200000	山西省-忻州市-五台县-沟南乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/09/22/140922200.html
+140922201000	山西省-忻州市-五台县-东雷乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/09/22/140922201.html
+140922202000	山西省-忻州市-五台县-高洪口乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/09/22/140922202.html
+140922203000	山西省-忻州市-五台县-门限石乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/09/22/140922203.html
+140922204000	山西省-忻州市-五台县-陈家庄乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/09/22/140922204.html
+140922205000	山西省-忻州市-五台县-建安乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/09/22/140922205.html
+140922206000	山西省-忻州市-五台县-神西乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/09/22/140922206.html
+140922207000	山西省-忻州市-五台县-蒋坊乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/09/22/140922207.html
+140922208000	山西省-忻州市-五台县-灵境乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/09/22/140922208.html
+140922209000	山西省-忻州市-五台县-阳白乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/09/22/140922209.html
+140922210000	山西省-忻州市-五台县-茹村乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/09/22/140922210.html

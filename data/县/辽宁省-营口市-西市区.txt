@@ -1,0 +1,10 @@
+210803001000	辽宁省-营口市-西市区-胜利街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/08/03/210803001.html
+210803002000	辽宁省-营口市-西市区-清华街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/08/03/210803002.html
+210803003000	辽宁省-营口市-西市区-滨海街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/08/03/210803003.html
+210803004000	辽宁省-营口市-西市区-得胜街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/08/03/210803004.html
+210803005000	辽宁省-营口市-西市区-五台子街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/08/03/210803005.html
+210803006000	辽宁省-营口市-西市区-渔市街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/08/03/210803006.html
+210803007000	辽宁省-营口市-西市区-河北街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/08/03/210803007.html
+210803008000	辽宁省-营口市-西市区-沿海街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/08/03/210803008.html
+210803400000	辽宁省-营口市-西市区-辽宁自贸区营口片区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/08/03/210803400.html
+210803401000	辽宁省-营口市-西市区-辽宁（营口）沿海产业基地	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/08/03/210803401.html

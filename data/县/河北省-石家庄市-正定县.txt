@@ -1,0 +1,10 @@
+130123001000	河北省-石家庄市-正定县-诸福屯街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/01/23/130123001.html
+130123002000	河北省-石家庄市-正定县-三里屯街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/01/23/130123002.html
+130123100000	河北省-石家庄市-正定县-正定镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/01/23/130123100.html
+130123102000	河北省-石家庄市-正定县-新城铺镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/01/23/130123102.html
+130123103000	河北省-石家庄市-正定县-新安镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/01/23/130123103.html
+130123200000	河北省-石家庄市-正定县-南牛乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/01/23/130123200.html
+130123201000	河北省-石家庄市-正定县-南楼乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/01/23/130123201.html
+130123202000	河北省-石家庄市-正定县-西平乐乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/01/23/130123202.html
+130123203000	河北省-石家庄市-正定县-北早现乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/01/23/130123203.html
+130123204000	河北省-石家庄市-正定县-曲阳桥乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/01/23/130123204.html

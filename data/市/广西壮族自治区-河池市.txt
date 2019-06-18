@@ -1,0 +1,12 @@
+451201000000	广西壮族自治区-河池市-市辖区	
+451202000000	广西壮族自治区-河池市-金城江区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/12/451202.html
+451203000000	广西壮族自治区-河池市-宜州区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/12/451203.html
+451221000000	广西壮族自治区-河池市-南丹县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/12/451221.html
+451222000000	广西壮族自治区-河池市-天峨县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/12/451222.html
+451223000000	广西壮族自治区-河池市-凤山县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/12/451223.html
+451224000000	广西壮族自治区-河池市-东兰县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/12/451224.html
+451225000000	广西壮族自治区-河池市-罗城仫佬族自治县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/12/451225.html
+451226000000	广西壮族自治区-河池市-环江毛南族自治县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/12/451226.html
+451227000000	广西壮族自治区-河池市-巴马瑶族自治县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/12/451227.html
+451228000000	广西壮族自治区-河池市-都安瑶族自治县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/12/451228.html
+451229000000	广西壮族自治区-河池市-大化瑶族自治县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/12/451229.html

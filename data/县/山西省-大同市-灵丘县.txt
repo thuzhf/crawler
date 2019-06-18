@@ -1,0 +1,12 @@
+140224100000	山西省-大同市-灵丘县-武灵镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/02/24/140224100.html
+140224101000	山西省-大同市-灵丘县-东河南镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/02/24/140224101.html
+140224102000	山西省-大同市-灵丘县-上寨镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/02/24/140224102.html
+140224200000	山西省-大同市-灵丘县-落水河乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/02/24/140224200.html
+140224203000	山西省-大同市-灵丘县-史庄乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/02/24/140224203.html
+140224205000	山西省-大同市-灵丘县-赵北乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/02/24/140224205.html
+140224206000	山西省-大同市-灵丘县-石家田乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/02/24/140224206.html
+140224207000	山西省-大同市-灵丘县-柳科乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/02/24/140224207.html
+140224208000	山西省-大同市-灵丘县-白崖台乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/02/24/140224208.html
+140224210000	山西省-大同市-灵丘县-红石塄乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/02/24/140224210.html
+140224212000	山西省-大同市-灵丘县-下关乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/02/24/140224212.html
+140224213000	山西省-大同市-灵丘县-独峪乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/02/24/140224213.html

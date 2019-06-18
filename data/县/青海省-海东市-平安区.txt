@@ -1,0 +1,9 @@
+630203100000	青海省-海东市-平安区-平安镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/63/02/03/630203100.html
+630203101000	青海省-海东市-平安区-小峡镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/63/02/03/630203101.html
+630203102000	青海省-海东市-平安区-三合镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/63/02/03/630203102.html
+630203200000	青海省-海东市-平安区-洪水泉乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/63/02/03/630203200.html
+630203201000	青海省-海东市-平安区-石灰窑乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/63/02/03/630203201.html
+630203202000	青海省-海东市-平安区-古城乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/63/02/03/630203202.html
+630203203000	青海省-海东市-平安区-沙沟乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/63/02/03/630203203.html
+630203204000	青海省-海东市-平安区-巴藏沟乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/63/02/03/630203204.html
+630203400000	青海省-海东市-平安区-曹家堡临空综合经济园平安园区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/63/02/03/630203400.html

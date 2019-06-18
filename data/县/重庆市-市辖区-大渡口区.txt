@@ -1,0 +1,8 @@
+500104001000	重庆市-市辖区-大渡口区-新山村街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/50/01/04/500104001.html
+500104002000	重庆市-市辖区-大渡口区-跃进村街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/50/01/04/500104002.html
+500104003000	重庆市-市辖区-大渡口区-九宫庙街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/50/01/04/500104003.html
+500104004000	重庆市-市辖区-大渡口区-茄子溪街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/50/01/04/500104004.html
+500104005000	重庆市-市辖区-大渡口区-春晖路街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/50/01/04/500104005.html
+500104101000	重庆市-市辖区-大渡口区-八桥镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/50/01/04/500104101.html
+500104102000	重庆市-市辖区-大渡口区-建胜镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/50/01/04/500104102.html
+500104103000	重庆市-市辖区-大渡口区-跳磴镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/50/01/04/500104103.html

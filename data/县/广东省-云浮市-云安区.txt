@@ -1,0 +1,8 @@
+445303100000	广东省-云浮市-云安区-六都镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/53/03/445303100.html
+445303101000	广东省-云浮市-云安区-高村镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/53/03/445303101.html
+445303102000	广东省-云浮市-云安区-白石镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/53/03/445303102.html
+445303103000	广东省-云浮市-云安区-镇安镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/53/03/445303103.html
+445303104000	广东省-云浮市-云安区-富林镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/53/03/445303104.html
+445303105000	广东省-云浮市-云安区-石城镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/53/03/445303105.html
+445303106000	广东省-云浮市-云安区-都杨镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/53/03/445303106.html
+445303400000	广东省-云浮市-云安区-大云雾林场	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/53/03/445303400.html

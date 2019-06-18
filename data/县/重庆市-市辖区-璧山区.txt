@@ -1,0 +1,15 @@
+500120001000	重庆市-市辖区-璧山区-璧城街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/50/01/20/500120001.html
+500120002000	重庆市-市辖区-璧山区-璧泉街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/50/01/20/500120002.html
+500120003000	重庆市-市辖区-璧山区-青杠街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/50/01/20/500120003.html
+500120004000	重庆市-市辖区-璧山区-来凤街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/50/01/20/500120004.html
+500120005000	重庆市-市辖区-璧山区-丁家街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/50/01/20/500120005.html
+500120006000	重庆市-市辖区-璧山区-大路街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/50/01/20/500120006.html
+500120100000	重庆市-市辖区-璧山区-八塘镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/50/01/20/500120100.html
+500120101000	重庆市-市辖区-璧山区-七塘镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/50/01/20/500120101.html
+500120102000	重庆市-市辖区-璧山区-河边镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/50/01/20/500120102.html
+500120103000	重庆市-市辖区-璧山区-福禄镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/50/01/20/500120103.html
+500120104000	重庆市-市辖区-璧山区-大兴镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/50/01/20/500120104.html
+500120105000	重庆市-市辖区-璧山区-正兴镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/50/01/20/500120105.html
+500120106000	重庆市-市辖区-璧山区-广普镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/50/01/20/500120106.html
+500120107000	重庆市-市辖区-璧山区-三合镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/50/01/20/500120107.html
+500120108000	重庆市-市辖区-璧山区-健龙镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/50/01/20/500120108.html

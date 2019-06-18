@@ -1,0 +1,20 @@
+130701000000	河北省-张家口市-市辖区	
+130702000000	河北省-张家口市-桥东区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/07/130702.html
+130703000000	河北省-张家口市-桥西区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/07/130703.html
+130705000000	河北省-张家口市-宣化区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/07/130705.html
+130706000000	河北省-张家口市-下花园区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/07/130706.html
+130708000000	河北省-张家口市-万全区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/07/130708.html
+130709000000	河北省-张家口市-崇礼区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/07/130709.html
+130722000000	河北省-张家口市-张北县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/07/130722.html
+130723000000	河北省-张家口市-康保县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/07/130723.html
+130724000000	河北省-张家口市-沽源县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/07/130724.html
+130725000000	河北省-张家口市-尚义县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/07/130725.html
+130726000000	河北省-张家口市-蔚县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/07/130726.html
+130727000000	河北省-张家口市-阳原县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/07/130727.html
+130728000000	河北省-张家口市-怀安县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/07/130728.html
+130730000000	河北省-张家口市-怀来县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/07/130730.html
+130731000000	河北省-张家口市-涿鹿县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/07/130731.html
+130732000000	河北省-张家口市-赤城县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/07/130732.html
+130771000000	河北省-张家口市-张家口市高新技术产业开发区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/07/130771.html
+130772000000	河北省-张家口市-张家口市察北管理区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/07/130772.html
+130773000000	河北省-张家口市-张家口市塞北管理区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/07/130773.html

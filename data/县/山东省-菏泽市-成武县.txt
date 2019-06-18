@@ -1,0 +1,13 @@
+371723001000	山东省-菏泽市-成武县-文亭街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/17/23/371723001.html
+371723002000	山东省-菏泽市-成武县-永昌街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/17/23/371723002.html
+371723101000	山东省-菏泽市-成武县-成武县大田集镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/17/23/371723101.html
+371723102000	山东省-菏泽市-成武县-成武县天宫庙镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/17/23/371723102.html
+371723103000	山东省-菏泽市-成武县-成武县汶上集镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/17/23/371723103.html
+371723104000	山东省-菏泽市-成武县-成武县南鲁集镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/17/23/371723104.html
+371723105000	山东省-菏泽市-成武县-成武县伯乐集镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/17/23/371723105.html
+371723106000	山东省-菏泽市-成武县-成武县苟村集镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/17/23/371723106.html
+371723107000	山东省-菏泽市-成武县-成武县白浮图镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/17/23/371723107.html
+371723108000	山东省-菏泽市-成武县-成武县孙寺镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/17/23/371723108.html
+371723109000	山东省-菏泽市-成武县-成武县九女集镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/17/23/371723109.html
+371723110000	山东省-菏泽市-成武县-成武县党集镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/17/23/371723110.html
+371723111000	山东省-菏泽市-成武县-成武县张楼镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/17/23/371723111.html

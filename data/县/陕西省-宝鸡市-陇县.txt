@@ -1,0 +1,10 @@
+610327100000	陕西省-宝鸡市-陇县-城关镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/61/03/27/610327100.html
+610327101000	陕西省-宝鸡市-陇县-东风镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/61/03/27/610327101.html
+610327102000	陕西省-宝鸡市-陇县-八渡镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/61/03/27/610327102.html
+610327104000	陕西省-宝鸡市-陇县-东南镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/61/03/27/610327104.html
+610327106000	陕西省-宝鸡市-陇县-温水镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/61/03/27/610327106.html
+610327107000	陕西省-宝鸡市-陇县-天成镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/61/03/27/610327107.html
+610327108000	陕西省-宝鸡市-陇县-曹家湾镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/61/03/27/610327108.html
+610327109000	陕西省-宝鸡市-陇县-固关镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/61/03/27/610327109.html
+610327112000	陕西省-宝鸡市-陇县-河北镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/61/03/27/610327112.html
+610327113000	陕西省-宝鸡市-陇县-新集川镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/61/03/27/610327113.html

@@ -1,0 +1,13 @@
+652302001000	新疆维吾尔自治区-昌吉回族自治州-阜康市-博峰街办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/23/02/652302001.html
+652302002000	新疆维吾尔自治区-昌吉回族自治州-阜康市-阜新街办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/23/02/652302002.html
+652302003000	新疆维吾尔自治区-昌吉回族自治州-阜康市-准东办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/23/02/652302003.html
+652302100000	新疆维吾尔自治区-昌吉回族自治州-阜康市-甘河子镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/23/02/652302100.html
+652302101000	新疆维吾尔自治区-昌吉回族自治州-阜康市-城关镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/23/02/652302101.html
+652302102000	新疆维吾尔自治区-昌吉回族自治州-阜康市-九运街镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/23/02/652302102.html
+652302103000	新疆维吾尔自治区-昌吉回族自治州-阜康市-滋泥泉子镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/23/02/652302103.html
+652302201000	新疆维吾尔自治区-昌吉回族自治州-阜康市-上户沟哈萨克民族乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/23/02/652302201.html
+652302202000	新疆维吾尔自治区-昌吉回族自治州-阜康市-水磨沟乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/23/02/652302202.html
+652302203000	新疆维吾尔自治区-昌吉回族自治州-阜康市-三工河哈萨克民族乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/23/02/652302203.html
+652302503000	新疆维吾尔自治区-昌吉回族自治州-阜康市-兵团农六师土墩子农场	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/23/02/652302503.html
+652302504000	新疆维吾尔自治区-昌吉回族自治州-阜康市-兵团六运湖农场	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/23/02/652302504.html
+652302505000	新疆维吾尔自治区-昌吉回族自治州-阜康市-兵团二二二团农场	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/23/02/652302505.html

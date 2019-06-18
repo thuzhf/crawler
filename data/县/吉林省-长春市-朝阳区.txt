@@ -1,0 +1,11 @@
+220104001000	吉林省-长春市-朝阳区-前进街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/01/04/220104001.html
+220104002000	吉林省-长春市-朝阳区-桂林街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/01/04/220104002.html
+220104003000	吉林省-长春市-朝阳区-南湖街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/01/04/220104003.html
+220104004000	吉林省-长春市-朝阳区-永昌街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/01/04/220104004.html
+220104005000	吉林省-长春市-朝阳区-重庆街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/01/04/220104005.html
+220104006000	吉林省-长春市-朝阳区-清和街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/01/04/220104006.html
+220104007000	吉林省-长春市-朝阳区-红旗街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/01/04/220104007.html
+220104008000	吉林省-长春市-朝阳区-湖西街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/01/04/220104008.html
+220104009000	吉林省-长春市-朝阳区-富锋街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/01/04/220104009.html
+220104100000	吉林省-长春市-朝阳区-乐山镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/01/04/220104100.html
+220104101000	吉林省-长春市-朝阳区-永春镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/01/04/220104101.html

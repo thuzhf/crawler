@@ -1,0 +1,13 @@
+150401000000	内蒙古自治区-赤峰市-市辖区	
+150402000000	内蒙古自治区-赤峰市-红山区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/04/150402.html
+150403000000	内蒙古自治区-赤峰市-元宝山区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/04/150403.html
+150404000000	内蒙古自治区-赤峰市-松山区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/04/150404.html
+150421000000	内蒙古自治区-赤峰市-阿鲁科尔沁旗	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/04/150421.html
+150422000000	内蒙古自治区-赤峰市-巴林左旗	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/04/150422.html
+150423000000	内蒙古自治区-赤峰市-巴林右旗	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/04/150423.html
+150424000000	内蒙古自治区-赤峰市-林西县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/04/150424.html
+150425000000	内蒙古自治区-赤峰市-克什克腾旗	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/04/150425.html
+150426000000	内蒙古自治区-赤峰市-翁牛特旗	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/04/150426.html
+150428000000	内蒙古自治区-赤峰市-喀喇沁旗	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/04/150428.html
+150429000000	内蒙古自治区-赤峰市-宁城县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/04/150429.html
+150430000000	内蒙古自治区-赤峰市-敖汉旗	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/04/150430.html

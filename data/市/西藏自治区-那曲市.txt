@@ -1,0 +1,11 @@
+540602000000	西藏自治区-那曲市-色尼区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/06/540602.html
+540621000000	西藏自治区-那曲市-嘉黎县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/06/540621.html
+540622000000	西藏自治区-那曲市-比如县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/06/540622.html
+540623000000	西藏自治区-那曲市-聂荣县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/06/540623.html
+540624000000	西藏自治区-那曲市-安多县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/06/540624.html
+540625000000	西藏自治区-那曲市-申扎县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/06/540625.html
+540626000000	西藏自治区-那曲市-索县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/06/540626.html
+540627000000	西藏自治区-那曲市-班戈县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/06/540627.html
+540628000000	西藏自治区-那曲市-巴青县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/06/540628.html
+540629000000	西藏自治区-那曲市-尼玛县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/06/540629.html
+540630000000	西藏自治区-那曲市-双湖县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/06/540630.html

@@ -1,0 +1,16 @@
+431321100000	湖南省-娄底市-双峰县-永丰镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/13/21/431321100.html
+431321101000	湖南省-娄底市-双峰县-荷叶镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/13/21/431321101.html
+431321102000	湖南省-娄底市-双峰县-井字镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/13/21/431321102.html
+431321103000	湖南省-娄底市-双峰县-梓门桥镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/13/21/431321103.html
+431321104000	湖南省-娄底市-双峰县-杏子铺镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/13/21/431321104.html
+431321105000	湖南省-娄底市-双峰县-走马街镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/13/21/431321105.html
+431321107000	湖南省-娄底市-双峰县-洪山殿镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/13/21/431321107.html
+431321108000	湖南省-娄底市-双峰县-甘棠镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/13/21/431321108.html
+431321109000	湖南省-娄底市-双峰县-三塘铺镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/13/21/431321109.html
+431321110000	湖南省-娄底市-双峰县-青树坪镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/13/21/431321110.html
+431321111000	湖南省-娄底市-双峰县-花门镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/13/21/431321111.html
+431321112000	湖南省-娄底市-双峰县-锁石镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/13/21/431321112.html
+431321200000	湖南省-娄底市-双峰县-石牛乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/13/21/431321200.html
+431321201000	湖南省-娄底市-双峰县-沙塘乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/13/21/431321201.html
+431321202000	湖南省-娄底市-双峰县-印塘乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/13/21/431321202.html
+431321400000	湖南省-娄底市-双峰县-双峰经济开发区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/13/21/431321400.html

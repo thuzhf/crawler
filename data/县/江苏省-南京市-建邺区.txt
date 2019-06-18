@@ -1,0 +1,10 @@
+320105001000	江苏省-南京市-建邺区-莫愁湖街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/01/05/320105001.html
+320105002000	江苏省-南京市-建邺区-沙洲街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/01/05/320105002.html
+320105003000	江苏省-南京市-建邺区-双闸街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/01/05/320105003.html
+320105004000	江苏省-南京市-建邺区-江心洲街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/01/05/320105004.html
+320105006000	江苏省-南京市-建邺区-兴隆街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/01/05/320105006.html
+320105007000	江苏省-南京市-建邺区-南苑街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/01/05/320105007.html
+320105400000	江苏省-南京市-建邺区-建邺区新城科技园	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/01/05/320105400.html
+320105401000	江苏省-南京市-建邺区-建邺区河西中央商务区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/01/05/320105401.html
+320105402000	江苏省-南京市-建邺区-建邺区江东商业文化旅游中心区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/01/05/320105402.html
+320105403000	江苏省-南京市-建邺区-中新南京生态科技岛	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/01/05/320105403.html

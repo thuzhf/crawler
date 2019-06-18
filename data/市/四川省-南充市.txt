@@ -1,0 +1,10 @@
+511301000000	四川省-南充市-市辖区	
+511302000000	四川省-南充市-顺庆区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/13/511302.html
+511303000000	四川省-南充市-高坪区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/13/511303.html
+511304000000	四川省-南充市-嘉陵区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/13/511304.html
+511321000000	四川省-南充市-南部县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/13/511321.html
+511322000000	四川省-南充市-营山县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/13/511322.html
+511323000000	四川省-南充市-蓬安县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/13/511323.html
+511324000000	四川省-南充市-仪陇县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/13/511324.html
+511325000000	四川省-南充市-西充县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/13/511325.html
+511381000000	四川省-南充市-阆中市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/13/511381.html

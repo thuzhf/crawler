@@ -1,0 +1,13 @@
+152501000000	内蒙古自治区-锡林郭勒盟-二连浩特市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/25/152501.html
+152502000000	内蒙古自治区-锡林郭勒盟-锡林浩特市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/25/152502.html
+152522000000	内蒙古自治区-锡林郭勒盟-阿巴嘎旗	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/25/152522.html
+152523000000	内蒙古自治区-锡林郭勒盟-苏尼特左旗	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/25/152523.html
+152524000000	内蒙古自治区-锡林郭勒盟-苏尼特右旗	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/25/152524.html
+152525000000	内蒙古自治区-锡林郭勒盟-东乌珠穆沁旗	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/25/152525.html
+152526000000	内蒙古自治区-锡林郭勒盟-西乌珠穆沁旗	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/25/152526.html
+152527000000	内蒙古自治区-锡林郭勒盟-太仆寺旗	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/25/152527.html
+152528000000	内蒙古自治区-锡林郭勒盟-镶黄旗	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/25/152528.html
+152529000000	内蒙古自治区-锡林郭勒盟-正镶白旗	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/25/152529.html
+152530000000	内蒙古自治区-锡林郭勒盟-正蓝旗	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/25/152530.html
+152531000000	内蒙古自治区-锡林郭勒盟-多伦县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/25/152531.html
+152571000000	内蒙古自治区-锡林郭勒盟-乌拉盖管委会	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/25/152571.html

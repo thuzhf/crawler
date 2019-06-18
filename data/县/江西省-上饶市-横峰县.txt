@@ -1,0 +1,13 @@
+361125001000	江西省-上饶市-横峰县-兴安街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/11/25/361125001.html
+361125100000	江西省-上饶市-横峰县-岑阳镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/11/25/361125100.html
+361125101000	江西省-上饶市-横峰县-葛源镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/11/25/361125101.html
+361125200000	江西省-上饶市-横峰县-姚家乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/11/25/361125200.html
+361125201000	江西省-上饶市-横峰县-莲荷乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/11/25/361125201.html
+361125202000	江西省-上饶市-横峰县-司铺乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/11/25/361125202.html
+361125203000	江西省-上饶市-横峰县-港边乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/11/25/361125203.html
+361125204000	江西省-上饶市-横峰县-龙门畈乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/11/25/361125204.html
+361125205000	江西省-上饶市-横峰县-青板乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/11/25/361125205.html
+361125401000	江西省-上饶市-横峰县-红桥垦殖场	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/11/25/361125401.html
+361125502000	江西省-上饶市-横峰县-上坑源林场	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/11/25/361125502.html
+361125503000	江西省-上饶市-横峰县-山黄林场	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/11/25/361125503.html
+361125504000	江西省-上饶市-横峰县-新篁办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/11/25/361125504.html

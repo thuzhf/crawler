@@ -1,0 +1,5 @@
+430801000000	湖南省-张家界市-市辖区	
+430802000000	湖南省-张家界市-永定区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/08/430802.html
+430811000000	湖南省-张家界市-武陵源区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/08/430811.html
+430821000000	湖南省-张家界市-慈利县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/08/430821.html
+430822000000	湖南省-张家界市-桑植县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/08/430822.html

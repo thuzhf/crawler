@@ -1,0 +1,8 @@
+330205001000	浙江省-宁波市-江北区-中马街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/02/05/330205001.html
+330205002000	浙江省-宁波市-江北区-白沙街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/02/05/330205002.html
+330205003000	浙江省-宁波市-江北区-孔浦街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/02/05/330205003.html
+330205004000	浙江省-宁波市-江北区-文教街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/02/05/330205004.html
+330205005000	浙江省-宁波市-江北区-甬江街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/02/05/330205005.html
+330205006000	浙江省-宁波市-江北区-庄桥街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/02/05/330205006.html
+330205007000	浙江省-宁波市-江北区-洪塘街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/02/05/330205007.html
+330205103000	浙江省-宁波市-江北区-慈城镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/02/05/330205103.html

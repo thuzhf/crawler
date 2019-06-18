@@ -1,0 +1,9 @@
+320117001000	江苏省-南京市-溧水区-永阳街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/01/17/320117001.html
+320117002000	江苏省-南京市-溧水区-柘塘街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/01/17/320117002.html
+320117003000	江苏省-南京市-溧水区-东屏街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/01/17/320117003.html
+320117004000	江苏省-南京市-溧水区-石湫街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/01/17/320117004.html
+320117005000	江苏省-南京市-溧水区-洪蓝街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/01/17/320117005.html
+320117101000	江苏省-南京市-溧水区-白马镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/01/17/320117101.html
+320117106000	江苏省-南京市-溧水区-晶桥镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/01/17/320117106.html
+320117107000	江苏省-南京市-溧水区-和凤镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/01/17/320117107.html
+320117400000	江苏省-南京市-溧水区-溧水开发区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/01/17/320117400.html

@@ -1,0 +1,8 @@
+360728100000	江西省-赣州市-定南县-历市镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/07/28/360728100.html
+360728101000	江西省-赣州市-定南县-岿美山镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/07/28/360728101.html
+360728102000	江西省-赣州市-定南县-老城镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/07/28/360728102.html
+360728103000	江西省-赣州市-定南县-天九镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/07/28/360728103.html
+360728104000	江西省-赣州市-定南县-龙塘镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/07/28/360728104.html
+360728105000	江西省-赣州市-定南县-岭北镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/07/28/360728105.html
+360728106000	江西省-赣州市-定南县-鹅公镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/07/28/360728106.html
+360728400000	江西省-赣州市-定南县-定南县工业园	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/07/28/360728400.html

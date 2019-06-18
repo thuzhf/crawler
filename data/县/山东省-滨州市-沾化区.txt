@@ -1,0 +1,12 @@
+371603001000	山东省-滨州市-沾化区-富国街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/16/03/371603001.html
+371603002000	山东省-滨州市-沾化区-富源街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/16/03/371603002.html
+371603101000	山东省-滨州市-沾化区-下洼镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/16/03/371603101.html
+371603102000	山东省-滨州市-沾化区-古城镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/16/03/371603102.html
+371603103000	山东省-滨州市-沾化区-冯家镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/16/03/371603103.html
+371603104000	山东省-滨州市-沾化区-泊头镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/16/03/371603104.html
+371603105000	山东省-滨州市-沾化区-大高镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/16/03/371603105.html
+371603106000	山东省-滨州市-沾化区-黄升镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/16/03/371603106.html
+371603107000	山东省-滨州市-沾化区-滨海镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/16/03/371603107.html
+371603203000	山东省-滨州市-沾化区-下河乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/16/03/371603203.html
+371603204000	山东省-滨州市-沾化区-利国乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/16/03/371603204.html
+371603205000	山东省-滨州市-沾化区-海防办事处乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/16/03/371603205.html

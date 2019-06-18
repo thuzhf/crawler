@@ -1,0 +1,13 @@
+411002001000	河南省-许昌市-魏都区-西大街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/10/02/411002001.html
+411002002000	河南省-许昌市-魏都区-东大街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/10/02/411002002.html
+411002003000	河南省-许昌市-魏都区-西关街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/10/02/411002003.html
+411002004000	河南省-许昌市-魏都区-南关街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/10/02/411002004.html
+411002005000	河南省-许昌市-魏都区-北大街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/10/02/411002005.html
+411002006000	河南省-许昌市-魏都区-五一路街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/10/02/411002006.html
+411002007000	河南省-许昌市-魏都区-高桥营街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/10/02/411002007.html
+411002008000	河南省-许昌市-魏都区-丁庄街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/10/02/411002008.html
+411002009000	河南省-许昌市-魏都区-七里店街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/10/02/411002009.html
+411002010000	河南省-许昌市-魏都区-文峰街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/10/02/411002010.html
+411002011000	河南省-许昌市-魏都区-新兴街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/10/02/411002011.html
+411002012000	河南省-许昌市-魏都区-半截河街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/10/02/411002012.html
+411002570000	河南省-许昌市-魏都区-东城区管委会	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/10/02/411002570.html

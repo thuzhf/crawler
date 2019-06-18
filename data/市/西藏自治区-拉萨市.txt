@@ -1,0 +1,13 @@
+540101000000	西藏自治区-拉萨市-市辖区	
+540102000000	西藏自治区-拉萨市-城关区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/01/540102.html
+540103000000	西藏自治区-拉萨市-堆龙德庆区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/01/540103.html
+540104000000	西藏自治区-拉萨市-达孜区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/01/540104.html
+540121000000	西藏自治区-拉萨市-林周县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/01/540121.html
+540122000000	西藏自治区-拉萨市-当雄县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/01/540122.html
+540123000000	西藏自治区-拉萨市-尼木县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/01/540123.html
+540124000000	西藏自治区-拉萨市-曲水县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/01/540124.html
+540127000000	西藏自治区-拉萨市-墨竹工卡县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/01/540127.html
+540171000000	西藏自治区-拉萨市-格尔木藏青工业园区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/01/540171.html
+540172000000	西藏自治区-拉萨市-拉萨经济技术开发区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/01/540172.html
+540173000000	西藏自治区-拉萨市-西藏文化旅游创意园区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/01/540173.html
+540174000000	西藏自治区-拉萨市-达孜工业园区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/01/540174.html

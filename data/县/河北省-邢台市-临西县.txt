@@ -1,0 +1,10 @@
+130535100000	河北省-邢台市-临西县-临西镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/05/35/130535100.html
+130535101000	河北省-邢台市-临西县-河西镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/05/35/130535101.html
+130535102000	河北省-邢台市-临西县-下堡寺镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/05/35/130535102.html
+130535103000	河北省-邢台市-临西县-尖冢镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/05/35/130535103.html
+130535104000	河北省-邢台市-临西县-老官寨镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/05/35/130535104.html
+130535105000	河北省-邢台市-临西县-吕寨镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/05/35/130535105.html
+130535200000	河北省-邢台市-临西县-东枣园乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/05/35/130535200.html
+130535203000	河北省-邢台市-临西县-摇鞍镇乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/05/35/130535203.html
+130535204000	河北省-邢台市-临西县-大刘庄乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/05/35/130535204.html
+130535400000	河北省-邢台市-临西县-轴承工业园区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/05/35/130535400.html

@@ -1,0 +1,10 @@
+331001000000	浙江省-台州市-市辖区	
+331002000000	浙江省-台州市-椒江区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/10/331002.html
+331003000000	浙江省-台州市-黄岩区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/10/331003.html
+331004000000	浙江省-台州市-路桥区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/10/331004.html
+331022000000	浙江省-台州市-三门县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/10/331022.html
+331023000000	浙江省-台州市-天台县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/10/331023.html
+331024000000	浙江省-台州市-仙居县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/10/331024.html
+331081000000	浙江省-台州市-温岭市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/10/331081.html
+331082000000	浙江省-台州市-临海市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/10/331082.html
+331083000000	浙江省-台州市-玉环市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/10/331083.html

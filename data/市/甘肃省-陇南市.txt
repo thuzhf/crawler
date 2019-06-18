@@ -1,0 +1,10 @@
+621201000000	甘肃省-陇南市-市辖区	
+621202000000	甘肃省-陇南市-武都区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/62/12/621202.html
+621221000000	甘肃省-陇南市-成县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/62/12/621221.html
+621222000000	甘肃省-陇南市-文县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/62/12/621222.html
+621223000000	甘肃省-陇南市-宕昌县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/62/12/621223.html
+621224000000	甘肃省-陇南市-康县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/62/12/621224.html
+621225000000	甘肃省-陇南市-西和县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/62/12/621225.html
+621226000000	甘肃省-陇南市-礼县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/62/12/621226.html
+621227000000	甘肃省-陇南市-徽县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/62/12/621227.html
+621228000000	甘肃省-陇南市-两当县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/62/12/621228.html

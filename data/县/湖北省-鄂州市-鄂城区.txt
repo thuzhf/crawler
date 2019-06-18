@@ -1,0 +1,14 @@
+420704001000	湖北省-鄂州市-鄂城区-凤凰街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/07/04/420704001.html
+420704002000	湖北省-鄂州市-鄂城区-古楼街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/07/04/420704002.html
+420704003000	湖北省-鄂州市-鄂城区-西山街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/07/04/420704003.html
+420704100000	湖北省-鄂州市-鄂城区-泽林镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/07/04/420704100.html
+420704101000	湖北省-鄂州市-鄂城区-杜山镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/07/04/420704101.html
+420704102000	湖北省-鄂州市-鄂城区-新庙镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/07/04/420704102.html
+420704103000	湖北省-鄂州市-鄂城区-碧石镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/07/04/420704103.html
+420704104000	湖北省-鄂州市-鄂城区-汀祖镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/07/04/420704104.html
+420704105000	湖北省-鄂州市-鄂城区-燕矶镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/07/04/420704105.html
+420704106000	湖北省-鄂州市-鄂城区-杨叶镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/07/04/420704106.html
+420704107000	湖北省-鄂州市-鄂城区-花湖镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/07/04/420704107.html
+420704108000	湖北省-鄂州市-鄂城区-长港镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/07/04/420704108.html
+420704200000	湖北省-鄂州市-鄂城区-沙窝乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/07/04/420704200.html
+420704400000	湖北省-鄂州市-鄂城区-鄂州经济开发区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/07/04/420704400.html

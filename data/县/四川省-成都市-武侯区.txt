@@ -1,0 +1,17 @@
+510107001000	四川省-成都市-武侯区-浆洗街街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/01/07/510107001.html
+510107004000	四川省-成都市-武侯区-望江路街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/01/07/510107004.html
+510107005000	四川省-成都市-武侯区-玉林街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/01/07/510107005.html
+510107006000	四川省-成都市-武侯区-跳伞塔街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/01/07/510107006.html
+510107007000	四川省-成都市-武侯区-火车南站街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/01/07/510107007.html
+510107008000	四川省-成都市-武侯区-双楠街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/01/07/510107008.html
+510107009000	四川省-成都市-武侯区-晋阳街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/01/07/510107009.html
+510107010000	四川省-成都市-武侯区-红牌楼街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/01/07/510107010.html
+510107011000	四川省-成都市-武侯区-簇桥街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/01/07/510107011.html
+510107012000	四川省-成都市-武侯区-机投桥街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/01/07/510107012.html
+510107013000	四川省-成都市-武侯区-金花桥街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/01/07/510107013.html
+510107014000	四川省-成都市-武侯区-簇锦街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/01/07/510107014.html
+510107015000	四川省-成都市-武侯区-华兴街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/01/07/510107015.html
+510107061000	四川省-成都市-武侯区-芳草街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/01/07/510107061.html
+510107062000	四川省-成都市-武侯区-肖家河街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/01/07/510107062.html
+510107063000	四川省-成都市-武侯区-石羊场街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/01/07/510107063.html
+510107064000	四川省-成都市-武侯区-桂溪街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/01/07/510107064.html

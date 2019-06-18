@@ -1,0 +1,10 @@
+411202001000	河南省-三门峡市-湖滨区-湖滨街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/12/02/411202001.html
+411202002000	河南省-三门峡市-湖滨区-前进街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/12/02/411202002.html
+411202003000	河南省-三门峡市-湖滨区-车站街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/12/02/411202003.html
+411202004000	河南省-三门峡市-湖滨区-涧河街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/12/02/411202004.html
+411202005000	河南省-三门峡市-湖滨区-大安街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/12/02/411202005.html
+411202006000	河南省-三门峡市-湖滨区-会兴街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/12/02/411202006.html
+411202007000	河南省-三门峡市-湖滨区-崖底街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/12/02/411202007.html
+411202201000	河南省-三门峡市-湖滨区-交口乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/12/02/411202201.html
+411202202000	河南省-三门峡市-湖滨区-磁钟乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/12/02/411202202.html
+411202203000	河南省-三门峡市-湖滨区-高庙乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/12/02/411202203.html

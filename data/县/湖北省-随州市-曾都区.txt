@@ -1,0 +1,12 @@
+421303001000	湖北省-随州市-曾都区-西城街道（办事处）	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/13/03/421303001.html
+421303002000	湖北省-随州市-曾都区-东城街道（办事处）	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/13/03/421303002.html
+421303003000	湖北省-随州市-曾都区-南郊街道（办事处）	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/13/03/421303003.html
+421303004000	湖北省-随州市-曾都区-北郊街道（办事处）	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/13/03/421303004.html
+421303005000	湖北省-随州市-曾都区-城南新区办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/13/03/421303005.html
+421303101000	湖北省-随州市-曾都区-万店镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/13/03/421303101.html
+421303102000	湖北省-随州市-曾都区-何店镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/13/03/421303102.html
+421303103000	湖北省-随州市-曾都区-洛阳镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/13/03/421303103.html
+421303104000	湖北省-随州市-曾都区-府河镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/13/03/421303104.html
+421303187000	湖北省-随州市-曾都区-淅河镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/13/03/421303187.html
+421303499000	湖北省-随州市-曾都区-曾都区新型工业基地	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/13/03/421303499.html
+421303587000	湖北省-随州市-曾都区-随州市经济开发区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/13/03/421303587.html

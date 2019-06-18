@@ -1,0 +1,17 @@
+500109001000	重庆市-市辖区-北碚区-天生街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/50/01/09/500109001.html
+500109002000	重庆市-市辖区-北碚区-朝阳街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/50/01/09/500109002.html
+500109003000	重庆市-市辖区-北碚区-北温泉街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/50/01/09/500109003.html
+500109004000	重庆市-市辖区-北碚区-东阳街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/50/01/09/500109004.html
+500109005000	重庆市-市辖区-北碚区-龙凤桥街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/50/01/09/500109005.html
+500109006000	重庆市-市辖区-北碚区-蔡家岗街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/50/01/09/500109006.html
+500109007000	重庆市-市辖区-北碚区-歇马街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/50/01/09/500109007.html
+500109008000	重庆市-市辖区-北碚区-水土街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/50/01/09/500109008.html
+500109009000	重庆市-市辖区-北碚区-复兴街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/50/01/09/500109009.html
+500109102000	重庆市-市辖区-北碚区-澄江镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/50/01/09/500109102.html
+500109104000	重庆市-市辖区-北碚区-童家溪镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/50/01/09/500109104.html
+500109105000	重庆市-市辖区-北碚区-天府镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/50/01/09/500109105.html
+500109108000	重庆市-市辖区-北碚区-施家梁镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/50/01/09/500109108.html
+500109110000	重庆市-市辖区-北碚区-静观镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/50/01/09/500109110.html
+500109111000	重庆市-市辖区-北碚区-柳荫镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/50/01/09/500109111.html
+500109113000	重庆市-市辖区-北碚区-三圣镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/50/01/09/500109113.html
+500109116000	重庆市-市辖区-北碚区-金刀峡镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/50/01/09/500109116.html

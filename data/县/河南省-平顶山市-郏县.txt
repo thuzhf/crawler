@@ -1,0 +1,15 @@
+410425001000	河南省-平顶山市-郏县-龙山街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/04/25/410425001.html
+410425002000	河南省-平顶山市-郏县-东城街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/04/25/410425002.html
+410425101000	河南省-平顶山市-郏县-冢头镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/04/25/410425101.html
+410425102000	河南省-平顶山市-郏县-安良镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/04/25/410425102.html
+410425103000	河南省-平顶山市-郏县-堂街镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/04/25/410425103.html
+410425104000	河南省-平顶山市-郏县-薛店镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/04/25/410425104.html
+410425105000	河南省-平顶山市-郏县-长桥镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/04/25/410425105.html
+410425106000	河南省-平顶山市-郏县-茨芭镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/04/25/410425106.html
+410425107000	河南省-平顶山市-郏县-黄道镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/04/25/410425107.html
+410425108000	河南省-平顶山市-郏县-李口镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/04/25/410425108.html
+410425200000	河南省-平顶山市-郏县-王集乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/04/25/410425200.html
+410425202000	河南省-平顶山市-郏县-姚庄回族乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/04/25/410425202.html
+410425203000	河南省-平顶山市-郏县-白庙乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/04/25/410425203.html
+410425204000	河南省-平顶山市-郏县-广阔天地乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/04/25/410425204.html
+410425205000	河南省-平顶山市-郏县-渣元乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/04/25/410425205.html

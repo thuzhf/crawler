@@ -1,0 +1,8 @@
+140123100000	山西省-太原市-娄烦县-娄烦镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/01/23/140123100.html
+140123101000	山西省-太原市-娄烦县-静游镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/01/23/140123101.html
+140123102000	山西省-太原市-娄烦县-杜交曲镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/01/23/140123102.html
+140123200000	山西省-太原市-娄烦县-庙湾乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/01/23/140123200.html
+140123201000	山西省-太原市-娄烦县-马家庄乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/01/23/140123201.html
+140123202000	山西省-太原市-娄烦县-盖家庄乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/01/23/140123202.html
+140123203000	山西省-太原市-娄烦县-米峪镇乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/01/23/140123203.html
+140123204000	山西省-太原市-娄烦县-天池店乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/01/23/140123204.html

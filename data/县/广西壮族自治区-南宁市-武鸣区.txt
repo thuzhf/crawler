@@ -1,0 +1,14 @@
+450110100000	广西壮族自治区-南宁市-武鸣区-城厢镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/01/10/450110100.html
+450110102000	广西壮族自治区-南宁市-武鸣区-太平镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/01/10/450110102.html
+450110103000	广西壮族自治区-南宁市-武鸣区-双桥镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/01/10/450110103.html
+450110104000	广西壮族自治区-南宁市-武鸣区-宁武镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/01/10/450110104.html
+450110105000	广西壮族自治区-南宁市-武鸣区-锣圩镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/01/10/450110105.html
+450110106000	广西壮族自治区-南宁市-武鸣区-仙湖镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/01/10/450110106.html
+450110107000	广西壮族自治区-南宁市-武鸣区-府城镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/01/10/450110107.html
+450110108000	广西壮族自治区-南宁市-武鸣区-陆斡镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/01/10/450110108.html
+450110109000	广西壮族自治区-南宁市-武鸣区-两江镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/01/10/450110109.html
+450110110000	广西壮族自治区-南宁市-武鸣区-罗波镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/01/10/450110110.html
+450110111000	广西壮族自治区-南宁市-武鸣区-灵马镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/01/10/450110111.html
+450110112000	广西壮族自治区-南宁市-武鸣区-甘圩镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/01/10/450110112.html
+450110113000	广西壮族自治区-南宁市-武鸣区-马头镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/01/10/450110113.html
+450110451000	广西壮族自治区-南宁市-武鸣区-南宁华侨投资区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/01/10/450110451.html

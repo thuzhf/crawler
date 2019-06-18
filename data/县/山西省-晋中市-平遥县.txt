@@ -1,0 +1,17 @@
+140728001000	山西省-晋中市-平遥县-古城街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/07/28/140728001.html
+140728002000	山西省-晋中市-平遥县-城东街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/07/28/140728002.html
+140728003000	山西省-晋中市-平遥县-城西街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/07/28/140728003.html
+140728100000	山西省-晋中市-平遥县-古陶镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/07/28/140728100.html
+140728101000	山西省-晋中市-平遥县-段村镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/07/28/140728101.html
+140728102000	山西省-晋中市-平遥县-东泉镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/07/28/140728102.html
+140728103000	山西省-晋中市-平遥县-洪善镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/07/28/140728103.html
+140728104000	山西省-晋中市-平遥县-宁固镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/07/28/140728104.html
+140728200000	山西省-晋中市-平遥县-南政乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/07/28/140728200.html
+140728201000	山西省-晋中市-平遥县-中都乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/07/28/140728201.html
+140728202000	山西省-晋中市-平遥县-岳壁乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/07/28/140728202.html
+140728203000	山西省-晋中市-平遥县-卜宜乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/07/28/140728203.html
+140728204000	山西省-晋中市-平遥县-孟山乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/07/28/140728204.html
+140728205000	山西省-晋中市-平遥县-朱坑乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/07/28/140728205.html
+140728206000	山西省-晋中市-平遥县-襄垣乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/07/28/140728206.html
+140728207000	山西省-晋中市-平遥县-杜家庄乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/07/28/140728207.html
+140728208000	山西省-晋中市-平遥县-香乐乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/07/28/140728208.html

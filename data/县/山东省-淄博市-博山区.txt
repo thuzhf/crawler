@@ -1,0 +1,10 @@
+370304001000	山东省-淄博市-博山区-城东街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/03/04/370304001.html
+370304002000	山东省-淄博市-博山区-城西街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/03/04/370304002.html
+370304004000	山东省-淄博市-博山区-山头街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/03/04/370304004.html
+370304102000	山东省-淄博市-博山区-域城镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/03/04/370304102.html
+370304103000	山东省-淄博市-博山区-白塔镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/03/04/370304103.html
+370304106000	山东省-淄博市-博山区-八陡镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/03/04/370304106.html
+370304108000	山东省-淄博市-博山区-石马镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/03/04/370304108.html
+370304111000	山东省-淄博市-博山区-源泉镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/03/04/370304111.html
+370304112000	山东省-淄博市-博山区-池上镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/03/04/370304112.html
+370304113000	山东省-淄博市-博山区-博山镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/03/04/370304113.html

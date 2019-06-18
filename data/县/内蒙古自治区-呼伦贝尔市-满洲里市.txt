@@ -1,0 +1,13 @@
+150781001000	内蒙古自治区-呼伦贝尔市-满洲里市-东山街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/07/81/150781001.html
+150781002000	内蒙古自治区-呼伦贝尔市-满洲里市-道南街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/07/81/150781002.html
+150781003000	内蒙古自治区-呼伦贝尔市-满洲里市-道北街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/07/81/150781003.html
+150781004000	内蒙古自治区-呼伦贝尔市-满洲里市-兴华街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/07/81/150781004.html
+150781012000	内蒙古自治区-呼伦贝尔市-满洲里市-敖尔金街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/07/81/150781012.html
+150781100000	内蒙古自治区-呼伦贝尔市-满洲里市-新开河镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/07/81/150781100.html
+150781400000	内蒙古自治区-呼伦贝尔市-满洲里市-满洲里市互市贸易区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/07/81/150781400.html
+150781401000	内蒙古自治区-呼伦贝尔市-满洲里市-满洲里市经济合作区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/07/81/150781401.html
+150781402000	内蒙古自治区-呼伦贝尔市-满洲里市-满洲里市东湖区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/07/81/150781402.html
+150781403000	内蒙古自治区-呼伦贝尔市-满洲里市-满洲里市扎煤公司	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/07/81/150781403.html
+150781404000	内蒙古自治区-呼伦贝尔市-满洲里市-扎赉诺尔矿区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/07/81/150781404.html
+150781405000	内蒙古自治区-呼伦贝尔市-满洲里市-满洲里市工业园区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/07/81/150781405.html
+150781406000	内蒙古自治区-呼伦贝尔市-满洲里市-满洲里国际物流产业园区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/07/81/150781406.html

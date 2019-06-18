@@ -1,0 +1,6 @@
+140110001000	山西省-太原市-晋源区-义井街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/01/10/140110001.html
+140110002000	山西省-太原市-晋源区-罗城街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/01/10/140110002.html
+140110003000	山西省-太原市-晋源区-晋源街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/01/10/140110003.html
+140110100000	山西省-太原市-晋源区-金胜镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/01/10/140110100.html
+140110101000	山西省-太原市-晋源区-晋祠镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/01/10/140110101.html
+140110102000	山西省-太原市-晋源区-姚村镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/01/10/140110102.html

@@ -1,0 +1,12 @@
+420303001000	湖北省-十堰市-张湾区-花果街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/03/03/420303001.html
+420303002000	湖北省-十堰市-张湾区-红卫街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/03/03/420303002.html
+420303003000	湖北省-十堰市-张湾区-车城路街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/03/03/420303003.html
+420303004000	湖北省-十堰市-张湾区-汉江路街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/03/03/420303004.html
+420303100000	湖北省-十堰市-张湾区-黄龙镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/03/03/420303100.html
+420303101000	湖北省-十堰市-张湾区-柏林镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/03/03/420303101.html
+420303200000	湖北省-十堰市-张湾区-方滩乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/03/03/420303200.html
+420303201000	湖北省-十堰市-张湾区-西沟乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/03/03/420303201.html
+420303400000	湖北省-十堰市-张湾区-西城开发区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/03/03/420303400.html
+420303401000	湖北省-十堰市-张湾区-十堰工业新区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/03/03/420303401.html
+420303500000	湖北省-十堰市-张湾区-秦家坪林场	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/03/03/420303500.html
+420303501000	湖北省-十堰市-张湾区-凤凰山茶场	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/03/03/420303501.html

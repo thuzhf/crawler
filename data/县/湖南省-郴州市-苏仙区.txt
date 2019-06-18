@@ -1,0 +1,14 @@
+431003001000	湖南省-郴州市-苏仙区-苏仙岭街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/10/03/431003001.html
+431003002000	湖南省-郴州市-苏仙区-南塔街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/10/03/431003002.html
+431003003000	湖南省-郴州市-苏仙区-白鹿洞街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/10/03/431003003.html
+431003004000	湖南省-郴州市-苏仙区-王仙岭街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/10/03/431003004.html
+431003005000	湖南省-郴州市-苏仙区-卜里坪街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/10/03/431003005.html
+431003006000	湖南省-郴州市-苏仙区-观山洞街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/10/03/431003006.html
+431003101000	湖南省-郴州市-苏仙区-白露塘镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/10/03/431003101.html
+431003102000	湖南省-郴州市-苏仙区-良田镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/10/03/431003102.html
+431003103000	湖南省-郴州市-苏仙区-栖凤渡镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/10/03/431003103.html
+431003104000	湖南省-郴州市-苏仙区-坳上镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/10/03/431003104.html
+431003105000	湖南省-郴州市-苏仙区-许家洞镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/10/03/431003105.html
+431003107000	湖南省-郴州市-苏仙区-五里牌镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/10/03/431003107.html
+431003109000	湖南省-郴州市-苏仙区-五盖山镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/10/03/431003109.html
+431003110000	湖南省-郴州市-苏仙区-飞天山镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/10/03/431003110.html

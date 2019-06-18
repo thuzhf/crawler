@@ -1,0 +1,11 @@
+360803001000	江西省-吉安市-青原区-河东街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/08/03/360803001.html
+360803002000	江西省-吉安市-青原区-滨江街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/08/03/360803002.html
+360803100000	江西省-吉安市-青原区-天玉镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/08/03/360803100.html
+360803101000	江西省-吉安市-青原区-值夏镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/08/03/360803101.html
+360803102000	江西省-吉安市-青原区-新圩镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/08/03/360803102.html
+360803103000	江西省-吉安市-青原区-富滩镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/08/03/360803103.html
+360803104000	江西省-吉安市-青原区-富田镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/08/03/360803104.html
+360803105000	江西省-吉安市-青原区-文陂镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/08/03/360803105.html
+360803201000	江西省-吉安市-青原区-东固畲族少数民族乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/08/03/360803201.html
+360803400000	江西省-吉安市-青原区-青原区河东经济开发区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/08/03/360803400.html
+360803500000	江西省-吉安市-青原区-东固垦殖场	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/08/03/360803500.html

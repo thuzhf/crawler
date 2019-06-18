@@ -1,0 +1,10 @@
+130204001000	河北省-唐山市-古冶区-林西街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/02/04/130204001.html
+130204002000	河北省-唐山市-古冶区-唐家庄街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/02/04/130204002.html
+130204003000	河北省-唐山市-古冶区-古冶街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/02/04/130204003.html
+130204004000	河北省-唐山市-古冶区-赵各庄街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/02/04/130204004.html
+130204007000	河北省-唐山市-古冶区-京华街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/02/04/130204007.html
+130204100000	河北省-唐山市-古冶区-范各庄镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/02/04/130204100.html
+130204101000	河北省-唐山市-古冶区-卑家店镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/02/04/130204101.html
+130204201000	河北省-唐山市-古冶区-王辇庄乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/02/04/130204201.html
+130204202000	河北省-唐山市-古冶区-习家套乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/02/04/130204202.html
+130204203000	河北省-唐山市-古冶区-大庄坨乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/02/04/130204203.html

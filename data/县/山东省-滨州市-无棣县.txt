@@ -1,0 +1,12 @@
+371623001000	山东省-滨州市-无棣县-棣丰街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/16/23/371623001.html
+371623002000	山东省-滨州市-无棣县-海丰街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/16/23/371623002.html
+371623101000	山东省-滨州市-无棣县-水湾镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/16/23/371623101.html
+371623102000	山东省-滨州市-无棣县-碣石山镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/16/23/371623102.html
+371623103000	山东省-滨州市-无棣县-小泊头镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/16/23/371623103.html
+371623104000	山东省-滨州市-无棣县-埕口镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/16/23/371623104.html
+371623105000	山东省-滨州市-无棣县-马山子镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/16/23/371623105.html
+371623106000	山东省-滨州市-无棣县-车王镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/16/23/371623106.html
+371623107000	山东省-滨州市-无棣县-柳堡镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/16/23/371623107.html
+371623108000	山东省-滨州市-无棣县-佘家镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/16/23/371623108.html
+371623109000	山东省-滨州市-无棣县-信阳镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/16/23/371623109.html
+371623110000	山东省-滨州市-无棣县-西小王镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/16/23/371623110.html

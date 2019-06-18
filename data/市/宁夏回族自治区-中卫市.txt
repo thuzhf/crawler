@@ -1,0 +1,4 @@
+640501000000	宁夏回族自治区-中卫市-市辖区	
+640502000000	宁夏回族自治区-中卫市-沙坡头区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/64/05/640502.html
+640521000000	宁夏回族自治区-中卫市-中宁县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/64/05/640521.html
+640522000000	宁夏回族自治区-中卫市-海原县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/64/05/640522.html

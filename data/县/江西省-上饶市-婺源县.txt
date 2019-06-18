@@ -1,0 +1,17 @@
+361130001000	江西省-上饶市-婺源县-蚺城街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/11/30/361130001.html
+361130100000	江西省-上饶市-婺源县-紫阳镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/11/30/361130100.html
+361130101000	江西省-上饶市-婺源县-清华镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/11/30/361130101.html
+361130102000	江西省-上饶市-婺源县-秋口镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/11/30/361130102.html
+361130103000	江西省-上饶市-婺源县-江湾镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/11/30/361130103.html
+361130104000	江西省-上饶市-婺源县-思口镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/11/30/361130104.html
+361130106000	江西省-上饶市-婺源县-赋春镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/11/30/361130106.html
+361130107000	江西省-上饶市-婺源县-镇头镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/11/30/361130107.html
+361130109000	江西省-上饶市-婺源县-太白镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/11/30/361130109.html
+361130110000	江西省-上饶市-婺源县-中云镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/11/30/361130110.html
+361130111000	江西省-上饶市-婺源县-许村镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/11/30/361130111.html
+361130200000	江西省-上饶市-婺源县-溪头乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/11/30/361130200.html
+361130201000	江西省-上饶市-婺源县-段莘乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/11/30/361130201.html
+361130204000	江西省-上饶市-婺源县-浙源乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/11/30/361130204.html
+361130205000	江西省-上饶市-婺源县-沱川乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/11/30/361130205.html
+361130206000	江西省-上饶市-婺源县-大鄣山乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/11/30/361130206.html
+361130208000	江西省-上饶市-婺源县-珍珠山乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/11/30/361130208.html

@@ -1,0 +1,17 @@
+220281001000	吉林省-吉林市-蛟河市-民主街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/02/81/220281001.html
+220281002000	吉林省-吉林市-蛟河市-长安街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/02/81/220281002.html
+220281003000	吉林省-吉林市-蛟河市-河南街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/02/81/220281003.html
+220281004000	吉林省-吉林市-蛟河市-奶子山街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/02/81/220281004.html
+220281005000	吉林省-吉林市-蛟河市-拉法街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/02/81/220281005.html
+220281006000	吉林省-吉林市-蛟河市-河北街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/02/81/220281006.html
+220281007000	吉林省-吉林市-蛟河市-新农街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/02/81/220281007.html
+220281100000	吉林省-吉林市-蛟河市-新站镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/02/81/220281100.html
+220281101000	吉林省-吉林市-蛟河市-天岗镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/02/81/220281101.html
+220281102000	吉林省-吉林市-蛟河市-白石山镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/02/81/220281102.html
+220281103000	吉林省-吉林市-蛟河市-漂河镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/02/81/220281103.html
+220281104000	吉林省-吉林市-蛟河市-黄松甸镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/02/81/220281104.html
+220281105000	吉林省-吉林市-蛟河市-天北镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/02/81/220281105.html
+220281106000	吉林省-吉林市-蛟河市-松江镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/02/81/220281106.html
+220281107000	吉林省-吉林市-蛟河市-庆岭镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/02/81/220281107.html
+220281200000	吉林省-吉林市-蛟河市-乌林朝鲜族乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/02/81/220281200.html
+220281201000	吉林省-吉林市-蛟河市-前进乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/02/81/220281201.html

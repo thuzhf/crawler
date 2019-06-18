@@ -1,0 +1,16 @@
+141182001000	山西省-吕梁市-汾阳市-文峰街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/11/82/141182001.html
+141182002000	山西省-吕梁市-汾阳市-太和桥街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/11/82/141182002.html
+141182100000	山西省-吕梁市-汾阳市-贾家庄镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/11/82/141182100.html
+141182101000	山西省-吕梁市-汾阳市-杏花村镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/11/82/141182101.html
+141182102000	山西省-吕梁市-汾阳市-冀村镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/11/82/141182102.html
+141182103000	山西省-吕梁市-汾阳市-肖家庄镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/11/82/141182103.html
+141182104000	山西省-吕梁市-汾阳市-演武镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/11/82/141182104.html
+141182105000	山西省-吕梁市-汾阳市-三泉镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/11/82/141182105.html
+141182106000	山西省-吕梁市-汾阳市-石庄镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/11/82/141182106.html
+141182107000	山西省-吕梁市-汾阳市-杨家庄镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/11/82/141182107.html
+141182108000	山西省-吕梁市-汾阳市-峪道河镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/11/82/141182108.html
+141182200000	山西省-吕梁市-汾阳市-西河乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/11/82/141182200.html
+141182201000	山西省-吕梁市-汾阳市-阳城乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/11/82/141182201.html
+141182202000	山西省-吕梁市-汾阳市-栗家庄乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/11/82/141182202.html
+141182400000	山西省-吕梁市-汾阳市-南薰街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/11/82/141182400.html
+141182401000	山西省-吕梁市-汾阳市-辰北街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/11/82/141182401.html

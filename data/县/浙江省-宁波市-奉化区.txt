@@ -1,0 +1,11 @@
+330213001000	浙江省-宁波市-奉化区-锦屏街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/02/13/330213001.html
+330213002000	浙江省-宁波市-奉化区-岳林街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/02/13/330213002.html
+330213003000	浙江省-宁波市-奉化区-江口街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/02/13/330213003.html
+330213004000	浙江省-宁波市-奉化区-西坞街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/02/13/330213004.html
+330213005000	浙江省-宁波市-奉化区-萧王庙街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/02/13/330213005.html
+330213100000	浙江省-宁波市-奉化区-溪口镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/02/13/330213100.html
+330213103000	浙江省-宁波市-奉化区-尚田镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/02/13/330213103.html
+330213104000	浙江省-宁波市-奉化区-莼湖镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/02/13/330213104.html
+330213106000	浙江省-宁波市-奉化区-裘村镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/02/13/330213106.html
+330213107000	浙江省-宁波市-奉化区-大堰镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/02/13/330213107.html
+330213108000	浙江省-宁波市-奉化区-松岙镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/02/13/330213108.html

@@ -1,0 +1,10 @@
+440303001000	广东省-深圳市-罗湖区-桂园街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/03/03/440303001.html
+440303002000	广东省-深圳市-罗湖区-黄贝街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/03/03/440303002.html
+440303003000	广东省-深圳市-罗湖区-东门街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/03/03/440303003.html
+440303004000	广东省-深圳市-罗湖区-翠竹街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/03/03/440303004.html
+440303005000	广东省-深圳市-罗湖区-南湖街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/03/03/440303005.html
+440303006000	广东省-深圳市-罗湖区-笋岗街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/03/03/440303006.html
+440303007000	广东省-深圳市-罗湖区-东湖街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/03/03/440303007.html
+440303008000	广东省-深圳市-罗湖区-莲塘街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/03/03/440303008.html
+440303009000	广东省-深圳市-罗湖区-东晓街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/03/03/440303009.html
+440303010000	广东省-深圳市-罗湖区-清水河街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/03/03/440303010.html

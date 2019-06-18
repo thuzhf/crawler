@@ -1,0 +1,17 @@
+410223100000	河南省-开封市-尉氏县-城关镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/02/23/410223100.html
+410223101000	河南省-开封市-尉氏县-洧川镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/02/23/410223101.html
+410223102000	河南省-开封市-尉氏县-朱曲镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/02/23/410223102.html
+410223103000	河南省-开封市-尉氏县-蔡庄镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/02/23/410223103.html
+410223104000	河南省-开封市-尉氏县-永兴镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/02/23/410223104.html
+410223105000	河南省-开封市-尉氏县-张市镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/02/23/410223105.html
+410223106000	河南省-开封市-尉氏县-十八里镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/02/23/410223106.html
+410223107000	河南省-开封市-尉氏县-水坡镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/02/23/410223107.html
+410223108000	河南省-开封市-尉氏县-大营镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/02/23/410223108.html
+410223109000	河南省-开封市-尉氏县-庄头镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/02/23/410223109.html
+410223200000	河南省-开封市-尉氏县-邢庄乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/02/23/410223200.html
+410223203000	河南省-开封市-尉氏县-大马乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/02/23/410223203.html
+410223204000	河南省-开封市-尉氏县-岗李乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/02/23/410223204.html
+410223205000	河南省-开封市-尉氏县-门楼任乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/02/23/410223205.html
+410223206000	河南省-开封市-尉氏县-大桥乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/02/23/410223206.html
+410223207000	河南省-开封市-尉氏县-南曹乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/02/23/410223207.html
+410223208000	河南省-开封市-尉氏县-小陈乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/02/23/410223208.html

@@ -1,0 +1,16 @@
+360727100000	江西省-赣州市-龙南县-龙南镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/07/27/360727100.html
+360727101000	江西省-赣州市-龙南县-武当镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/07/27/360727101.html
+360727102000	江西省-赣州市-龙南县-杨村镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/07/27/360727102.html
+360727103000	江西省-赣州市-龙南县-汶龙镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/07/27/360727103.html
+360727104000	江西省-赣州市-龙南县-程龙镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/07/27/360727104.html
+360727105000	江西省-赣州市-龙南县-关西镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/07/27/360727105.html
+360727106000	江西省-赣州市-龙南县-里仁镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/07/27/360727106.html
+360727107000	江西省-赣州市-龙南县-渡江镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/07/27/360727107.html
+360727108000	江西省-赣州市-龙南县-九连山镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/07/27/360727108.html
+360727200000	江西省-赣州市-龙南县-桃江乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/07/27/360727200.html
+360727201000	江西省-赣州市-龙南县-东江乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/07/27/360727201.html
+360727202000	江西省-赣州市-龙南县-临塘乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/07/27/360727202.html
+360727203000	江西省-赣州市-龙南县-南亨乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/07/27/360727203.html
+360727204000	江西省-赣州市-龙南县-夹湖乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/07/27/360727204.html
+360727400000	江西省-赣州市-龙南县-江西龙南经济技术开发区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/07/27/360727400.html
+360727500000	江西省-赣州市-龙南县-安基山林场	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/07/27/360727500.html

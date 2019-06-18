@@ -1,0 +1,11 @@
+610603001000	陕西省-延安市-安塞区-真武洞街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/61/06/03/610603001.html
+610603002000	陕西省-延安市-安塞区-金明街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/61/06/03/610603002.html
+610603003000	陕西省-延安市-安塞区-白坪街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/61/06/03/610603003.html
+610603101000	陕西省-延安市-安塞区-砖窑湾镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/61/06/03/610603101.html
+610603102000	陕西省-延安市-安塞区-沿河湾镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/61/06/03/610603102.html
+610603103000	陕西省-延安市-安塞区-招安镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/61/06/03/610603103.html
+610603104000	陕西省-延安市-安塞区-化子坪镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/61/06/03/610603104.html
+610603105000	陕西省-延安市-安塞区-坪桥镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/61/06/03/610603105.html
+610603106000	陕西省-延安市-安塞区-建华镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/61/06/03/610603106.html
+610603107000	陕西省-延安市-安塞区-高桥镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/61/06/03/610603107.html
+610603108000	陕西省-延安市-安塞区-镰刀湾镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/61/06/03/610603108.html

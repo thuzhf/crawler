@@ -1,0 +1,12 @@
+131001000000	河北省-廊坊市-市辖区	
+131002000000	河北省-廊坊市-安次区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/10/131002.html
+131003000000	河北省-廊坊市-广阳区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/10/131003.html
+131022000000	河北省-廊坊市-固安县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/10/131022.html
+131023000000	河北省-廊坊市-永清县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/10/131023.html
+131024000000	河北省-廊坊市-香河县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/10/131024.html
+131025000000	河北省-廊坊市-大城县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/10/131025.html
+131026000000	河北省-廊坊市-文安县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/10/131026.html
+131028000000	河北省-廊坊市-大厂回族自治县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/10/131028.html
+131071000000	河北省-廊坊市-廊坊经济技术开发区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/10/131071.html
+131081000000	河北省-廊坊市-霸州市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/10/131081.html
+131082000000	河北省-廊坊市-三河市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/10/131082.html

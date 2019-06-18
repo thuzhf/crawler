@@ -1,0 +1,10 @@
+130602001000	河北省-保定市-竞秀区-先锋街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/06/02/130602001.html
+130602002000	河北省-保定市-竞秀区-新市场街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/06/02/130602002.html
+130602003000	河北省-保定市-竞秀区-东风街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/06/02/130602003.html
+130602004000	河北省-保定市-竞秀区-建南街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/06/02/130602004.html
+130602005000	河北省-保定市-竞秀区-韩村北路街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/06/02/130602005.html
+130602200000	河北省-保定市-竞秀区-颉庄乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/06/02/130602200.html
+130602201000	河北省-保定市-竞秀区-富昌乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/06/02/130602201.html
+130602202000	河北省-保定市-竞秀区-韩村乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/06/02/130602202.html
+130602203000	河北省-保定市-竞秀区-南奇乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/06/02/130602203.html
+130602204000	河北省-保定市-竞秀区-江城乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/06/02/130602204.html

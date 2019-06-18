@@ -1,0 +1,9 @@
+370301000000	山东省-淄博市-市辖区	
+370302000000	山东省-淄博市-淄川区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/03/370302.html
+370303000000	山东省-淄博市-张店区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/03/370303.html
+370304000000	山东省-淄博市-博山区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/03/370304.html
+370305000000	山东省-淄博市-临淄区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/03/370305.html
+370306000000	山东省-淄博市-周村区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/03/370306.html
+370321000000	山东省-淄博市-桓台县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/03/370321.html
+370322000000	山东省-淄博市-高青县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/03/370322.html
+370323000000	山东省-淄博市-沂源县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/03/370323.html

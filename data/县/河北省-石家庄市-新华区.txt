@@ -1,0 +1,15 @@
+130105001000	河北省-石家庄市-新华区-革新街街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/01/05/130105001.html
+130105003000	河北省-石家庄市-新华区-新华路街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/01/05/130105003.html
+130105004000	河北省-石家庄市-新华区-宁安街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/01/05/130105004.html
+130105005000	河北省-石家庄市-新华区-东焦街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/01/05/130105005.html
+130105006000	河北省-石家庄市-新华区-西苑街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/01/05/130105006.html
+130105007000	河北省-石家庄市-新华区-合作路街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/01/05/130105007.html
+130105008000	河北省-石家庄市-新华区-联盟街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/01/05/130105008.html
+130105009000	河北省-石家庄市-新华区-石岗街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/01/05/130105009.html
+130105011000	河北省-石家庄市-新华区-天苑街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/01/05/130105011.html
+130105012000	河北省-石家庄市-新华区-北苑街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/01/05/130105012.html
+130105013000	河北省-石家庄市-新华区-赵陵铺路街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/01/05/130105013.html
+130105014000	河北省-石家庄市-新华区-西三庄街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/01/05/130105014.html
+130105015000	河北省-石家庄市-新华区-大郭街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/01/05/130105015.html
+130105016000	河北省-石家庄市-新华区-杜北街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/01/05/130105016.html
+130105017000	河北省-石家庄市-新华区-赵佗路街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/01/05/130105017.html

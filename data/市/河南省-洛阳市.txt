@@ -1,0 +1,17 @@
+410301000000	河南省-洛阳市-市辖区	
+410302000000	河南省-洛阳市-老城区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/03/410302.html
+410303000000	河南省-洛阳市-西工区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/03/410303.html
+410304000000	河南省-洛阳市-瀍河回族区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/03/410304.html
+410305000000	河南省-洛阳市-涧西区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/03/410305.html
+410306000000	河南省-洛阳市-吉利区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/03/410306.html
+410311000000	河南省-洛阳市-洛龙区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/03/410311.html
+410322000000	河南省-洛阳市-孟津县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/03/410322.html
+410323000000	河南省-洛阳市-新安县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/03/410323.html
+410324000000	河南省-洛阳市-栾川县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/03/410324.html
+410325000000	河南省-洛阳市-嵩县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/03/410325.html
+410326000000	河南省-洛阳市-汝阳县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/03/410326.html
+410327000000	河南省-洛阳市-宜阳县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/03/410327.html
+410328000000	河南省-洛阳市-洛宁县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/03/410328.html
+410329000000	河南省-洛阳市-伊川县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/03/410329.html
+410371000000	河南省-洛阳市-洛阳高新技术产业开发区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/03/410371.html
+410381000000	河南省-洛阳市-偃师市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/03/410381.html

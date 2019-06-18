@@ -1,0 +1,16 @@
+341324100000	安徽省-宿州市-泗县-泗城镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/13/24/341324100.html
+341324101000	安徽省-宿州市-泗县-墩集镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/13/24/341324101.html
+341324102000	安徽省-宿州市-泗县-丁湖镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/13/24/341324102.html
+341324103000	安徽省-宿州市-泗县-草沟镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/13/24/341324103.html
+341324104000	安徽省-宿州市-泗县-长沟镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/13/24/341324104.html
+341324105000	安徽省-宿州市-泗县-黄圩镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/13/24/341324105.html
+341324106000	安徽省-宿州市-泗县-大庄镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/13/24/341324106.html
+341324107000	安徽省-宿州市-泗县-山头镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/13/24/341324107.html
+341324108000	安徽省-宿州市-泗县-刘圩镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/13/24/341324108.html
+341324109000	安徽省-宿州市-泗县-黑塔镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/13/24/341324109.html
+341324110000	安徽省-宿州市-泗县-草庙镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/13/24/341324110.html
+341324111000	安徽省-宿州市-泗县-屏山镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/13/24/341324111.html
+341324200000	安徽省-宿州市-泗县-大路口乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/13/24/341324200.html
+341324201000	安徽省-宿州市-泗县-大杨乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/13/24/341324201.html
+341324202000	安徽省-宿州市-泗县-瓦坊乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/13/24/341324202.html
+341324400000	安徽省-宿州市-泗县-泗县开发区管委会	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/13/24/341324400.html

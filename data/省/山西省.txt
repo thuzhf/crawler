@@ -1,0 +1,11 @@
+140100000000	山西省-太原市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/1401.html
+140200000000	山西省-大同市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/1402.html
+140300000000	山西省-阳泉市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/1403.html
+140400000000	山西省-长治市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/1404.html
+140500000000	山西省-晋城市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/1405.html
+140600000000	山西省-朔州市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/1406.html
+140700000000	山西省-晋中市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/1407.html
+140800000000	山西省-运城市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/1408.html
+140900000000	山西省-忻州市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/1409.html
+141000000000	山西省-临汾市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/1410.html
+141100000000	山西省-吕梁市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/1411.html

@@ -1,0 +1,15 @@
+321023100000	江苏省-扬州市-宝应县-安宜镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/10/23/321023100.html
+321023101000	江苏省-扬州市-宝应县-氾水镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/10/23/321023101.html
+321023102000	江苏省-扬州市-宝应县-夏集镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/10/23/321023102.html
+321023103000	江苏省-扬州市-宝应县-柳堡镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/10/23/321023103.html
+321023104000	江苏省-扬州市-宝应县-射阳湖镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/10/23/321023104.html
+321023105000	江苏省-扬州市-宝应县-广洋湖镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/10/23/321023105.html
+321023106000	江苏省-扬州市-宝应县-鲁垛镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/10/23/321023106.html
+321023107000	江苏省-扬州市-宝应县-小官庄镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/10/23/321023107.html
+321023108000	江苏省-扬州市-宝应县-望直港镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/10/23/321023108.html
+321023109000	江苏省-扬州市-宝应县-曹甸镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/10/23/321023109.html
+321023110000	江苏省-扬州市-宝应县-西安丰镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/10/23/321023110.html
+321023111000	江苏省-扬州市-宝应县-山阳镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/10/23/321023111.html
+321023112000	江苏省-扬州市-宝应县-黄塍镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/10/23/321023112.html
+321023113000	江苏省-扬州市-宝应县-泾河镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/10/23/321023113.html
+321023400000	江苏省-扬州市-宝应县-开发区管委会	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/10/23/321023400.html

@@ -1,0 +1,7 @@
+130430100000	河北省-邯郸市-邱县-新马头镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/04/30/130430100.html
+130430101000	河北省-邯郸市-邱县-邱城镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/04/30/130430101.html
+130430102000	河北省-邯郸市-邱县-梁二庄镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/04/30/130430102.html
+130430103000	河北省-邯郸市-邱县-香城固镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/04/30/130430103.html
+130430104000	河北省-邯郸市-邱县-古城营镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/04/30/130430104.html
+130430201000	河北省-邯郸市-邱县-南辛店乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/04/30/130430201.html
+130430204000	河北省-邯郸市-邱县-陈村回族乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/04/30/130430204.html

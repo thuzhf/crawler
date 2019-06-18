@@ -1,0 +1,13 @@
+469027100000	海南省-省直辖县级行政区划-乐东黎族自治县-抱由镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/46/90/27/469027100.html
+469027101000	海南省-省直辖县级行政区划-乐东黎族自治县-万冲镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/46/90/27/469027101.html
+469027102000	海南省-省直辖县级行政区划-乐东黎族自治县-大安镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/46/90/27/469027102.html
+469027103000	海南省-省直辖县级行政区划-乐东黎族自治县-志仲镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/46/90/27/469027103.html
+469027104000	海南省-省直辖县级行政区划-乐东黎族自治县-千家镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/46/90/27/469027104.html
+469027105000	海南省-省直辖县级行政区划-乐东黎族自治县-九所镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/46/90/27/469027105.html
+469027106000	海南省-省直辖县级行政区划-乐东黎族自治县-利国镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/46/90/27/469027106.html
+469027107000	海南省-省直辖县级行政区划-乐东黎族自治县-黄流镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/46/90/27/469027107.html
+469027108000	海南省-省直辖县级行政区划-乐东黎族自治县-佛罗镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/46/90/27/469027108.html
+469027109000	海南省-省直辖县级行政区划-乐东黎族自治县-尖峰镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/46/90/27/469027109.html
+469027110000	海南省-省直辖县级行政区划-乐东黎族自治县-莺歌海镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/46/90/27/469027110.html
+469027500000	海南省-省直辖县级行政区划-乐东黎族自治县-国营尖峰岭林业公司	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/46/90/27/469027500.html
+469027501000	海南省-省直辖县级行政区划-乐东黎族自治县-国营莺歌海盐场	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/46/90/27/469027501.html

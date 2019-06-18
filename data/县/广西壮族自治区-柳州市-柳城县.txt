@@ -1,0 +1,12 @@
+450222100000	广西壮族自治区-柳州市-柳城县-大埔镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/02/22/450222100.html
+450222101000	广西壮族自治区-柳州市-柳城县-龙头镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/02/22/450222101.html
+450222102000	广西壮族自治区-柳州市-柳城县-太平镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/02/22/450222102.html
+450222103000	广西壮族自治区-柳州市-柳城县-沙埔镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/02/22/450222103.html
+450222104000	广西壮族自治区-柳州市-柳城县-东泉镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/02/22/450222104.html
+450222105000	广西壮族自治区-柳州市-柳城县-凤山镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/02/22/450222105.html
+450222106000	广西壮族自治区-柳州市-柳城县-六塘镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/02/22/450222106.html
+450222107000	广西壮族自治区-柳州市-柳城县-冲脉镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/02/22/450222107.html
+450222108000	广西壮族自治区-柳州市-柳城县-寨隆镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/02/22/450222108.html
+450222109000	广西壮族自治区-柳州市-柳城县-马山镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/02/22/450222109.html
+450222200000	广西壮族自治区-柳州市-柳城县-古砦仫佬族乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/02/22/450222200.html
+450222202000	广西壮族自治区-柳州市-柳城县-社冲乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/02/22/450222202.html

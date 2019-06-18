@@ -1,0 +1,14 @@
+440705001000	广东省-江门市-新会区-会城街道办	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/07/05/440705001.html
+440705101000	广东省-江门市-新会区-大泽镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/07/05/440705101.html
+440705102000	广东省-江门市-新会区-司前镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/07/05/440705102.html
+440705103000	广东省-江门市-新会区-罗坑镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/07/05/440705103.html
+440705104000	广东省-江门市-新会区-双水镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/07/05/440705104.html
+440705105000	广东省-江门市-新会区-崖门镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/07/05/440705105.html
+440705106000	广东省-江门市-新会区-沙堆镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/07/05/440705106.html
+440705107000	广东省-江门市-新会区-古井镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/07/05/440705107.html
+440705108000	广东省-江门市-新会区-三江镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/07/05/440705108.html
+440705109000	广东省-江门市-新会区-睦洲镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/07/05/440705109.html
+440705110000	广东省-江门市-新会区-大鳌镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/07/05/440705110.html
+440705450000	广东省-江门市-新会区-圭峰管理委员会	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/07/05/440705450.html
+440705451000	广东省-江门市-新会区-银湖湾管理委员会	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/07/05/440705451.html
+440705470000	广东省-江门市-新会区-新会经济开发区管理委员会	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/07/05/440705470.html

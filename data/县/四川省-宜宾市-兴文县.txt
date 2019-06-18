@@ -1,0 +1,15 @@
+511528100000	四川省-宜宾市-兴文县-古宋镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/15/28/511528100.html
+511528101000	四川省-宜宾市-兴文县-僰王山镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/15/28/511528101.html
+511528103000	四川省-宜宾市-兴文县-共乐镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/15/28/511528103.html
+511528105000	四川省-宜宾市-兴文县-莲花镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/15/28/511528105.html
+511528107000	四川省-宜宾市-兴文县-九丝城镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/15/28/511528107.html
+511528108000	四川省-宜宾市-兴文县-石海镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/15/28/511528108.html
+511528109000	四川省-宜宾市-兴文县-太平镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/15/28/511528109.html
+511528110000	四川省-宜宾市-兴文县-周家镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/15/28/511528110.html
+511528111000	四川省-宜宾市-兴文县-五星镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/15/28/511528111.html
+511528112000	四川省-宜宾市-兴文县-玉屏镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/15/28/511528112.html
+511528200000	四川省-宜宾市-兴文县-大坝苗族乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/15/28/511528200.html
+511528201000	四川省-宜宾市-兴文县-毓秀苗族乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/15/28/511528201.html
+511528205000	四川省-宜宾市-兴文县-大河苗族乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/15/28/511528205.html
+511528206000	四川省-宜宾市-兴文县-麒麟苗族乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/15/28/511528206.html
+511528207000	四川省-宜宾市-兴文县-仙峰苗族乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/15/28/511528207.html

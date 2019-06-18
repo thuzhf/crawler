@@ -1,0 +1,12 @@
+150901000000	内蒙古自治区-乌兰察布市-市辖区	
+150902000000	内蒙古自治区-乌兰察布市-集宁区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/09/150902.html
+150921000000	内蒙古自治区-乌兰察布市-卓资县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/09/150921.html
+150922000000	内蒙古自治区-乌兰察布市-化德县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/09/150922.html
+150923000000	内蒙古自治区-乌兰察布市-商都县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/09/150923.html
+150924000000	内蒙古自治区-乌兰察布市-兴和县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/09/150924.html
+150925000000	内蒙古自治区-乌兰察布市-凉城县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/09/150925.html
+150926000000	内蒙古自治区-乌兰察布市-察哈尔右翼前旗	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/09/150926.html
+150927000000	内蒙古自治区-乌兰察布市-察哈尔右翼中旗	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/09/150927.html
+150928000000	内蒙古自治区-乌兰察布市-察哈尔右翼后旗	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/09/150928.html
+150929000000	内蒙古自治区-乌兰察布市-四子王旗	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/09/150929.html
+150981000000	内蒙古自治区-乌兰察布市-丰镇市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/09/150981.html

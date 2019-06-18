@@ -1,0 +1,8 @@
+341501000000	安徽省-六安市-市辖区	
+341502000000	安徽省-六安市-金安区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/15/341502.html
+341503000000	安徽省-六安市-裕安区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/15/341503.html
+341504000000	安徽省-六安市-叶集区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/15/341504.html
+341522000000	安徽省-六安市-霍邱县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/15/341522.html
+341523000000	安徽省-六安市-舒城县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/15/341523.html
+341524000000	安徽省-六安市-金寨县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/15/341524.html
+341525000000	安徽省-六安市-霍山县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/15/341525.html

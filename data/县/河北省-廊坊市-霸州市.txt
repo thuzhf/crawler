@@ -1,0 +1,13 @@
+131081001000	河北省-廊坊市-霸州市-裕华街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/10/81/131081001.html
+131081100000	河北省-廊坊市-霸州市-霸州镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/10/81/131081100.html
+131081101000	河北省-廊坊市-霸州市-南孟镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/10/81/131081101.html
+131081102000	河北省-廊坊市-霸州市-信安镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/10/81/131081102.html
+131081103000	河北省-廊坊市-霸州市-堂二里镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/10/81/131081103.html
+131081104000	河北省-廊坊市-霸州市-煎茶铺镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/10/81/131081104.html
+131081105000	河北省-廊坊市-霸州市-胜芳镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/10/81/131081105.html
+131081106000	河北省-廊坊市-霸州市-杨芬港镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/10/81/131081106.html
+131081200000	河北省-廊坊市-霸州市-岔河集乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/10/81/131081200.html
+131081201000	河北省-廊坊市-霸州市-康仙庄乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/10/81/131081201.html
+131081202000	河北省-廊坊市-霸州市-东杨庄乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/10/81/131081202.html
+131081203000	河北省-廊坊市-霸州市-王庄子乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/10/81/131081203.html
+131081204000	河北省-廊坊市-霸州市-东段乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/10/81/131081204.html

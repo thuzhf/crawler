@@ -1,0 +1,8 @@
+440701000000	广东省-江门市-市辖区	
+440703000000	广东省-江门市-蓬江区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/07/440703.html
+440704000000	广东省-江门市-江海区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/07/440704.html
+440705000000	广东省-江门市-新会区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/07/440705.html
+440781000000	广东省-江门市-台山市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/07/440781.html
+440783000000	广东省-江门市-开平市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/07/440783.html
+440784000000	广东省-江门市-鹤山市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/07/440784.html
+440785000000	广东省-江门市-恩平市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/07/440785.html

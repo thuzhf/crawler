@@ -1,0 +1,10 @@
+540121100000	西藏自治区-拉萨市-林周县-甘丹曲果镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/01/21/540121100.html
+540121200000	西藏自治区-拉萨市-林周县-春堆乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/01/21/540121200.html
+540121201000	西藏自治区-拉萨市-林周县-松盘乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/01/21/540121201.html
+540121202000	西藏自治区-拉萨市-林周县-强嘎乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/01/21/540121202.html
+540121203000	西藏自治区-拉萨市-林周县-卡孜乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/01/21/540121203.html
+540121204000	西藏自治区-拉萨市-林周县-边交林乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/01/21/540121204.html
+540121205000	西藏自治区-拉萨市-林周县-江热夏乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/01/21/540121205.html
+540121206000	西藏自治区-拉萨市-林周县-阿朗乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/01/21/540121206.html
+540121207000	西藏自治区-拉萨市-林周县-唐古乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/01/21/540121207.html
+540121208000	西藏自治区-拉萨市-林周县-旁多乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/01/21/540121208.html

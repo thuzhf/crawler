@@ -1,0 +1,10 @@
+540623100000	西藏自治区-那曲市-聂荣县-聂荣镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/06/23/540623100.html
+540623201000	西藏自治区-那曲市-聂荣县-尼玛乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/06/23/540623201.html
+540623203000	西藏自治区-那曲市-聂荣县-色庆乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/06/23/540623203.html
+540623205000	西藏自治区-那曲市-聂荣县-桑荣乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/06/23/540623205.html
+540623206000	西藏自治区-那曲市-聂荣县-下曲乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/06/23/540623206.html
+540623207000	西藏自治区-那曲市-聂荣县-白雄乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/06/23/540623207.html
+540623208000	西藏自治区-那曲市-聂荣县-索雄乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/06/23/540623208.html
+540623210000	西藏自治区-那曲市-聂荣县-当木江乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/06/23/540623210.html
+540623211000	西藏自治区-那曲市-聂荣县-查当乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/06/23/540623211.html
+540623212000	西藏自治区-那曲市-聂荣县-永曲乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/06/23/540623212.html

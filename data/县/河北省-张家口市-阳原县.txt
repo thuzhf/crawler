@@ -1,0 +1,14 @@
+130727100000	河北省-张家口市-阳原县-西城镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/07/27/130727100.html
+130727101000	河北省-张家口市-阳原县-东城镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/07/27/130727101.html
+130727102000	河北省-张家口市-阳原县-化稍营镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/07/27/130727102.html
+130727103000	河北省-张家口市-阳原县-揣骨疃镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/07/27/130727103.html
+130727104000	河北省-张家口市-阳原县-东井集镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/07/27/130727104.html
+130727200000	河北省-张家口市-阳原县-要家庄乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/07/27/130727200.html
+130727201000	河北省-张家口市-阳原县-东坊城堡乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/07/27/130727201.html
+130727202000	河北省-张家口市-阳原县-井儿沟乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/07/27/130727202.html
+130727203000	河北省-张家口市-阳原县-三马坊乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/07/27/130727203.html
+130727204000	河北省-张家口市-阳原县-高墙乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/07/27/130727204.html
+130727205000	河北省-张家口市-阳原县-大田洼乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/07/27/130727205.html
+130727206000	河北省-张家口市-阳原县-辛堡乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/07/27/130727206.html
+130727207000	河北省-张家口市-阳原县-马圈堡乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/07/27/130727207.html
+130727208000	河北省-张家口市-阳原县-浮图讲乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/07/27/130727208.html

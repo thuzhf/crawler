@@ -1,0 +1,12 @@
+310114001000	上海市-市辖区-嘉定区-新成路街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/31/01/14/310114001.html
+310114002000	上海市-市辖区-嘉定区-真新街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/31/01/14/310114002.html
+310114003000	上海市-市辖区-嘉定区-菊园新区管委会	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/31/01/14/310114003.html
+310114004000	上海市-市辖区-嘉定区-嘉定镇街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/31/01/14/310114004.html
+310114102000	上海市-市辖区-嘉定区-南翔镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/31/01/14/310114102.html
+310114103000	上海市-市辖区-嘉定区-安亭镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/31/01/14/310114103.html
+310114106000	上海市-市辖区-嘉定区-马陆镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/31/01/14/310114106.html
+310114109000	上海市-市辖区-嘉定区-徐行镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/31/01/14/310114109.html
+310114111000	上海市-市辖区-嘉定区-华亭镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/31/01/14/310114111.html
+310114114000	上海市-市辖区-嘉定区-外冈镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/31/01/14/310114114.html
+310114118000	上海市-市辖区-嘉定区-江桥镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/31/01/14/310114118.html
+310114501000	上海市-市辖区-嘉定区-嘉定工业区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/31/01/14/310114501.html

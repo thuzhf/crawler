@@ -1,0 +1,7 @@
+510601000000	四川省-德阳市-市辖区	
+510603000000	四川省-德阳市-旌阳区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/06/510603.html
+510604000000	四川省-德阳市-罗江区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/06/510604.html
+510623000000	四川省-德阳市-中江县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/06/510623.html
+510681000000	四川省-德阳市-广汉市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/06/510681.html
+510682000000	四川省-德阳市-什邡市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/06/510682.html
+510683000000	四川省-德阳市-绵竹市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/06/510683.html

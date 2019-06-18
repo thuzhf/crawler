@@ -1,0 +1,10 @@
+540628100000	西藏自治区-那曲市-巴青县-拉西镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/06/28/540628100.html
+540628101000	西藏自治区-那曲市-巴青县-杂色镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/06/28/540628101.html
+540628102000	西藏自治区-那曲市-巴青县-雅安镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/06/28/540628102.html
+540628201000	西藏自治区-那曲市-巴青县-江绵乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/06/28/540628201.html
+540628202000	西藏自治区-那曲市-巴青县-玛如乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/06/28/540628202.html
+540628204000	西藏自治区-那曲市-巴青县-阿秀乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/06/28/540628204.html
+540628205000	西藏自治区-那曲市-巴青县-贡日乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/06/28/540628205.html
+540628206000	西藏自治区-那曲市-巴青县-岗切乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/06/28/540628206.html
+540628210000	西藏自治区-那曲市-巴青县-巴青乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/06/28/540628210.html
+540628211000	西藏自治区-那曲市-巴青县-本塔乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/06/28/540628211.html

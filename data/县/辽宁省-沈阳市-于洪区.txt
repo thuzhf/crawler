@@ -1,0 +1,15 @@
+210114001000	辽宁省-沈阳市-于洪区-迎宾路街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/01/14/210114001.html
+210114003000	辽宁省-沈阳市-于洪区-陵西街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/01/14/210114003.html
+210114005000	辽宁省-沈阳市-于洪区-于洪街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/01/14/210114005.html
+210114007000	辽宁省-沈阳市-于洪区-北陵街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/01/14/210114007.html
+210114009000	辽宁省-沈阳市-于洪区-沙岭街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/01/14/210114009.html
+210114010000	辽宁省-沈阳市-于洪区-南阳湖街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/01/14/210114010.html
+210114011000	辽宁省-沈阳市-于洪区-城东湖街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/01/14/210114011.html
+210114012000	辽宁省-沈阳市-于洪区-平罗街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/01/14/210114012.html
+210114013000	辽宁省-沈阳市-于洪区-马三家街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/01/14/210114013.html
+210114014000	辽宁省-沈阳市-于洪区-造化街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/01/14/210114014.html
+210114015000	辽宁省-沈阳市-于洪区-大兴街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/01/14/210114015.html
+210114016000	辽宁省-沈阳市-于洪区-光辉街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/01/14/210114016.html
+210114401000	辽宁省-沈阳市-于洪区-马三家强制隔离戒毒所	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/01/14/210114401.html
+210114402000	辽宁省-沈阳市-于洪区-光辉农场	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/01/14/210114402.html
+210114404000	辽宁省-沈阳市-于洪区-监狱城	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/01/14/210114404.html

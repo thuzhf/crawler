@@ -1,0 +1,3 @@
+532801000000	云南省-西双版纳傣族自治州-景洪市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/28/532801.html
+532822000000	云南省-西双版纳傣族自治州-勐海县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/28/532822.html
+532823000000	云南省-西双版纳傣族自治州-勐腊县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/28/532823.html

@@ -1,0 +1,7 @@
+350302001000	福建省-莆田市-城厢区-龙桥街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/03/02/350302001.html
+350302002000	福建省-莆田市-城厢区-凤凰山街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/03/02/350302002.html
+350302003000	福建省-莆田市-城厢区-霞林街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/03/02/350302003.html
+350302100000	福建省-莆田市-城厢区-常太镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/03/02/350302100.html
+350302101000	福建省-莆田市-城厢区-华亭镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/03/02/350302101.html
+350302102000	福建省-莆田市-城厢区-灵川镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/03/02/350302102.html
+350302103000	福建省-莆田市-城厢区-东海镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/03/02/350302103.html

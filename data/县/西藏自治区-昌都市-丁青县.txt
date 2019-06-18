@@ -1,0 +1,13 @@
+540324100000	西藏自治区-昌都市-丁青县-丁青镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/03/24/540324100.html
+540324101000	西藏自治区-昌都市-丁青县-尺犊镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/03/24/540324101.html
+540324200000	西藏自治区-昌都市-丁青县-觉恩乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/03/24/540324200.html
+540324201000	西藏自治区-昌都市-丁青县-沙贡乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/03/24/540324201.html
+540324202000	西藏自治区-昌都市-丁青县-当堆乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/03/24/540324202.html
+540324203000	西藏自治区-昌都市-丁青县-桑多乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/03/24/540324203.html
+540324204000	西藏自治区-昌都市-丁青县-木塔乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/03/24/540324204.html
+540324205000	西藏自治区-昌都市-丁青县-布塔乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/03/24/540324205.html
+540324206000	西藏自治区-昌都市-丁青县-巴达乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/03/24/540324206.html
+540324207000	西藏自治区-昌都市-丁青县-甘岩乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/03/24/540324207.html
+540324208000	西藏自治区-昌都市-丁青县-嘎塔乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/03/24/540324208.html
+540324209000	西藏自治区-昌都市-丁青县-色扎乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/03/24/540324209.html
+540324210000	西藏自治区-昌都市-丁青县-协雄乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/03/24/540324210.html

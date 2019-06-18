@@ -1,0 +1,11 @@
+500103001000	重庆市-市辖区-渝中区-七星岗街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/50/01/03/500103001.html
+500103003000	重庆市-市辖区-渝中区-解放碑街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/50/01/03/500103003.html
+500103004000	重庆市-市辖区-渝中区-两路口街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/50/01/03/500103004.html
+500103005000	重庆市-市辖区-渝中区-上清寺街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/50/01/03/500103005.html
+500103007000	重庆市-市辖区-渝中区-菜园坝街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/50/01/03/500103007.html
+500103008000	重庆市-市辖区-渝中区-南纪门街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/50/01/03/500103008.html
+500103010000	重庆市-市辖区-渝中区-朝天门街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/50/01/03/500103010.html
+500103011000	重庆市-市辖区-渝中区-大溪沟街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/50/01/03/500103011.html
+500103012000	重庆市-市辖区-渝中区-大坪街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/50/01/03/500103012.html
+500103013000	重庆市-市辖区-渝中区-化龙桥街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/50/01/03/500103013.html
+500103014000	重庆市-市辖区-渝中区-石油路街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/50/01/03/500103014.html

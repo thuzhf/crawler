@@ -1,0 +1,6 @@
+630202000000	青海省-海东市-乐都区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/63/02/630202.html
+630203000000	青海省-海东市-平安区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/63/02/630203.html
+630222000000	青海省-海东市-民和回族土族自治县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/63/02/630222.html
+630223000000	青海省-海东市-互助土族自治县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/63/02/630223.html
+630224000000	青海省-海东市-化隆回族自治县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/63/02/630224.html
+630225000000	青海省-海东市-循化撒拉族自治县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/63/02/630225.html

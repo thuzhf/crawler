@@ -1,0 +1,11 @@
+130728100000	河北省-张家口市-怀安县-柴沟堡镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/07/28/130728100.html
+130728101000	河北省-张家口市-怀安县-左卫镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/07/28/130728101.html
+130728102000	河北省-张家口市-怀安县-头百户镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/07/28/130728102.html
+130728103000	河北省-张家口市-怀安县-怀安城镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/07/28/130728103.html
+130728200000	河北省-张家口市-怀安县-渡口堡乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/07/28/130728200.html
+130728201000	河北省-张家口市-怀安县-第六屯乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/07/28/130728201.html
+130728202000	河北省-张家口市-怀安县-西湾堡乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/07/28/130728202.html
+130728203000	河北省-张家口市-怀安县-西沙城乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/07/28/130728203.html
+130728204000	河北省-张家口市-怀安县-太平庄乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/07/28/130728204.html
+130728205000	河北省-张家口市-怀安县-王虎屯乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/07/28/130728205.html
+130728206000	河北省-张家口市-怀安县-第三堡乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/07/28/130728206.html

@@ -1,0 +1,11 @@
+210402001000	辽宁省-抚顺市-新抚区-站前街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/04/02/210402001.html
+210402003000	辽宁省-抚顺市-新抚区-东公园街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/04/02/210402003.html
+210402005000	辽宁省-抚顺市-新抚区-福民街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/04/02/210402005.html
+210402007000	辽宁省-抚顺市-新抚区-新抚街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/04/02/210402007.html
+210402009000	辽宁省-抚顺市-新抚区-榆林街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/04/02/210402009.html
+210402011000	辽宁省-抚顺市-新抚区-永安台街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/04/02/210402011.html
+210402013000	辽宁省-抚顺市-新抚区-千金街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/04/02/210402013.html
+210402015000	辽宁省-抚顺市-新抚区-南阳街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/04/02/210402015.html
+210402017000	辽宁省-抚顺市-新抚区-南花园街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/04/02/210402017.html
+210402019000	辽宁省-抚顺市-新抚区-刘山街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/04/02/210402019.html
+210402201000	辽宁省-抚顺市-新抚区-千金乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/04/02/210402201.html

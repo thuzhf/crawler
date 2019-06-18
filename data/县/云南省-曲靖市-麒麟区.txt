@@ -1,0 +1,16 @@
+530302001000	云南省-曲靖市-麒麟区-南宁街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/03/02/530302001.html
+530302002000	云南省-曲靖市-麒麟区-建宁街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/03/02/530302002.html
+530302003000	云南省-曲靖市-麒麟区-白石江街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/03/02/530302003.html
+530302004000	云南省-曲靖市-麒麟区-寥廓街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/03/02/530302004.html
+530302005000	云南省-曲靖市-麒麟区-西城街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/03/02/530302005.html
+530302006000	云南省-曲靖市-麒麟区-益宁街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/03/02/530302006.html
+530302007000	云南省-曲靖市-麒麟区-文华街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/03/02/530302007.html
+530302008000	云南省-曲靖市-麒麟区-太和街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/03/02/530302008.html
+530302009000	云南省-曲靖市-麒麟区-潇湘街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/03/02/530302009.html
+530302010000	云南省-曲靖市-麒麟区-翠峰街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/03/02/530302010.html
+530302011000	云南省-曲靖市-麒麟区-三宝街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/03/02/530302011.html
+530302012000	云南省-曲靖市-麒麟区-沿江街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/03/02/530302012.html
+530302013000	云南省-曲靖市-麒麟区-珠街街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/03/02/530302013.html
+530302102000	云南省-曲靖市-麒麟区-越州镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/03/02/530302102.html
+530302103000	云南省-曲靖市-麒麟区-东山镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/03/02/530302103.html
+530302104000	云南省-曲靖市-麒麟区-茨营镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/03/02/530302104.html

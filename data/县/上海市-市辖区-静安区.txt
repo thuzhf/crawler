@@ -1,0 +1,14 @@
+310106006000	上海市-市辖区-静安区-江宁路街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/31/01/06/310106006.html
+310106011000	上海市-市辖区-静安区-石门二路街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/31/01/06/310106011.html
+310106012000	上海市-市辖区-静安区-南京西路街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/31/01/06/310106012.html
+310106013000	上海市-市辖区-静安区-静安寺街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/31/01/06/310106013.html
+310106014000	上海市-市辖区-静安区-曹家渡街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/31/01/06/310106014.html
+310106015000	上海市-市辖区-静安区-天目西路街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/31/01/06/310106015.html
+310106016000	上海市-市辖区-静安区-北站街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/31/01/06/310106016.html
+310106017000	上海市-市辖区-静安区-宝山路街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/31/01/06/310106017.html
+310106018000	上海市-市辖区-静安区-共和新路街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/31/01/06/310106018.html
+310106019000	上海市-市辖区-静安区-大宁路街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/31/01/06/310106019.html
+310106020000	上海市-市辖区-静安区-彭浦新村街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/31/01/06/310106020.html
+310106021000	上海市-市辖区-静安区-临汾路街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/31/01/06/310106021.html
+310106022000	上海市-市辖区-静安区-芷江西路街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/31/01/06/310106022.html
+310106101000	上海市-市辖区-静安区-彭浦镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/31/01/06/310106101.html

@@ -1,0 +1,12 @@
+522701000000	贵州省-黔南布依族苗族自治州-都匀市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/52/27/522701.html
+522702000000	贵州省-黔南布依族苗族自治州-福泉市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/52/27/522702.html
+522722000000	贵州省-黔南布依族苗族自治州-荔波县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/52/27/522722.html
+522723000000	贵州省-黔南布依族苗族自治州-贵定县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/52/27/522723.html
+522725000000	贵州省-黔南布依族苗族自治州-瓮安县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/52/27/522725.html
+522726000000	贵州省-黔南布依族苗族自治州-独山县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/52/27/522726.html
+522727000000	贵州省-黔南布依族苗族自治州-平塘县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/52/27/522727.html
+522728000000	贵州省-黔南布依族苗族自治州-罗甸县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/52/27/522728.html
+522729000000	贵州省-黔南布依族苗族自治州-长顺县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/52/27/522729.html
+522730000000	贵州省-黔南布依族苗族自治州-龙里县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/52/27/522730.html
+522731000000	贵州省-黔南布依族苗族自治州-惠水县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/52/27/522731.html
+522732000000	贵州省-黔南布依族苗族自治州-三都水族自治县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/52/27/522732.html

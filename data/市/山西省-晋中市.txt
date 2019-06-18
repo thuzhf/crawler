@@ -1,0 +1,12 @@
+140701000000	山西省-晋中市-市辖区	
+140702000000	山西省-晋中市-榆次区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/07/140702.html
+140721000000	山西省-晋中市-榆社县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/07/140721.html
+140722000000	山西省-晋中市-左权县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/07/140722.html
+140723000000	山西省-晋中市-和顺县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/07/140723.html
+140724000000	山西省-晋中市-昔阳县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/07/140724.html
+140725000000	山西省-晋中市-寿阳县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/07/140725.html
+140726000000	山西省-晋中市-太谷县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/07/140726.html
+140727000000	山西省-晋中市-祁县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/07/140727.html
+140728000000	山西省-晋中市-平遥县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/07/140728.html
+140729000000	山西省-晋中市-灵石县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/07/140729.html
+140781000000	山西省-晋中市-介休市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/07/140781.html

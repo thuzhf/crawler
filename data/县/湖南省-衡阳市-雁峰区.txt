@@ -1,0 +1,7 @@
+430406001000	湖南省-衡阳市-雁峰区-先锋街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/04/06/430406001.html
+430406002000	湖南省-衡阳市-雁峰区-雁峰街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/04/06/430406002.html
+430406003000	湖南省-衡阳市-雁峰区-天马山街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/04/06/430406003.html
+430406004000	湖南省-衡阳市-雁峰区-黄茶岭街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/04/06/430406004.html
+430406005000	湖南省-衡阳市-雁峰区-白沙洲街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/04/06/430406005.html
+430406100000	湖南省-衡阳市-雁峰区-岳屏镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/04/06/430406100.html
+430406400000	湖南省-衡阳市-雁峰区-白沙洲工业园	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/04/06/430406400.html

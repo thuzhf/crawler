@@ -1,0 +1,7 @@
+654321100000	新疆维吾尔自治区-阿勒泰地区-布尔津县-布尔津镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/43/21/654321100.html
+654321101000	新疆维吾尔自治区-阿勒泰地区-布尔津县-冲乎尔镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/43/21/654321101.html
+654321102000	新疆维吾尔自治区-阿勒泰地区-布尔津县-窝依莫克镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/43/21/654321102.html
+654321103000	新疆维吾尔自治区-阿勒泰地区-布尔津县-阔斯特克镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/43/21/654321103.html
+654321201000	新疆维吾尔自治区-阿勒泰地区-布尔津县-杜来提乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/43/21/654321201.html
+654321204000	新疆维吾尔自治区-阿勒泰地区-布尔津县-也格孜托别乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/43/21/654321204.html
+654321205000	新疆维吾尔自治区-阿勒泰地区-布尔津县-禾木哈纳斯蒙古民族乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/43/21/654321205.html

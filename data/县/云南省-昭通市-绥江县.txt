@@ -1,0 +1,5 @@
+530626101000	云南省-昭通市-绥江县-中城镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/06/26/530626101.html
+530626102000	云南省-昭通市-绥江县-南岸镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/06/26/530626102.html
+530626103000	云南省-昭通市-绥江县-新滩镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/06/26/530626103.html
+530626104000	云南省-昭通市-绥江县-会仪镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/06/26/530626104.html
+530626105000	云南省-昭通市-绥江县-板栗镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/06/26/530626105.html

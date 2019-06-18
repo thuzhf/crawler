@@ -1,0 +1,10 @@
+451021100000	广西壮族自治区-百色市-田阳县-田州镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/10/21/451021100.html
+451021101000	广西壮族自治区-百色市-田阳县-那坡镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/10/21/451021101.html
+451021102000	广西壮族自治区-百色市-田阳县-坡洪镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/10/21/451021102.html
+451021103000	广西壮族自治区-百色市-田阳县-那满镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/10/21/451021103.html
+451021104000	广西壮族自治区-百色市-田阳县-百育镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/10/21/451021104.html
+451021105000	广西壮族自治区-百色市-田阳县-玉凤镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/10/21/451021105.html
+451021106000	广西壮族自治区-百色市-田阳县-头塘镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/10/21/451021106.html
+451021107000	广西壮族自治区-百色市-田阳县-五村镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/10/21/451021107.html
+451021108000	广西壮族自治区-百色市-田阳县-洞靖镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/10/21/451021108.html
+451021204000	广西壮族自治区-百色市-田阳县-巴别乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/10/21/451021204.html

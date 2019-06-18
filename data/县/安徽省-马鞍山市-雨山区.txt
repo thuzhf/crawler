@@ -1,0 +1,9 @@
+340504001000	安徽省-马鞍山市-雨山区-平湖街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/05/04/340504001.html
+340504002000	安徽省-马鞍山市-雨山区-雨山街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/05/04/340504002.html
+340504003000	安徽省-马鞍山市-雨山区-安民街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/05/04/340504003.html
+340504004000	安徽省-马鞍山市-雨山区-采石街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/05/04/340504004.html
+340504100000	安徽省-马鞍山市-雨山区-向山镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/05/04/340504100.html
+340504101000	安徽省-马鞍山市-雨山区-银塘镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/05/04/340504101.html
+340504200000	安徽省-马鞍山市-雨山区-佳山乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/05/04/340504200.html
+340504401000	安徽省-马鞍山市-雨山区-雨山经济开发区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/05/04/340504401.html
+340504402000	安徽省-马鞍山市-雨山区-市经济技术开发区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/05/04/340504402.html

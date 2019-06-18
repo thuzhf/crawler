@@ -1,0 +1,10 @@
+130503001000	河北省-邢台市-桥西区-钢铁路街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/05/03/130503001.html
+130503002000	河北省-邢台市-桥西区-中兴路街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/05/03/130503002.html
+130503003000	河北省-邢台市-桥西区-达活泉街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/05/03/130503003.html
+130503004000	河北省-邢台市-桥西区-张宽街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/05/03/130503004.html
+130503005000	河北省-邢台市-桥西区-章村街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/05/03/130503005.html
+130503006000	河北省-邢台市-桥西区-中华大街街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/05/03/130503006.html
+130503007000	河北省-邢台市-桥西区-团结路街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/05/03/130503007.html
+130503008000	河北省-邢台市-桥西区-泉西街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/05/03/130503008.html
+130503100000	河北省-邢台市-桥西区-南大郭镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/05/03/130503100.html
+130503101000	河北省-邢台市-桥西区-李村镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/05/03/130503101.html

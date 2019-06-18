@@ -1,0 +1,11 @@
+530702001000	云南省-丽江市-古城区-西安街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/07/02/530702001.html
+530702002000	云南省-丽江市-古城区-大研街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/07/02/530702002.html
+530702003000	云南省-丽江市-古城区-祥和街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/07/02/530702003.html
+530702004000	云南省-丽江市-古城区-束河街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/07/02/530702004.html
+530702005000	云南省-丽江市-古城区-金山街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/07/02/530702005.html
+530702006000	云南省-丽江市-古城区-开南街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/07/02/530702006.html
+530702007000	云南省-丽江市-古城区-文化街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/07/02/530702007.html
+530702101000	云南省-丽江市-古城区-金安镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/07/02/530702101.html
+530702102000	云南省-丽江市-古城区-七河镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/07/02/530702102.html
+530702203000	云南省-丽江市-古城区-大东乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/07/02/530702203.html
+530702205000	云南省-丽江市-古城区-金江白族乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/07/02/530702205.html

@@ -1,0 +1,11 @@
+131024100000	河北省-廊坊市-香河县-淑阳镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/10/24/131024100.html
+131024101000	河北省-廊坊市-香河县-蒋辛屯镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/10/24/131024101.html
+131024102000	河北省-廊坊市-香河县-渠口镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/10/24/131024102.html
+131024103000	河北省-廊坊市-香河县-安头屯镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/10/24/131024103.html
+131024104000	河北省-廊坊市-香河县-安平镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/10/24/131024104.html
+131024105000	河北省-廊坊市-香河县-刘宋镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/10/24/131024105.html
+131024106000	河北省-廊坊市-香河县-五百户镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/10/24/131024106.html
+131024107000	河北省-廊坊市-香河县-钱旺镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/10/24/131024107.html
+131024108000	河北省-廊坊市-香河县-钳屯镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/10/24/131024108.html
+131024500000	河北省-廊坊市-香河县-香河开发区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/10/24/131024500.html
+131024501000	河北省-廊坊市-香河县-香河新兴产业示范区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/10/24/131024501.html

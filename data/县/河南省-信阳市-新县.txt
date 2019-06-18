@@ -1,0 +1,16 @@
+411523001000	河南省-信阳市-新县-金兰山街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/15/23/411523001.html
+411523100000	河南省-信阳市-新县-新集镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/15/23/411523100.html
+411523101000	河南省-信阳市-新县-沙窝镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/15/23/411523101.html
+411523103000	河南省-信阳市-新县-吴陈河镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/15/23/411523103.html
+411523104000	河南省-信阳市-新县-苏河镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/15/23/411523104.html
+411523105000	河南省-信阳市-新县-八里畈镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/15/23/411523105.html
+411523201000	河南省-信阳市-新县-周河乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/15/23/411523201.html
+411523202000	河南省-信阳市-新县-陡山河乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/15/23/411523202.html
+411523203000	河南省-信阳市-新县-浒湾乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/15/23/411523203.html
+411523204000	河南省-信阳市-新县-千斤乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/15/23/411523204.html
+411523205000	河南省-信阳市-新县-卡房乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/15/23/411523205.html
+411523206000	河南省-信阳市-新县-郭家河乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/15/23/411523206.html
+411523207000	河南省-信阳市-新县-陈店乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/15/23/411523207.html
+411523208000	河南省-信阳市-新县-箭厂河乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/15/23/411523208.html
+411523209000	河南省-信阳市-新县-泗店乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/15/23/411523209.html
+411523210000	河南省-信阳市-新县-田铺乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/15/23/411523210.html

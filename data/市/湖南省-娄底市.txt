@@ -1,0 +1,6 @@
+431301000000	湖南省-娄底市-市辖区	
+431302000000	湖南省-娄底市-娄星区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/13/431302.html
+431321000000	湖南省-娄底市-双峰县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/13/431321.html
+431322000000	湖南省-娄底市-新化县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/13/431322.html
+431381000000	湖南省-娄底市-冷水江市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/13/431381.html
+431382000000	湖南省-娄底市-涟源市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/13/431382.html

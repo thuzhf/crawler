@@ -1,0 +1,8 @@
+150801000000	内蒙古自治区-巴彦淖尔市-市辖区	
+150802000000	内蒙古自治区-巴彦淖尔市-临河区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/08/150802.html
+150821000000	内蒙古自治区-巴彦淖尔市-五原县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/08/150821.html
+150822000000	内蒙古自治区-巴彦淖尔市-磴口县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/08/150822.html
+150823000000	内蒙古自治区-巴彦淖尔市-乌拉特前旗	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/08/150823.html
+150824000000	内蒙古自治区-巴彦淖尔市-乌拉特中旗	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/08/150824.html
+150825000000	内蒙古自治区-巴彦淖尔市-乌拉特后旗	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/08/150825.html
+150826000000	内蒙古自治区-巴彦淖尔市-杭锦后旗	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/08/150826.html

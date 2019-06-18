@@ -1,0 +1,15 @@
+341003100000	安徽省-黄山市-黄山区-甘棠镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/10/03/341003100.html
+341003101000	安徽省-黄山市-黄山区-仙源镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/10/03/341003101.html
+341003102000	安徽省-黄山市-黄山区-汤口镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/10/03/341003102.html
+341003103000	安徽省-黄山市-黄山区-谭家桥镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/10/03/341003103.html
+341003104000	安徽省-黄山市-黄山区-太平湖镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/10/03/341003104.html
+341003105000	安徽省-黄山市-黄山区-焦村镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/10/03/341003105.html
+341003106000	安徽省-黄山市-黄山区-耿城镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/10/03/341003106.html
+341003107000	安徽省-黄山市-黄山区-三口镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/10/03/341003107.html
+341003108000	安徽省-黄山市-黄山区-乌石镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/10/03/341003108.html
+341003200000	安徽省-黄山市-黄山区-新明乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/10/03/341003200.html
+341003201000	安徽省-黄山市-黄山区-龙门乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/10/03/341003201.html
+341003203000	安徽省-黄山市-黄山区-新华乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/10/03/341003203.html
+341003204000	安徽省-黄山市-黄山区-新丰乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/10/03/341003204.html
+341003205000	安徽省-黄山市-黄山区-永丰乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/10/03/341003205.html
+341003400000	安徽省-黄山市-黄山区-黄山风景区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/10/03/341003400.html

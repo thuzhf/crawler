@@ -1,0 +1,15 @@
+652701001000	新疆维吾尔自治区-博尔塔拉蒙古自治州-博乐市-青得里街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/27/01/652701001.html
+652701002000	新疆维吾尔自治区-博尔塔拉蒙古自治州-博乐市-顾力木图街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/27/01/652701002.html
+652701004000	新疆维吾尔自治区-博尔塔拉蒙古自治州-博乐市-南城区街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/27/01/652701004.html
+652701100000	新疆维吾尔自治区-博尔塔拉蒙古自治州-博乐市-小营盘镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/27/01/652701100.html
+652701101000	新疆维吾尔自治区-博尔塔拉蒙古自治州-博乐市-达勒特镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/27/01/652701101.html
+652701102000	新疆维吾尔自治区-博尔塔拉蒙古自治州-博乐市-乌图布拉格镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/27/01/652701102.html
+652701103000	新疆维吾尔自治区-博尔塔拉蒙古自治州-博乐市-青得里镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/27/01/652701103.html
+652701201000	新疆维吾尔自治区-博尔塔拉蒙古自治州-博乐市-贝林哈日莫墩乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/27/01/652701201.html
+652701400000	新疆维吾尔自治区-博尔塔拉蒙古自治州-博乐市-阿热勒托海牧场	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/27/01/652701400.html
+652701408000	新疆维吾尔自治区-博尔塔拉蒙古自治州-博乐市-五台工业园区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/27/01/652701408.html
+652701501000	新疆维吾尔自治区-博尔塔拉蒙古自治州-博乐市-兵团八十一团	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/27/01/652701501.html
+652701502000	新疆维吾尔自治区-博尔塔拉蒙古自治州-博乐市-兵团八十四团	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/27/01/652701502.html
+652701504000	新疆维吾尔自治区-博尔塔拉蒙古自治州-博乐市-兵团八十六团	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/27/01/652701504.html
+652701505000	新疆维吾尔自治区-博尔塔拉蒙古自治州-博乐市-兵团八十九团	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/27/01/652701505.html
+652701506000	新疆维吾尔自治区-博尔塔拉蒙古自治州-博乐市-兵团九十团	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/27/01/652701506.html

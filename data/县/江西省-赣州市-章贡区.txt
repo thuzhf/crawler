@@ -1,0 +1,16 @@
+360702001000	江西省-赣州市-章贡区-解放街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/07/02/360702001.html
+360702002000	江西省-赣州市-章贡区-赣江街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/07/02/360702002.html
+360702003000	江西省-赣州市-章贡区-南外街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/07/02/360702003.html
+360702004000	江西省-赣州市-章贡区-东外街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/07/02/360702004.html
+360702091000	江西省-赣州市-章贡区-黄金岭街道办事处（赣州经济技术开发区）	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/07/02/360702091.html
+360702100000	江西省-赣州市-章贡区-沙石镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/07/02/360702100.html
+360702101000	江西省-赣州市-章贡区-水东镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/07/02/360702101.html
+360702102000	江西省-赣州市-章贡区-水南镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/07/02/360702102.html
+360702103000	江西省-赣州市-章贡区-湖边镇（赣州经济技术开发区）	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/07/02/360702103.html
+360702104000	江西省-赣州市-章贡区-沙河镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/07/02/360702104.html
+360702105000	江西省-赣州市-章贡区-水西镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/07/02/360702105.html
+360702190000	江西省-赣州市-章贡区-蟠龙镇（赣州经济技术开发区）	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/07/02/360702190.html
+360702191000	江西省-赣州市-章贡区-潭口镇（赣州蓉江新区）	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/07/02/360702191.html
+360702192000	江西省-赣州市-章贡区-潭东镇（赣州蓉江新区）	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/07/02/360702192.html
+360702400000	江西省-赣州市-章贡区-赣州经济技术开发区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/07/02/360702400.html
+360702401000	江西省-赣州市-章贡区-沙河工业园	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/07/02/360702401.html

@@ -1,0 +1,9 @@
+230602001000	黑龙江省-大庆市-萨尔图区-萨尔图街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/06/02/230602001.html
+230602005000	黑龙江省-大庆市-萨尔图区-铁人街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/06/02/230602005.html
+230602006000	黑龙江省-大庆市-萨尔图区-友谊街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/06/02/230602006.html
+230602007000	黑龙江省-大庆市-萨尔图区-富强街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/06/02/230602007.html
+230602008000	黑龙江省-大庆市-萨尔图区-拥军街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/06/02/230602008.html
+230602009000	黑龙江省-大庆市-萨尔图区-会战街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/06/02/230602009.html
+230602010000	黑龙江省-大庆市-萨尔图区-火炬街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/06/02/230602010.html
+230602011000	黑龙江省-大庆市-萨尔图区-东风街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/06/02/230602011.html
+230602012000	黑龙江省-大庆市-萨尔图区-东安街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/06/02/230602012.html

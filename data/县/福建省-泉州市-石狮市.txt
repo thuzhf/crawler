@@ -1,0 +1,9 @@
+350581001000	福建省-泉州市-石狮市-湖滨街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/05/81/350581001.html
+350581002000	福建省-泉州市-石狮市-凤里街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/05/81/350581002.html
+350581100000	福建省-泉州市-石狮市-灵秀镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/05/81/350581100.html
+350581101000	福建省-泉州市-石狮市-宝盖镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/05/81/350581101.html
+350581102000	福建省-泉州市-石狮市-蚶江镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/05/81/350581102.html
+350581103000	福建省-泉州市-石狮市-祥芝镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/05/81/350581103.html
+350581104000	福建省-泉州市-石狮市-鸿山镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/05/81/350581104.html
+350581105000	福建省-泉州市-石狮市-锦尚镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/05/81/350581105.html
+350581106000	福建省-泉州市-石狮市-永宁镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/05/81/350581106.html

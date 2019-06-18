@@ -1,0 +1,14 @@
+640302100000	宁夏回族自治区-吴忠市-利通区-金积镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/64/03/02/640302100.html
+640302101000	宁夏回族自治区-吴忠市-利通区-金银滩镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/64/03/02/640302101.html
+640302102000	宁夏回族自治区-吴忠市-利通区-高闸镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/64/03/02/640302102.html
+640302103000	宁夏回族自治区-吴忠市-利通区-扁担沟镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/64/03/02/640302103.html
+640302104000	宁夏回族自治区-吴忠市-利通区-上桥镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/64/03/02/640302104.html
+640302105000	宁夏回族自治区-吴忠市-利通区-古城镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/64/03/02/640302105.html
+640302106000	宁夏回族自治区-吴忠市-利通区-金星镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/64/03/02/640302106.html
+640302107000	宁夏回族自治区-吴忠市-利通区-胜利镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/64/03/02/640302107.html
+640302200000	宁夏回族自治区-吴忠市-利通区-东塔寺乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/64/03/02/640302200.html
+640302201000	宁夏回族自治区-吴忠市-利通区-板桥乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/64/03/02/640302201.html
+640302202000	宁夏回族自治区-吴忠市-利通区-马莲渠乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/64/03/02/640302202.html
+640302203000	宁夏回族自治区-吴忠市-利通区-郭家桥乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/64/03/02/640302203.html
+640302400000	宁夏回族自治区-吴忠市-利通区-巴浪湖农场	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/64/03/02/640302400.html
+640302401000	宁夏回族自治区-吴忠市-利通区-孙家滩管委会	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/64/03/02/640302401.html

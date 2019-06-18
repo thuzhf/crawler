@@ -1,0 +1,8 @@
+360602001000	江西省-鹰潭市-月湖区-江边街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/06/02/360602001.html
+360602002000	江西省-鹰潭市-月湖区-交通街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/06/02/360602002.html
+360602003000	江西省-鹰潭市-月湖区-东湖街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/06/02/360602003.html
+360602004000	江西省-鹰潭市-月湖区-梅园街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/06/02/360602004.html
+360602005000	江西省-鹰潭市-月湖区-四青街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/06/02/360602005.html
+360602006000	江西省-鹰潭市-月湖区-白露街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/06/02/360602006.html
+360602100000	江西省-鹰潭市-月湖区-童家镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/06/02/360602100.html
+360602200000	江西省-鹰潭市-月湖区-夏埠乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/06/02/360602200.html

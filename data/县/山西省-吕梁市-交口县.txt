@@ -1,0 +1,7 @@
+141130100000	山西省-吕梁市-交口县-水头镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/11/30/141130100.html
+141130101000	山西省-吕梁市-交口县-康城镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/11/30/141130101.html
+141130102000	山西省-吕梁市-交口县-双池镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/11/30/141130102.html
+141130103000	山西省-吕梁市-交口县-桃红坡镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/11/30/141130103.html
+141130200000	山西省-吕梁市-交口县-石口乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/11/30/141130200.html
+141130201000	山西省-吕梁市-交口县-回龙乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/11/30/141130201.html
+141130202000	山西省-吕梁市-交口县-温泉乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/11/30/141130202.html

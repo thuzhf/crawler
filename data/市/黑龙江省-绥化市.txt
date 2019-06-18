@@ -1,0 +1,11 @@
+231201000000	黑龙江省-绥化市-市辖区	
+231202000000	黑龙江省-绥化市-北林区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/12/231202.html
+231221000000	黑龙江省-绥化市-望奎县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/12/231221.html
+231222000000	黑龙江省-绥化市-兰西县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/12/231222.html
+231223000000	黑龙江省-绥化市-青冈县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/12/231223.html
+231224000000	黑龙江省-绥化市-庆安县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/12/231224.html
+231225000000	黑龙江省-绥化市-明水县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/12/231225.html
+231226000000	黑龙江省-绥化市-绥棱县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/12/231226.html
+231281000000	黑龙江省-绥化市-安达市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/12/231281.html
+231282000000	黑龙江省-绥化市-肇东市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/12/231282.html
+231283000000	黑龙江省-绥化市-海伦市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/12/231283.html

@@ -1,0 +1,17 @@
+210211001000	辽宁省-大连市-甘井子区-周水子街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/02/11/210211001.html
+210211002000	辽宁省-大连市-甘井子区-椒金山街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/02/11/210211002.html
+210211004000	辽宁省-大连市-甘井子区-甘井子街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/02/11/210211004.html
+210211006000	辽宁省-大连市-甘井子区-南关岭街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/02/11/210211006.html
+210211007000	辽宁省-大连市-甘井子区-泡崖街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/02/11/210211007.html
+210211008000	辽宁省-大连市-甘井子区-中华路街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/02/11/210211008.html
+210211009000	辽宁省-大连市-甘井子区-兴华街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/02/11/210211009.html
+210211010000	辽宁省-大连市-甘井子区-机场街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/02/11/210211010.html
+210211014000	辽宁省-大连市-甘井子区-辛寨子街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/02/11/210211014.html
+210211015000	辽宁省-大连市-甘井子区-红旗街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/02/11/210211015.html
+210211016000	辽宁省-大连市-甘井子区-凌水街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/02/11/210211016.html
+210211017000	辽宁省-大连市-甘井子区-大连湾街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/02/11/210211017.html
+210211018000	辽宁省-大连市-甘井子区-泉水街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/02/11/210211018.html
+210211019000	辽宁省-大连市-甘井子区-革镇堡街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/02/11/210211019.html
+210211020000	辽宁省-大连市-甘井子区-营城子街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/02/11/210211020.html
+210211021000	辽宁省-大连市-甘井子区-七贤岭街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/02/11/210211021.html
+210211400000	辽宁省-大连市-甘井子区-大连华侨果树农场	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/02/11/210211400.html

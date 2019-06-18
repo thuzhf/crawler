@@ -1,0 +1,17 @@
+220521100000	吉林省-通化市-通化县-快大茂镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/05/21/220521100.html
+220521101000	吉林省-通化市-通化县-二密镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/05/21/220521101.html
+220521102000	吉林省-通化市-通化县-果松镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/05/21/220521102.html
+220521103000	吉林省-通化市-通化县-石湖镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/05/21/220521103.html
+220521104000	吉林省-通化市-通化县-大安镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/05/21/220521104.html
+220521105000	吉林省-通化市-通化县-光华镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/05/21/220521105.html
+220521106000	吉林省-通化市-通化县-兴林镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/05/21/220521106.html
+220521107000	吉林省-通化市-通化县-英额布镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/05/21/220521107.html
+220521108000	吉林省-通化市-通化县-三棵榆树镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/05/21/220521108.html
+220521109000	吉林省-通化市-通化县-西江镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/05/21/220521109.html
+220521120000	吉林省-通化市-通化县-通化聚鑫经济开发区管理委员会（特殊乡镇）	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/05/21/220521120.html
+220521200000	吉林省-通化市-通化县-富江乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/05/21/220521200.html
+220521201000	吉林省-通化市-通化县-四棚乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/05/21/220521201.html
+220521202000	吉林省-通化市-通化县-东来乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/05/21/220521202.html
+220521203000	吉林省-通化市-通化县-大泉源满族朝鲜族乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/05/21/220521203.html
+220521204000	吉林省-通化市-通化县-金斗朝鲜族满族乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/05/21/220521204.html
+220521401000	吉林省-通化市-通化县-东宝新村	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/05/21/220521401.html

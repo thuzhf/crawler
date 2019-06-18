@@ -1,0 +1,7 @@
+330601000000	浙江省-绍兴市-市辖区	
+330602000000	浙江省-绍兴市-越城区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/06/330602.html
+330603000000	浙江省-绍兴市-柯桥区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/06/330603.html
+330604000000	浙江省-绍兴市-上虞区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/06/330604.html
+330624000000	浙江省-绍兴市-新昌县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/06/330624.html
+330681000000	浙江省-绍兴市-诸暨市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/06/330681.html
+330683000000	浙江省-绍兴市-嵊州市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/06/330683.html

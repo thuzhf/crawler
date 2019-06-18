@@ -1,0 +1,9 @@
+520100000000	贵州省-贵阳市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/52/5201.html
+520200000000	贵州省-六盘水市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/52/5202.html
+520300000000	贵州省-遵义市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/52/5203.html
+520400000000	贵州省-安顺市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/52/5204.html
+520500000000	贵州省-毕节市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/52/5205.html
+520600000000	贵州省-铜仁市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/52/5206.html
+522300000000	贵州省-黔西南布依族苗族自治州	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/52/5223.html
+522600000000	贵州省-黔东南苗族侗族自治州	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/52/5226.html
+522700000000	贵州省-黔南布依族苗族自治州	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/52/5227.html

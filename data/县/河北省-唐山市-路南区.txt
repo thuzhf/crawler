@@ -1,0 +1,11 @@
+130202001000	河北省-唐山市-路南区-学院南路街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/02/02/130202001.html
+130202002000	河北省-唐山市-路南区-友谊街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/02/02/130202002.html
+130202003000	河北省-唐山市-路南区-广场街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/02/02/130202003.html
+130202004000	河北省-唐山市-路南区-永红桥街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/02/02/130202004.html
+130202005000	河北省-唐山市-路南区-小山街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/02/02/130202005.html
+130202006000	河北省-唐山市-路南区-文北街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/02/02/130202006.html
+130202007000	河北省-唐山市-路南区-钱营街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/02/02/130202007.html
+130202008000	河北省-唐山市-路南区-惠民道街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/02/02/130202008.html
+130202009000	河北省-唐山市-路南区-梁家屯路街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/02/02/130202009.html
+130202102000	河北省-唐山市-路南区-稻地镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/02/02/130202102.html
+130202200000	河北省-唐山市-路南区-女织寨乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/02/02/130202200.html

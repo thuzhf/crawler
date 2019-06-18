@@ -1,0 +1,13 @@
+370831001000	山东省-济宁市-泗水县-泗河街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/08/31/370831001.html
+370831002000	山东省-济宁市-泗水县-济河街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/08/31/370831002.html
+370831101000	山东省-济宁市-泗水县-泉林镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/08/31/370831101.html
+370831102000	山东省-济宁市-泗水县-星村镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/08/31/370831102.html
+370831103000	山东省-济宁市-泗水县-柘沟镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/08/31/370831103.html
+370831104000	山东省-济宁市-泗水县-金庄镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/08/31/370831104.html
+370831105000	山东省-济宁市-泗水县-苗馆镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/08/31/370831105.html
+370831106000	山东省-济宁市-泗水县-中册镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/08/31/370831106.html
+370831107000	山东省-济宁市-泗水县-杨柳镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/08/31/370831107.html
+370831108000	山东省-济宁市-泗水县-泗张镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/08/31/370831108.html
+370831109000	山东省-济宁市-泗水县-圣水峪镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/08/31/370831109.html
+370831110000	山东省-济宁市-泗水县-高峪镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/08/31/370831110.html
+370831111000	山东省-济宁市-泗水县-华村镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/08/31/370831111.html

@@ -1,0 +1,8 @@
+321102001000	江苏省-镇江市-京口区-正东路街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/11/02/321102001.html
+321102002000	江苏省-镇江市-京口区-健康路街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/11/02/321102002.html
+321102003000	江苏省-镇江市-京口区-大市口街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/11/02/321102003.html
+321102004000	江苏省-镇江市-京口区-四牌楼街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/11/02/321102004.html
+321102005000	江苏省-镇江市-京口区-象山街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/11/02/321102005.html
+321102006000	江苏省-镇江市-京口区-谏壁街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/11/02/321102006.html
+321102400000	江苏省-镇江市-京口区-京口工业园区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/11/02/321102400.html
+321102401000	江苏省-镇江市-京口区-新民洲临港产业园	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/11/02/321102401.html

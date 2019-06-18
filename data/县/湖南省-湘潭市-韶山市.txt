@@ -1,0 +1,4 @@
+430382100000	湖南省-湘潭市-韶山市-清溪镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/03/82/430382100.html
+430382101000	湖南省-湘潭市-韶山市-银田镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/03/82/430382101.html
+430382200000	湖南省-湘潭市-韶山市-韶山乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/03/82/430382200.html
+430382203000	湖南省-湘潭市-韶山市-杨林乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/03/82/430382203.html

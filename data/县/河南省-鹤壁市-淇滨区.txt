@@ -1,0 +1,8 @@
+410611001000	河南省-鹤壁市-淇滨区-金山办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/06/11/410611001.html
+410611002000	河南省-鹤壁市-淇滨区-九州路街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/06/11/410611002.html
+410611003000	河南省-鹤壁市-淇滨区-黎阳路街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/06/11/410611003.html
+410611100000	河南省-鹤壁市-淇滨区-大赉店镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/06/11/410611100.html
+410611101000	河南省-鹤壁市-淇滨区-钜桥镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/06/11/410611101.html
+410611200000	河南省-鹤壁市-淇滨区-上峪乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/06/11/410611200.html
+410611201000	河南省-鹤壁市-淇滨区-大河涧乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/06/11/410611201.html
+410611562000	河南省-鹤壁市-淇滨区-长江路街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/06/11/410611562.html

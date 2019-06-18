@@ -1,0 +1,14 @@
+540326100000	西藏自治区-昌都市-八宿县-白玛镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/03/26/540326100.html
+540326101000	西藏自治区-昌都市-八宿县-帮达镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/03/26/540326101.html
+540326102000	西藏自治区-昌都市-八宿县-然乌镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/03/26/540326102.html
+540326103000	西藏自治区-昌都市-八宿县-同卡镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/03/26/540326103.html
+540326202000	西藏自治区-昌都市-八宿县-郭庆乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/03/26/540326202.html
+540326203000	西藏自治区-昌都市-八宿县-拉根乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/03/26/540326203.html
+540326204000	西藏自治区-昌都市-八宿县-益庆乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/03/26/540326204.html
+540326205000	西藏自治区-昌都市-八宿县-吉中乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/03/26/540326205.html
+540326206000	西藏自治区-昌都市-八宿县-卡瓦白庆乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/03/26/540326206.html
+540326207000	西藏自治区-昌都市-八宿县-吉达乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/03/26/540326207.html
+540326208000	西藏自治区-昌都市-八宿县-夏里乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/03/26/540326208.html
+540326209000	西藏自治区-昌都市-八宿县-拥乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/03/26/540326209.html
+540326210000	西藏自治区-昌都市-八宿县-瓦乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/03/26/540326210.html
+540326211000	西藏自治区-昌都市-八宿县-林卡乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/03/26/540326211.html

@@ -1,0 +1,11 @@
+350627100000	福建省-漳州市-南靖县-山城镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/06/27/350627100.html
+350627101000	福建省-漳州市-南靖县-丰田镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/06/27/350627101.html
+350627102000	福建省-漳州市-南靖县-靖城镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/06/27/350627102.html
+350627103000	福建省-漳州市-南靖县-龙山镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/06/27/350627103.html
+350627104000	福建省-漳州市-南靖县-金山镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/06/27/350627104.html
+350627105000	福建省-漳州市-南靖县-和溪镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/06/27/350627105.html
+350627106000	福建省-漳州市-南靖县-奎洋镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/06/27/350627106.html
+350627107000	福建省-漳州市-南靖县-梅林镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/06/27/350627107.html
+350627108000	福建省-漳州市-南靖县-书洋镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/06/27/350627108.html
+350627109000	福建省-漳州市-南靖县-船场镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/06/27/350627109.html
+350627110000	福建省-漳州市-南靖县-南坑镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/06/27/350627110.html

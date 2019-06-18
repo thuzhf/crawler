@@ -1,0 +1,12 @@
+330206001000	浙江省-宁波市-北仑区-大榭街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/02/06/330206001.html
+330206002000	浙江省-宁波市-北仑区-新碶街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/02/06/330206002.html
+330206003000	浙江省-宁波市-北仑区-小港街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/02/06/330206003.html
+330206004000	浙江省-宁波市-北仑区-大碶街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/02/06/330206004.html
+330206005000	浙江省-宁波市-北仑区-霞浦街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/02/06/330206005.html
+330206006000	浙江省-宁波市-北仑区-柴桥街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/02/06/330206006.html
+330206007000	浙江省-宁波市-北仑区-戚家山街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/02/06/330206007.html
+330206008000	浙江省-宁波市-北仑区-春晓街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/02/06/330206008.html
+330206009000	浙江省-宁波市-北仑区-梅山街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/02/06/330206009.html
+330206010000	浙江省-宁波市-北仑区-郭巨街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/02/06/330206010.html
+330206011000	浙江省-宁波市-北仑区-白峰街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/02/06/330206011.html
+330206401000	浙江省-宁波市-北仑区-保税区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/02/06/330206401.html

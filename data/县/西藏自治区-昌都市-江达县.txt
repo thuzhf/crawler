@@ -1,0 +1,13 @@
+540321100000	西藏自治区-昌都市-江达县-江达镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/03/21/540321100.html
+540321101000	西藏自治区-昌都市-江达县-岗托镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/03/21/540321101.html
+540321200000	西藏自治区-昌都市-江达县-卡贡乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/03/21/540321200.html
+540321201000	西藏自治区-昌都市-江达县-岩比乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/03/21/540321201.html
+540321202000	西藏自治区-昌都市-江达县-邓柯乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/03/21/540321202.html
+540321203000	西藏自治区-昌都市-江达县-生达乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/03/21/540321203.html
+540321204000	西藏自治区-昌都市-江达县-娘西乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/03/21/540321204.html
+540321205000	西藏自治区-昌都市-江达县-字嘎乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/03/21/540321205.html
+540321206000	西藏自治区-昌都市-江达县-青泥洞乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/03/21/540321206.html
+540321207000	西藏自治区-昌都市-江达县-汪布顶乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/03/21/540321207.html
+540321208000	西藏自治区-昌都市-江达县-德登乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/03/21/540321208.html
+540321209000	西藏自治区-昌都市-江达县-同普乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/03/21/540321209.html
+540321210000	西藏自治区-昌都市-江达县-波罗乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/03/21/540321210.html

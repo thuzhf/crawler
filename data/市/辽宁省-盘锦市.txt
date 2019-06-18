@@ -1,0 +1,5 @@
+211101000000	辽宁省-盘锦市-市辖区	
+211102000000	辽宁省-盘锦市-双台子区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/11/211102.html
+211103000000	辽宁省-盘锦市-兴隆台区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/11/211103.html
+211104000000	辽宁省-盘锦市-大洼区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/11/211104.html
+211122000000	辽宁省-盘锦市-盘山县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/11/211122.html

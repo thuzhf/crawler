@@ -1,0 +1,8 @@
+371428001000	山东省-德州市-武城县-广运街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/14/28/371428001.html
+371428100000	山东省-德州市-武城县-武城镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/14/28/371428100.html
+371428101000	山东省-德州市-武城县-老城镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/14/28/371428101.html
+371428103000	山东省-德州市-武城县-鲁权屯镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/14/28/371428103.html
+371428104000	山东省-德州市-武城县-郝王庄镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/14/28/371428104.html
+371428106000	山东省-德州市-武城县-甲马营镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/14/28/371428106.html
+371428107000	山东省-德州市-武城县-四女寺镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/14/28/371428107.html
+371428108000	山东省-德州市-武城县-李家户镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/14/28/371428108.html

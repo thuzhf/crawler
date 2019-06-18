@@ -1,0 +1,14 @@
+640221100000	宁夏回族自治区-石嘴山市-平罗县-城关镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/64/02/21/640221100.html
+640221101000	宁夏回族自治区-石嘴山市-平罗县-黄渠桥镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/64/02/21/640221101.html
+640221102000	宁夏回族自治区-石嘴山市-平罗县-宝丰镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/64/02/21/640221102.html
+640221103000	宁夏回族自治区-石嘴山市-平罗县-头闸镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/64/02/21/640221103.html
+640221104000	宁夏回族自治区-石嘴山市-平罗县-姚伏镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/64/02/21/640221104.html
+640221105000	宁夏回族自治区-石嘴山市-平罗县-崇岗镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/64/02/21/640221105.html
+640221106000	宁夏回族自治区-石嘴山市-平罗县-陶乐镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/64/02/21/640221106.html
+640221200000	宁夏回族自治区-石嘴山市-平罗县-高庄乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/64/02/21/640221200.html
+640221201000	宁夏回族自治区-石嘴山市-平罗县-灵沙乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/64/02/21/640221201.html
+640221202000	宁夏回族自治区-石嘴山市-平罗县-渠口乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/64/02/21/640221202.html
+640221203000	宁夏回族自治区-石嘴山市-平罗县-通伏乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/64/02/21/640221203.html
+640221204000	宁夏回族自治区-石嘴山市-平罗县-高仁乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/64/02/21/640221204.html
+640221205000	宁夏回族自治区-石嘴山市-平罗县-红崖子乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/64/02/21/640221205.html
+640221400000	宁夏回族自治区-石嘴山市-平罗县-前进农场	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/64/02/21/640221400.html

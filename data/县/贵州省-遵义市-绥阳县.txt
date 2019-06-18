@@ -1,0 +1,15 @@
+520323100000	贵州省-遵义市-绥阳县-洋川镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/52/03/23/520323100.html
+520323101000	贵州省-遵义市-绥阳县-郑场镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/52/03/23/520323101.html
+520323102000	贵州省-遵义市-绥阳县-旺草镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/52/03/23/520323102.html
+520323103000	贵州省-遵义市-绥阳县-蒲场镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/52/03/23/520323103.html
+520323104000	贵州省-遵义市-绥阳县-风华镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/52/03/23/520323104.html
+520323105000	贵州省-遵义市-绥阳县-茅垭镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/52/03/23/520323105.html
+520323106000	贵州省-遵义市-绥阳县-枧坝镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/52/03/23/520323106.html
+520323107000	贵州省-遵义市-绥阳县-宽阔镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/52/03/23/520323107.html
+520323108000	贵州省-遵义市-绥阳县-黄杨镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/52/03/23/520323108.html
+520323109000	贵州省-遵义市-绥阳县-青杠塘镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/52/03/23/520323109.html
+520323110000	贵州省-遵义市-绥阳县-太白镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/52/03/23/520323110.html
+520323111000	贵州省-遵义市-绥阳县-温泉镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/52/03/23/520323111.html
+520323112000	贵州省-遵义市-绥阳县-坪乐镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/52/03/23/520323112.html
+520323200000	贵州省-遵义市-绥阳县-大路槽乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/52/03/23/520323200.html
+520323201000	贵州省-遵义市-绥阳县-小关乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/52/03/23/520323201.html

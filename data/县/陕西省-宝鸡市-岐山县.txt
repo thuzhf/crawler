@@ -1,0 +1,9 @@
+610323100000	陕西省-宝鸡市-岐山县-凤鸣镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/61/03/23/610323100.html
+610323101000	陕西省-宝鸡市-岐山县-蔡家坡镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/61/03/23/610323101.html
+610323103000	陕西省-宝鸡市-岐山县-益店镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/61/03/23/610323103.html
+610323104000	陕西省-宝鸡市-岐山县-蒲村镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/61/03/23/610323104.html
+610323106000	陕西省-宝鸡市-岐山县-青化镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/61/03/23/610323106.html
+610323107000	陕西省-宝鸡市-岐山县-枣林镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/61/03/23/610323107.html
+610323108000	陕西省-宝鸡市-岐山县-雍川镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/61/03/23/610323108.html
+610323111000	陕西省-宝鸡市-岐山县-故郡镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/61/03/23/610323111.html
+610323112000	陕西省-宝鸡市-岐山县-京当镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/61/03/23/610323112.html

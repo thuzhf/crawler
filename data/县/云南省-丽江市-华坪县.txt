@@ -1,0 +1,8 @@
+530723101000	云南省-丽江市-华坪县-中心镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/07/23/530723101.html
+530723102000	云南省-丽江市-华坪县-荣将镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/07/23/530723102.html
+530723103000	云南省-丽江市-华坪县-兴泉镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/07/23/530723103.html
+530723104000	云南省-丽江市-华坪县-石龙坝镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/07/23/530723104.html
+530723202000	云南省-丽江市-华坪县-新庄傈僳族傣族乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/07/23/530723202.html
+530723203000	云南省-丽江市-华坪县-通达傈僳族乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/07/23/530723203.html
+530723204000	云南省-丽江市-华坪县-永兴傈僳族乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/07/23/530723204.html
+530723205000	云南省-丽江市-华坪县-船房傈僳族傣族乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/07/23/530723205.html

@@ -1,0 +1,13 @@
+410104001000	河南省-郑州市-管城回族区-北下街街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/01/04/410104001.html
+410104002000	河南省-郑州市-管城回族区-西大街街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/01/04/410104002.html
+410104003000	河南省-郑州市-管城回族区-南关街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/01/04/410104003.html
+410104004000	河南省-郑州市-管城回族区-城东路街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/01/04/410104004.html
+410104005000	河南省-郑州市-管城回族区-东大街街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/01/04/410104005.html
+410104006000	河南省-郑州市-管城回族区-二里岗街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/01/04/410104006.html
+410104007000	河南省-郑州市-管城回族区-陇海马路街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/01/04/410104007.html
+410104008000	河南省-郑州市-管城回族区-紫荆山南路街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/01/04/410104008.html
+410104009000	河南省-郑州市-管城回族区-航海东路街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/01/04/410104009.html
+410104010000	河南省-郑州市-管城回族区-十八里河街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/01/04/410104010.html
+410104201000	河南省-郑州市-管城回族区-南曹乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/01/04/410104201.html
+410104202000	河南省-郑州市-管城回族区-圃田乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/01/04/410104202.html
+410104570000	河南省-郑州市-管城回族区-商都路街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/01/04/410104570.html

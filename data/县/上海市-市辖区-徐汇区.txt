@@ -1,0 +1,14 @@
+310104003000	上海市-市辖区-徐汇区-天平路街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/31/01/04/310104003.html
+310104004000	上海市-市辖区-徐汇区-湖南路街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/31/01/04/310104004.html
+310104007000	上海市-市辖区-徐汇区-斜土路街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/31/01/04/310104007.html
+310104008000	上海市-市辖区-徐汇区-枫林路街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/31/01/04/310104008.html
+310104010000	上海市-市辖区-徐汇区-长桥街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/31/01/04/310104010.html
+310104011000	上海市-市辖区-徐汇区-田林街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/31/01/04/310104011.html
+310104012000	上海市-市辖区-徐汇区-虹梅路街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/31/01/04/310104012.html
+310104013000	上海市-市辖区-徐汇区-康健新村街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/31/01/04/310104013.html
+310104014000	上海市-市辖区-徐汇区-徐家汇街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/31/01/04/310104014.html
+310104015000	上海市-市辖区-徐汇区-凌云路街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/31/01/04/310104015.html
+310104016000	上海市-市辖区-徐汇区-龙华街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/31/01/04/310104016.html
+310104017000	上海市-市辖区-徐汇区-漕河泾街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/31/01/04/310104017.html
+310104103000	上海市-市辖区-徐汇区-华泾镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/31/01/04/310104103.html
+310104501000	上海市-市辖区-徐汇区-漕河泾新兴技术开发区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/31/01/04/310104501.html

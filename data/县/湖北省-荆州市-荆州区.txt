@@ -1,0 +1,12 @@
+421003001000	湖北省-荆州市-荆州区-西城街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/10/03/421003001.html
+421003002000	湖北省-荆州市-荆州区-东城街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/10/03/421003002.html
+421003003000	湖北省-荆州市-荆州区-城南高新园管理委员会	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/10/03/421003003.html
+421003100000	湖北省-荆州市-荆州区-纪南镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/10/03/421003100.html
+421003101000	湖北省-荆州市-荆州区-川店镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/10/03/421003101.html
+421003102000	湖北省-荆州市-荆州区-马山镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/10/03/421003102.html
+421003103000	湖北省-荆州市-荆州区-八岭山镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/10/03/421003103.html
+421003104000	湖北省-荆州市-荆州区-李埠镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/10/03/421003104.html
+421003105000	湖北省-荆州市-荆州区-弥市镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/10/03/421003105.html
+421003106000	湖北省-荆州市-荆州区-郢城镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/10/03/421003106.html
+421003450000	湖北省-荆州市-荆州区-太湖港管理区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/10/03/421003450.html
+421003451000	湖北省-荆州市-荆州区-菱角湖管理区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/10/03/421003451.html

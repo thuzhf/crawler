@@ -1,0 +1,9 @@
+441803102000	广东省-清远市-清新区-太和镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/18/03/441803102.html
+441803104000	广东省-清远市-清新区-太平镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/18/03/441803104.html
+441803105000	广东省-清远市-清新区-山塘镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/18/03/441803105.html
+441803106000	广东省-清远市-清新区-三坑镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/18/03/441803106.html
+441803112000	广东省-清远市-清新区-龙颈镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/18/03/441803112.html
+441803113000	广东省-清远市-清新区-禾云镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/18/03/441803113.html
+441803117000	广东省-清远市-清新区-浸潭镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/18/03/441803117.html
+441803118000	广东省-清远市-清新区-石潭镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/18/03/441803118.html
+441803450000	广东省-清远市-清新区-笔架林场	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/18/03/441803450.html

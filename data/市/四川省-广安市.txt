@@ -1,0 +1,7 @@
+511601000000	四川省-广安市-市辖区	
+511602000000	四川省-广安市-广安区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/16/511602.html
+511603000000	四川省-广安市-前锋区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/16/511603.html
+511621000000	四川省-广安市-岳池县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/16/511621.html
+511622000000	四川省-广安市-武胜县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/16/511622.html
+511623000000	四川省-广安市-邻水县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/16/511623.html
+511681000000	四川省-广安市-华蓥市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/16/511681.html

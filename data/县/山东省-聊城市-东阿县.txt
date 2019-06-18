@@ -1,0 +1,10 @@
+371524001000	山东省-聊城市-东阿县-铜城街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/15/24/371524001.html
+371524002000	山东省-聊城市-东阿县-新城街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/15/24/371524002.html
+371524101000	山东省-聊城市-东阿县-刘集镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/15/24/371524101.html
+371524102000	山东省-聊城市-东阿县-牛角店镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/15/24/371524102.html
+371524103000	山东省-聊城市-东阿县-大桥镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/15/24/371524103.html
+371524104000	山东省-聊城市-东阿县-高集镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/15/24/371524104.html
+371524105000	山东省-聊城市-东阿县-姜楼镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/15/24/371524105.html
+371524107000	山东省-聊城市-东阿县-姚寨镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/15/24/371524107.html
+371524108000	山东省-聊城市-东阿县-鱼山镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/15/24/371524108.html
+371524109000	山东省-聊城市-东阿县-陈集镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/15/24/371524109.html

@@ -1,0 +1,11 @@
+450201000000	广西壮族自治区-柳州市-市辖区	
+450202000000	广西壮族自治区-柳州市-城中区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/02/450202.html
+450203000000	广西壮族自治区-柳州市-鱼峰区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/02/450203.html
+450204000000	广西壮族自治区-柳州市-柳南区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/02/450204.html
+450205000000	广西壮族自治区-柳州市-柳北区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/02/450205.html
+450206000000	广西壮族自治区-柳州市-柳江区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/02/450206.html
+450222000000	广西壮族自治区-柳州市-柳城县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/02/450222.html
+450223000000	广西壮族自治区-柳州市-鹿寨县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/02/450223.html
+450224000000	广西壮族自治区-柳州市-融安县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/02/450224.html
+450225000000	广西壮族自治区-柳州市-融水苗族自治县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/02/450225.html
+450226000000	广西壮族自治区-柳州市-三江侗族自治县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/02/450226.html

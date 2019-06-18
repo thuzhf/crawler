@@ -1,0 +1,11 @@
+530801000000	云南省-普洱市-市辖区	
+530802000000	云南省-普洱市-思茅区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/08/530802.html
+530821000000	云南省-普洱市-宁洱哈尼族彝族自治县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/08/530821.html
+530822000000	云南省-普洱市-墨江哈尼族自治县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/08/530822.html
+530823000000	云南省-普洱市-景东彝族自治县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/08/530823.html
+530824000000	云南省-普洱市-景谷傣族彝族自治县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/08/530824.html
+530825000000	云南省-普洱市-镇沅彝族哈尼族拉祜族自治县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/08/530825.html
+530826000000	云南省-普洱市-江城哈尼族彝族自治县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/08/530826.html
+530827000000	云南省-普洱市-孟连傣族拉祜族佤族自治县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/08/530827.html
+530828000000	云南省-普洱市-澜沧拉祜族自治县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/08/530828.html
+530829000000	云南省-普洱市-西盟佤族自治县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/08/530829.html

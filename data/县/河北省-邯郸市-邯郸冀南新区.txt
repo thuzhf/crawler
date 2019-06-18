@@ -1,0 +1,9 @@
+130473001000	河北省-邯郸市-邯郸冀南新区-城南办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/04/73/130473001.html
+130473100000	河北省-邯郸市-邯郸冀南新区-高臾镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/04/73/130473100.html
+130473101000	河北省-邯郸市-邯郸冀南新区-西光禄镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/04/73/130473101.html
+130473102000	河北省-邯郸市-邯郸冀南新区-林坛镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/04/73/130473102.html
+130473103000	河北省-邯郸市-邯郸冀南新区-马头镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/04/73/130473103.html
+130473200000	河北省-邯郸市-邯郸冀南新区-辛庄营乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/04/73/130473200.html
+130473201000	河北省-邯郸市-邯郸冀南新区-花官营乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/04/73/130473201.html
+130473202000	河北省-邯郸市-邯郸冀南新区-台城乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/04/73/130473202.html
+130473203000	河北省-邯郸市-邯郸冀南新区-南城乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/04/73/130473203.html

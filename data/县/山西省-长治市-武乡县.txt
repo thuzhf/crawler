@@ -1,0 +1,15 @@
+140429100000	山西省-长治市-武乡县-丰州镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/04/29/140429100.html
+140429101000	山西省-长治市-武乡县-洪水镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/04/29/140429101.html
+140429102000	山西省-长治市-武乡县-蟠龙镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/04/29/140429102.html
+140429103000	山西省-长治市-武乡县-监漳镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/04/29/140429103.html
+140429104000	山西省-长治市-武乡县-故城镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/04/29/140429104.html
+140429200000	山西省-长治市-武乡县-墨镫乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/04/29/140429200.html
+140429201000	山西省-长治市-武乡县-韩北乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/04/29/140429201.html
+140429202000	山西省-长治市-武乡县-大有乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/04/29/140429202.html
+140429203000	山西省-长治市-武乡县-贾豁乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/04/29/140429203.html
+140429204000	山西省-长治市-武乡县-故县乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/04/29/140429204.html
+140429205000	山西省-长治市-武乡县-上司乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/04/29/140429205.html
+140429206000	山西省-长治市-武乡县-石北乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/04/29/140429206.html
+140429207000	山西省-长治市-武乡县-涌泉乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/04/29/140429207.html
+140429208000	山西省-长治市-武乡县-分水岭乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/04/29/140429208.html
+140429400000	山西省-长治市-武乡县-武乡经济技术开发区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/04/29/140429400.html

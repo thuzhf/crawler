@@ -1,0 +1,8 @@
+150624100000	内蒙古自治区-鄂尔多斯市-鄂托克旗-乌兰镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/06/24/150624100.html
+150624101000	内蒙古自治区-鄂尔多斯市-鄂托克旗-棋盘井镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/06/24/150624101.html
+150624102000	内蒙古自治区-鄂尔多斯市-鄂托克旗-蒙西镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/06/24/150624102.html
+150624103000	内蒙古自治区-鄂尔多斯市-鄂托克旗-木凯淖尔镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/06/24/150624103.html
+150624200000	内蒙古自治区-鄂尔多斯市-鄂托克旗-苏米图苏木乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/06/24/150624200.html
+150624201000	内蒙古自治区-鄂尔多斯市-鄂托克旗-阿尔巴斯苏木乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/06/24/150624201.html
+150624403000	内蒙古自治区-鄂尔多斯市-鄂托克旗-蒙西工业园区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/06/24/150624403.html
+150624404000	内蒙古自治区-鄂尔多斯市-鄂托克旗-棋盘井工业园区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/06/24/150624404.html

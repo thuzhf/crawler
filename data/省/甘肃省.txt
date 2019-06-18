@@ -1,0 +1,14 @@
+620100000000	甘肃省-兰州市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/62/6201.html
+620200000000	甘肃省-嘉峪关市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/62/6202.html
+620300000000	甘肃省-金昌市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/62/6203.html
+620400000000	甘肃省-白银市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/62/6204.html
+620500000000	甘肃省-天水市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/62/6205.html
+620600000000	甘肃省-武威市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/62/6206.html
+620700000000	甘肃省-张掖市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/62/6207.html
+620800000000	甘肃省-平凉市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/62/6208.html
+620900000000	甘肃省-酒泉市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/62/6209.html
+621000000000	甘肃省-庆阳市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/62/6210.html
+621100000000	甘肃省-定西市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/62/6211.html
+621200000000	甘肃省-陇南市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/62/6212.html
+622900000000	甘肃省-临夏回族自治州	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/62/6229.html
+623000000000	甘肃省-甘南藏族自治州	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/62/6230.html

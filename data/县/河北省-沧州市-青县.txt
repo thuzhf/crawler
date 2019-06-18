@@ -1,0 +1,11 @@
+130922100000	河北省-沧州市-青县-清州镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/09/22/130922100.html
+130922101000	河北省-沧州市-青县-金牛镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/09/22/130922101.html
+130922102000	河北省-沧州市-青县-新兴镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/09/22/130922102.html
+130922103000	河北省-沧州市-青县-流河镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/09/22/130922103.html
+130922104000	河北省-沧州市-青县-木门店镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/09/22/130922104.html
+130922105000	河北省-沧州市-青县-马厂镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/09/22/130922105.html
+130922106000	河北省-沧州市-青县-盘古镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/09/22/130922106.html
+130922200000	河北省-沧州市-青县-上伍乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/09/22/130922200.html
+130922201000	河北省-沧州市-青县-曹寺乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/09/22/130922201.html
+130922203000	河北省-沧州市-青县-陈嘴乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/09/22/130922203.html
+130922400000	河北省-沧州市-青县-青县农场	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/09/22/130922400.html

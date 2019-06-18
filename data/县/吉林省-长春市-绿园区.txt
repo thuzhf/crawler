@@ -1,0 +1,11 @@
+220106001000	吉林省-长春市-绿园区-正阳街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/01/06/220106001.html
+220106003000	吉林省-长春市-绿园区-春城街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/01/06/220106003.html
+220106005000	吉林省-长春市-绿园区-青年街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/01/06/220106005.html
+220106006000	吉林省-长春市-绿园区-普阳街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/01/06/220106006.html
+220106007000	吉林省-长春市-绿园区-铁西街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/01/06/220106007.html
+220106010000	吉林省-长春市-绿园区-林园街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/01/06/220106010.html
+220106011000	吉林省-长春市-绿园区-同心街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/01/06/220106011.html
+220106100000	吉林省-长春市-绿园区-合心镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/01/06/220106100.html
+220106101000	吉林省-长春市-绿园区-西新镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/01/06/220106101.html
+220106102000	吉林省-长春市-绿园区-城西镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/01/06/220106102.html
+220106400000	吉林省-长春市-绿园区-绿园经济开发区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/01/06/220106400.html

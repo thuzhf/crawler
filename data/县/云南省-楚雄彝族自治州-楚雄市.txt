@@ -1,0 +1,15 @@
+532301101000	云南省-楚雄彝族自治州-楚雄市-鹿城镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/23/01/532301101.html
+532301102000	云南省-楚雄彝族自治州-楚雄市-东瓜镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/23/01/532301102.html
+532301103000	云南省-楚雄彝族自治州-楚雄市-吕合镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/23/01/532301103.html
+532301104000	云南省-楚雄彝族自治州-楚雄市-紫溪镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/23/01/532301104.html
+532301105000	云南省-楚雄彝族自治州-楚雄市-东华镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/23/01/532301105.html
+532301106000	云南省-楚雄彝族自治州-楚雄市-子午镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/23/01/532301106.html
+532301107000	云南省-楚雄彝族自治州-楚雄市-苍岭镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/23/01/532301107.html
+532301108000	云南省-楚雄彝族自治州-楚雄市-三街镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/23/01/532301108.html
+532301109000	云南省-楚雄彝族自治州-楚雄市-八角镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/23/01/532301109.html
+532301110000	云南省-楚雄彝族自治州-楚雄市-中山镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/23/01/532301110.html
+532301111000	云南省-楚雄彝族自治州-楚雄市-新村镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/23/01/532301111.html
+532301112000	云南省-楚雄彝族自治州-楚雄市-西舍路镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/23/01/532301112.html
+532301201000	云南省-楚雄彝族自治州-楚雄市-树苴乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/23/01/532301201.html
+532301202000	云南省-楚雄彝族自治州-楚雄市-大过口乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/23/01/532301202.html
+532301203000	云南省-楚雄彝族自治州-楚雄市-大地基乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/23/01/532301203.html

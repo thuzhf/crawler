@@ -1,0 +1,13 @@
+130607001000	河北省-保定市-满城区-惠阳街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/06/07/130607001.html
+130607100000	河北省-保定市-满城区-满城镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/06/07/130607100.html
+130607101000	河北省-保定市-满城区-大册营镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/06/07/130607101.html
+130607102000	河北省-保定市-满城区-神星镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/06/07/130607102.html
+130607103000	河北省-保定市-满城区-南韩村镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/06/07/130607103.html
+130607104000	河北省-保定市-满城区-方顺桥镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/06/07/130607104.html
+130607201000	河北省-保定市-满城区-于家庄乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/06/07/130607201.html
+130607203000	河北省-保定市-满城区-要庄乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/06/07/130607203.html
+130607204000	河北省-保定市-满城区-白龙乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/06/07/130607204.html
+130607205000	河北省-保定市-满城区-石井乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/06/07/130607205.html
+130607206000	河北省-保定市-满城区-坨南乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/06/07/130607206.html
+130607207000	河北省-保定市-满城区-刘家台乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/06/07/130607207.html
+130607400000	河北省-保定市-满城区-河北满城经济开发区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/06/07/130607400.html

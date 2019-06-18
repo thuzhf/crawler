@@ -1,0 +1,7 @@
+540502100000	西藏自治区-山南市-乃东区-泽当镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/05/02/540502100.html
+540502101000	西藏自治区-山南市-乃东区-昌珠镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/05/02/540502101.html
+540502200000	西藏自治区-山南市-乃东区-亚堆乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/05/02/540502200.html
+540502201000	西藏自治区-山南市-乃东区-索珠乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/05/02/540502201.html
+540502202000	西藏自治区-山南市-乃东区-多颇章乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/05/02/540502202.html
+540502203000	西藏自治区-山南市-乃东区-结巴乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/05/02/540502203.html
+540502204000	西藏自治区-山南市-乃东区-颇章乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/05/02/540502204.html

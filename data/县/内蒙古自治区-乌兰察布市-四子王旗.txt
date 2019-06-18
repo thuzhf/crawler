@@ -1,0 +1,14 @@
+150929100000	内蒙古自治区-乌兰察布市-四子王旗-四子王旗乌兰花镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/09/29/150929100.html
+150929101000	内蒙古自治区-乌兰察布市-四子王旗-四子王旗吉生太镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/09/29/150929101.html
+150929102000	内蒙古自治区-乌兰察布市-四子王旗-四子王旗库伦图镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/09/29/150929102.html
+150929103000	内蒙古自治区-乌兰察布市-四子王旗-四子王旗供济堂镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/09/29/150929103.html
+150929104000	内蒙古自治区-乌兰察布市-四子王旗-四子王旗白音朝克图镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/09/29/150929104.html
+150929200000	内蒙古自治区-乌兰察布市-四子王旗-四子王旗红格尔苏木	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/09/29/150929200.html
+150929201000	内蒙古自治区-乌兰察布市-四子王旗-四子王旗江岸苏木	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/09/29/150929201.html
+150929202000	内蒙古自治区-乌兰察布市-四子王旗-四子王旗查干补力格苏木	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/09/29/150929202.html
+150929203000	内蒙古自治区-乌兰察布市-四子王旗-四子王旗脑木更苏木	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/09/29/150929203.html
+150929204000	内蒙古自治区-乌兰察布市-四子王旗-四子王旗东八号乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/09/29/150929204.html
+150929205000	内蒙古自治区-乌兰察布市-四子王旗-四子王旗忽鸡图乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/09/29/150929205.html
+150929206000	内蒙古自治区-乌兰察布市-四子王旗-四子王旗大黑河乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/09/29/150929206.html
+150929207000	内蒙古自治区-乌兰察布市-四子王旗-四子王旗巴音敖包苏木	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/09/29/150929207.html
+150929400000	内蒙古自治区-乌兰察布市-四子王旗-四子王旗乌兰牧场	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/09/29/150929400.html

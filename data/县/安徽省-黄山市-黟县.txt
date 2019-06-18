@@ -1,0 +1,8 @@
+341023100000	安徽省-黄山市-黟县-碧阳镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/10/23/341023100.html
+341023101000	安徽省-黄山市-黟县-宏村镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/10/23/341023101.html
+341023102000	安徽省-黄山市-黟县-渔亭镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/10/23/341023102.html
+341023103000	安徽省-黄山市-黟县-西递镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/10/23/341023103.html
+341023104000	安徽省-黄山市-黟县-柯村镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/10/23/341023104.html
+341023201000	安徽省-黄山市-黟县-美溪乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/10/23/341023201.html
+341023202000	安徽省-黄山市-黟县-宏潭乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/10/23/341023202.html
+341023203000	安徽省-黄山市-黟县-洪星乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/10/23/341023203.html

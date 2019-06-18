@@ -1,0 +1,11 @@
+120106001000	天津市-市辖区-红桥区-西于庄街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/12/01/06/120106001.html
+120106002000	天津市-市辖区-红桥区-双环村街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/12/01/06/120106002.html
+120106003000	天津市-市辖区-红桥区-咸阳北路街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/12/01/06/120106003.html
+120106004000	天津市-市辖区-红桥区-丁字沽街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/12/01/06/120106004.html
+120106005000	天津市-市辖区-红桥区-西沽街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/12/01/06/120106005.html
+120106006000	天津市-市辖区-红桥区-三条石街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/12/01/06/120106006.html
+120106008000	天津市-市辖区-红桥区-邵公庄街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/12/01/06/120106008.html
+120106009000	天津市-市辖区-红桥区-芥园街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/12/01/06/120106009.html
+120106010000	天津市-市辖区-红桥区-铃铛阁街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/12/01/06/120106010.html
+120106011000	天津市-市辖区-红桥区-大胡同街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/12/01/06/120106011.html
+120106012000	天津市-市辖区-红桥区-和苑街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/12/01/06/120106012.html

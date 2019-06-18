@@ -1,0 +1,13 @@
+131026100000	河北省-廊坊市-文安县-文安镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/10/26/131026100.html
+131026101000	河北省-廊坊市-文安县-新镇镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/10/26/131026101.html
+131026102000	河北省-廊坊市-文安县-苏桥镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/10/26/131026102.html
+131026103000	河北省-廊坊市-文安县-大柳河镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/10/26/131026103.html
+131026104000	河北省-廊坊市-文安县-左各庄镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/10/26/131026104.html
+131026105000	河北省-廊坊市-文安县-滩里镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/10/26/131026105.html
+131026106000	河北省-廊坊市-文安县-史各庄镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/10/26/131026106.html
+131026107000	河北省-廊坊市-文安县-赵各庄镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/10/26/131026107.html
+131026108000	河北省-廊坊市-文安县-兴隆宫镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/10/26/131026108.html
+131026109000	河北省-廊坊市-文安县-大留镇镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/10/26/131026109.html
+131026110000	河北省-廊坊市-文安县-孙氏镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/10/26/131026110.html
+131026111000	河北省-廊坊市-文安县-德归镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/10/26/131026111.html
+131026200000	河北省-廊坊市-文安县-大围河回族满族乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/10/26/131026200.html

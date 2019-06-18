@@ -1,0 +1,8 @@
+620901000000	甘肃省-酒泉市-市辖区	
+620902000000	甘肃省-酒泉市-肃州区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/62/09/620902.html
+620921000000	甘肃省-酒泉市-金塔县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/62/09/620921.html
+620922000000	甘肃省-酒泉市-瓜州县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/62/09/620922.html
+620923000000	甘肃省-酒泉市-肃北蒙古族自治县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/62/09/620923.html
+620924000000	甘肃省-酒泉市-阿克塞哈萨克族自治县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/62/09/620924.html
+620981000000	甘肃省-酒泉市-玉门市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/62/09/620981.html
+620982000000	甘肃省-酒泉市-敦煌市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/62/09/620982.html

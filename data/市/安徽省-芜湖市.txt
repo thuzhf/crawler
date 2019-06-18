@@ -1,0 +1,11 @@
+340201000000	安徽省-芜湖市-市辖区	
+340202000000	安徽省-芜湖市-镜湖区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/02/340202.html
+340203000000	安徽省-芜湖市-弋江区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/02/340203.html
+340207000000	安徽省-芜湖市-鸠江区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/02/340207.html
+340208000000	安徽省-芜湖市-三山区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/02/340208.html
+340221000000	安徽省-芜湖市-芜湖县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/02/340221.html
+340222000000	安徽省-芜湖市-繁昌县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/02/340222.html
+340223000000	安徽省-芜湖市-南陵县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/02/340223.html
+340225000000	安徽省-芜湖市-无为县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/02/340225.html
+340271000000	安徽省-芜湖市-芜湖经济技术开发区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/02/340271.html
+340272000000	安徽省-芜湖市-安徽芜湖长江大桥经济开发区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/02/340272.html

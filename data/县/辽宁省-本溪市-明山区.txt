@@ -1,0 +1,9 @@
+210504001000	辽宁省-本溪市-明山区-金山街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/05/04/210504001.html
+210504002000	辽宁省-本溪市-明山区-北地街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/05/04/210504002.html
+210504004000	辽宁省-本溪市-明山区-高峪街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/05/04/210504004.html
+210504005000	辽宁省-本溪市-明山区-明山街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/05/04/210504005.html
+210504007000	辽宁省-本溪市-明山区-东兴街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/05/04/210504007.html
+210504008000	辽宁省-本溪市-明山区-新明街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/05/04/210504008.html
+210504009000	辽宁省-本溪市-明山区-牛心台街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/05/04/210504009.html
+210504010000	辽宁省-本溪市-明山区-卧龙街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/05/04/210504010.html
+210504011000	辽宁省-本溪市-明山区-高台子街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/05/04/210504011.html

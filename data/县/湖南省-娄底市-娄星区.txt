@@ -1,0 +1,13 @@
+431302001000	湖南省-娄底市-娄星区-乐坪街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/13/02/431302001.html
+431302002000	湖南省-娄底市-娄星区-花山街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/13/02/431302002.html
+431302003000	湖南省-娄底市-娄星区-黄泥塘街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/13/02/431302003.html
+431302004000	湖南省-娄底市-娄星区-长青街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/13/02/431302004.html
+431302005000	湖南省-娄底市-娄星区-大科街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/13/02/431302005.html
+431302006000	湖南省-娄底市-娄星区-涟滨街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/13/02/431302006.html
+431302007000	湖南省-娄底市-娄星区-大埠桥街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/13/02/431302007.html
+431302100000	湖南省-娄底市-娄星区-杉山镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/13/02/431302100.html
+431302101000	湖南省-娄底市-娄星区-万宝镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/13/02/431302101.html
+431302104000	湖南省-娄底市-娄星区-石井镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/13/02/431302104.html
+431302105000	湖南省-娄底市-娄星区-水洞底镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/13/02/431302105.html
+431302106000	湖南省-娄底市-娄星区-蛇形山镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/13/02/431302106.html
+431302204000	湖南省-娄底市-娄星区-双江乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/13/02/431302204.html

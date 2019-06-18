@@ -1,0 +1,10 @@
+360202001000	江西省-景德镇市-昌江区-西郊街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/02/02/360202001.html
+360202002000	江西省-景德镇市-昌江区-新枫街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/02/02/360202002.html
+360202101000	江西省-景德镇市-昌江区-鲇鱼山镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/02/02/360202101.html
+360202102000	江西省-景德镇市-昌江区-丽阳镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/02/02/360202102.html
+360202202000	江西省-景德镇市-昌江区-荷塘乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/02/02/360202202.html
+360202290000	江西省-景德镇市-昌江区-吕蒙乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/02/02/360202290.html
+360202451000	江西省-景德镇市-昌江区-昌江化工园区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/02/02/360202451.html
+360202452000	江西省-景德镇市-昌江区-六零二所高科技园	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/02/02/360202452.html
+360202453000	江西省-景德镇市-昌江区-昌江开发区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/02/02/360202453.html
+360202500000	江西省-景德镇市-昌江区-枫树山总场	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/02/02/360202500.html

@@ -1,0 +1,12 @@
+360823100000	江西省-吉安市-峡江县-水边镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/08/23/360823100.html
+360823101000	江西省-吉安市-峡江县-马埠镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/08/23/360823101.html
+360823102000	江西省-吉安市-峡江县-巴邱镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/08/23/360823102.html
+360823103000	江西省-吉安市-峡江县-仁和镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/08/23/360823103.html
+360823104000	江西省-吉安市-峡江县-砚溪镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/08/23/360823104.html
+360823105000	江西省-吉安市-峡江县-罗田镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/08/23/360823105.html
+360823200000	江西省-吉安市-峡江县-桐林乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/08/23/360823200.html
+360823201000	江西省-吉安市-峡江县-福民乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/08/23/360823201.html
+360823202000	江西省-吉安市-峡江县-戈坪乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/08/23/360823202.html
+360823203000	江西省-吉安市-峡江县-金江乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/08/23/360823203.html
+360823204000	江西省-吉安市-峡江县-金坪民族乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/08/23/360823204.html
+360823400000	江西省-吉安市-峡江县-峡江县工业园区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/08/23/360823400.html

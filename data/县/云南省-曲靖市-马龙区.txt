@@ -1,0 +1,10 @@
+530304001000	云南省-曲靖市-马龙区-通泉街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/03/04/530304001.html
+530304002000	云南省-曲靖市-马龙区-鸡头村街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/03/04/530304002.html
+530304003000	云南省-曲靖市-马龙区-王家庄街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/03/04/530304003.html
+530304004000	云南省-曲靖市-马龙区-张安屯街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/03/04/530304004.html
+530304005000	云南省-曲靖市-马龙区-旧县街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/03/04/530304005.html
+530304100000	云南省-曲靖市-马龙区-马过河镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/03/04/530304100.html
+530304101000	云南省-曲靖市-马龙区-纳章镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/03/04/530304101.html
+530304200000	云南省-曲靖市-马龙区-马鸣乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/03/04/530304200.html
+530304201000	云南省-曲靖市-马龙区-大庄乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/03/04/530304201.html
+530304202000	云南省-曲靖市-马龙区-月望乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/03/04/530304202.html

@@ -1,0 +1,6 @@
+533102101000	云南省-德宏傣族景颇族自治州-瑞丽市-勐卯镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/31/02/533102101.html
+533102102000	云南省-德宏傣族景颇族自治州-瑞丽市-畹町镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/31/02/533102102.html
+533102103000	云南省-德宏傣族景颇族自治州-瑞丽市-弄岛镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/31/02/533102103.html
+533102201000	云南省-德宏傣族景颇族自治州-瑞丽市-姐相乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/31/02/533102201.html
+533102202000	云南省-德宏傣族景颇族自治州-瑞丽市-户育乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/31/02/533102202.html
+533102203000	云南省-德宏傣族景颇族自治州-瑞丽市-勐秀乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/31/02/533102203.html

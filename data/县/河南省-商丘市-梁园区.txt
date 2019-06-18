@@ -1,0 +1,16 @@
+411402001000	河南省-商丘市-梁园区-平原街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/14/02/411402001.html
+411402002000	河南省-商丘市-梁园区-长征街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/14/02/411402002.html
+411402003000	河南省-商丘市-梁园区-前进街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/14/02/411402003.html
+411402004000	河南省-商丘市-梁园区-白云街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/14/02/411402004.html
+411402005000	河南省-商丘市-梁园区-东风街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/14/02/411402005.html
+411402006000	河南省-商丘市-梁园区-八八街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/14/02/411402006.html
+411402007000	河南省-商丘市-梁园区-建设街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/14/02/411402007.html
+411402011000	河南省-商丘市-梁园区-解放街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/14/02/411402011.html
+411402100000	河南省-商丘市-梁园区-谢集镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/14/02/411402100.html
+411402101000	河南省-商丘市-梁园区-双八镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/14/02/411402101.html
+411402103000	河南省-商丘市-梁园区-观堂镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/14/02/411402103.html
+411402200000	河南省-商丘市-梁园区-刘口乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/14/02/411402200.html
+411402201000	河南省-商丘市-梁园区-水池铺乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/14/02/411402201.html
+411402203000	河南省-商丘市-梁园区-王楼乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/14/02/411402203.html
+411402204000	河南省-商丘市-梁园区-李庄乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/14/02/411402204.html
+411402205000	河南省-商丘市-梁园区-孙福集乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/14/02/411402205.html

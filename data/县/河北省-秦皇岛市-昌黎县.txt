@@ -1,0 +1,16 @@
+130322100000	河北省-秦皇岛市-昌黎县-昌黎镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/03/22/130322100.html
+130322101000	河北省-秦皇岛市-昌黎县-靖安镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/03/22/130322101.html
+130322102000	河北省-秦皇岛市-昌黎县-安山镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/03/22/130322102.html
+130322103000	河北省-秦皇岛市-昌黎县-龙家店镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/03/22/130322103.html
+130322104000	河北省-秦皇岛市-昌黎县-泥井镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/03/22/130322104.html
+130322105000	河北省-秦皇岛市-昌黎县-大蒲河镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/03/22/130322105.html
+130322106000	河北省-秦皇岛市-昌黎县-新集镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/03/22/130322106.html
+130322107000	河北省-秦皇岛市-昌黎县-刘台庄镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/03/22/130322107.html
+130322108000	河北省-秦皇岛市-昌黎县-茹荷镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/03/22/130322108.html
+130322109000	河北省-秦皇岛市-昌黎县-朱各庄镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/03/22/130322109.html
+130322110000	河北省-秦皇岛市-昌黎县-荒佃庄镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/03/22/130322110.html
+130322201000	河北省-秦皇岛市-昌黎县-团林乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/03/22/130322201.html
+130322202000	河北省-秦皇岛市-昌黎县-葛条港乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/03/22/130322202.html
+130322203000	河北省-秦皇岛市-昌黎县-马坨店乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/03/22/130322203.html
+130322206000	河北省-秦皇岛市-昌黎县-两山乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/03/22/130322206.html
+130322207000	河北省-秦皇岛市-昌黎县-十里铺乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/03/22/130322207.html

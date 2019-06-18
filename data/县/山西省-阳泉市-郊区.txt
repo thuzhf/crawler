@@ -1,0 +1,8 @@
+140311100000	山西省-阳泉市-郊区-荫营镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/03/11/140311100.html
+140311101000	山西省-阳泉市-郊区-河底镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/03/11/140311101.html
+140311103000	山西省-阳泉市-郊区-平坦镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/03/11/140311103.html
+140311200000	山西省-阳泉市-郊区-西南舁乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/03/11/140311200.html
+140311201000	山西省-阳泉市-郊区-杨家庄乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/03/11/140311201.html
+140311202000	山西省-阳泉市-郊区-李家庄乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/03/11/140311202.html
+140311203000	山西省-阳泉市-郊区-旧街乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/03/11/140311203.html
+140311400000	山西省-阳泉市-郊区-开发区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/03/11/140311400.html

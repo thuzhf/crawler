@@ -1,0 +1,5 @@
+371203001000	山东省-莱芜市-钢城区-艾山街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/12/03/371203001.html
+371203002000	山东省-莱芜市-钢城区-里辛街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/12/03/371203002.html
+371203003000	山东省-莱芜市-钢城区-汶源街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/12/03/371203003.html
+371203100000	山东省-莱芜市-钢城区-颜庄镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/12/03/371203100.html
+371203103000	山东省-莱芜市-钢城区-辛庄镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/12/03/371203103.html

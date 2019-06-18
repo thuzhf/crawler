@@ -1,0 +1,9 @@
+130927100000	河北省-沧州市-南皮县-南皮镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/09/27/130927100.html
+130927101000	河北省-沧州市-南皮县-冯家口镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/09/27/130927101.html
+130927102000	河北省-沧州市-南皮县-寨子镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/09/27/130927102.html
+130927103000	河北省-沧州市-南皮县-鲍官屯镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/09/27/130927103.html
+130927104000	河北省-沧州市-南皮县-王寺镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/09/27/130927104.html
+130927105000	河北省-沧州市-南皮县-乌马营镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/09/27/130927105.html
+130927200000	河北省-沧州市-南皮县-大浪淀乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/09/27/130927200.html
+130927201000	河北省-沧州市-南皮县-刘八里乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/09/27/130927201.html
+130927202000	河北省-沧州市-南皮县-潞灌乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/09/27/130927202.html

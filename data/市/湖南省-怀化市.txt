@@ -1,0 +1,14 @@
+431201000000	湖南省-怀化市-市辖区	
+431202000000	湖南省-怀化市-鹤城区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/12/431202.html
+431221000000	湖南省-怀化市-中方县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/12/431221.html
+431222000000	湖南省-怀化市-沅陵县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/12/431222.html
+431223000000	湖南省-怀化市-辰溪县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/12/431223.html
+431224000000	湖南省-怀化市-溆浦县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/12/431224.html
+431225000000	湖南省-怀化市-会同县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/12/431225.html
+431226000000	湖南省-怀化市-麻阳苗族自治县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/12/431226.html
+431227000000	湖南省-怀化市-新晃侗族自治县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/12/431227.html
+431228000000	湖南省-怀化市-芷江侗族自治县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/12/431228.html
+431229000000	湖南省-怀化市-靖州苗族侗族自治县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/12/431229.html
+431230000000	湖南省-怀化市-通道侗族自治县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/12/431230.html
+431271000000	湖南省-怀化市-怀化市洪江管理区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/12/431271.html
+431281000000	湖南省-怀化市-洪江市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/12/431281.html

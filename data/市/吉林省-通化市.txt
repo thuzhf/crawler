@@ -1,0 +1,8 @@
+220501000000	吉林省-通化市-市辖区	
+220502000000	吉林省-通化市-东昌区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/05/220502.html
+220503000000	吉林省-通化市-二道江区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/05/220503.html
+220521000000	吉林省-通化市-通化县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/05/220521.html
+220523000000	吉林省-通化市-辉南县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/05/220523.html
+220524000000	吉林省-通化市-柳河县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/05/220524.html
+220581000000	吉林省-通化市-梅河口市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/05/220581.html
+220582000000	吉林省-通化市-集安市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/05/220582.html

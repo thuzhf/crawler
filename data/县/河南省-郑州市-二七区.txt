@@ -1,0 +1,16 @@
+410103001000	河南省-郑州市-二七区-淮河路街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/01/03/410103001.html
+410103002000	河南省-郑州市-二七区-解放路街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/01/03/410103002.html
+410103003000	河南省-郑州市-二七区-铭功路街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/01/03/410103003.html
+410103004000	河南省-郑州市-二七区-一马路街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/01/03/410103004.html
+410103005000	河南省-郑州市-二七区-蜜蜂张街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/01/03/410103005.html
+410103006000	河南省-郑州市-二七区-五里堡街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/01/03/410103006.html
+410103007000	河南省-郑州市-二七区-大学路街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/01/03/410103007.html
+410103008000	河南省-郑州市-二七区-建中街街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/01/03/410103008.html
+410103009000	河南省-郑州市-二七区-福华街街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/01/03/410103009.html
+410103010000	河南省-郑州市-二七区-德化街街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/01/03/410103010.html
+410103011000	河南省-郑州市-二七区-嵩山路街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/01/03/410103011.html
+410103012000	河南省-郑州市-二七区-京广路街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/01/03/410103012.html
+410103013000	河南省-郑州市-二七区-长江路街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/01/03/410103013.html
+410103015000	河南省-郑州市-二七区-人和路街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/01/03/410103015.html
+410103016000	河南省-郑州市-二七区-侯寨街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/01/03/410103016.html
+410103100000	河南省-郑州市-二七区-马寨镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/01/03/410103100.html

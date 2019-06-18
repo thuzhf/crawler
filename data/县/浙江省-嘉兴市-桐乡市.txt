@@ -1,0 +1,11 @@
+330483001000	浙江省-嘉兴市-桐乡市-梧桐街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/04/83/330483001.html
+330483003000	浙江省-嘉兴市-桐乡市-凤鸣街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/04/83/330483003.html
+330483004000	浙江省-嘉兴市-桐乡市-高桥街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/04/83/330483004.html
+330483100000	浙江省-嘉兴市-桐乡市-乌镇镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/04/83/330483100.html
+330483101000	浙江省-嘉兴市-桐乡市-濮院镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/04/83/330483101.html
+330483102000	浙江省-嘉兴市-桐乡市-屠甸镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/04/83/330483102.html
+330483103000	浙江省-嘉兴市-桐乡市-石门镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/04/83/330483103.html
+330483104000	浙江省-嘉兴市-桐乡市-河山镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/04/83/330483104.html
+330483105000	浙江省-嘉兴市-桐乡市-洲泉镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/04/83/330483105.html
+330483106000	浙江省-嘉兴市-桐乡市-大麻镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/04/83/330483106.html
+330483107000	浙江省-嘉兴市-桐乡市-崇福镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/04/83/330483107.html

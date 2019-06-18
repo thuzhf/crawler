@@ -1,0 +1,15 @@
+371425001000	山东省-德州市-齐河县-晏城街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/14/25/371425001.html
+371425002000	山东省-德州市-齐河县-晏北街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/14/25/371425002.html
+371425101000	山东省-德州市-齐河县-表白寺镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/14/25/371425101.html
+371425102000	山东省-德州市-齐河县-焦庙镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/14/25/371425102.html
+371425103000	山东省-德州市-齐河县-赵官镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/14/25/371425103.html
+371425104000	山东省-德州市-齐河县-祝阿镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/14/25/371425104.html
+371425105000	山东省-德州市-齐河县-仁里集镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/14/25/371425105.html
+371425106000	山东省-德州市-齐河县-潘店镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/14/25/371425106.html
+371425107000	山东省-德州市-齐河县-胡官屯镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/14/25/371425107.html
+371425108000	山东省-德州市-齐河县-宣章屯镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/14/25/371425108.html
+371425109000	山东省-德州市-齐河县-马集镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/14/25/371425109.html
+371425110000	山东省-德州市-齐河县-华店镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/14/25/371425110.html
+371425111000	山东省-德州市-齐河县-刘桥镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/14/25/371425111.html
+371425201000	山东省-德州市-齐河县-安头乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/14/25/371425201.html
+371425204000	山东省-德州市-齐河县-大黄乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/14/25/371425204.html

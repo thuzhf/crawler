@@ -1,0 +1,12 @@
+469023100000	海南省-省直辖县级行政区划-澄迈县-金江镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/46/90/23/469023100.html
+469023101000	海南省-省直辖县级行政区划-澄迈县-老城镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/46/90/23/469023101.html
+469023102000	海南省-省直辖县级行政区划-澄迈县-瑞溪镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/46/90/23/469023102.html
+469023103000	海南省-省直辖县级行政区划-澄迈县-永发镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/46/90/23/469023103.html
+469023104000	海南省-省直辖县级行政区划-澄迈县-加乐镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/46/90/23/469023104.html
+469023105000	海南省-省直辖县级行政区划-澄迈县-文儒镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/46/90/23/469023105.html
+469023106000	海南省-省直辖县级行政区划-澄迈县-中兴镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/46/90/23/469023106.html
+469023107000	海南省-省直辖县级行政区划-澄迈县-仁兴镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/46/90/23/469023107.html
+469023108000	海南省-省直辖县级行政区划-澄迈县-福山镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/46/90/23/469023108.html
+469023109000	海南省-省直辖县级行政区划-澄迈县-桥头镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/46/90/23/469023109.html
+469023110000	海南省-省直辖县级行政区划-澄迈县-大丰镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/46/90/23/469023110.html
+469023405000	海南省-省直辖县级行政区划-澄迈县-国营金安农场	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/46/90/23/469023405.html

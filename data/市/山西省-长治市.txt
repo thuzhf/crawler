@@ -1,0 +1,14 @@
+140401000000	山西省-长治市-市辖区	
+140403000000	山西省-长治市-潞州区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/04/140403.html
+140404000000	山西省-长治市-上党区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/04/140404.html
+140405000000	山西省-长治市-屯留区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/04/140405.html
+140406000000	山西省-长治市-潞城区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/04/140406.html
+140423000000	山西省-长治市-襄垣县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/04/140423.html
+140425000000	山西省-长治市-平顺县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/04/140425.html
+140426000000	山西省-长治市-黎城县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/04/140426.html
+140427000000	山西省-长治市-壶关县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/04/140427.html
+140428000000	山西省-长治市-长子县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/04/140428.html
+140429000000	山西省-长治市-武乡县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/04/140429.html
+140430000000	山西省-长治市-沁县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/04/140430.html
+140431000000	山西省-长治市-沁源县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/04/140431.html
+140471000000	山西省-长治市-山西长治高新技术产业园区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/04/140471.html

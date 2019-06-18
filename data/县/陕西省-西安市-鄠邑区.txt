@@ -1,0 +1,14 @@
+610118001000	陕西省-西安市-鄠邑区-甘亭街道办	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/61/01/18/610118001.html
+610118101000	陕西省-西安市-鄠邑区-余下镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/61/01/18/610118101.html
+610118102000	陕西省-西安市-鄠邑区-祖庵镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/61/01/18/610118102.html
+610118103000	陕西省-西安市-鄠邑区-秦渡镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/61/01/18/610118103.html
+610118104000	陕西省-西安市-鄠邑区-大王镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/61/01/18/610118104.html
+610118105000	陕西省-西安市-鄠邑区-草堂镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/61/01/18/610118105.html
+610118106000	陕西省-西安市-鄠邑区-蒋村镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/61/01/18/610118106.html
+610118107000	陕西省-西安市-鄠邑区-庞光镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/61/01/18/610118107.html
+610118108000	陕西省-西安市-鄠邑区-涝店镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/61/01/18/610118108.html
+610118109000	陕西省-西安市-鄠邑区-甘河镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/61/01/18/610118109.html
+610118110000	陕西省-西安市-鄠邑区-石井镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/61/01/18/610118110.html
+610118111000	陕西省-西安市-鄠邑区-玉蝉镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/61/01/18/610118111.html
+610118112000	陕西省-西安市-鄠邑区-五竹镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/61/01/18/610118112.html
+610118114000	陕西省-西安市-鄠邑区-渭丰镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/61/01/18/610118114.html

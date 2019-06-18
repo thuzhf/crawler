@@ -1,0 +1,12 @@
+410902001000	河南省-濮阳市-华龙区-中原路街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/09/02/410902001.html
+410902002000	河南省-濮阳市-华龙区-胜利路街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/09/02/410902002.html
+410902003000	河南省-濮阳市-华龙区-建设路街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/09/02/410902003.html
+410902004000	河南省-濮阳市-华龙区-人民路街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/09/02/410902004.html
+410902005000	河南省-濮阳市-华龙区-大庆路街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/09/02/410902005.html
+410902006000	河南省-濮阳市-华龙区-黄河路街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/09/02/410902006.html
+410902007000	河南省-濮阳市-华龙区-任丘路街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/09/02/410902007.html
+410902008000	河南省-濮阳市-华龙区-长庆路街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/09/02/410902008.html
+410902009000	河南省-濮阳市-华龙区-濮东街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/09/02/410902009.html
+410902101000	河南省-濮阳市-华龙区-岳村镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/09/02/410902101.html
+410902203000	河南省-濮阳市-华龙区-孟轲乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/09/02/410902203.html
+410902400000	河南省-濮阳市-华龙区-中原油田街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/09/02/410902400.html

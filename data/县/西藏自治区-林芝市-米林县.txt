@@ -1,0 +1,8 @@
+540422100000	西藏自治区-林芝市-米林县-米林镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/04/22/540422100.html
+540422101000	西藏自治区-林芝市-米林县-派镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/04/22/540422101.html
+540422102000	西藏自治区-林芝市-米林县-卧龙镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/04/22/540422102.html
+540422200000	西藏自治区-林芝市-米林县-丹娘乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/04/22/540422200.html
+540422201000	西藏自治区-林芝市-米林县-南伊珞巴民族乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/04/22/540422201.html
+540422202000	西藏自治区-林芝市-米林县-扎西绕登乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/04/22/540422202.html
+540422203000	西藏自治区-林芝市-米林县-里龙乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/04/22/540422203.html
+540422204000	西藏自治区-林芝市-米林县-羌纳乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/04/22/540422204.html

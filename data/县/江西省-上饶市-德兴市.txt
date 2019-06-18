@@ -1,0 +1,16 @@
+361181001000	江西省-上饶市-德兴市-银城街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/11/81/361181001.html
+361181002000	江西省-上饶市-德兴市-新营街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/11/81/361181002.html
+361181003000	江西省-上饶市-德兴市-香屯街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/11/81/361181003.html
+361181004000	江西省-上饶市-德兴市-铜矿街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/11/81/361181004.html
+361181103000	江西省-上饶市-德兴市-绕二镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/11/81/361181103.html
+361181105000	江西省-上饶市-德兴市-海口镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/11/81/361181105.html
+361181106000	江西省-上饶市-德兴市-新岗山镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/11/81/361181106.html
+361181107000	江西省-上饶市-德兴市-泗洲镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/11/81/361181107.html
+361181108000	江西省-上饶市-德兴市-大茅山镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/11/81/361181108.html
+361181190000	江西省-上饶市-德兴市-花桥镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/11/81/361181190.html
+361181200000	江西省-上饶市-德兴市-黄柏乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/11/81/361181200.html
+361181201000	江西省-上饶市-德兴市-万村乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/11/81/361181201.html
+361181202000	江西省-上饶市-德兴市-张村乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/11/81/361181202.html
+361181203000	江西省-上饶市-德兴市-昄大乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/11/81/361181203.html
+361181204000	江西省-上饶市-德兴市-李宅乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/11/81/361181204.html
+361181205000	江西省-上饶市-德兴市-龙头山乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/11/81/361181205.html

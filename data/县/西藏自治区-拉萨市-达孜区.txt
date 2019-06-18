@@ -1,0 +1,6 @@
+540104100000	西藏自治区-拉萨市-达孜区-德庆镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/01/04/540104100.html
+540104200000	西藏自治区-拉萨市-达孜区-塔杰乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/01/04/540104200.html
+540104201000	西藏自治区-拉萨市-达孜区-章多乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/01/04/540104201.html
+540104202000	西藏自治区-拉萨市-达孜区-唐嘎乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/01/04/540104202.html
+540104203000	西藏自治区-拉萨市-达孜区-雪乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/01/04/540104203.html
+540104204000	西藏自治区-拉萨市-达孜区-帮堆乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/01/04/540104204.html

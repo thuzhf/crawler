@@ -1,0 +1,16 @@
+230903031000	黑龙江省-七台河市-桃山区-祥和社区公共服务站	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/09/03/230903031.html
+230903032000	黑龙江省-七台河市-桃山区-运管社区公共服务站	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/09/03/230903032.html
+230903033000	黑龙江省-七台河市-桃山区-安康社区公共服务站	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/09/03/230903033.html
+230903034000	黑龙江省-七台河市-桃山区-文苑社区公共服务站	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/09/03/230903034.html
+230903035000	黑龙江省-七台河市-桃山区-朝阳社区公共服务站	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/09/03/230903035.html
+230903036000	黑龙江省-七台河市-桃山区-东正社区公共服务站	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/09/03/230903036.html
+230903037000	黑龙江省-七台河市-桃山区-旭日社区公共服务站	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/09/03/230903037.html
+230903038000	黑龙江省-七台河市-桃山区-花园社区公共服务站	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/09/03/230903038.html
+230903039000	黑龙江省-七台河市-桃山区-银泉社区公共服务站	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/09/03/230903039.html
+230903040000	黑龙江省-七台河市-桃山区-运销社区公共服务站	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/09/03/230903040.html
+230903041000	黑龙江省-七台河市-桃山区-同仁社区公共服务站	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/09/03/230903041.html
+230903042000	黑龙江省-七台河市-桃山区-东方社区公共服务站	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/09/03/230903042.html
+230903043000	黑龙江省-七台河市-桃山区-学府社区公共服务站	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/09/03/230903043.html
+230903044000	黑龙江省-七台河市-桃山区-桃山社区公共服务站	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/09/03/230903044.html
+230903045000	黑龙江省-七台河市-桃山区-长青社区公共服务站	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/09/03/230903045.html
+230903100000	黑龙江省-七台河市-桃山区-万宝河镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/09/03/230903100.html

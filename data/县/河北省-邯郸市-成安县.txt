@@ -1,0 +1,9 @@
+130424100000	河北省-邯郸市-成安县-成安镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/04/24/130424100.html
+130424101000	河北省-邯郸市-成安县-商城镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/04/24/130424101.html
+130424102000	河北省-邯郸市-成安县-漳河店镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/04/24/130424102.html
+130424103000	河北省-邯郸市-成安县-李家疃镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/04/24/130424103.html
+130424104000	河北省-邯郸市-成安县-北乡义镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/04/24/130424104.html
+130424200000	河北省-邯郸市-成安县-辛义乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/04/24/130424200.html
+130424201000	河北省-邯郸市-成安县-柏寺营乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/04/24/130424201.html
+130424202000	河北省-邯郸市-成安县-道东堡乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/04/24/130424202.html
+130424204000	河北省-邯郸市-成安县-长巷乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/04/24/130424204.html

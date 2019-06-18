@@ -1,0 +1,10 @@
+420601000000	湖北省-襄阳市-市辖区	
+420602000000	湖北省-襄阳市-襄城区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/06/420602.html
+420606000000	湖北省-襄阳市-樊城区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/06/420606.html
+420607000000	湖北省-襄阳市-襄州区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/06/420607.html
+420624000000	湖北省-襄阳市-南漳县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/06/420624.html
+420625000000	湖北省-襄阳市-谷城县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/06/420625.html
+420626000000	湖北省-襄阳市-保康县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/06/420626.html
+420682000000	湖北省-襄阳市-老河口市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/06/420682.html
+420683000000	湖北省-襄阳市-枣阳市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/06/420683.html
+420684000000	湖北省-襄阳市-宜城市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/06/420684.html

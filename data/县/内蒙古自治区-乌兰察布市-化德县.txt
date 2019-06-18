@@ -1,0 +1,6 @@
+150922103000	内蒙古自治区-乌兰察布市-化德县-化德县长顺镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/09/22/150922103.html
+150922104000	内蒙古自治区-乌兰察布市-化德县-化德县朝阳镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/09/22/150922104.html
+150922105000	内蒙古自治区-乌兰察布市-化德县-化德县七号镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/09/22/150922105.html
+150922200000	内蒙古自治区-乌兰察布市-化德县-化德县德包图乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/09/22/150922200.html
+150922201000	内蒙古自治区-乌兰察布市-化德县-化德县公腊胡洞乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/09/22/150922201.html
+150922218000	内蒙古自治区-乌兰察布市-化德县-化德县白音特拉乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/09/22/150922218.html

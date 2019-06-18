@@ -1,0 +1,9 @@
+410927100000	河南省-濮阳市-台前县-城关镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/09/27/410927100.html
+410927101000	河南省-濮阳市-台前县-侯庙镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/09/27/410927101.html
+410927102000	河南省-濮阳市-台前县-孙口镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/09/27/410927102.html
+410927103000	河南省-濮阳市-台前县-打渔陈镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/09/27/410927103.html
+410927104000	河南省-濮阳市-台前县-马楼镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/09/27/410927104.html
+410927105000	河南省-濮阳市-台前县-吴坝镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/09/27/410927105.html
+410927200000	河南省-濮阳市-台前县-后方乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/09/27/410927200.html
+410927201000	河南省-濮阳市-台前县-清水河乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/09/27/410927201.html
+410927205000	河南省-濮阳市-台前县-夹河乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/09/27/410927205.html

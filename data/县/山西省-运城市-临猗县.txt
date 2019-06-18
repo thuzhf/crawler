@@ -1,0 +1,15 @@
+140821100000	山西省-运城市-临猗县-猗氏镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/08/21/140821100.html
+140821101000	山西省-运城市-临猗县-嵋阳镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/08/21/140821101.html
+140821102000	山西省-运城市-临猗县-临晋镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/08/21/140821102.html
+140821103000	山西省-运城市-临猗县-七级镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/08/21/140821103.html
+140821104000	山西省-运城市-临猗县-东张镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/08/21/140821104.html
+140821105000	山西省-运城市-临猗县-孙吉镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/08/21/140821105.html
+140821106000	山西省-运城市-临猗县-三管镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/08/21/140821106.html
+140821107000	山西省-运城市-临猗县-牛杜镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/08/21/140821107.html
+140821108000	山西省-运城市-临猗县-耽子镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/08/21/140821108.html
+140821200000	山西省-运城市-临猗县-楚侯乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/08/21/140821200.html
+140821201000	山西省-运城市-临猗县-庙上乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/08/21/140821201.html
+140821202000	山西省-运城市-临猗县-角杯乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/08/21/140821202.html
+140821203000	山西省-运城市-临猗县-北辛乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/08/21/140821203.html
+140821204000	山西省-运城市-临猗县-北景乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/08/21/140821204.html
+140821402000	山西省-运城市-临猗县-临猗县城市社区管理办公室	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/08/21/140821402.html

@@ -1,0 +1,13 @@
+130983001000	河北省-沧州市-黄骅市-骅东街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/09/83/130983001.html
+130983002000	河北省-沧州市-黄骅市-骅中街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/09/83/130983002.html
+130983003000	河北省-沧州市-黄骅市-骅西街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/09/83/130983003.html
+130983100000	河北省-沧州市-黄骅市-黄骅镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/09/83/130983100.html
+130983101000	河北省-沧州市-黄骅市-南排河镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/09/83/130983101.html
+130983102000	河北省-沧州市-黄骅市-吕桥镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/09/83/130983102.html
+130983103000	河北省-沧州市-黄骅市-旧城镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/09/83/130983103.html
+130983200000	河北省-沧州市-黄骅市-羊二庄回族乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/09/83/130983200.html
+130983202000	河北省-沧州市-黄骅市-常郭乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/09/83/130983202.html
+130983203000	河北省-沧州市-黄骅市-滕庄子乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/09/83/130983203.html
+130983204000	河北省-沧州市-黄骅市-官庄乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/09/83/130983204.html
+130983205000	河北省-沧州市-黄骅市-齐家务乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/09/83/130983205.html
+130983207000	河北省-沧州市-黄骅市-羊三木回族乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/09/83/130983207.html

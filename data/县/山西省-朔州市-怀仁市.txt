@@ -1,0 +1,12 @@
+140681100000	山西省-朔州市-怀仁市-云中镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/06/81/140681100.html
+140681101000	山西省-朔州市-怀仁市-吴家窑镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/06/81/140681101.html
+140681102000	山西省-朔州市-怀仁市-金沙滩镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/06/81/140681102.html
+140681103000	山西省-朔州市-怀仁市-毛家皂镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/06/81/140681103.html
+140681200000	山西省-朔州市-怀仁市-何家堡乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/06/81/140681200.html
+140681201000	山西省-朔州市-怀仁市-新家园乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/06/81/140681201.html
+140681202000	山西省-朔州市-怀仁市-亲和乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/06/81/140681202.html
+140681203000	山西省-朔州市-怀仁市-海北头乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/06/81/140681203.html
+140681204000	山西省-朔州市-怀仁市-马辛庄乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/06/81/140681204.html
+140681205000	山西省-朔州市-怀仁市-河头乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/06/81/140681205.html
+140681500000	山西省-朔州市-怀仁市-金沙滩农牧场	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/06/81/140681500.html
+140681501000	山西省-朔州市-怀仁市-金沙滩林场	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/06/81/140681501.html

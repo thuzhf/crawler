@@ -1,0 +1,17 @@
+421127100000	湖北省-黄冈市-黄梅县-黄梅镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/11/27/421127100.html
+421127101000	湖北省-黄冈市-黄梅县-孔垄镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/11/27/421127101.html
+421127102000	湖北省-黄冈市-黄梅县-小池镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/11/27/421127102.html
+421127103000	湖北省-黄冈市-黄梅县-下新镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/11/27/421127103.html
+421127104000	湖北省-黄冈市-黄梅县-大河镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/11/27/421127104.html
+421127105000	湖北省-黄冈市-黄梅县-停前镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/11/27/421127105.html
+421127106000	湖北省-黄冈市-黄梅县-五祖镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/11/27/421127106.html
+421127107000	湖北省-黄冈市-黄梅县-濯港镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/11/27/421127107.html
+421127108000	湖北省-黄冈市-黄梅县-蔡山镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/11/27/421127108.html
+421127109000	湖北省-黄冈市-黄梅县-新开镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/11/27/421127109.html
+421127110000	湖北省-黄冈市-黄梅县-独山镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/11/27/421127110.html
+421127111000	湖北省-黄冈市-黄梅县-分路镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/11/27/421127111.html
+421127200000	湖北省-黄冈市-黄梅县-柳林乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/11/27/421127200.html
+421127201000	湖北省-黄冈市-黄梅县-杉木乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/11/27/421127201.html
+421127202000	湖北省-黄冈市-黄梅县-苦竹乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/11/27/421127202.html
+421127203000	湖北省-黄冈市-黄梅县-刘佐乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/11/27/421127203.html
+421127400000	湖北省-黄冈市-黄梅县-五祖寺（挪步园）风景名胜区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/11/27/421127400.html

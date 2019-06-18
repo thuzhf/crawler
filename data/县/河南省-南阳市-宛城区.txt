@@ -1,0 +1,15 @@
+411302001000	河南省-南阳市-宛城区-东关街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/13/02/411302001.html
+411302002000	河南省-南阳市-宛城区-新华街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/13/02/411302002.html
+411302003000	河南省-南阳市-宛城区-汉冶街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/13/02/411302003.html
+411302004000	河南省-南阳市-宛城区-仲景街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/13/02/411302004.html
+411302007000	河南省-南阳市-宛城区-赤虎街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/13/02/411302007.html
+411302008000	河南省-南阳市-宛城区-五里堡街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/13/02/411302008.html
+411302102000	河南省-南阳市-宛城区-官庄镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/13/02/411302102.html
+411302103000	河南省-南阳市-宛城区-瓦店镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/13/02/411302103.html
+411302104000	河南省-南阳市-宛城区-红泥湾镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/13/02/411302104.html
+411302105000	河南省-南阳市-宛城区-黄台岗镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/13/02/411302105.html
+411302106000	河南省-南阳市-宛城区-金华镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/13/02/411302106.html
+411302107000	河南省-南阳市-宛城区-高庙镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/13/02/411302107.html
+411302301000	河南省-南阳市-宛城区-溧河乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/13/02/411302301.html
+411302302000	河南省-南阳市-宛城区-汉冢乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/13/02/411302302.html
+411302304000	河南省-南阳市-宛城区-茶庵乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/13/02/411302304.html

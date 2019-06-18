@@ -1,0 +1,13 @@
+140724001000	山西省-晋中市-昔阳县-城区社区管理委员会	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/07/24/140724001.html
+140724100000	山西省-晋中市-昔阳县-乐平镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/07/24/140724100.html
+140724101000	山西省-晋中市-昔阳县-皋落镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/07/24/140724101.html
+140724102000	山西省-晋中市-昔阳县-冶头镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/07/24/140724102.html
+140724103000	山西省-晋中市-昔阳县-沾尚镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/07/24/140724103.html
+140724104000	山西省-晋中市-昔阳县-大寨镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/07/24/140724104.html
+140724200000	山西省-晋中市-昔阳县-李家庄乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/07/24/140724200.html
+140724201000	山西省-晋中市-昔阳县-界都乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/07/24/140724201.html
+140724202000	山西省-晋中市-昔阳县-三都乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/07/24/140724202.html
+140724203000	山西省-晋中市-昔阳县-赵壁乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/07/24/140724203.html
+140724204000	山西省-晋中市-昔阳县-孔氏乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/07/24/140724204.html
+140724205000	山西省-晋中市-昔阳县-闫庄乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/07/24/140724205.html
+140724206000	山西省-晋中市-昔阳县-西寨乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/07/24/140724206.html

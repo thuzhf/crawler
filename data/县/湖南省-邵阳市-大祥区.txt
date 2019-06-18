@@ -1,0 +1,14 @@
+430503001000	湖南省-邵阳市-大祥区-中心路街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/05/03/430503001.html
+430503002000	湖南省-邵阳市-大祥区-红旗路街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/05/03/430503002.html
+430503003000	湖南省-邵阳市-大祥区-城北路街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/05/03/430503003.html
+430503004000	湖南省-邵阳市-大祥区-城西街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/05/03/430503004.html
+430503005000	湖南省-邵阳市-大祥区-翠园街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/05/03/430503005.html
+430503006000	湖南省-邵阳市-大祥区-百春园街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/05/03/430503006.html
+430503007000	湖南省-邵阳市-大祥区-城南街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/05/03/430503007.html
+430503008000	湖南省-邵阳市-大祥区-火车南站街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/05/03/430503008.html
+430503009000	湖南省-邵阳市-大祥区-学院路街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/05/03/430503009.html
+430503010000	湖南省-邵阳市-大祥区-雨溪街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/05/03/430503010.html
+430503011000	湖南省-邵阳市-大祥区-檀江街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/05/03/430503011.html
+430503101000	湖南省-邵阳市-大祥区-罗市镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/05/03/430503101.html
+430503202000	湖南省-邵阳市-大祥区-蔡锷乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/05/03/430503202.html
+430503203000	湖南省-邵阳市-大祥区-板桥乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/05/03/430503203.html

@@ -1,0 +1,12 @@
+500105001000	重庆市-市辖区-江北区-华新街街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/50/01/05/500105001.html
+500105002000	重庆市-市辖区-江北区-江北城街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/50/01/05/500105002.html
+500105003000	重庆市-市辖区-江北区-石马河街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/50/01/05/500105003.html
+500105004000	重庆市-市辖区-江北区-大石坝街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/50/01/05/500105004.html
+500105005000	重庆市-市辖区-江北区-寸滩街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/50/01/05/500105005.html
+500105006000	重庆市-市辖区-江北区-观音桥街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/50/01/05/500105006.html
+500105007000	重庆市-市辖区-江北区-五里店街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/50/01/05/500105007.html
+500105008000	重庆市-市辖区-江北区-郭家沱街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/50/01/05/500105008.html
+500105009000	重庆市-市辖区-江北区-铁山坪街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/50/01/05/500105009.html
+500105100000	重庆市-市辖区-江北区-鱼嘴镇人民政府	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/50/01/05/500105100.html
+500105101000	重庆市-市辖区-江北区-复盛镇人民政府	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/50/01/05/500105101.html
+500105102000	重庆市-市辖区-江北区-五宝镇人民政府	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/50/01/05/500105102.html

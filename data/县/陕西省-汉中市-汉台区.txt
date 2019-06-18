@@ -1,0 +1,15 @@
+610702001000	陕西省-汉中市-汉台区-北关街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/61/07/02/610702001.html
+610702002000	陕西省-汉中市-汉台区-东大街街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/61/07/02/610702002.html
+610702003000	陕西省-汉中市-汉台区-汉中路街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/61/07/02/610702003.html
+610702004000	陕西省-汉中市-汉台区-中山街街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/61/07/02/610702004.html
+610702005000	陕西省-汉中市-汉台区-东关街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/61/07/02/610702005.html
+610702006000	陕西省-汉中市-汉台区-鑫源街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/61/07/02/610702006.html
+610702008000	陕西省-汉中市-汉台区-七里街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/61/07/02/610702008.html
+610702009000	陕西省-汉中市-汉台区-龙江街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/61/07/02/610702009.html
+610702100000	陕西省-汉中市-汉台区-铺镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/61/07/02/610702100.html
+610702101000	陕西省-汉中市-汉台区-武乡镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/61/07/02/610702101.html
+610702102000	陕西省-汉中市-汉台区-河东店镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/61/07/02/610702102.html
+610702104000	陕西省-汉中市-汉台区-宗营镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/61/07/02/610702104.html
+610702105000	陕西省-汉中市-汉台区-老君镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/61/07/02/610702105.html
+610702106000	陕西省-汉中市-汉台区-汉王镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/61/07/02/610702106.html
+610702107000	陕西省-汉中市-汉台区-徐望镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/61/07/02/610702107.html

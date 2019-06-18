@@ -1,0 +1,11 @@
+220502001000	吉林省-通化市-东昌区-东昌街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/05/02/220502001.html
+220502002000	吉林省-通化市-东昌区-民主街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/05/02/220502002.html
+220502003000	吉林省-通化市-东昌区-老站街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/05/02/220502003.html
+220502004000	吉林省-通化市-东昌区-团结街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/05/02/220502004.html
+220502005000	吉林省-通化市-东昌区-新站街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/05/02/220502005.html
+220502006000	吉林省-通化市-东昌区-光明街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/05/02/220502006.html
+220502007000	吉林省-通化市-东昌区-龙泉街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/05/02/220502007.html
+220502100000	吉林省-通化市-东昌区-金厂镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/05/02/220502100.html
+220502120000	吉林省-通化市-东昌区-通化经济开发区（特殊乡镇）	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/05/02/220502120.html
+220502200000	吉林省-通化市-东昌区-环通乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/05/02/220502200.html
+220502201000	吉林省-通化市-东昌区-江东乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/05/02/220502201.html

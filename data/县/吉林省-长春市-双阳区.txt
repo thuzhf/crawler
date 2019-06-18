@@ -1,0 +1,8 @@
+220112001000	吉林省-长春市-双阳区-云山街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/01/12/220112001.html
+220112002000	吉林省-长春市-双阳区-平湖街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/01/12/220112002.html
+220112003000	吉林省-长春市-双阳区-奢岭街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/01/12/220112003.html
+220112004000	吉林省-长春市-双阳区-山河街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/01/12/220112004.html
+220112100000	吉林省-长春市-双阳区-齐家镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/01/12/220112100.html
+220112101000	吉林省-长春市-双阳区-太平镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/01/12/220112101.html
+220112102000	吉林省-长春市-双阳区-鹿乡镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/01/12/220112102.html
+220112270000	吉林省-长春市-双阳区-双营子回族乡（梅花鹿产业经济开发区）（省级）	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/01/12/220112270.html

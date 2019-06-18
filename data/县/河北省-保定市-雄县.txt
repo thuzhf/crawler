@@ -1,0 +1,12 @@
+130638100000	河北省-保定市-雄县-雄州镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/06/38/130638100.html
+130638101000	河北省-保定市-雄县-昝岗镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/06/38/130638101.html
+130638102000	河北省-保定市-雄县-大营镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/06/38/130638102.html
+130638103000	河北省-保定市-雄县-龙湾镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/06/38/130638103.html
+130638104000	河北省-保定市-雄县-朱各庄镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/06/38/130638104.html
+130638105000	河北省-保定市-雄县-米家务镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/06/38/130638105.html
+130638106000	河北省-保定市-雄县-鄚州镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/06/38/130638106.html
+130638107000	河北省-保定市-雄县-苟各庄镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/06/38/130638107.html
+130638200000	河北省-保定市-雄县-北沙口乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/06/38/130638200.html
+130638203000	河北省-保定市-雄县-双堂乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/06/38/130638203.html
+130638204000	河北省-保定市-雄县-张岗乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/06/38/130638204.html
+130638205000	河北省-保定市-雄县-七间房乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/06/38/130638205.html

@@ -1,0 +1,12 @@
+411501000000	河南省-信阳市-市辖区	
+411502000000	河南省-信阳市-浉河区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/15/411502.html
+411503000000	河南省-信阳市-平桥区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/15/411503.html
+411521000000	河南省-信阳市-罗山县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/15/411521.html
+411522000000	河南省-信阳市-光山县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/15/411522.html
+411523000000	河南省-信阳市-新县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/15/411523.html
+411524000000	河南省-信阳市-商城县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/15/411524.html
+411525000000	河南省-信阳市-固始县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/15/411525.html
+411526000000	河南省-信阳市-潢川县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/15/411526.html
+411527000000	河南省-信阳市-淮滨县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/15/411527.html
+411528000000	河南省-信阳市-息县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/15/411528.html
+411571000000	河南省-信阳市-信阳高新技术产业开发区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/15/411571.html

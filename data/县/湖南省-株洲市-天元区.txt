@@ -1,0 +1,7 @@
+430211001000	湖南省-株洲市-天元区-嵩山路街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/02/11/430211001.html
+430211002000	湖南省-株洲市-天元区-泰山路街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/02/11/430211002.html
+430211003000	湖南省-株洲市-天元区-栗雨街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/02/11/430211003.html
+430211004000	湖南省-株洲市-天元区-马家河街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/02/11/430211004.html
+430211101000	湖南省-株洲市-天元区-群丰镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/02/11/430211101.html
+430211102000	湖南省-株洲市-天元区-雷打石镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/02/11/430211102.html
+430211103000	湖南省-株洲市-天元区-三门镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/02/11/430211103.html

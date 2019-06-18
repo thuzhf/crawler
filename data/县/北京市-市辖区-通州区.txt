@@ -1,0 +1,15 @@
+110112001000	北京市-市辖区-通州区-中仓街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/11/01/12/110112001.html
+110112002000	北京市-市辖区-通州区-新华街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/11/01/12/110112002.html
+110112003000	北京市-市辖区-通州区-北苑街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/11/01/12/110112003.html
+110112004000	北京市-市辖区-通州区-玉桥街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/11/01/12/110112004.html
+110112005000	北京市-市辖区-通州区-永顺地区办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/11/01/12/110112005.html
+110112006000	北京市-市辖区-通州区-梨园地区办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/11/01/12/110112006.html
+110112104000	北京市-市辖区-通州区-宋庄镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/11/01/12/110112104.html
+110112105000	北京市-市辖区-通州区-张家湾镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/11/01/12/110112105.html
+110112106000	北京市-市辖区-通州区-漷县镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/11/01/12/110112106.html
+110112109000	北京市-市辖区-通州区-马驹桥镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/11/01/12/110112109.html
+110112110000	北京市-市辖区-通州区-西集镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/11/01/12/110112110.html
+110112114000	北京市-市辖区-通州区-台湖镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/11/01/12/110112114.html
+110112117000	北京市-市辖区-通州区-永乐店镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/11/01/12/110112117.html
+110112119000	北京市-市辖区-通州区-潞城镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/11/01/12/110112119.html
+110112209000	北京市-市辖区-通州区-于家务回族乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/11/01/12/110112209.html

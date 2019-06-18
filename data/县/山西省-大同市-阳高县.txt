@@ -1,0 +1,12 @@
+140221100000	山西省-大同市-阳高县-龙泉镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/02/21/140221100.html
+140221101000	山西省-大同市-阳高县-罗文皂镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/02/21/140221101.html
+140221102000	山西省-大同市-阳高县-大白登镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/02/21/140221102.html
+140221103000	山西省-大同市-阳高县-王官屯镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/02/21/140221103.html
+140221104000	山西省-大同市-阳高县-古城镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/02/21/140221104.html
+140221105000	山西省-大同市-阳高县-东小村镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/02/21/140221105.html
+140221106000	山西省-大同市-阳高县-友宰镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/02/21/140221106.html
+140221201000	山西省-大同市-阳高县-长城乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/02/21/140221201.html
+140221202000	山西省-大同市-阳高县-北徐屯乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/02/21/140221202.html
+140221204000	山西省-大同市-阳高县-狮子屯乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/02/21/140221204.html
+140221209000	山西省-大同市-阳高县-下深井乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/02/21/140221209.html
+140221212000	山西省-大同市-阳高县-鳌石乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/02/21/140221212.html

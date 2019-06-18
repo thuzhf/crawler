@@ -1,0 +1,11 @@
+140826100000	山西省-运城市-绛县-古绛镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/08/26/140826100.html
+140826101000	山西省-运城市-绛县-横水镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/08/26/140826101.html
+140826102000	山西省-运城市-绛县-陈村镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/08/26/140826102.html
+140826103000	山西省-运城市-绛县-卫庄镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/08/26/140826103.html
+140826104000	山西省-运城市-绛县-么里镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/08/26/140826104.html
+140826105000	山西省-运城市-绛县-南樊镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/08/26/140826105.html
+140826106000	山西省-运城市-绛县-安峪镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/08/26/140826106.html
+140826107000	山西省-运城市-绛县-大交镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/08/26/140826107.html
+140826200000	山西省-运城市-绛县-郝庄乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/08/26/140826200.html
+140826201000	山西省-运城市-绛县-冷口乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/08/26/140826201.html
+140826402000	山西省-运城市-绛县-山西绛县经济开发区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/08/26/140826402.html

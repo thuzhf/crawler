@@ -1,0 +1,10 @@
+130636100000	河北省-保定市-顺平县-蒲阳镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/06/36/130636100.html
+130636101000	河北省-保定市-顺平县-高于铺镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/06/36/130636101.html
+130636102000	河北省-保定市-顺平县-腰山镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/06/36/130636102.html
+130636103000	河北省-保定市-顺平县-蒲上镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/06/36/130636103.html
+130636104000	河北省-保定市-顺平县-神南镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/06/36/130636104.html
+130636201000	河北省-保定市-顺平县-白云乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/06/36/130636201.html
+130636202000	河北省-保定市-顺平县-河口乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/06/36/130636202.html
+130636203000	河北省-保定市-顺平县-安阳乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/06/36/130636203.html
+130636204000	河北省-保定市-顺平县-台鱼乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/06/36/130636204.html
+130636205000	河北省-保定市-顺平县-大悲乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/06/36/130636205.html

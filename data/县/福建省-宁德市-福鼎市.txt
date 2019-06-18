@@ -1,0 +1,17 @@
+350982001000	福建省-宁德市-福鼎市-桐山街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/09/82/350982001.html
+350982002000	福建省-宁德市-福鼎市-桐城街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/09/82/350982002.html
+350982003000	福建省-宁德市-福鼎市-山前街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/09/82/350982003.html
+350982100000	福建省-宁德市-福鼎市-贯岭镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/09/82/350982100.html
+350982101000	福建省-宁德市-福鼎市-前岐镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/09/82/350982101.html
+350982102000	福建省-宁德市-福鼎市-沙埕镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/09/82/350982102.html
+350982103000	福建省-宁德市-福鼎市-店下镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/09/82/350982103.html
+350982104000	福建省-宁德市-福鼎市-太姥山镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/09/82/350982104.html
+350982105000	福建省-宁德市-福鼎市-磻溪镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/09/82/350982105.html
+350982106000	福建省-宁德市-福鼎市-白琳镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/09/82/350982106.html
+350982107000	福建省-宁德市-福鼎市-点头镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/09/82/350982107.html
+350982108000	福建省-宁德市-福鼎市-管阳镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/09/82/350982108.html
+350982109000	福建省-宁德市-福鼎市-嵛山镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/09/82/350982109.html
+350982200000	福建省-宁德市-福鼎市-硖门畲族乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/09/82/350982200.html
+350982201000	福建省-宁德市-福鼎市-叠石乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/09/82/350982201.html
+350982202000	福建省-宁德市-福鼎市-佳阳乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/09/82/350982202.html
+350982500000	福建省-宁德市-福鼎市-龙安开发区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/09/82/350982500.html

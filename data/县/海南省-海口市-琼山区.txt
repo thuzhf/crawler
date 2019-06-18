@@ -1,0 +1,13 @@
+460107001000	海南省-海口市-琼山区-国兴街道办	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/46/01/07/460107001.html
+460107002000	海南省-海口市-琼山区-府城街道办	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/46/01/07/460107002.html
+460107003000	海南省-海口市-琼山区-滨江街道办	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/46/01/07/460107003.html
+460107004000	海南省-海口市-琼山区-凤翔街道办	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/46/01/07/460107004.html
+460107101000	海南省-海口市-琼山区-龙塘镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/46/01/07/460107101.html
+460107102000	海南省-海口市-琼山区-云龙镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/46/01/07/460107102.html
+460107103000	海南省-海口市-琼山区-红旗镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/46/01/07/460107103.html
+460107104000	海南省-海口市-琼山区-三门坡镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/46/01/07/460107104.html
+460107105000	海南省-海口市-琼山区-大坡镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/46/01/07/460107105.html
+460107106000	海南省-海口市-琼山区-甲子镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/46/01/07/460107106.html
+460107107000	海南省-海口市-琼山区-旧州镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/46/01/07/460107107.html
+460107500000	海南省-海口市-琼山区-省岭脚热带作物场	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/46/01/07/460107500.html
+460107501000	海南省-海口市-琼山区-省长昌煤矿	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/46/01/07/460107501.html

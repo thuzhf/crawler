@@ -1,0 +1,12 @@
+330481001000	浙江省-嘉兴市-海宁市-硖石街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/04/81/330481001.html
+330481002000	浙江省-嘉兴市-海宁市-海洲街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/04/81/330481002.html
+330481003000	浙江省-嘉兴市-海宁市-海昌街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/04/81/330481003.html
+330481004000	浙江省-嘉兴市-海宁市-马桥街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/04/81/330481004.html
+330481101000	浙江省-嘉兴市-海宁市-许村镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/04/81/330481101.html
+330481103000	浙江省-嘉兴市-海宁市-长安镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/04/81/330481103.html
+330481105000	浙江省-嘉兴市-海宁市-周王庙镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/04/81/330481105.html
+330481106000	浙江省-嘉兴市-海宁市-丁桥镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/04/81/330481106.html
+330481107000	浙江省-嘉兴市-海宁市-斜桥镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/04/81/330481107.html
+330481108000	浙江省-嘉兴市-海宁市-黄湾镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/04/81/330481108.html
+330481110000	浙江省-嘉兴市-海宁市-盐官镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/04/81/330481110.html
+330481112000	浙江省-嘉兴市-海宁市-袁花镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/04/81/330481112.html

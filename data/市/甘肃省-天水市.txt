@@ -1,0 +1,8 @@
+620501000000	甘肃省-天水市-市辖区	
+620502000000	甘肃省-天水市-秦州区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/62/05/620502.html
+620503000000	甘肃省-天水市-麦积区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/62/05/620503.html
+620521000000	甘肃省-天水市-清水县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/62/05/620521.html
+620522000000	甘肃省-天水市-秦安县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/62/05/620522.html
+620523000000	甘肃省-天水市-甘谷县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/62/05/620523.html
+620524000000	甘肃省-天水市-武山县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/62/05/620524.html
+620525000000	甘肃省-天水市-张家川回族自治县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/62/05/620525.html

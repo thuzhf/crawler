@@ -1,0 +1,8 @@
+321101000000	江苏省-镇江市-市辖区	
+321102000000	江苏省-镇江市-京口区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/11/321102.html
+321111000000	江苏省-镇江市-润州区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/11/321111.html
+321112000000	江苏省-镇江市-丹徒区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/11/321112.html
+321171000000	江苏省-镇江市-镇江新区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/11/321171.html
+321181000000	江苏省-镇江市-丹阳市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/11/321181.html
+321182000000	江苏省-镇江市-扬中市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/11/321182.html
+321183000000	江苏省-镇江市-句容市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/11/321183.html

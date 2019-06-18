@@ -1,0 +1,10 @@
+140882001000	山西省-运城市-河津市-城区街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/08/82/140882001.html
+140882002000	山西省-运城市-河津市-清涧街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/08/82/140882002.html
+140882100000	山西省-运城市-河津市-樊村镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/08/82/140882100.html
+140882101000	山西省-运城市-河津市-僧楼镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/08/82/140882101.html
+140882200000	山西省-运城市-河津市-小梁乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/08/82/140882200.html
+140882201000	山西省-运城市-河津市-柴家乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/08/82/140882201.html
+140882202000	山西省-运城市-河津市-赵家庄乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/08/82/140882202.html
+140882203000	山西省-运城市-河津市-下化乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/08/82/140882203.html
+140882204000	山西省-运城市-河津市-阳村乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/08/82/140882204.html
+140882450000	山西省-运城市-河津市-山西铝厂	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/08/82/140882450.html

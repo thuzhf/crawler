@@ -1,0 +1,12 @@
+511101000000	四川省-乐山市-市辖区	
+511102000000	四川省-乐山市-市中区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/11/511102.html
+511111000000	四川省-乐山市-沙湾区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/11/511111.html
+511112000000	四川省-乐山市-五通桥区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/11/511112.html
+511113000000	四川省-乐山市-金口河区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/11/511113.html
+511123000000	四川省-乐山市-犍为县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/11/511123.html
+511124000000	四川省-乐山市-井研县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/11/511124.html
+511126000000	四川省-乐山市-夹江县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/11/511126.html
+511129000000	四川省-乐山市-沐川县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/11/511129.html
+511132000000	四川省-乐山市-峨边彝族自治县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/11/511132.html
+511133000000	四川省-乐山市-马边彝族自治县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/11/511133.html
+511181000000	四川省-乐山市-峨眉山市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/11/511181.html

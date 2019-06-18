@@ -1,0 +1,10 @@
+330701000000	浙江省-金华市-市辖区	
+330702000000	浙江省-金华市-婺城区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/07/330702.html
+330703000000	浙江省-金华市-金东区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/07/330703.html
+330723000000	浙江省-金华市-武义县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/07/330723.html
+330726000000	浙江省-金华市-浦江县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/07/330726.html
+330727000000	浙江省-金华市-磐安县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/07/330727.html
+330781000000	浙江省-金华市-兰溪市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/07/330781.html
+330782000000	浙江省-金华市-义乌市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/07/330782.html
+330783000000	浙江省-金华市-东阳市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/07/330783.html
+330784000000	浙江省-金华市-永康市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/07/330784.html

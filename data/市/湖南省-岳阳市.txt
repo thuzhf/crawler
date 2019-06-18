@@ -1,0 +1,11 @@
+430601000000	湖南省-岳阳市-市辖区	
+430602000000	湖南省-岳阳市-岳阳楼区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/06/430602.html
+430603000000	湖南省-岳阳市-云溪区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/06/430603.html
+430611000000	湖南省-岳阳市-君山区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/06/430611.html
+430621000000	湖南省-岳阳市-岳阳县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/06/430621.html
+430623000000	湖南省-岳阳市-华容县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/06/430623.html
+430624000000	湖南省-岳阳市-湘阴县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/06/430624.html
+430626000000	湖南省-岳阳市-平江县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/06/430626.html
+430671000000	湖南省-岳阳市-岳阳市屈原管理区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/06/430671.html
+430681000000	湖南省-岳阳市-汨罗市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/06/430681.html
+430682000000	湖南省-岳阳市-临湘市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/06/430682.html

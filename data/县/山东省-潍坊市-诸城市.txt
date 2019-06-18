@@ -1,0 +1,14 @@
+370782001000	山东省-潍坊市-诸城市-密州街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/07/82/370782001.html
+370782002000	山东省-潍坊市-诸城市-龙都街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/07/82/370782002.html
+370782003000	山东省-潍坊市-诸城市-舜王街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/07/82/370782003.html
+370782101000	山东省-潍坊市-诸城市-枳沟镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/07/82/370782101.html
+370782102000	山东省-潍坊市-诸城市-贾悦镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/07/82/370782102.html
+370782105000	山东省-潍坊市-诸城市-石桥子镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/07/82/370782105.html
+370782108000	山东省-潍坊市-诸城市-相州镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/07/82/370782108.html
+370782110000	山东省-潍坊市-诸城市-昌城镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/07/82/370782110.html
+370782111000	山东省-潍坊市-诸城市-百尺河镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/07/82/370782111.html
+370782112000	山东省-潍坊市-诸城市-辛兴镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/07/82/370782112.html
+370782114000	山东省-潍坊市-诸城市-林家村镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/07/82/370782114.html
+370782117000	山东省-潍坊市-诸城市-皇华镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/07/82/370782117.html
+370782118000	山东省-潍坊市-诸城市-桃林镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/07/82/370782118.html
+370782400000	山东省-潍坊市-诸城市-诸城经济开发区管理委员会	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/07/82/370782400.html

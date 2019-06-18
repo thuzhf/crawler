@@ -1,0 +1,7 @@
+610631100000	陕西省-延安市-黄龙县-石堡镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/61/06/31/610631100.html
+610631101000	陕西省-延安市-黄龙县-白马滩镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/61/06/31/610631101.html
+610631102000	陕西省-延安市-黄龙县-瓦子街镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/61/06/31/610631102.html
+610631106000	陕西省-延安市-黄龙县-界头庙镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/61/06/31/610631106.html
+610631107000	陕西省-延安市-黄龙县-三岔镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/61/06/31/610631107.html
+610631205000	陕西省-延安市-黄龙县-圪台乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/61/06/31/610631205.html
+610631206000	陕西省-延安市-黄龙县-崾崄乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/61/06/31/610631206.html

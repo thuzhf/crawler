@@ -1,0 +1,15 @@
+370832001000	山东省-济宁市-梁山县-水泊街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/08/32/370832001.html
+370832002000	山东省-济宁市-梁山县-梁山街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/08/32/370832002.html
+370832101000	山东省-济宁市-梁山县-小路口镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/08/32/370832101.html
+370832102000	山东省-济宁市-梁山县-韩岗镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/08/32/370832102.html
+370832104000	山东省-济宁市-梁山县-拳铺镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/08/32/370832104.html
+370832105000	山东省-济宁市-梁山县-杨营镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/08/32/370832105.html
+370832106000	山东省-济宁市-梁山县-韩垓镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/08/32/370832106.html
+370832107000	山东省-济宁市-梁山县-馆驿镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/08/32/370832107.html
+370832108000	山东省-济宁市-梁山县-小安山镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/08/32/370832108.html
+370832109000	山东省-济宁市-梁山县-寿张集镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/08/32/370832109.html
+370832110000	山东省-济宁市-梁山县-黑虎庙镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/08/32/370832110.html
+370832111000	山东省-济宁市-梁山县-马营镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/08/32/370832111.html
+370832215000	山东省-济宁市-梁山县-赵堌堆乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/08/32/370832215.html
+370832217000	山东省-济宁市-梁山县-大路口乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/08/32/370832217.html
+370832400000	山东省-济宁市-梁山县-梁山经济开发区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/08/32/370832400.html

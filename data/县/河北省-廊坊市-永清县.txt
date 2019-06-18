@@ -1,0 +1,13 @@
+131023001000	河北省-廊坊市-永清县-城区街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/10/23/131023001.html
+131023100000	河北省-廊坊市-永清县-永清镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/10/23/131023100.html
+131023101000	河北省-廊坊市-永清县-韩村镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/10/23/131023101.html
+131023102000	河北省-廊坊市-永清县-后奕镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/10/23/131023102.html
+131023103000	河北省-廊坊市-永清县-别古庄镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/10/23/131023103.html
+131023104000	河北省-廊坊市-永清县-里澜城镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/10/23/131023104.html
+131023200000	河北省-廊坊市-永清县-管家务回族乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/10/23/131023200.html
+131023201000	河北省-廊坊市-永清县-曹家务乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/10/23/131023201.html
+131023202000	河北省-廊坊市-永清县-龙虎庄乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/10/23/131023202.html
+131023203000	河北省-廊坊市-永清县-刘街乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/10/23/131023203.html
+131023204000	河北省-廊坊市-永清县-三圣口乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/10/23/131023204.html
+131023400000	河北省-廊坊市-永清县-河北永清经济开发区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/10/23/131023400.html
+131023401000	河北省-廊坊市-永清县-北京亦庄永清高新技术产业开发区区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/10/23/131023401.html

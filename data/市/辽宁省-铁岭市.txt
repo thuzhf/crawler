@@ -1,0 +1,8 @@
+211201000000	辽宁省-铁岭市-市辖区	
+211202000000	辽宁省-铁岭市-银州区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/12/211202.html
+211204000000	辽宁省-铁岭市-清河区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/12/211204.html
+211221000000	辽宁省-铁岭市-铁岭县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/12/211221.html
+211223000000	辽宁省-铁岭市-西丰县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/12/211223.html
+211224000000	辽宁省-铁岭市-昌图县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/12/211224.html
+211281000000	辽宁省-铁岭市-调兵山市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/12/211281.html
+211282000000	辽宁省-铁岭市-开原市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/12/211282.html

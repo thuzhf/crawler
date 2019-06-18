@@ -1,0 +1,7 @@
+511001000000	四川省-内江市-市辖区	
+511002000000	四川省-内江市-市中区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/10/511002.html
+511011000000	四川省-内江市-东兴区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/10/511011.html
+511024000000	四川省-内江市-威远县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/10/511024.html
+511025000000	四川省-内江市-资中县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/10/511025.html
+511071000000	四川省-内江市-内江经济开发区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/10/511071.html
+511083000000	四川省-内江市-隆昌市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/10/511083.html

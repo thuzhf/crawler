@@ -1,0 +1,10 @@
+350203001000	福建省-厦门市-思明区-厦港街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/02/03/350203001.html
+350203003000	福建省-厦门市-思明区-中华街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/02/03/350203003.html
+350203005000	福建省-厦门市-思明区-滨海街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/02/03/350203005.html
+350203006000	福建省-厦门市-思明区-鹭江街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/02/03/350203006.html
+350203007000	福建省-厦门市-思明区-开元街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/02/03/350203007.html
+350203008000	福建省-厦门市-思明区-梧村街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/02/03/350203008.html
+350203009000	福建省-厦门市-思明区-筼筜街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/02/03/350203009.html
+350203010000	福建省-厦门市-思明区-莲前街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/02/03/350203010.html
+350203011000	福建省-厦门市-思明区-嘉莲街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/02/03/350203011.html
+350203012000	福建省-厦门市-思明区-鼓浪屿街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/02/03/350203012.html

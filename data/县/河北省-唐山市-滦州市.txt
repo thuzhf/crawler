@@ -1,0 +1,14 @@
+130284001000	河北省-唐山市-滦州市-滦河街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/02/84/130284001.html
+130284002000	河北省-唐山市-滦州市-古城街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/02/84/130284002.html
+130284003000	河北省-唐山市-滦州市-滦城路街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/02/84/130284003.html
+130284004000	河北省-唐山市-滦州市-响堂街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/02/84/130284004.html
+130284102000	河北省-唐山市-滦州市-东安各庄镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/02/84/130284102.html
+130284103000	河北省-唐山市-滦州市-雷庄镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/02/84/130284103.html
+130284104000	河北省-唐山市-滦州市-茨榆坨镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/02/84/130284104.html
+130284105000	河北省-唐山市-滦州市-榛子镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/02/84/130284105.html
+130284106000	河北省-唐山市-滦州市-杨柳庄镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/02/84/130284106.html
+130284107000	河北省-唐山市-滦州市-油榨镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/02/84/130284107.html
+130284108000	河北省-唐山市-滦州市-古马镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/02/84/130284108.html
+130284109000	河北省-唐山市-滦州市-小马庄镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/02/84/130284109.html
+130284110000	河北省-唐山市-滦州市-九百户镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/02/84/130284110.html
+130284111000	河北省-唐山市-滦州市-王店子镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/02/84/130284111.html

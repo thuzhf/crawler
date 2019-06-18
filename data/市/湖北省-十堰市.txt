@@ -1,0 +1,9 @@
+420301000000	湖北省-十堰市-市辖区	
+420302000000	湖北省-十堰市-茅箭区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/03/420302.html
+420303000000	湖北省-十堰市-张湾区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/03/420303.html
+420304000000	湖北省-十堰市-郧阳区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/03/420304.html
+420322000000	湖北省-十堰市-郧西县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/03/420322.html
+420323000000	湖北省-十堰市-竹山县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/03/420323.html
+420324000000	湖北省-十堰市-竹溪县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/03/420324.html
+420325000000	湖北省-十堰市-房县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/03/420325.html
+420381000000	湖北省-十堰市-丹江口市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/03/420381.html

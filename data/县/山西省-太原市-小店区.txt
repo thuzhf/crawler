@@ -1,0 +1,10 @@
+140105001000	山西省-太原市-小店区-坞城街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/01/05/140105001.html
+140105002000	山西省-太原市-小店区-营盘街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/01/05/140105002.html
+140105003000	山西省-太原市-小店区-北营街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/01/05/140105003.html
+140105004000	山西省-太原市-小店区-平阳路街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/01/05/140105004.html
+140105005000	山西省-太原市-小店区-黄陵街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/01/05/140105005.html
+140105006000	山西省-太原市-小店区-小店街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/01/05/140105006.html
+140105007000	山西省-太原市-小店区-龙城街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/01/05/140105007.html
+140105100000	山西省-太原市-小店区-北格镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/01/05/140105100.html
+140105200000	山西省-太原市-小店区-西温庄乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/01/05/140105200.html
+140105201000	山西省-太原市-小店区-刘家堡乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/01/05/140105201.html

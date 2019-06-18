@@ -1,0 +1,10 @@
+350430100000	福建省-三明市-建宁县-濉溪镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/04/30/350430100.html
+350430101000	福建省-三明市-建宁县-里心镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/04/30/350430101.html
+350430102000	福建省-三明市-建宁县-溪口镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/04/30/350430102.html
+350430103000	福建省-三明市-建宁县-均口镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/04/30/350430103.html
+350430201000	福建省-三明市-建宁县-伊家乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/04/30/350430201.html
+350430202000	福建省-三明市-建宁县-黄坊乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/04/30/350430202.html
+350430203000	福建省-三明市-建宁县-溪源乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/04/30/350430203.html
+350430204000	福建省-三明市-建宁县-客坊乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/04/30/350430204.html
+350430205000	福建省-三明市-建宁县-黄埠乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/04/30/350430205.html
+350430400000	福建省-三明市-建宁县-福建建宁经济开发区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/04/30/350430400.html

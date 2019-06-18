@@ -1,0 +1,16 @@
+360725100000	江西省-赣州市-崇义县-横水镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/07/25/360725100.html
+360725101000	江西省-赣州市-崇义县-扬眉镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/07/25/360725101.html
+360725102000	江西省-赣州市-崇义县-过埠镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/07/25/360725102.html
+360725103000	江西省-赣州市-崇义县-铅厂镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/07/25/360725103.html
+360725104000	江西省-赣州市-崇义县-长龙镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/07/25/360725104.html
+360725105000	江西省-赣州市-崇义县-关田镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/07/25/360725105.html
+360725200000	江西省-赣州市-崇义县-龙勾乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/07/25/360725200.html
+360725201000	江西省-赣州市-崇义县-杰坝乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/07/25/360725201.html
+360725202000	江西省-赣州市-崇义县-金坑乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/07/25/360725202.html
+360725203000	江西省-赣州市-崇义县-思顺乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/07/25/360725203.html
+360725204000	江西省-赣州市-崇义县-麟潭乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/07/25/360725204.html
+360725205000	江西省-赣州市-崇义县-上堡乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/07/25/360725205.html
+360725206000	江西省-赣州市-崇义县-聂都乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/07/25/360725206.html
+360725207000	江西省-赣州市-崇义县-文英乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/07/25/360725207.html
+360725208000	江西省-赣州市-崇义县-乐洞乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/07/25/360725208.html
+360725209000	江西省-赣州市-崇义县-丰州乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/07/25/360725209.html

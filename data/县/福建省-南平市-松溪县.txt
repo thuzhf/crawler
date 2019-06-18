@@ -1,0 +1,9 @@
+350724001000	福建省-南平市-松溪县-松源街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/07/24/350724001.html
+350724101000	福建省-南平市-松溪县-郑墩镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/07/24/350724101.html
+350724102000	福建省-南平市-松溪县-渭田镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/07/24/350724102.html
+350724200000	福建省-南平市-松溪县-河东乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/07/24/350724200.html
+350724201000	福建省-南平市-松溪县-茶平乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/07/24/350724201.html
+350724202000	福建省-南平市-松溪县-旧县乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/07/24/350724202.html
+350724203000	福建省-南平市-松溪县-溪东乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/07/24/350724203.html
+350724204000	福建省-南平市-松溪县-花桥乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/07/24/350724204.html
+350724205000	福建省-南平市-松溪县-祖墩乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/07/24/350724205.html

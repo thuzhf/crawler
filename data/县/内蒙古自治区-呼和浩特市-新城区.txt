@@ -1,0 +1,10 @@
+150102001000	内蒙古自治区-呼和浩特市-新城区-海拉尔东路街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/01/02/150102001.html
+150102002000	内蒙古自治区-呼和浩特市-新城区-锡林路街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/01/02/150102002.html
+150102003000	内蒙古自治区-呼和浩特市-新城区-中山东路街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/01/02/150102003.html
+150102004000	内蒙古自治区-呼和浩特市-新城区-东街街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/01/02/150102004.html
+150102005000	内蒙古自治区-呼和浩特市-新城区-西街街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/01/02/150102005.html
+150102006000	内蒙古自治区-呼和浩特市-新城区-东风路街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/01/02/150102006.html
+150102007000	内蒙古自治区-呼和浩特市-新城区-迎新路街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/01/02/150102007.html
+150102008000	内蒙古自治区-呼和浩特市-新城区-成吉思汗大街街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/01/02/150102008.html
+150102101000	内蒙古自治区-呼和浩特市-新城区-保合少镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/01/02/150102101.html
+150102400000	内蒙古自治区-呼和浩特市-新城区-新城区鸿盛高科技园区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/01/02/150102400.html

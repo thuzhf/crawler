@@ -1,0 +1,10 @@
+130404001000	河北省-邯郸市-复兴区-胜利桥街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/04/04/130404001.html
+130404002000	河北省-邯郸市-复兴区-百家村街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/04/04/130404002.html
+130404003000	河北省-邯郸市-复兴区-铁路大院街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/04/04/130404003.html
+130404004000	河北省-邯郸市-复兴区-化林路街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/04/04/130404004.html
+130404005000	河北省-邯郸市-复兴区-庞村街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/04/04/130404005.html
+130404006000	河北省-邯郸市-复兴区-二六七二街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/04/04/130404006.html
+130404007000	河北省-邯郸市-复兴区-石化街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/04/04/130404007.html
+130404100000	河北省-邯郸市-复兴区-户村镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/04/04/130404100.html
+130404200000	河北省-邯郸市-复兴区-彭家寨乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/04/04/130404200.html
+130404201000	河北省-邯郸市-复兴区-康庄乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/04/04/130404201.html

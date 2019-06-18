@@ -1,0 +1,9 @@
+610203001000	陕西省-铜川市-印台区-城关街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/61/02/03/610203001.html
+610203002000	陕西省-铜川市-印台区-三里洞街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/61/02/03/610203002.html
+610203003000	陕西省-铜川市-印台区-王石凹街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/61/02/03/610203003.html
+610203004000	陕西省-铜川市-印台区-印台街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/61/02/03/610203004.html
+610203100000	陕西省-铜川市-印台区-陈炉镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/61/02/03/610203100.html
+610203101000	陕西省-铜川市-印台区-红土镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/61/02/03/610203101.html
+610203102000	陕西省-铜川市-印台区-广阳镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/61/02/03/610203102.html
+610203104000	陕西省-铜川市-印台区-金锁关镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/61/02/03/610203104.html
+610203106000	陕西省-铜川市-印台区-阿庄镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/61/02/03/610203106.html

@@ -1,0 +1,16 @@
+410101000000	河南省-郑州市-市辖区	
+410102000000	河南省-郑州市-中原区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/01/410102.html
+410103000000	河南省-郑州市-二七区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/01/410103.html
+410104000000	河南省-郑州市-管城回族区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/01/410104.html
+410105000000	河南省-郑州市-金水区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/01/410105.html
+410106000000	河南省-郑州市-上街区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/01/410106.html
+410108000000	河南省-郑州市-惠济区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/01/410108.html
+410122000000	河南省-郑州市-中牟县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/01/410122.html
+410171000000	河南省-郑州市-郑州经济技术开发区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/01/410171.html
+410172000000	河南省-郑州市-郑州高新技术产业开发区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/01/410172.html
+410173000000	河南省-郑州市-郑州航空港经济综合实验区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/01/410173.html
+410181000000	河南省-郑州市-巩义市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/01/410181.html
+410182000000	河南省-郑州市-荥阳市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/01/410182.html
+410183000000	河南省-郑州市-新密市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/01/410183.html
+410184000000	河南省-郑州市-新郑市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/01/410184.html
+410185000000	河南省-郑州市-登封市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/01/410185.html

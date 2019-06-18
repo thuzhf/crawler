@@ -1,0 +1,4 @@
+429004000000	湖北省-省直辖县级行政区划-仙桃市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/90/429004.html
+429005000000	湖北省-省直辖县级行政区划-潜江市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/90/429005.html
+429006000000	湖北省-省直辖县级行政区划-天门市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/90/429006.html
+429021000000	湖北省-省直辖县级行政区划-神农架林区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/90/429021.html

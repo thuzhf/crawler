@@ -1,0 +1,13 @@
+330301000000	浙江省-温州市-市辖区	
+330302000000	浙江省-温州市-鹿城区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/03/330302.html
+330303000000	浙江省-温州市-龙湾区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/03/330303.html
+330304000000	浙江省-温州市-瓯海区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/03/330304.html
+330305000000	浙江省-温州市-洞头区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/03/330305.html
+330324000000	浙江省-温州市-永嘉县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/03/330324.html
+330326000000	浙江省-温州市-平阳县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/03/330326.html
+330327000000	浙江省-温州市-苍南县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/03/330327.html
+330328000000	浙江省-温州市-文成县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/03/330328.html
+330329000000	浙江省-温州市-泰顺县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/03/330329.html
+330371000000	浙江省-温州市-温州经济技术开发区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/03/330371.html
+330381000000	浙江省-温州市-瑞安市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/03/330381.html
+330382000000	浙江省-温州市-乐清市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/03/330382.html

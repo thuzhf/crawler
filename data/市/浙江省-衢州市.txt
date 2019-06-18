@@ -1,0 +1,7 @@
+330801000000	浙江省-衢州市-市辖区	
+330802000000	浙江省-衢州市-柯城区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/08/330802.html
+330803000000	浙江省-衢州市-衢江区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/08/330803.html
+330822000000	浙江省-衢州市-常山县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/08/330822.html
+330824000000	浙江省-衢州市-开化县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/08/330824.html
+330825000000	浙江省-衢州市-龙游县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/08/330825.html
+330881000000	浙江省-衢州市-江山市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/08/330881.html

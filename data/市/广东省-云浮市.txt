@@ -1,0 +1,6 @@
+445301000000	广东省-云浮市-市辖区	
+445302000000	广东省-云浮市-云城区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/53/445302.html
+445303000000	广东省-云浮市-云安区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/53/445303.html
+445321000000	广东省-云浮市-新兴县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/53/445321.html
+445322000000	广东省-云浮市-郁南县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/53/445322.html
+445381000000	广东省-云浮市-罗定市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/53/445381.html

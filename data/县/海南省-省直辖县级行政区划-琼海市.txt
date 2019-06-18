@@ -1,0 +1,13 @@
+469002100000	海南省-省直辖县级行政区划-琼海市-嘉积镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/46/90/02/469002100.html
+469002101000	海南省-省直辖县级行政区划-琼海市-万泉镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/46/90/02/469002101.html
+469002102000	海南省-省直辖县级行政区划-琼海市-石壁镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/46/90/02/469002102.html
+469002103000	海南省-省直辖县级行政区划-琼海市-中原镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/46/90/02/469002103.html
+469002104000	海南省-省直辖县级行政区划-琼海市-博鳌镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/46/90/02/469002104.html
+469002105000	海南省-省直辖县级行政区划-琼海市-阳江镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/46/90/02/469002105.html
+469002106000	海南省-省直辖县级行政区划-琼海市-龙江镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/46/90/02/469002106.html
+469002107000	海南省-省直辖县级行政区划-琼海市-潭门镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/46/90/02/469002107.html
+469002108000	海南省-省直辖县级行政区划-琼海市-塔洋镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/46/90/02/469002108.html
+469002109000	海南省-省直辖县级行政区划-琼海市-长坡镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/46/90/02/469002109.html
+469002110000	海南省-省直辖县级行政区划-琼海市-大路镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/46/90/02/469002110.html
+469002111000	海南省-省直辖县级行政区划-琼海市-会山镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/46/90/02/469002111.html
+469002500000	海南省-省直辖县级行政区划-琼海市-彬村山华侨农场	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/46/90/02/469002500.html

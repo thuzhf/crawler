@@ -1,0 +1,9 @@
+350421100000	福建省-三明市-明溪县-雪峰镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/04/21/350421100.html
+350421101000	福建省-三明市-明溪县-盖洋镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/04/21/350421101.html
+350421102000	福建省-三明市-明溪县-胡坊镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/04/21/350421102.html
+350421103000	福建省-三明市-明溪县-瀚仙镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/04/21/350421103.html
+350421200000	福建省-三明市-明溪县-城关乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/04/21/350421200.html
+350421201000	福建省-三明市-明溪县-沙溪乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/04/21/350421201.html
+350421202000	福建省-三明市-明溪县-夏阳乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/04/21/350421202.html
+350421203000	福建省-三明市-明溪县-枫溪乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/04/21/350421203.html
+350421204000	福建省-三明市-明溪县-夏坊乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/04/21/350421204.html

@@ -1,0 +1,6 @@
+451101000000	广西壮族自治区-贺州市-市辖区	
+451102000000	广西壮族自治区-贺州市-八步区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/11/451102.html
+451103000000	广西壮族自治区-贺州市-平桂区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/11/451103.html
+451121000000	广西壮族自治区-贺州市-昭平县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/11/451121.html
+451122000000	广西壮族自治区-贺州市-钟山县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/11/451122.html
+451123000000	广西壮族自治区-贺州市-富川瑶族自治县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/11/451123.html

@@ -1,0 +1,13 @@
+130801000000	河北省-承德市-市辖区	
+130802000000	河北省-承德市-双桥区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/08/130802.html
+130803000000	河北省-承德市-双滦区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/08/130803.html
+130804000000	河北省-承德市-鹰手营子矿区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/08/130804.html
+130821000000	河北省-承德市-承德县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/08/130821.html
+130822000000	河北省-承德市-兴隆县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/08/130822.html
+130824000000	河北省-承德市-滦平县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/08/130824.html
+130825000000	河北省-承德市-隆化县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/08/130825.html
+130826000000	河北省-承德市-丰宁满族自治县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/08/130826.html
+130827000000	河北省-承德市-宽城满族自治县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/08/130827.html
+130828000000	河北省-承德市-围场满族蒙古族自治县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/08/130828.html
+130871000000	河北省-承德市-承德高新技术产业开发区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/08/130871.html
+130881000000	河北省-承德市-平泉市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/08/130881.html

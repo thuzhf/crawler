@@ -1,0 +1,16 @@
+411301000000	河南省-南阳市-市辖区	
+411302000000	河南省-南阳市-宛城区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/13/411302.html
+411303000000	河南省-南阳市-卧龙区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/13/411303.html
+411321000000	河南省-南阳市-南召县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/13/411321.html
+411322000000	河南省-南阳市-方城县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/13/411322.html
+411323000000	河南省-南阳市-西峡县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/13/411323.html
+411324000000	河南省-南阳市-镇平县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/13/411324.html
+411325000000	河南省-南阳市-内乡县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/13/411325.html
+411326000000	河南省-南阳市-淅川县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/13/411326.html
+411327000000	河南省-南阳市-社旗县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/13/411327.html
+411328000000	河南省-南阳市-唐河县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/13/411328.html
+411329000000	河南省-南阳市-新野县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/13/411329.html
+411330000000	河南省-南阳市-桐柏县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/13/411330.html
+411371000000	河南省-南阳市-南阳高新技术产业开发区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/13/411371.html
+411372000000	河南省-南阳市-南阳市城乡一体化示范区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/13/411372.html
+411381000000	河南省-南阳市-邓州市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/13/411381.html

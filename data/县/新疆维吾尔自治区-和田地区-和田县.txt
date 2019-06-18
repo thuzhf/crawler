@@ -1,0 +1,13 @@
+653221100000	新疆维吾尔自治区-和田地区-和田县-巴格其镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/32/21/653221100.html
+653221102000	新疆维吾尔自治区-和田地区-和田县-罕艾日克镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/32/21/653221102.html
+653221202000	新疆维吾尔自治区-和田地区-和田县-英阿瓦提乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/32/21/653221202.html
+653221203000	新疆维吾尔自治区-和田地区-和田县-英艾日克乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/32/21/653221203.html
+653221204000	新疆维吾尔自治区-和田地区-和田县-布扎克乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/32/21/653221204.html
+653221205000	新疆维吾尔自治区-和田地区-和田县-拉依喀乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/32/21/653221205.html
+653221206000	新疆维吾尔自治区-和田地区-和田县-朗如乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/32/21/653221206.html
+653221207000	新疆维吾尔自治区-和田地区-和田县-塔瓦库勒乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/32/21/653221207.html
+653221208000	新疆维吾尔自治区-和田地区-和田县-伊斯拉木阿瓦提乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/32/21/653221208.html
+653221209000	新疆维吾尔自治区-和田地区-和田县-色格孜库勒乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/32/21/653221209.html
+653221210000	新疆维吾尔自治区-和田地区-和田县-喀什塔什乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/32/21/653221210.html
+653221211000	新疆维吾尔自治区-和田地区-和田县-吾宗肖乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/32/21/653221211.html
+653221401000	新疆维吾尔自治区-和田地区-和田县-和田县经济新区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/32/21/653221401.html

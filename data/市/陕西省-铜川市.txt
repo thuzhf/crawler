@@ -1,0 +1,5 @@
+610201000000	陕西省-铜川市-市辖区	
+610202000000	陕西省-铜川市-王益区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/61/02/610202.html
+610203000000	陕西省-铜川市-印台区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/61/02/610203.html
+610204000000	陕西省-铜川市-耀州区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/61/02/610204.html
+610222000000	陕西省-铜川市-宜君县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/61/02/610222.html

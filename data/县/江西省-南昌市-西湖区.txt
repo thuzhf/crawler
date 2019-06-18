@@ -1,0 +1,12 @@
+360103001000	江西省-南昌市-西湖区-南浦街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/01/03/360103001.html
+360103002000	江西省-南昌市-西湖区-朝阳洲街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/01/03/360103002.html
+360103004000	江西省-南昌市-西湖区-广润门街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/01/03/360103004.html
+360103005000	江西省-南昌市-西湖区-西湖街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/01/03/360103005.html
+360103006000	江西省-南昌市-西湖区-系马桩街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/01/03/360103006.html
+360103007000	江西省-南昌市-西湖区-绳金塔街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/01/03/360103007.html
+360103009000	江西省-南昌市-西湖区-丁公路街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/01/03/360103009.html
+360103010000	江西省-南昌市-西湖区-南站街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/01/03/360103010.html
+360103011000	江西省-南昌市-西湖区-桃源街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/01/03/360103011.html
+360103012000	江西省-南昌市-西湖区-十字街街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/01/03/360103012.html
+360103013000	江西省-南昌市-西湖区-朝农街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/01/03/360103013.html
+360103101000	江西省-南昌市-西湖区-桃花镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/01/03/360103101.html

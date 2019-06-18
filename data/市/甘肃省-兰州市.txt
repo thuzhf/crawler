@@ -1,0 +1,10 @@
+620101000000	甘肃省-兰州市-市辖区	
+620102000000	甘肃省-兰州市-城关区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/62/01/620102.html
+620103000000	甘肃省-兰州市-七里河区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/62/01/620103.html
+620104000000	甘肃省-兰州市-西固区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/62/01/620104.html
+620105000000	甘肃省-兰州市-安宁区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/62/01/620105.html
+620111000000	甘肃省-兰州市-红古区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/62/01/620111.html
+620121000000	甘肃省-兰州市-永登县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/62/01/620121.html
+620122000000	甘肃省-兰州市-皋兰县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/62/01/620122.html
+620123000000	甘肃省-兰州市-榆中县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/62/01/620123.html
+620171000000	甘肃省-兰州市-兰州新区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/62/01/620171.html

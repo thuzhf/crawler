@@ -1,0 +1,8 @@
+341001000000	安徽省-黄山市-市辖区	
+341002000000	安徽省-黄山市-屯溪区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/10/341002.html
+341003000000	安徽省-黄山市-黄山区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/10/341003.html
+341004000000	安徽省-黄山市-徽州区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/10/341004.html
+341021000000	安徽省-黄山市-歙县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/10/341021.html
+341022000000	安徽省-黄山市-休宁县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/10/341022.html
+341023000000	安徽省-黄山市-黟县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/10/341023.html
+341024000000	安徽省-黄山市-祁门县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/10/341024.html

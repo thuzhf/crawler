@@ -1,0 +1,13 @@
+210304001000	辽宁省-鞍山市-立山区-友好街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/03/04/210304001.html
+210304004000	辽宁省-鞍山市-立山区-双山街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/03/04/210304004.html
+210304006000	辽宁省-鞍山市-立山区-立山街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/03/04/210304006.html
+210304008000	辽宁省-鞍山市-立山区-曙光街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/03/04/210304008.html
+210304009000	辽宁省-鞍山市-立山区-灵山街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/03/04/210304009.html
+210304013000	辽宁省-鞍山市-立山区-深南街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/03/04/210304013.html
+210304014000	辽宁省-鞍山市-立山区-深北街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/03/04/210304014.html
+210304015000	辽宁省-鞍山市-立山区-沙河街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/03/04/210304015.html
+210304016000	辽宁省-鞍山市-立山区-滨河街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/03/04/210304016.html
+210304017000	辽宁省-鞍山市-立山区-千山街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/03/04/210304017.html
+210304019000	辽宁省-鞍山市-立山区-齐大山街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/03/04/210304019.html
+210304020000	辽宁省-鞍山市-立山区-汪峪街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/03/04/210304020.html
+210304021000	辽宁省-鞍山市-立山区-红岭街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/03/04/210304021.html

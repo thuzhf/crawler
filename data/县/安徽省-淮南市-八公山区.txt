@@ -1,0 +1,6 @@
+340405001000	安徽省-淮南市-八公山区-新庄孜街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/04/05/340405001.html
+340405002000	安徽省-淮南市-八公山区-土坝孜街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/04/05/340405002.html
+340405003000	安徽省-淮南市-八公山区-毕家岗街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/04/05/340405003.html
+340405100000	安徽省-淮南市-八公山区-八公山镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/04/05/340405100.html
+340405121000	安徽省-淮南市-八公山区-山王镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/04/05/340405121.html
+340405400000	安徽省-淮南市-八公山区-妙山林场	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/04/05/340405400.html

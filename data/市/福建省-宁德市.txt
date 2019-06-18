@@ -1,0 +1,10 @@
+350901000000	福建省-宁德市-市辖区	
+350902000000	福建省-宁德市-蕉城区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/09/350902.html
+350921000000	福建省-宁德市-霞浦县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/09/350921.html
+350922000000	福建省-宁德市-古田县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/09/350922.html
+350923000000	福建省-宁德市-屏南县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/09/350923.html
+350924000000	福建省-宁德市-寿宁县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/09/350924.html
+350925000000	福建省-宁德市-周宁县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/09/350925.html
+350926000000	福建省-宁德市-柘荣县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/09/350926.html
+350981000000	福建省-宁德市-福安市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/09/350981.html
+350982000000	福建省-宁德市-福鼎市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/09/350982.html

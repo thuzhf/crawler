@@ -1,0 +1,15 @@
+620103001000	甘肃省-兰州市-七里河区-西园街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/62/01/03/620103001.html
+620103002000	甘肃省-兰州市-七里河区-西湖街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/62/01/03/620103002.html
+620103003000	甘肃省-兰州市-七里河区-建兰路街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/62/01/03/620103003.html
+620103004000	甘肃省-兰州市-七里河区-敦煌路街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/62/01/03/620103004.html
+620103005000	甘肃省-兰州市-七里河区-西站街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/62/01/03/620103005.html
+620103006000	甘肃省-兰州市-七里河区-晏家坪街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/62/01/03/620103006.html
+620103007000	甘肃省-兰州市-七里河区-龚家湾街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/62/01/03/620103007.html
+620103008000	甘肃省-兰州市-七里河区-土门墩街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/62/01/03/620103008.html
+620103009000	甘肃省-兰州市-七里河区-秀川街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/62/01/03/620103009.html
+620103100000	甘肃省-兰州市-七里河区-阿干镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/62/01/03/620103100.html
+620103101000	甘肃省-兰州市-七里河区-八里镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/62/01/03/620103101.html
+620103102000	甘肃省-兰州市-七里河区-彭家坪镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/62/01/03/620103102.html
+620103103000	甘肃省-兰州市-七里河区-西果园镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/62/01/03/620103103.html
+620103104000	甘肃省-兰州市-七里河区-黄峪镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/62/01/03/620103104.html
+620103201000	甘肃省-兰州市-七里河区-魏岭乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/62/01/03/620103201.html

@@ -1,0 +1,4 @@
+445101000000	广东省-潮州市-市辖区	
+445102000000	广东省-潮州市-湘桥区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/51/445102.html
+445103000000	广东省-潮州市-潮安区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/51/445103.html
+445122000000	广东省-潮州市-饶平县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/51/445122.html

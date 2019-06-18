@@ -1,0 +1,6 @@
+150626100000	内蒙古自治区-鄂尔多斯市-乌审旗-嘎鲁图镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/06/26/150626100.html
+150626101000	内蒙古自治区-鄂尔多斯市-乌审旗-乌审召镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/06/26/150626101.html
+150626102000	内蒙古自治区-鄂尔多斯市-乌审旗-图克镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/06/26/150626102.html
+150626103000	内蒙古自治区-鄂尔多斯市-乌审旗-乌兰陶勒盖镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/06/26/150626103.html
+150626104000	内蒙古自治区-鄂尔多斯市-乌审旗-无定河镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/06/26/150626104.html
+150626200000	内蒙古自治区-鄂尔多斯市-乌审旗-苏力德苏木乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/06/26/150626200.html

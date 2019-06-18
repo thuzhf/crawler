@@ -1,0 +1,15 @@
+421081001000	湖北省-荆州市-石首市-绣林街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/10/81/421081001.html
+421081002000	湖北省-荆州市-石首市-笔架山街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/10/81/421081002.html
+421081100000	湖北省-荆州市-石首市-新厂镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/10/81/421081100.html
+421081101000	湖北省-荆州市-石首市-横沟市镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/10/81/421081101.html
+421081102000	湖北省-荆州市-石首市-大垸镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/10/81/421081102.html
+421081103000	湖北省-荆州市-石首市-小河口镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/10/81/421081103.html
+421081104000	湖北省-荆州市-石首市-桃花山镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/10/81/421081104.html
+421081105000	湖北省-荆州市-石首市-调关镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/10/81/421081105.html
+421081106000	湖北省-荆州市-石首市-东升镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/10/81/421081106.html
+421081107000	湖北省-荆州市-石首市-高基庙镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/10/81/421081107.html
+421081108000	湖北省-荆州市-石首市-南口镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/10/81/421081108.html
+421081109000	湖北省-荆州市-石首市-高陵镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/10/81/421081109.html
+421081110000	湖北省-荆州市-石首市-团山寺镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/10/81/421081110.html
+421081200000	湖北省-荆州市-石首市-久合垸乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/10/81/421081200.html
+421081500000	湖北省-荆州市-石首市-天鹅洲开发区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/10/81/421081500.html

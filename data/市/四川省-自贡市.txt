@@ -1,0 +1,7 @@
+510301000000	四川省-自贡市-市辖区	
+510302000000	四川省-自贡市-自流井区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/03/510302.html
+510303000000	四川省-自贡市-贡井区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/03/510303.html
+510304000000	四川省-自贡市-大安区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/03/510304.html
+510311000000	四川省-自贡市-沿滩区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/03/510311.html
+510321000000	四川省-自贡市-荣县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/03/510321.html
+510322000000	四川省-自贡市-富顺县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/03/510322.html

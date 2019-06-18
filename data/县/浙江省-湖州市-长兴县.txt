@@ -1,0 +1,15 @@
+330522001000	浙江省-湖州市-长兴县-雉城街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/05/22/330522001.html
+330522002000	浙江省-湖州市-长兴县-画溪街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/05/22/330522002.html
+330522003000	浙江省-湖州市-长兴县-太湖街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/05/22/330522003.html
+330522004000	浙江省-湖州市-长兴县-龙山街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/05/22/330522004.html
+330522101000	浙江省-湖州市-长兴县-洪桥镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/05/22/330522101.html
+330522102000	浙江省-湖州市-长兴县-李家巷镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/05/22/330522102.html
+330522103000	浙江省-湖州市-长兴县-夹浦镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/05/22/330522103.html
+330522104000	浙江省-湖州市-长兴县-林城镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/05/22/330522104.html
+330522106000	浙江省-湖州市-长兴县-虹星桥镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/05/22/330522106.html
+330522108000	浙江省-湖州市-长兴县-小浦镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/05/22/330522108.html
+330522110000	浙江省-湖州市-长兴县-和平镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/05/22/330522110.html
+330522111000	浙江省-湖州市-长兴县-泗安镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/05/22/330522111.html
+330522112000	浙江省-湖州市-长兴县-煤山镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/05/22/330522112.html
+330522200000	浙江省-湖州市-长兴县-水口乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/05/22/330522200.html
+330522202000	浙江省-湖州市-长兴县-吕山乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/05/22/330522202.html

@@ -1,0 +1,7 @@
+220301000000	吉林省-四平市-市辖区	
+220302000000	吉林省-四平市-铁西区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/03/220302.html
+220303000000	吉林省-四平市-铁东区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/03/220303.html
+220322000000	吉林省-四平市-梨树县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/03/220322.html
+220323000000	吉林省-四平市-伊通满族自治县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/03/220323.html
+220381000000	吉林省-四平市-公主岭市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/03/220381.html
+220382000000	吉林省-四平市-双辽市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/03/220382.html

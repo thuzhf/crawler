@@ -1,0 +1,17 @@
+350628100000	福建省-漳州市-平和县-小溪镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/06/28/350628100.html
+350628101000	福建省-漳州市-平和县-山格镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/06/28/350628101.html
+350628102000	福建省-漳州市-平和县-文峰镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/06/28/350628102.html
+350628103000	福建省-漳州市-平和县-南胜镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/06/28/350628103.html
+350628104000	福建省-漳州市-平和县-坂仔镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/06/28/350628104.html
+350628105000	福建省-漳州市-平和县-安厚镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/06/28/350628105.html
+350628106000	福建省-漳州市-平和县-大溪镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/06/28/350628106.html
+350628107000	福建省-漳州市-平和县-霞寨镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/06/28/350628107.html
+350628108000	福建省-漳州市-平和县-九峰镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/06/28/350628108.html
+350628109000	福建省-漳州市-平和县-芦溪镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/06/28/350628109.html
+350628200000	福建省-漳州市-平和县-五寨乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/06/28/350628200.html
+350628201000	福建省-漳州市-平和县-国强乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/06/28/350628201.html
+350628202000	福建省-漳州市-平和县-崎岭乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/06/28/350628202.html
+350628203000	福建省-漳州市-平和县-长乐乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/06/28/350628203.html
+350628204000	福建省-漳州市-平和县-秀峰乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/06/28/350628204.html
+350628400000	福建省-漳州市-平和县-安厚农场	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/06/28/350628400.html
+350628401000	福建省-漳州市-平和县-福建平和工业园区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/06/28/350628401.html

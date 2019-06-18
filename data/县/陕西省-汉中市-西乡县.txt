@@ -1,0 +1,17 @@
+610724001000	陕西省-汉中市-西乡县-城北街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/61/07/24/610724001.html
+610724002000	陕西省-汉中市-西乡县-城南街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/61/07/24/610724002.html
+610724101000	陕西省-汉中市-西乡县-杨河镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/61/07/24/610724101.html
+610724102000	陕西省-汉中市-西乡县-柳树镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/61/07/24/610724102.html
+610724103000	陕西省-汉中市-西乡县-沙河镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/61/07/24/610724103.html
+610724104000	陕西省-汉中市-西乡县-私渡镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/61/07/24/610724104.html
+610724105000	陕西省-汉中市-西乡县-桑园镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/61/07/24/610724105.html
+610724106000	陕西省-汉中市-西乡县-白龙塘镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/61/07/24/610724106.html
+610724108000	陕西省-汉中市-西乡县-峡口镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/61/07/24/610724108.html
+610724109000	陕西省-汉中市-西乡县-堰口镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/61/07/24/610724109.html
+610724110000	陕西省-汉中市-西乡县-茶镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/61/07/24/610724110.html
+610724111000	陕西省-汉中市-西乡县-高川镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/61/07/24/610724111.html
+610724112000	陕西省-汉中市-西乡县-两河口镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/61/07/24/610724112.html
+610724114000	陕西省-汉中市-西乡县-大河镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/61/07/24/610724114.html
+610724116000	陕西省-汉中市-西乡县-骆家坝镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/61/07/24/610724116.html
+610724117000	陕西省-汉中市-西乡县-子午镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/61/07/24/610724117.html
+610724118000	陕西省-汉中市-西乡县-白勉峡镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/61/07/24/610724118.html

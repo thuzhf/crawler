@@ -1,0 +1,16 @@
+510503001000	四川省-泸州市-纳溪区-安富街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/05/03/510503001.html
+510503002000	四川省-泸州市-纳溪区-永宁街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/05/03/510503002.html
+510503003000	四川省-泸州市-纳溪区-东升街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/05/03/510503003.html
+510503100000	四川省-泸州市-纳溪区-大渡口镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/05/03/510503100.html
+510503101000	四川省-泸州市-纳溪区-护国镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/05/03/510503101.html
+510503102000	四川省-泸州市-纳溪区-打古镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/05/03/510503102.html
+510503103000	四川省-泸州市-纳溪区-上马镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/05/03/510503103.html
+510503104000	四川省-泸州市-纳溪区-合面镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/05/03/510503104.html
+510503105000	四川省-泸州市-纳溪区-棉花坡镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/05/03/510503105.html
+510503106000	四川省-泸州市-纳溪区-丰乐镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/05/03/510503106.html
+510503107000	四川省-泸州市-纳溪区-白节镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/05/03/510503107.html
+510503108000	四川省-泸州市-纳溪区-天仙镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/05/03/510503108.html
+510503109000	四川省-泸州市-纳溪区-新乐镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/05/03/510503109.html
+510503110000	四川省-泸州市-纳溪区-渠坝镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/05/03/510503110.html
+510503111000	四川省-泸州市-纳溪区-龙车镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/05/03/510503111.html
+510503400000	四川省-泸州市-纳溪区-泸州化工园区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/05/03/510503400.html

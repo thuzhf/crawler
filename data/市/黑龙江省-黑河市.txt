@@ -1,0 +1,7 @@
+231101000000	黑龙江省-黑河市-市辖区	
+231102000000	黑龙江省-黑河市-爱辉区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/11/231102.html
+231121000000	黑龙江省-黑河市-嫩江县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/11/231121.html
+231123000000	黑龙江省-黑河市-逊克县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/11/231123.html
+231124000000	黑龙江省-黑河市-孙吴县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/11/231124.html
+231181000000	黑龙江省-黑河市-北安市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/11/231181.html
+231182000000	黑龙江省-黑河市-五大连池市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/11/231182.html

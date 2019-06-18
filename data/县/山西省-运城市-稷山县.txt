@@ -1,0 +1,8 @@
+140824100000	山西省-运城市-稷山县-稷峰镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/08/24/140824100.html
+140824101000	山西省-运城市-稷山县-西社镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/08/24/140824101.html
+140824102000	山西省-运城市-稷山县-化峪镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/08/24/140824102.html
+140824103000	山西省-运城市-稷山县-翟店镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/08/24/140824103.html
+140824104000	山西省-运城市-稷山县-清河镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/08/24/140824104.html
+140824200000	山西省-运城市-稷山县-蔡村乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/08/24/140824200.html
+140824201000	山西省-运城市-稷山县-太阳乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/08/24/140824201.html
+140824400000	山西省-运城市-稷山县-稷山县社区服务中心	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/08/24/140824400.html

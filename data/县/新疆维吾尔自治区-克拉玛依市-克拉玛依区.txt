@@ -1,0 +1,11 @@
+650203001000	新疆维吾尔自治区-克拉玛依市-克拉玛依区-天山路街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/02/03/650203001.html
+650203002000	新疆维吾尔自治区-克拉玛依市-克拉玛依区-胜利路街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/02/03/650203002.html
+650203003000	新疆维吾尔自治区-克拉玛依市-克拉玛依区-昆仑路街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/02/03/650203003.html
+650203004000	新疆维吾尔自治区-克拉玛依市-克拉玛依区-银河路街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/02/03/650203004.html
+650203005000	新疆维吾尔自治区-克拉玛依市-克拉玛依区-金龙镇街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/02/03/650203005.html
+650203006000	新疆维吾尔自治区-克拉玛依市-克拉玛依区-五五新镇街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/02/03/650203006.html
+650203007000	新疆维吾尔自治区-克拉玛依市-克拉玛依区-迎宾街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/02/03/650203007.html
+650203008000	新疆维吾尔自治区-克拉玛依市-克拉玛依区-古海街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/02/03/650203008.html
+650203200000	新疆维吾尔自治区-克拉玛依市-克拉玛依区-小拐乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/02/03/650203200.html
+650203506000	新疆维吾尔自治区-克拉玛依市-克拉玛依区-兵团一二九团	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/02/03/650203506.html
+650203530000	新疆维吾尔自治区-克拉玛依市-克拉玛依区-兵团一三六团	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/02/03/650203530.html

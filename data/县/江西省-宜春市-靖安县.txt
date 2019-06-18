@@ -1,0 +1,12 @@
+360925100000	江西省-宜春市-靖安县-双溪镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/09/25/360925100.html
+360925101000	江西省-宜春市-靖安县-仁首镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/09/25/360925101.html
+360925102000	江西省-宜春市-靖安县-宝峰镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/09/25/360925102.html
+360925103000	江西省-宜春市-靖安县-高湖镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/09/25/360925103.html
+360925104000	江西省-宜春市-靖安县-璪都镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/09/25/360925104.html
+360925200000	江西省-宜春市-靖安县-香田乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/09/25/360925200.html
+360925201000	江西省-宜春市-靖安县-水口乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/09/25/360925201.html
+360925202000	江西省-宜春市-靖安县-中源乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/09/25/360925202.html
+360925203000	江西省-宜春市-靖安县-罗湾乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/09/25/360925203.html
+360925205000	江西省-宜春市-靖安县-三爪仑乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/09/25/360925205.html
+360925206000	江西省-宜春市-靖安县-雷公尖乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/09/25/360925206.html
+360925400000	江西省-宜春市-靖安县-靖安县工业园区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/09/25/360925400.html

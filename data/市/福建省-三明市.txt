@@ -1,0 +1,13 @@
+350401000000	福建省-三明市-市辖区	
+350402000000	福建省-三明市-梅列区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/04/350402.html
+350403000000	福建省-三明市-三元区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/04/350403.html
+350421000000	福建省-三明市-明溪县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/04/350421.html
+350423000000	福建省-三明市-清流县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/04/350423.html
+350424000000	福建省-三明市-宁化县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/04/350424.html
+350425000000	福建省-三明市-大田县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/04/350425.html
+350426000000	福建省-三明市-尤溪县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/04/350426.html
+350427000000	福建省-三明市-沙县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/04/350427.html
+350428000000	福建省-三明市-将乐县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/04/350428.html
+350429000000	福建省-三明市-泰宁县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/04/350429.html
+350430000000	福建省-三明市-建宁县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/04/350430.html
+350481000000	福建省-三明市-永安市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/04/350481.html

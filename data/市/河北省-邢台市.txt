@@ -1,0 +1,21 @@
+130501000000	河北省-邢台市-市辖区	
+130502000000	河北省-邢台市-桥东区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/05/130502.html
+130503000000	河北省-邢台市-桥西区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/05/130503.html
+130521000000	河北省-邢台市-邢台县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/05/130521.html
+130522000000	河北省-邢台市-临城县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/05/130522.html
+130523000000	河北省-邢台市-内丘县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/05/130523.html
+130524000000	河北省-邢台市-柏乡县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/05/130524.html
+130525000000	河北省-邢台市-隆尧县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/05/130525.html
+130526000000	河北省-邢台市-任县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/05/130526.html
+130527000000	河北省-邢台市-南和县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/05/130527.html
+130528000000	河北省-邢台市-宁晋县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/05/130528.html
+130529000000	河北省-邢台市-巨鹿县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/05/130529.html
+130530000000	河北省-邢台市-新河县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/05/130530.html
+130531000000	河北省-邢台市-广宗县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/05/130531.html
+130532000000	河北省-邢台市-平乡县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/05/130532.html
+130533000000	河北省-邢台市-威县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/05/130533.html
+130534000000	河北省-邢台市-清河县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/05/130534.html
+130535000000	河北省-邢台市-临西县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/05/130535.html
+130571000000	河北省-邢台市-河北邢台经济开发区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/05/130571.html
+130581000000	河北省-邢台市-南宫市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/05/130581.html
+130582000000	河北省-邢台市-沙河市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/05/130582.html

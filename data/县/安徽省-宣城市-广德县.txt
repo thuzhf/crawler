@@ -1,0 +1,10 @@
+341822100000	安徽省-宣城市-广德县-桃州镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/18/22/341822100.html
+341822101000	安徽省-宣城市-广德县-柏垫镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/18/22/341822101.html
+341822102000	安徽省-宣城市-广德县-誓节镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/18/22/341822102.html
+341822103000	安徽省-宣城市-广德县-邱村镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/18/22/341822103.html
+341822104000	安徽省-宣城市-广德县-新杭镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/18/22/341822104.html
+341822105000	安徽省-宣城市-广德县-杨滩镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/18/22/341822105.html
+341822200000	安徽省-宣城市-广德县-卢村乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/18/22/341822200.html
+341822201000	安徽省-宣城市-广德县-东亭乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/18/22/341822201.html
+341822203000	安徽省-宣城市-广德县-四合乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/18/22/341822203.html
+341822500000	安徽省-宣城市-广德县-祠山岗茶场	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/18/22/341822500.html

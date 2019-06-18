@@ -1,0 +1,12 @@
+320118001000	江苏省-南京市-高淳区-淳溪街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/01/18/320118001.html
+320118002000	江苏省-南京市-高淳区-古柏街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/01/18/320118002.html
+320118101000	江苏省-南京市-高淳区-阳江镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/01/18/320118101.html
+320118102000	江苏省-南京市-高淳区-砖墙镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/01/18/320118102.html
+320118104000	江苏省-南京市-高淳区-漆桥镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/01/18/320118104.html
+320118105000	江苏省-南京市-高淳区-固城镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/01/18/320118105.html
+320118106000	江苏省-南京市-高淳区-东坝镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/01/18/320118106.html
+320118108000	江苏省-南京市-高淳区-桠溪镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/01/18/320118108.html
+320118400000	江苏省-南京市-高淳区-高淳县团结圩良种繁育场	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/01/18/320118400.html
+320118401000	江苏省-南京市-高淳区-高淳县茶叶实验场	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/01/18/320118401.html
+320118402000	江苏省-南京市-高淳区-高淳监狱	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/01/18/320118402.html
+320118403000	江苏省-南京市-高淳区-高淳县傅家坛林场	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/01/18/320118403.html

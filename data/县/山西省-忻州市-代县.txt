@@ -1,0 +1,11 @@
+140923100000	山西省-忻州市-代县-上馆镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/09/23/140923100.html
+140923101000	山西省-忻州市-代县-阳明堡镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/09/23/140923101.html
+140923102000	山西省-忻州市-代县-峨口镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/09/23/140923102.html
+140923103000	山西省-忻州市-代县-聂营镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/09/23/140923103.html
+140923104000	山西省-忻州市-代县-枣林镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/09/23/140923104.html
+140923105000	山西省-忻州市-代县-滩上镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/09/23/140923105.html
+140923200000	山西省-忻州市-代县-新高乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/09/23/140923200.html
+140923201000	山西省-忻州市-代县-峪口乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/09/23/140923201.html
+140923202000	山西省-忻州市-代县-上磨坊乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/09/23/140923202.html
+140923203000	山西省-忻州市-代县-胡峪乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/09/23/140923203.html
+140923204000	山西省-忻州市-代县-雁门关乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/09/23/140923204.html

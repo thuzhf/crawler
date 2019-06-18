@@ -1,0 +1,11 @@
+640202001000	宁夏回族自治区-石嘴山市-大武口区-长胜街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/64/02/02/640202001.html
+640202002000	宁夏回族自治区-石嘴山市-大武口区-朝阳街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/64/02/02/640202002.html
+640202003000	宁夏回族自治区-石嘴山市-大武口区-人民路街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/64/02/02/640202003.html
+640202004000	宁夏回族自治区-石嘴山市-大武口区-长城街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/64/02/02/640202004.html
+640202005000	宁夏回族自治区-石嘴山市-大武口区-青山街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/64/02/02/640202005.html
+640202006000	宁夏回族自治区-石嘴山市-大武口区-石炭井街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/64/02/02/640202006.html
+640202007000	宁夏回族自治区-石嘴山市-大武口区-白芨沟街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/64/02/02/640202007.html
+640202008000	宁夏回族自治区-石嘴山市-大武口区-沟口街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/64/02/02/640202008.html
+640202010000	宁夏回族自治区-石嘴山市-大武口区-长兴街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/64/02/02/640202010.html
+640202011000	宁夏回族自治区-石嘴山市-大武口区-锦林街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/64/02/02/640202011.html
+640202100000	宁夏回族自治区-石嘴山市-大武口区-星海镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/64/02/02/640202100.html

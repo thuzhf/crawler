@@ -1,0 +1,12 @@
+350123100000	福建省-福州市-罗源县-凤山镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/01/23/350123100.html
+350123101000	福建省-福州市-罗源县-松山镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/01/23/350123101.html
+350123102000	福建省-福州市-罗源县-起步镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/01/23/350123102.html
+350123103000	福建省-福州市-罗源县-中房镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/01/23/350123103.html
+350123104000	福建省-福州市-罗源县-飞竹镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/01/23/350123104.html
+350123105000	福建省-福州市-罗源县-鉴江镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/01/23/350123105.html
+350123200000	福建省-福州市-罗源县-白塔乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/01/23/350123200.html
+350123201000	福建省-福州市-罗源县-洪洋乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/01/23/350123201.html
+350123202000	福建省-福州市-罗源县-西兰乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/01/23/350123202.html
+350123203000	福建省-福州市-罗源县-霍口畲族乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/01/23/350123203.html
+350123204000	福建省-福州市-罗源县-碧里乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/01/23/350123204.html
+350123500000	福建省-福州市-罗源县-罗源湾	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/01/23/350123500.html

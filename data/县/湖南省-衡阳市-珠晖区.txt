@@ -1,0 +1,12 @@
+430405007000	湖南省-衡阳市-珠晖区-衡州路街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/04/05/430405007.html
+430405009000	湖南省-衡阳市-珠晖区-广东路街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/04/05/430405009.html
+430405010000	湖南省-衡阳市-珠晖区-东风路街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/04/05/430405010.html
+430405011000	湖南省-衡阳市-珠晖区-冶金街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/04/05/430405011.html
+430405012000	湖南省-衡阳市-珠晖区-苗圃街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/04/05/430405012.html
+430405013000	湖南省-衡阳市-珠晖区-粤汉街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/04/05/430405013.html
+430405014000	湖南省-衡阳市-珠晖区-东阳渡街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/04/05/430405014.html
+430405100000	湖南省-衡阳市-珠晖区-茶山坳镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/04/05/430405100.html
+430405200000	湖南省-衡阳市-珠晖区-和平乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/04/05/430405200.html
+430405201000	湖南省-衡阳市-珠晖区-酃湖乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/04/05/430405201.html
+430405400000	湖南省-衡阳市-珠晖区-金甲岭农场	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/04/05/430405400.html
+430405403000	湖南省-衡阳市-珠晖区-松林茶场	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/04/05/430405403.html

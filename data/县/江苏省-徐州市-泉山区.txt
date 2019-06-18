@@ -1,0 +1,16 @@
+320311001000	江苏省-徐州市-泉山区-王陵街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/03/11/320311001.html
+320311002000	江苏省-徐州市-泉山区-七里沟街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/03/11/320311002.html
+320311003000	江苏省-徐州市-泉山区-永安街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/03/11/320311003.html
+320311004000	江苏省-徐州市-泉山区-湖滨街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/03/11/320311004.html
+320311005000	江苏省-徐州市-泉山区-段庄街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/03/11/320311005.html
+320311006000	江苏省-徐州市-泉山区-翟山街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/03/11/320311006.html
+320311007000	江苏省-徐州市-泉山区-奎山街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/03/11/320311007.html
+320311008000	江苏省-徐州市-泉山区-和平街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/03/11/320311008.html
+320311009000	江苏省-徐州市-泉山区-金山街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/03/11/320311009.html
+320311010000	江苏省-徐州市-泉山区-泰山街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/03/11/320311010.html
+320311011000	江苏省-徐州市-泉山区-庞庄街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/03/11/320311011.html
+320311012000	江苏省-徐州市-泉山区-火花街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/03/11/320311012.html
+320311013000	江苏省-徐州市-泉山区-桃园街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/03/11/320311013.html
+320311014000	江苏省-徐州市-泉山区-苏山街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/03/11/320311014.html
+320311401000	江苏省-徐州市-泉山区-徐州泉山经济开发区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/03/11/320311401.html
+320311402000	江苏省-徐州市-泉山区-徐州软件园管理委员会	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/03/11/320311402.html

@@ -1,0 +1,21 @@
+510101000000	四川省-成都市-市辖区	
+510104000000	四川省-成都市-锦江区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/01/510104.html
+510105000000	四川省-成都市-青羊区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/01/510105.html
+510106000000	四川省-成都市-金牛区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/01/510106.html
+510107000000	四川省-成都市-武侯区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/01/510107.html
+510108000000	四川省-成都市-成华区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/01/510108.html
+510112000000	四川省-成都市-龙泉驿区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/01/510112.html
+510113000000	四川省-成都市-青白江区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/01/510113.html
+510114000000	四川省-成都市-新都区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/01/510114.html
+510115000000	四川省-成都市-温江区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/01/510115.html
+510116000000	四川省-成都市-双流区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/01/510116.html
+510117000000	四川省-成都市-郫都区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/01/510117.html
+510121000000	四川省-成都市-金堂县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/01/510121.html
+510129000000	四川省-成都市-大邑县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/01/510129.html
+510131000000	四川省-成都市-蒲江县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/01/510131.html
+510132000000	四川省-成都市-新津县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/01/510132.html
+510181000000	四川省-成都市-都江堰市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/01/510181.html
+510182000000	四川省-成都市-彭州市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/01/510182.html
+510183000000	四川省-成都市-邛崃市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/01/510183.html
+510184000000	四川省-成都市-崇州市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/01/510184.html
+510185000000	四川省-成都市-简阳市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/01/510185.html

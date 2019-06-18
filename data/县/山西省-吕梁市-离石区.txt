@@ -1,0 +1,12 @@
+141102001000	山西省-吕梁市-离石区-滨河街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/11/02/141102001.html
+141102002000	山西省-吕梁市-离石区-凤山街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/11/02/141102002.html
+141102003000	山西省-吕梁市-离石区-莲花池街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/11/02/141102003.html
+141102004000	山西省-吕梁市-离石区-城北街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/11/02/141102004.html
+141102005000	山西省-吕梁市-离石区-田家会街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/11/02/141102005.html
+141102006000	山西省-吕梁市-离石区-交口街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/11/02/141102006.html
+141102007000	山西省-吕梁市-离石区-西属巴街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/11/02/141102007.html
+141102100000	山西省-吕梁市-离石区-吴城镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/11/02/141102100.html
+141102101000	山西省-吕梁市-离石区-信义镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/11/02/141102101.html
+141102200000	山西省-吕梁市-离石区-红眼川乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/11/02/141102200.html
+141102201000	山西省-吕梁市-离石区-枣林乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/11/02/141102201.html
+141102202000	山西省-吕梁市-离石区-坪头乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/11/02/141102202.html

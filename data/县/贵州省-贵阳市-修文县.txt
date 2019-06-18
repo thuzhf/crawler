@@ -1,0 +1,12 @@
+520123100000	贵州省-贵阳市-修文县-龙场镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/52/01/23/520123100.html
+520123101000	贵州省-贵阳市-修文县-扎佐镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/52/01/23/520123101.html
+520123102000	贵州省-贵阳市-修文县-久长镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/52/01/23/520123102.html
+520123103000	贵州省-贵阳市-修文县-六广镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/52/01/23/520123103.html
+520123104000	贵州省-贵阳市-修文县-六屯镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/52/01/23/520123104.html
+520123105000	贵州省-贵阳市-修文县-洒坪镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/52/01/23/520123105.html
+520123106000	贵州省-贵阳市-修文县-六桶镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/52/01/23/520123106.html
+520123107000	贵州省-贵阳市-修文县-谷堡镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/52/01/23/520123107.html
+520123108000	贵州省-贵阳市-修文县-小箐镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/52/01/23/520123108.html
+520123204000	贵州省-贵阳市-修文县-大石布依族乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/52/01/23/520123204.html
+520123400000	贵州省-贵阳市-修文县-龙岗社区服务中心	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/52/01/23/520123400.html
+520123401000	贵州省-贵阳市-修文县-珍珠河社区服务中心	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/52/01/23/520123401.html

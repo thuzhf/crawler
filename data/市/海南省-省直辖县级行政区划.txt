@@ -1,0 +1,15 @@
+469001000000	海南省-省直辖县级行政区划-五指山市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/46/90/469001.html
+469002000000	海南省-省直辖县级行政区划-琼海市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/46/90/469002.html
+469005000000	海南省-省直辖县级行政区划-文昌市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/46/90/469005.html
+469006000000	海南省-省直辖县级行政区划-万宁市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/46/90/469006.html
+469007000000	海南省-省直辖县级行政区划-东方市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/46/90/469007.html
+469021000000	海南省-省直辖县级行政区划-定安县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/46/90/469021.html
+469022000000	海南省-省直辖县级行政区划-屯昌县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/46/90/469022.html
+469023000000	海南省-省直辖县级行政区划-澄迈县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/46/90/469023.html
+469024000000	海南省-省直辖县级行政区划-临高县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/46/90/469024.html
+469025000000	海南省-省直辖县级行政区划-白沙黎族自治县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/46/90/469025.html
+469026000000	海南省-省直辖县级行政区划-昌江黎族自治县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/46/90/469026.html
+469027000000	海南省-省直辖县级行政区划-乐东黎族自治县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/46/90/469027.html
+469028000000	海南省-省直辖县级行政区划-陵水黎族自治县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/46/90/469028.html
+469029000000	海南省-省直辖县级行政区划-保亭黎族苗族自治县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/46/90/469029.html
+469030000000	海南省-省直辖县级行政区划-琼中黎族苗族自治县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/46/90/469030.html

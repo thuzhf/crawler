@@ -1,0 +1,14 @@
+420682001000	湖北省-襄阳市-老河口市-光化街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/06/82/420682001.html
+420682002000	湖北省-襄阳市-老河口市-酂阳街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/06/82/420682002.html
+420682100000	湖北省-襄阳市-老河口市-孟楼镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/06/82/420682100.html
+420682101000	湖北省-襄阳市-老河口市-竹林桥镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/06/82/420682101.html
+420682102000	湖北省-襄阳市-老河口市-薛集镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/06/82/420682102.html
+420682103000	湖北省-襄阳市-老河口市-张集镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/06/82/420682103.html
+420682104000	湖北省-襄阳市-老河口市-仙人渡镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/06/82/420682104.html
+420682105000	湖北省-襄阳市-老河口市-洪山嘴镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/06/82/420682105.html
+420682106000	湖北省-襄阳市-老河口市-李楼镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/06/82/420682106.html
+420682200000	湖北省-襄阳市-老河口市-袁冲乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/06/82/420682200.html
+420682501000	湖北省-襄阳市-老河口市-蔬菜原种场	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/06/82/420682501.html
+420682502000	湖北省-襄阳市-老河口市-百花山林场	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/06/82/420682502.html
+420682503000	湖北省-襄阳市-老河口市-林茂山林场	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/06/82/420682503.html
+420682504000	湖北省-襄阳市-老河口市-二房营原种场	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/06/82/420682504.html

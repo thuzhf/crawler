@@ -1,0 +1,14 @@
+350101000000	福建省-福州市-市辖区	
+350102000000	福建省-福州市-鼓楼区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/01/350102.html
+350103000000	福建省-福州市-台江区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/01/350103.html
+350104000000	福建省-福州市-仓山区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/01/350104.html
+350105000000	福建省-福州市-马尾区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/01/350105.html
+350111000000	福建省-福州市-晋安区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/01/350111.html
+350112000000	福建省-福州市-长乐区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/01/350112.html
+350121000000	福建省-福州市-闽侯县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/01/350121.html
+350122000000	福建省-福州市-连江县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/01/350122.html
+350123000000	福建省-福州市-罗源县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/01/350123.html
+350124000000	福建省-福州市-闽清县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/01/350124.html
+350125000000	福建省-福州市-永泰县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/01/350125.html
+350128000000	福建省-福州市-平潭县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/01/350128.html
+350181000000	福建省-福州市-福清市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/01/350181.html

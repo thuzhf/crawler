@@ -1,0 +1,11 @@
+230826101000	黑龙江省-佳木斯市-桦川县-横头山镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/08/26/230826101.html
+230826103000	黑龙江省-佳木斯市-桦川县-苏家店镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/08/26/230826103.html
+230826104000	黑龙江省-佳木斯市-桦川县-悦来镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/08/26/230826104.html
+230826105000	黑龙江省-佳木斯市-桦川县-新城镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/08/26/230826105.html
+230826106000	黑龙江省-佳木斯市-桦川县-四马架镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/08/26/230826106.html
+230826201000	黑龙江省-佳木斯市-桦川县-东河乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/08/26/230826201.html
+230826202000	黑龙江省-佳木斯市-桦川县-梨丰乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/08/26/230826202.html
+230826205000	黑龙江省-佳木斯市-桦川县-创业乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/08/26/230826205.html
+230826207000	黑龙江省-佳木斯市-桦川县-星火乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/08/26/230826207.html
+230826500000	黑龙江省-佳木斯市-桦川县-江川农场	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/08/26/230826500.html
+230826501000	黑龙江省-佳木斯市-桦川县-宝山农场	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/08/26/230826501.html

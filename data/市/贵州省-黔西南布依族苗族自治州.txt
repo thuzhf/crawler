@@ -1,0 +1,8 @@
+522301000000	贵州省-黔西南布依族苗族自治州-兴义市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/52/23/522301.html
+522302000000	贵州省-黔西南布依族苗族自治州-兴仁市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/52/23/522302.html
+522323000000	贵州省-黔西南布依族苗族自治州-普安县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/52/23/522323.html
+522324000000	贵州省-黔西南布依族苗族自治州-晴隆县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/52/23/522324.html
+522325000000	贵州省-黔西南布依族苗族自治州-贞丰县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/52/23/522325.html
+522326000000	贵州省-黔西南布依族苗族自治州-望谟县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/52/23/522326.html
+522327000000	贵州省-黔西南布依族苗族自治州-册亨县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/52/23/522327.html
+522328000000	贵州省-黔西南布依族苗族自治州-安龙县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/52/23/522328.html

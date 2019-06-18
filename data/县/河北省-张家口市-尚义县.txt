@@ -1,0 +1,14 @@
+130725100000	河北省-张家口市-尚义县-南壕堑镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/07/25/130725100.html
+130725101000	河北省-张家口市-尚义县-大青沟镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/07/25/130725101.html
+130725102000	河北省-张家口市-尚义县-八道沟镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/07/25/130725102.html
+130725103000	河北省-张家口市-尚义县-红土梁镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/07/25/130725103.html
+130725104000	河北省-张家口市-尚义县-小蒜沟镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/07/25/130725104.html
+130725105000	河北省-张家口市-尚义县-三工地镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/07/25/130725105.html
+130725106000	河北省-张家口市-尚义县-满井镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/07/25/130725106.html
+130725200000	河北省-张家口市-尚义县-大营盘乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/07/25/130725200.html
+130725201000	河北省-张家口市-尚义县-大苏计乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/07/25/130725201.html
+130725202000	河北省-张家口市-尚义县-石井乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/07/25/130725202.html
+130725205000	河北省-张家口市-尚义县-七甲乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/07/25/130725205.html
+130725206000	河北省-张家口市-尚义县-套里庄乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/07/25/130725206.html
+130725207000	河北省-张家口市-尚义县-甲石河乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/07/25/130725207.html
+130725208000	河北省-张家口市-尚义县-下马圈乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/07/25/130725208.html

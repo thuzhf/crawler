@@ -1,0 +1,19 @@
+130201000000	河北省-唐山市-市辖区	
+130202000000	河北省-唐山市-路南区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/02/130202.html
+130203000000	河北省-唐山市-路北区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/02/130203.html
+130204000000	河北省-唐山市-古冶区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/02/130204.html
+130205000000	河北省-唐山市-开平区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/02/130205.html
+130207000000	河北省-唐山市-丰南区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/02/130207.html
+130208000000	河北省-唐山市-丰润区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/02/130208.html
+130209000000	河北省-唐山市-曹妃甸区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/02/130209.html
+130224000000	河北省-唐山市-滦南县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/02/130224.html
+130225000000	河北省-唐山市-乐亭县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/02/130225.html
+130227000000	河北省-唐山市-迁西县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/02/130227.html
+130229000000	河北省-唐山市-玉田县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/02/130229.html
+130271000000	河北省-唐山市-唐山市芦台经济技术开发区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/02/130271.html
+130272000000	河北省-唐山市-唐山市汉沽管理区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/02/130272.html
+130273000000	河北省-唐山市-唐山高新技术产业开发区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/02/130273.html
+130274000000	河北省-唐山市-河北唐山海港经济开发区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/02/130274.html
+130281000000	河北省-唐山市-遵化市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/02/130281.html
+130283000000	河北省-唐山市-迁安市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/02/130283.html
+130284000000	河北省-唐山市-滦州市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/02/130284.html

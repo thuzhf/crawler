@@ -1,0 +1,14 @@
+420501000000	湖北省-宜昌市-市辖区	
+420502000000	湖北省-宜昌市-西陵区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/05/420502.html
+420503000000	湖北省-宜昌市-伍家岗区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/05/420503.html
+420504000000	湖北省-宜昌市-点军区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/05/420504.html
+420505000000	湖北省-宜昌市-猇亭区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/05/420505.html
+420506000000	湖北省-宜昌市-夷陵区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/05/420506.html
+420525000000	湖北省-宜昌市-远安县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/05/420525.html
+420526000000	湖北省-宜昌市-兴山县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/05/420526.html
+420527000000	湖北省-宜昌市-秭归县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/05/420527.html
+420528000000	湖北省-宜昌市-长阳土家族自治县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/05/420528.html
+420529000000	湖北省-宜昌市-五峰土家族自治县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/05/420529.html
+420581000000	湖北省-宜昌市-宜都市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/05/420581.html
+420582000000	湖北省-宜昌市-当阳市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/05/420582.html
+420583000000	湖北省-宜昌市-枝江市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/05/420583.html

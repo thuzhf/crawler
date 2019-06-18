@@ -1,0 +1,14 @@
+410182001000	河南省-郑州市-荥阳市-索河街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/01/82/410182001.html
+410182002000	河南省-郑州市-荥阳市-京城路街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/01/82/410182002.html
+410182101000	河南省-郑州市-荥阳市-乔楼镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/01/82/410182101.html
+410182102000	河南省-郑州市-荥阳市-豫龙镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/01/82/410182102.html
+410182103000	河南省-郑州市-荥阳市-广武镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/01/82/410182103.html
+410182104000	河南省-郑州市-荥阳市-王村镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/01/82/410182104.html
+410182105000	河南省-郑州市-荥阳市-汜水镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/01/82/410182105.html
+410182106000	河南省-郑州市-荥阳市-高山镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/01/82/410182106.html
+410182108000	河南省-郑州市-荥阳市-刘河镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/01/82/410182108.html
+410182109000	河南省-郑州市-荥阳市-崔庙镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/01/82/410182109.html
+410182110000	河南省-郑州市-荥阳市-贾峪镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/01/82/410182110.html
+410182200000	河南省-郑州市-荥阳市-城关乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/01/82/410182200.html
+410182201000	河南省-郑州市-荥阳市-高村乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/01/82/410182201.html
+410182204000	河南省-郑州市-荥阳市-金寨回族乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/01/82/410182204.html

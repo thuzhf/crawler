@@ -1,0 +1,13 @@
+370612001000	山东省-烟台市-牟平区-宁海街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/06/12/370612001.html
+370612002000	山东省-烟台市-牟平区-文化街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/06/12/370612002.html
+370612004000	山东省-烟台市-牟平区-武宁街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/06/12/370612004.html
+370612005000	山东省-烟台市-牟平区-大窑街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/06/12/370612005.html
+370612006000	山东省-烟台市-牟平区-姜格庄街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/06/12/370612006.html
+370612101000	山东省-烟台市-牟平区-观水镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/06/12/370612101.html
+370612105000	山东省-烟台市-牟平区-龙泉镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/06/12/370612105.html
+370612106000	山东省-烟台市-牟平区-玉林店镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/06/12/370612106.html
+370612107000	山东省-烟台市-牟平区-水道镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/06/12/370612107.html
+370612109000	山东省-烟台市-牟平区-高陵镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/06/12/370612109.html
+370612110000	山东省-烟台市-牟平区-王格庄镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/06/12/370612110.html
+370612111000	山东省-烟台市-牟平区-昆嵛镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/06/12/370612111.html
+370612112000	山东省-烟台市-牟平区-莒格庄镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/06/12/370612112.html

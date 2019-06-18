@@ -1,0 +1,13 @@
+230522100000	黑龙江省-双鸭山市-友谊县-友谊镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/05/22/230522100.html
+230522101000	黑龙江省-双鸭山市-友谊县-兴隆镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/05/22/230522101.html
+230522102000	黑龙江省-双鸭山市-友谊县-龙山镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/05/22/230522102.html
+230522103000	黑龙江省-双鸭山市-友谊县-凤岗镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/05/22/230522103.html
+230522200000	黑龙江省-双鸭山市-友谊县-兴盛乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/05/22/230522200.html
+230522201000	黑龙江省-双鸭山市-友谊县-东建乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/05/22/230522201.html
+230522202000	黑龙江省-双鸭山市-友谊县-庆丰乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/05/22/230522202.html
+230522203000	黑龙江省-双鸭山市-友谊县-建设乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/05/22/230522203.html
+230522204000	黑龙江省-双鸭山市-友谊县-友邻乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/05/22/230522204.html
+230522205000	黑龙江省-双鸭山市-友谊县-新镇乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/05/22/230522205.html
+230522206000	黑龙江省-双鸭山市-友谊县-成富朝鲜族满族乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/05/22/230522206.html
+230522501000	黑龙江省-双鸭山市-友谊县-红兴隆管理局局直	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/05/22/230522501.html
+230522502000	黑龙江省-双鸭山市-友谊县-友谊农场	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/05/22/230522502.html

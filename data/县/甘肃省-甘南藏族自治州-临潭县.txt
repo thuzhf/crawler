@@ -1,0 +1,16 @@
+623021100000	甘肃省-甘南藏族自治州-临潭县-城关镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/62/30/21/623021100.html
+623021101000	甘肃省-甘南藏族自治州-临潭县-新城镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/62/30/21/623021101.html
+623021102000	甘肃省-甘南藏族自治州-临潭县-冶力关镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/62/30/21/623021102.html
+623021103000	甘肃省-甘南藏族自治州-临潭县-羊永镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/62/30/21/623021103.html
+623021104000	甘肃省-甘南藏族自治州-临潭县-王旗镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/62/30/21/623021104.html
+623021105000	甘肃省-甘南藏族自治州-临潭县-古战镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/62/30/21/623021105.html
+623021106000	甘肃省-甘南藏族自治州-临潭县-洮滨镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/62/30/21/623021106.html
+623021107000	甘肃省-甘南藏族自治州-临潭县-八角镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/62/30/21/623021107.html
+623021108000	甘肃省-甘南藏族自治州-临潭县-流顺镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/62/30/21/623021108.html
+623021109000	甘肃省-甘南藏族自治州-临潭县-店子镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/62/30/21/623021109.html
+623021110000	甘肃省-甘南藏族自治州-临潭县-羊沙镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/62/30/21/623021110.html
+623021200000	甘肃省-甘南藏族自治州-临潭县-术布乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/62/30/21/623021200.html
+623021202000	甘肃省-甘南藏族自治州-临潭县-卓洛乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/62/30/21/623021202.html
+623021203000	甘肃省-甘南藏族自治州-临潭县-长川乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/62/30/21/623021203.html
+623021208000	甘肃省-甘南藏族自治州-临潭县-三岔乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/62/30/21/623021208.html
+623021210000	甘肃省-甘南藏族自治州-临潭县-石门乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/62/30/21/623021210.html

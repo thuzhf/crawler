@@ -1,0 +1,15 @@
+211302001000	辽宁省-朝阳市-双塔区-南塔街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/13/02/211302001.html
+211302002000	辽宁省-朝阳市-双塔区-北塔街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/13/02/211302002.html
+211302003000	辽宁省-朝阳市-双塔区-前进街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/13/02/211302003.html
+211302004000	辽宁省-朝阳市-双塔区-凌河街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/13/02/211302004.html
+211302005000	辽宁省-朝阳市-双塔区-光明街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/13/02/211302005.html
+211302006000	辽宁省-朝阳市-双塔区-凌凤街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/13/02/211302006.html
+211302007000	辽宁省-朝阳市-双塔区-龙山街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/13/02/211302007.html
+211302008000	辽宁省-朝阳市-双塔区-站南街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/13/02/211302008.html
+211302009000	辽宁省-朝阳市-双塔区-红旗街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/13/02/211302009.html
+211302010000	辽宁省-朝阳市-双塔区-燕北街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/13/02/211302010.html
+211302011000	辽宁省-朝阳市-双塔区-燕都街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/13/02/211302011.html
+211302100000	辽宁省-朝阳市-双塔区-桃花吐镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/13/02/211302100.html
+211302101000	辽宁省-朝阳市-双塔区-他拉皋镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/13/02/211302101.html
+211302102000	辽宁省-朝阳市-双塔区-孙家湾镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/13/02/211302102.html
+211302205000	辽宁省-朝阳市-双塔区-长宝营子乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/13/02/211302205.html

@@ -1,0 +1,8 @@
+371311001000	山东省-临沂市-罗庄区-罗庄街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/13/11/371311001.html
+371311002000	山东省-临沂市-罗庄区-傅庄街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/13/11/371311002.html
+371311003000	山东省-临沂市-罗庄区-盛庄街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/13/11/371311003.html
+371311006000	山东省-临沂市-罗庄区-册山街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/13/11/371311006.html
+371311007000	山东省-临沂市-罗庄区-高都街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/13/11/371311007.html
+371311100000	山东省-临沂市-罗庄区-沂堂镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/13/11/371311100.html
+371311101000	山东省-临沂市-罗庄区-褚墩镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/13/11/371311101.html
+371311102000	山东省-临沂市-罗庄区-黄山镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/13/11/371311102.html

@@ -1,0 +1,12 @@
+341824100000	安徽省-宣城市-绩溪县-华阳镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/18/24/341824100.html
+341824101000	安徽省-宣城市-绩溪县-临溪镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/18/24/341824101.html
+341824102000	安徽省-宣城市-绩溪县-长安镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/18/24/341824102.html
+341824103000	安徽省-宣城市-绩溪县-上庄镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/18/24/341824103.html
+341824104000	安徽省-宣城市-绩溪县-扬溪镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/18/24/341824104.html
+341824105000	安徽省-宣城市-绩溪县-伏岭镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/18/24/341824105.html
+341824106000	安徽省-宣城市-绩溪县-金沙镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/18/24/341824106.html
+341824107000	安徽省-宣城市-绩溪县-瀛洲镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/18/24/341824107.html
+341824201000	安徽省-宣城市-绩溪县-板桥头乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/18/24/341824201.html
+341824202000	安徽省-宣城市-绩溪县-家朋乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/18/24/341824202.html
+341824203000	安徽省-宣城市-绩溪县-荆州乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/18/24/341824203.html
+341824400000	安徽省-宣城市-绩溪县-生态工业园区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/18/24/341824400.html

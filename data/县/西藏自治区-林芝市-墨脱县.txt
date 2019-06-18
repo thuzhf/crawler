@@ -1,0 +1,8 @@
+540423100000	西藏自治区-林芝市-墨脱县-墨脱镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/04/23/540423100.html
+540423200000	西藏自治区-林芝市-墨脱县-加热萨乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/04/23/540423200.html
+540423201000	西藏自治区-林芝市-墨脱县-甘登乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/04/23/540423201.html
+540423202000	西藏自治区-林芝市-墨脱县-达木珞巴民族乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/04/23/540423202.html
+540423203000	西藏自治区-林芝市-墨脱县-帮辛乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/04/23/540423203.html
+540423204000	西藏自治区-林芝市-墨脱县-格当乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/04/23/540423204.html
+540423205000	西藏自治区-林芝市-墨脱县-德兴乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/04/23/540423205.html
+540423206000	西藏自治区-林芝市-墨脱县-背崩乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/04/23/540423206.html

@@ -1,0 +1,11 @@
+130133100000	河北省-石家庄市-赵县-赵州镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/01/33/130133100.html
+130133101000	河北省-石家庄市-赵县-范庄镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/01/33/130133101.html
+130133102000	河北省-石家庄市-赵县-北王里镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/01/33/130133102.html
+130133103000	河北省-石家庄市-赵县-新寨店镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/01/33/130133103.html
+130133104000	河北省-石家庄市-赵县-韩村镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/01/33/130133104.html
+130133105000	河北省-石家庄市-赵县-南柏舍镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/01/33/130133105.html
+130133106000	河北省-石家庄市-赵县-沙河店镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/01/33/130133106.html
+130133200000	河北省-石家庄市-赵县-前大章乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/01/33/130133200.html
+130133201000	河北省-石家庄市-赵县-谢庄乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/01/33/130133201.html
+130133202000	河北省-石家庄市-赵县-高村乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/01/33/130133202.html
+130133203000	河北省-石家庄市-赵县-王西章乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/01/33/130133203.html

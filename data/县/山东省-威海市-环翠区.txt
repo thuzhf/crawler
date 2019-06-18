@@ -1,0 +1,8 @@
+371002001000	山东省-威海市-环翠区-环翠楼街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/10/02/371002001.html
+371002002000	山东省-威海市-环翠区-鲸园街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/10/02/371002002.html
+371002003000	山东省-威海市-环翠区-竹岛街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/10/02/371002003.html
+371002011000	山东省-威海市-环翠区-孙家疃街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/10/02/371002011.html
+371002100000	山东省-威海市-环翠区-张村镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/10/02/371002100.html
+371002101000	山东省-威海市-环翠区-羊亭镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/10/02/371002101.html
+371002102000	山东省-威海市-环翠区-温泉镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/10/02/371002102.html
+371002400000	山东省-威海市-环翠区-嵩山街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/10/02/371002400.html

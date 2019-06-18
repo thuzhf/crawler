@@ -1,0 +1,14 @@
+520303001000	贵州省-遵义市-汇川区-上海路街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/52/03/03/520303001.html
+520303002000	贵州省-遵义市-汇川区-洗马路街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/52/03/03/520303002.html
+520303003000	贵州省-遵义市-汇川区-大连路街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/52/03/03/520303003.html
+520303004000	贵州省-遵义市-汇川区-高桥街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/52/03/03/520303004.html
+520303005000	贵州省-遵义市-汇川区-董公寺街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/52/03/03/520303005.html
+520303006000	贵州省-遵义市-汇川区-高坪街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/52/03/03/520303006.html
+520303102000	贵州省-遵义市-汇川区-团泽镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/52/03/03/520303102.html
+520303104000	贵州省-遵义市-汇川区-板桥镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/52/03/03/520303104.html
+520303105000	贵州省-遵义市-汇川区-泗渡镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/52/03/03/520303105.html
+520303106000	贵州省-遵义市-汇川区-沙湾镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/52/03/03/520303106.html
+520303107000	贵州省-遵义市-汇川区-山盆镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/52/03/03/520303107.html
+520303108000	贵州省-遵义市-汇川区-芝麻镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/52/03/03/520303108.html
+520303109000	贵州省-遵义市-汇川区-松林镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/52/03/03/520303109.html
+520303110000	贵州省-遵义市-汇川区-毛石镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/52/03/03/520303110.html

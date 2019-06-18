@@ -1,0 +1,4 @@
+540523100000	西藏自治区-山南市-桑日县-桑日镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/05/23/540523100.html
+540523200000	西藏自治区-山南市-桑日县-增期乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/05/23/540523200.html
+540523201000	西藏自治区-山南市-桑日县-白堆乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/05/23/540523201.html
+540523202000	西藏自治区-山南市-桑日县-绒乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/05/23/540523202.html

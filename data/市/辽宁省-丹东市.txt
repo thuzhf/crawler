@@ -1,0 +1,7 @@
+210601000000	辽宁省-丹东市-市辖区	
+210602000000	辽宁省-丹东市-元宝区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/06/210602.html
+210603000000	辽宁省-丹东市-振兴区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/06/210603.html
+210604000000	辽宁省-丹东市-振安区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/06/210604.html
+210624000000	辽宁省-丹东市-宽甸满族自治县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/06/210624.html
+210681000000	辽宁省-丹东市-东港市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/06/210681.html
+210682000000	辽宁省-丹东市-凤城市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/06/210682.html

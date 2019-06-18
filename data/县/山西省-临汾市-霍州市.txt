@@ -1,0 +1,12 @@
+141082001000	山西省-临汾市-霍州市-鼓楼街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/10/82/141082001.html
+141082002000	山西省-临汾市-霍州市-北环路街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/10/82/141082002.html
+141082003000	山西省-临汾市-霍州市-南环路街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/10/82/141082003.html
+141082004000	山西省-临汾市-霍州市-开元街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/10/82/141082004.html
+141082005000	山西省-临汾市-霍州市-退沙街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/10/82/141082005.html
+141082100000	山西省-临汾市-霍州市-白龙镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/10/82/141082100.html
+141082101000	山西省-临汾市-霍州市-辛置镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/10/82/141082101.html
+141082102000	山西省-临汾市-霍州市-大张镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/10/82/141082102.html
+141082103000	山西省-临汾市-霍州市-李曹镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/10/82/141082103.html
+141082200000	山西省-临汾市-霍州市-陶唐峪乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/10/82/141082200.html
+141082201000	山西省-临汾市-霍州市-三教乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/10/82/141082201.html
+141082202000	山西省-临汾市-霍州市-师庄乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/10/82/141082202.html

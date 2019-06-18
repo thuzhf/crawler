@@ -1,0 +1,14 @@
+520181100000	贵州省-贵阳市-清镇市-红枫湖镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/52/01/81/520181100.html
+520181101000	贵州省-贵阳市-清镇市-站街镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/52/01/81/520181101.html
+520181102000	贵州省-贵阳市-清镇市-卫城镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/52/01/81/520181102.html
+520181103000	贵州省-贵阳市-清镇市-新店镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/52/01/81/520181103.html
+520181104000	贵州省-贵阳市-清镇市-暗流镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/52/01/81/520181104.html
+520181105000	贵州省-贵阳市-清镇市-犁倭镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/52/01/81/520181105.html
+520181201000	贵州省-贵阳市-清镇市-麦格苗族布依族乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/52/01/81/520181201.html
+520181203000	贵州省-贵阳市-清镇市-王庄布依族苗族乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/52/01/81/520181203.html
+520181204000	贵州省-贵阳市-清镇市-流长苗族乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/52/01/81/520181204.html
+520181400000	贵州省-贵阳市-清镇市-新岭社区服务中心	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/52/01/81/520181400.html
+520181401000	贵州省-贵阳市-清镇市-红塔社区服务中心	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/52/01/81/520181401.html
+520181402000	贵州省-贵阳市-清镇市-巢凤社区服务中心	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/52/01/81/520181402.html
+520181403000	贵州省-贵阳市-清镇市-百花社区服务中心	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/52/01/81/520181403.html
+520181405000	贵州省-贵阳市-清镇市-红新社区服务中心	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/52/01/81/520181405.html

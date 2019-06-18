@@ -1,0 +1,16 @@
+411330100000	河南省-南阳市-桐柏县-城关镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/13/30/411330100.html
+411330101000	河南省-南阳市-桐柏县-月河镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/13/30/411330101.html
+411330102000	河南省-南阳市-桐柏县-吴城镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/13/30/411330102.html
+411330103000	河南省-南阳市-桐柏县-固县镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/13/30/411330103.html
+411330104000	河南省-南阳市-桐柏县-毛集镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/13/30/411330104.html
+411330105000	河南省-南阳市-桐柏县-大河镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/13/30/411330105.html
+411330106000	河南省-南阳市-桐柏县-埠江镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/13/30/411330106.html
+411330107000	河南省-南阳市-桐柏县-平氏镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/13/30/411330107.html
+411330108000	河南省-南阳市-桐柏县-淮源镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/13/30/411330108.html
+411330109000	河南省-南阳市-桐柏县-黄岗镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/13/30/411330109.html
+411330110000	河南省-南阳市-桐柏县-安棚镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/13/30/411330110.html
+411330111000	河南省-南阳市-桐柏县-朱庄镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/13/30/411330111.html
+411330112000	河南省-南阳市-桐柏县-程湾镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/13/30/411330112.html
+411330300000	河南省-南阳市-桐柏县-城郊乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/13/30/411330300.html
+411330301000	河南省-南阳市-桐柏县-回龙乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/13/30/411330301.html
+411330306000	河南省-南阳市-桐柏县-新集乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/13/30/411330306.html

@@ -1,0 +1,13 @@
+540624100000	西藏自治区-那曲市-安多县-帕那镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/06/24/540624100.html
+540624101000	西藏自治区-那曲市-安多县-强玛镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/06/24/540624101.html
+540624102000	西藏自治区-那曲市-安多县-扎仁镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/06/24/540624102.html
+540624103000	西藏自治区-那曲市-安多县-雁石坪镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/06/24/540624103.html
+540624201000	西藏自治区-那曲市-安多县-多玛乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/06/24/540624201.html
+540624202000	西藏自治区-那曲市-安多县-玛曲乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/06/24/540624202.html
+540624205000	西藏自治区-那曲市-安多县-滩堆乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/06/24/540624205.html
+540624207000	西藏自治区-那曲市-安多县-帮爱乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/06/24/540624207.html
+540624209000	西藏自治区-那曲市-安多县-玛荣乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/06/24/540624209.html
+540624210000	西藏自治区-那曲市-安多县-扎曲乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/06/24/540624210.html
+540624211000	西藏自治区-那曲市-安多县-色务乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/06/24/540624211.html
+540624212000	西藏自治区-那曲市-安多县-措玛乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/06/24/540624212.html
+540624213000	西藏自治区-那曲市-安多县-岗尼乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/06/24/540624213.html

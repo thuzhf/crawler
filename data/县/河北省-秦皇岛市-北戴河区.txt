@@ -1,0 +1,5 @@
+130304001000	河北省-秦皇岛市-北戴河区-西山街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/03/04/130304001.html
+130304002000	河北省-秦皇岛市-北戴河区-东山街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/03/04/130304002.html
+130304100000	河北省-秦皇岛市-北戴河区-海滨镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/03/04/130304100.html
+130304101000	河北省-秦皇岛市-北戴河区-戴河镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/03/04/130304101.html
+130304103000	河北省-秦皇岛市-北戴河区-牛头崖镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/03/04/130304103.html

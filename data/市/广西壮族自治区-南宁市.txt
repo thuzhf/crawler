@@ -1,0 +1,13 @@
+450101000000	广西壮族自治区-南宁市-市辖区	
+450102000000	广西壮族自治区-南宁市-兴宁区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/01/450102.html
+450103000000	广西壮族自治区-南宁市-青秀区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/01/450103.html
+450105000000	广西壮族自治区-南宁市-江南区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/01/450105.html
+450107000000	广西壮族自治区-南宁市-西乡塘区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/01/450107.html
+450108000000	广西壮族自治区-南宁市-良庆区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/01/450108.html
+450109000000	广西壮族自治区-南宁市-邕宁区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/01/450109.html
+450110000000	广西壮族自治区-南宁市-武鸣区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/01/450110.html
+450123000000	广西壮族自治区-南宁市-隆安县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/01/450123.html
+450124000000	广西壮族自治区-南宁市-马山县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/01/450124.html
+450125000000	广西壮族自治区-南宁市-上林县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/01/450125.html
+450126000000	广西壮族自治区-南宁市-宾阳县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/01/450126.html
+450127000000	广西壮族自治区-南宁市-横县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/01/450127.html

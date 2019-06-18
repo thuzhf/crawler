@@ -1,0 +1,10 @@
+620402001000	甘肃省-白银市-白银区-人民路街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/62/04/02/620402001.html
+620402002000	甘肃省-白银市-白银区-公园路街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/62/04/02/620402002.html
+620402003000	甘肃省-白银市-白银区-四龙路街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/62/04/02/620402003.html
+620402004000	甘肃省-白银市-白银区-工农路街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/62/04/02/620402004.html
+620402005000	甘肃省-白银市-白银区-纺织路街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/62/04/02/620402005.html
+620402100000	甘肃省-白银市-白银区-水川镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/62/04/02/620402100.html
+620402101000	甘肃省-白银市-白银区-四龙镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/62/04/02/620402101.html
+620402102000	甘肃省-白银市-白银区-王岘镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/62/04/02/620402102.html
+620402201000	甘肃省-白银市-白银区-强湾乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/62/04/02/620402201.html
+620402202000	甘肃省-白银市-白银区-武川乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/62/04/02/620402202.html

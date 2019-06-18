@@ -1,0 +1,12 @@
+500229000000	重庆市-县-城口县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/50/02/500229.html
+500230000000	重庆市-县-丰都县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/50/02/500230.html
+500231000000	重庆市-县-垫江县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/50/02/500231.html
+500233000000	重庆市-县-忠县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/50/02/500233.html
+500235000000	重庆市-县-云阳县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/50/02/500235.html
+500236000000	重庆市-县-奉节县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/50/02/500236.html
+500237000000	重庆市-县-巫山县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/50/02/500237.html
+500238000000	重庆市-县-巫溪县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/50/02/500238.html
+500240000000	重庆市-县-石柱土家族自治县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/50/02/500240.html
+500241000000	重庆市-县-秀山土家族苗族自治县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/50/02/500241.html
+500242000000	重庆市-县-酉阳土家族苗族自治县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/50/02/500242.html
+500243000000	重庆市-县-彭水苗族土家族自治县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/50/02/500243.html

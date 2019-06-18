@@ -1,0 +1,13 @@
+140603100000	山西省-朔州市-平鲁区-井坪镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/06/03/140603100.html
+140603101000	山西省-朔州市-平鲁区-凤凰城镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/06/03/140603101.html
+140603200000	山西省-朔州市-平鲁区-白堂乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/06/03/140603200.html
+140603201000	山西省-朔州市-平鲁区-陶村乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/06/03/140603201.html
+140603202000	山西省-朔州市-平鲁区-下水头乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/06/03/140603202.html
+140603203000	山西省-朔州市-平鲁区-双碾乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/06/03/140603203.html
+140603204000	山西省-朔州市-平鲁区-阻虎乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/06/03/140603204.html
+140603205000	山西省-朔州市-平鲁区-高石庄乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/06/03/140603205.html
+140603206000	山西省-朔州市-平鲁区-西水界乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/06/03/140603206.html
+140603207000	山西省-朔州市-平鲁区-下面高乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/06/03/140603207.html
+140603208000	山西省-朔州市-平鲁区-下木角乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/06/03/140603208.html
+140603209000	山西省-朔州市-平鲁区-向阳堡乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/06/03/140603209.html
+140603210000	山西省-朔州市-平鲁区-榆岭乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/06/03/140603210.html

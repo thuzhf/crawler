@@ -1,0 +1,17 @@
+230201000000	黑龙江省-齐齐哈尔市-市辖区	
+230202000000	黑龙江省-齐齐哈尔市-龙沙区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/02/230202.html
+230203000000	黑龙江省-齐齐哈尔市-建华区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/02/230203.html
+230204000000	黑龙江省-齐齐哈尔市-铁锋区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/02/230204.html
+230205000000	黑龙江省-齐齐哈尔市-昂昂溪区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/02/230205.html
+230206000000	黑龙江省-齐齐哈尔市-富拉尔基区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/02/230206.html
+230207000000	黑龙江省-齐齐哈尔市-碾子山区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/02/230207.html
+230208000000	黑龙江省-齐齐哈尔市-梅里斯达斡尔族区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/02/230208.html
+230221000000	黑龙江省-齐齐哈尔市-龙江县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/02/230221.html
+230223000000	黑龙江省-齐齐哈尔市-依安县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/02/230223.html
+230224000000	黑龙江省-齐齐哈尔市-泰来县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/02/230224.html
+230225000000	黑龙江省-齐齐哈尔市-甘南县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/02/230225.html
+230227000000	黑龙江省-齐齐哈尔市-富裕县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/02/230227.html
+230229000000	黑龙江省-齐齐哈尔市-克山县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/02/230229.html
+230230000000	黑龙江省-齐齐哈尔市-克东县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/02/230230.html
+230231000000	黑龙江省-齐齐哈尔市-拜泉县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/02/230231.html
+230281000000	黑龙江省-齐齐哈尔市-讷河市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/02/230281.html

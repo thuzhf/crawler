@@ -1,0 +1,16 @@
+350121001000	福建省-福州市-闽侯县-甘蔗街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/01/21/350121001.html
+350121101000	福建省-福州市-闽侯县-白沙镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/01/21/350121101.html
+350121102000	福建省-福州市-闽侯县-南屿镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/01/21/350121102.html
+350121103000	福建省-福州市-闽侯县-尚干镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/01/21/350121103.html
+350121104000	福建省-福州市-闽侯县-祥谦镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/01/21/350121104.html
+350121105000	福建省-福州市-闽侯县-青口镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/01/21/350121105.html
+350121106000	福建省-福州市-闽侯县-南通镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/01/21/350121106.html
+350121107000	福建省-福州市-闽侯县-上街镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/01/21/350121107.html
+350121108000	福建省-福州市-闽侯县-荆溪镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/01/21/350121108.html
+350121200000	福建省-福州市-闽侯县-竹岐乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/01/21/350121200.html
+350121201000	福建省-福州市-闽侯县-鸿尾乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/01/21/350121201.html
+350121202000	福建省-福州市-闽侯县-洋里乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/01/21/350121202.html
+350121203000	福建省-福州市-闽侯县-大湖乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/01/21/350121203.html
+350121204000	福建省-福州市-闽侯县-廷坪乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/01/21/350121204.html
+350121206000	福建省-福州市-闽侯县-小箬乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/01/21/350121206.html
+350121400000	福建省-福州市-闽侯县-江洋农场	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/01/21/350121400.html

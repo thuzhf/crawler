@@ -1,0 +1,4 @@
+520201000000	贵州省-六盘水市-钟山区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/52/02/520201.html
+520203000000	贵州省-六盘水市-六枝特区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/52/02/520203.html
+520221000000	贵州省-六盘水市-水城县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/52/02/520221.html
+520281000000	贵州省-六盘水市-盘州市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/52/02/520281.html

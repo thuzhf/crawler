@@ -1,0 +1,12 @@
+520113100000	贵州省-贵阳市-白云区-艳山红镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/52/01/13/520113100.html
+520113101000	贵州省-贵阳市-白云区-麦架镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/52/01/13/520113101.html
+520113102000	贵州省-贵阳市-白云区-沙文镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/52/01/13/520113102.html
+520113200000	贵州省-贵阳市-白云区-都拉布依族乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/52/01/13/520113200.html
+520113201000	贵州省-贵阳市-白云区-牛场布依族乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/52/01/13/520113201.html
+520113400000	贵州省-贵阳市-白云区-红云社区服务中心	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/52/01/13/520113400.html
+520113401000	贵州省-贵阳市-白云区-大山洞社区服务中心	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/52/01/13/520113401.html
+520113402000	贵州省-贵阳市-白云区-艳山红社区服务中心	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/52/01/13/520113402.html
+520113403000	贵州省-贵阳市-白云区-铝兴社区服务中心	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/52/01/13/520113403.html
+520113404000	贵州省-贵阳市-白云区-白沙关社区服务中心	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/52/01/13/520113404.html
+520113405000	贵州省-贵阳市-白云区-都新社区服务中心	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/52/01/13/520113405.html
+520113406000	贵州省-贵阳市-白云区-贵阳市白云区泉湖社区服务中心	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/52/01/13/520113406.html

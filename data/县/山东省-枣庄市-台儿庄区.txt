@@ -1,0 +1,6 @@
+370405001000	山东省-枣庄市-台儿庄区-运河街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/04/05/370405001.html
+370405100000	山东省-枣庄市-台儿庄区-邳庄镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/04/05/370405100.html
+370405101000	山东省-枣庄市-台儿庄区-张山子镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/04/05/370405101.html
+370405102000	山东省-枣庄市-台儿庄区-泥沟镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/04/05/370405102.html
+370405103000	山东省-枣庄市-台儿庄区-涧头集镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/04/05/370405103.html
+370405104000	山东省-枣庄市-台儿庄区-马兰屯镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/04/05/370405104.html

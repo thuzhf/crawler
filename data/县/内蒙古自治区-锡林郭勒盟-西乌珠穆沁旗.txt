@@ -1,0 +1,9 @@
+152526100000	内蒙古自治区-锡林郭勒盟-西乌珠穆沁旗-巴拉嘎尔高勒镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/25/26/152526100.html
+152526101000	内蒙古自治区-锡林郭勒盟-西乌珠穆沁旗-巴彦花镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/25/26/152526101.html
+152526102000	内蒙古自治区-锡林郭勒盟-西乌珠穆沁旗-吉仁高勒镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/25/26/152526102.html
+152526103000	内蒙古自治区-锡林郭勒盟-西乌珠穆沁旗-浩勒图高勒镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/25/26/152526103.html
+152526104000	内蒙古自治区-锡林郭勒盟-西乌珠穆沁旗-高日罕镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/25/26/152526104.html
+152526200000	内蒙古自治区-锡林郭勒盟-西乌珠穆沁旗-巴彦胡舒苏木	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/25/26/152526200.html
+152526201000	内蒙古自治区-锡林郭勒盟-西乌珠穆沁旗-乌兰哈拉嘎苏木	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/25/26/152526201.html
+152526400000	内蒙古自治区-锡林郭勒盟-西乌珠穆沁旗-西乌旗白音华能源化工园区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/25/26/152526400.html
+152526500000	内蒙古自治区-锡林郭勒盟-西乌珠穆沁旗-林业总场	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/25/26/152526500.html

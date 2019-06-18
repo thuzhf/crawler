@@ -1,0 +1,15 @@
+445102001000	广东省-潮州市-湘桥区-湘桥街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/51/02/445102001.html
+445102002000	广东省-潮州市-湘桥区-西湖街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/51/02/445102002.html
+445102003000	广东省-潮州市-湘桥区-金山街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/51/02/445102003.html
+445102004000	广东省-潮州市-湘桥区-太平街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/51/02/445102004.html
+445102005000	广东省-潮州市-湘桥区-南春街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/51/02/445102005.html
+445102006000	广东省-潮州市-湘桥区-西新街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/51/02/445102006.html
+445102007000	广东省-潮州市-湘桥区-桥东街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/51/02/445102007.html
+445102008000	广东省-潮州市-湘桥区-城西街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/51/02/445102008.html
+445102009000	广东省-潮州市-湘桥区-凤新街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/51/02/445102009.html
+445102100000	广东省-潮州市-湘桥区-意溪镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/51/02/445102100.html
+445102111000	广东省-潮州市-湘桥区-磷溪镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/51/02/445102111.html
+445102112000	广东省-潮州市-湘桥区-铁铺镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/51/02/445102112.html
+445102113000	广东省-潮州市-湘桥区-官塘镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/51/02/445102113.html
+445102400000	广东省-潮州市-湘桥区-红山林场	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/51/02/445102400.html
+445102401000	广东省-潮州市-湘桥区-开发区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/51/02/445102401.html

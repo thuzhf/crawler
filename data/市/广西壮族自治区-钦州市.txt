@@ -1,0 +1,5 @@
+450701000000	广西壮族自治区-钦州市-市辖区	
+450702000000	广西壮族自治区-钦州市-钦南区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/07/450702.html
+450703000000	广西壮族自治区-钦州市-钦北区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/07/450703.html
+450721000000	广西壮族自治区-钦州市-灵山县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/07/450721.html
+450722000000	广西壮族自治区-钦州市-浦北县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/07/450722.html

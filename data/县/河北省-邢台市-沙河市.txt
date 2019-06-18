@@ -1,0 +1,13 @@
+130582001000	河北省-邢台市-沙河市-褡裢街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/05/82/130582001.html
+130582002000	河北省-邢台市-沙河市-桥东街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/05/82/130582002.html
+130582003000	河北省-邢台市-沙河市-桥西街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/05/82/130582003.html
+130582004000	河北省-邢台市-沙河市-赞善办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/05/82/130582004.html
+130582005000	河北省-邢台市-沙河市-周庄街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/05/82/130582005.html
+130582101000	河北省-邢台市-沙河市-新城镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/05/82/130582101.html
+130582102000	河北省-邢台市-沙河市-白塔镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/05/82/130582102.html
+130582103000	河北省-邢台市-沙河市-十里亭镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/05/82/130582103.html
+130582104000	河北省-邢台市-沙河市-綦村镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/05/82/130582104.html
+130582201000	河北省-邢台市-沙河市-册井乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/05/82/130582201.html
+130582202000	河北省-邢台市-沙河市-刘石岗乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/05/82/130582202.html
+130582203000	河北省-邢台市-沙河市-柴关乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/05/82/130582203.html
+130582204000	河北省-邢台市-沙河市-蝉房乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/05/82/130582204.html

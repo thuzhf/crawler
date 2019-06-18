@@ -1,0 +1,5 @@
+430204001000	湖南省-株洲市-石峰区-田心街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/02/04/430204001.html
+430204002000	湖南省-株洲市-石峰区-响石岭街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/02/04/430204002.html
+430204003000	湖南省-株洲市-石峰区-清水塘街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/02/04/430204003.html
+430204004000	湖南省-株洲市-石峰区-铜塘湾街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/02/04/430204004.html
+430204005000	湖南省-株洲市-石峰区-井龙街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/02/04/430204005.html

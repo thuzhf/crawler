@@ -1,0 +1,10 @@
+440801000000	广东省-湛江市-市辖区	
+440802000000	广东省-湛江市-赤坎区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/08/440802.html
+440803000000	广东省-湛江市-霞山区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/08/440803.html
+440804000000	广东省-湛江市-坡头区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/08/440804.html
+440811000000	广东省-湛江市-麻章区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/08/440811.html
+440823000000	广东省-湛江市-遂溪县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/08/440823.html
+440825000000	广东省-湛江市-徐闻县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/08/440825.html
+440881000000	广东省-湛江市-廉江市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/08/440881.html
+440882000000	广东省-湛江市-雷州市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/08/440882.html
+440883000000	广东省-湛江市-吴川市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/08/440883.html

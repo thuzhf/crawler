@@ -1,0 +1,8 @@
+350801000000	福建省-龙岩市-市辖区	
+350802000000	福建省-龙岩市-新罗区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/08/350802.html
+350803000000	福建省-龙岩市-永定区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/08/350803.html
+350821000000	福建省-龙岩市-长汀县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/08/350821.html
+350823000000	福建省-龙岩市-上杭县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/08/350823.html
+350824000000	福建省-龙岩市-武平县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/08/350824.html
+350825000000	福建省-龙岩市-连城县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/08/350825.html
+350881000000	福建省-龙岩市-漳平市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/08/350881.html

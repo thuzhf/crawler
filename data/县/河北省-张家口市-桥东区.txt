@@ -1,0 +1,8 @@
+130702001000	河北省-张家口市-桥东区-红旗楼街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/07/02/130702001.html
+130702002000	河北省-张家口市-桥东区-胜利北路街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/07/02/130702002.html
+130702003000	河北省-张家口市-桥东区-五一路街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/07/02/130702003.html
+130702004000	河北省-张家口市-桥东区-花园街街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/07/02/130702004.html
+130702005000	河北省-张家口市-桥东区-工业路街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/07/02/130702005.html
+130702101000	河北省-张家口市-桥东区-姚家庄镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/07/02/130702101.html
+130702102000	河北省-张家口市-桥东区-大仓盖镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/07/02/130702102.html
+130702202000	河北省-张家口市-桥东区-东望山乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/07/02/130702202.html

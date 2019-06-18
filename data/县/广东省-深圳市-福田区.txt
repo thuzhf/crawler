@@ -1,0 +1,11 @@
+440304001000	广东省-深圳市-福田区-南园街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/03/04/440304001.html
+440304002000	广东省-深圳市-福田区-园岭街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/03/04/440304002.html
+440304004000	广东省-深圳市-福田区-福田街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/03/04/440304004.html
+440304005000	广东省-深圳市-福田区-沙头街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/03/04/440304005.html
+440304006000	广东省-深圳市-福田区-香蜜湖街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/03/04/440304006.html
+440304007000	广东省-深圳市-福田区-梅林街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/03/04/440304007.html
+440304008000	广东省-深圳市-福田区-莲花街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/03/04/440304008.html
+440304009000	广东省-深圳市-福田区-华富街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/03/04/440304009.html
+440304010000	广东省-深圳市-福田区-福保街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/03/04/440304010.html
+440304011000	广东省-深圳市-福田区-华强北街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/03/04/440304011.html
+440304400000	广东省-深圳市-福田区-福田保税区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/03/04/440304400.html

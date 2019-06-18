@@ -1,0 +1,10 @@
+530323001000	云南省-曲靖市-师宗县-丹凤街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/03/23/530323001.html
+530323002000	云南省-曲靖市-师宗县-漾月街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/03/23/530323002.html
+530323003000	云南省-曲靖市-师宗县-大同街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/03/23/530323003.html
+530323102000	云南省-曲靖市-师宗县-雄壁镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/03/23/530323102.html
+530323103000	云南省-曲靖市-师宗县-葵山镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/03/23/530323103.html
+530323104000	云南省-曲靖市-师宗县-彩云镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/03/23/530323104.html
+530323105000	云南省-曲靖市-师宗县-竹基镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/03/23/530323105.html
+530323202000	云南省-曲靖市-师宗县-龙庆彝族壮族乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/03/23/530323202.html
+530323203000	云南省-曲靖市-师宗县-五龙壮族乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/03/23/530323203.html
+530323204000	云南省-曲靖市-师宗县-高良壮族苗族瑶族乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/03/23/530323204.html

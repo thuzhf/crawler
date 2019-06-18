@@ -1,0 +1,13 @@
+410421001000	河南省-平顶山市-宝丰县-铁路街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/04/21/410421001.html
+410421100000	河南省-平顶山市-宝丰县-城关镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/04/21/410421100.html
+410421101000	河南省-平顶山市-宝丰县-周庄镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/04/21/410421101.html
+410421102000	河南省-平顶山市-宝丰县-闹店镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/04/21/410421102.html
+410421103000	河南省-平顶山市-宝丰县-石桥镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/04/21/410421103.html
+410421104000	河南省-平顶山市-宝丰县-商酒务镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/04/21/410421104.html
+410421105000	河南省-平顶山市-宝丰县-大营镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/04/21/410421105.html
+410421106000	河南省-平顶山市-宝丰县-张八桥镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/04/21/410421106.html
+410421107000	河南省-平顶山市-宝丰县-杨庄镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/04/21/410421107.html
+410421108000	河南省-平顶山市-宝丰县-赵庄镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/04/21/410421108.html
+410421200000	河南省-平顶山市-宝丰县-肖旗乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/04/21/410421200.html
+410421202000	河南省-平顶山市-宝丰县-前营乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/04/21/410421202.html
+410421203000	河南省-平顶山市-宝丰县-李庄乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/04/21/410421203.html

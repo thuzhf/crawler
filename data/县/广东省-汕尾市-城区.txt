@@ -1,0 +1,10 @@
+441502001000	广东省-汕尾市-城区-新港街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/15/02/441502001.html
+441502002000	广东省-汕尾市-城区-香洲街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/15/02/441502002.html
+441502003000	广东省-汕尾市-城区-凤山街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/15/02/441502003.html
+441502004000	广东省-汕尾市-城区-田墘街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/15/02/441502004.html
+441502005000	广东省-汕尾市-城区-东洲街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/15/02/441502005.html
+441502006000	广东省-汕尾市-城区-遮浪街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/15/02/441502006.html
+441502007000	广东省-汕尾市-城区-马宫街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/15/02/441502007.html
+441502100000	广东省-汕尾市-城区-红草镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/15/02/441502100.html
+441502102000	广东省-汕尾市-城区-东涌镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/15/02/441502102.html
+441502103000	广东省-汕尾市-城区-捷胜镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/15/02/441502103.html

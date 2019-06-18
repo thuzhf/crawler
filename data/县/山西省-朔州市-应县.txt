@@ -1,0 +1,12 @@
+140622100000	山西省-朔州市-应县-金城镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/06/22/140622100.html
+140622101000	山西省-朔州市-应县-南河种镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/06/22/140622101.html
+140622102000	山西省-朔州市-应县-下社镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/06/22/140622102.html
+140622200000	山西省-朔州市-应县-镇子梁乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/06/22/140622200.html
+140622201000	山西省-朔州市-应县-义井乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/06/22/140622201.html
+140622202000	山西省-朔州市-应县-藏寨乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/06/22/140622202.html
+140622203000	山西省-朔州市-应县-大黄巍乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/06/22/140622203.html
+140622204000	山西省-朔州市-应县-杏寨乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/06/22/140622204.html
+140622205000	山西省-朔州市-应县-下马峪乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/06/22/140622205.html
+140622206000	山西省-朔州市-应县-南泉乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/06/22/140622206.html
+140622207000	山西省-朔州市-应县-大临河乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/06/22/140622207.html
+140622208000	山西省-朔州市-应县-白马石乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/06/22/140622208.html

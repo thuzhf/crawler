@@ -1,0 +1,9 @@
+131125100000	河北省-衡水市-安平县-安平镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/11/25/131125100.html
+131125101000	河北省-衡水市-安平县-马店镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/11/25/131125101.html
+131125102000	河北省-衡水市-安平县-南王庄镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/11/25/131125102.html
+131125103000	河北省-衡水市-安平县-大子文镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/11/25/131125103.html
+131125104000	河北省-衡水市-安平县-东黄城镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/11/25/131125104.html
+131125200000	河北省-衡水市-安平县-大何庄乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/11/25/131125200.html
+131125201000	河北省-衡水市-安平县-程油子乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/11/25/131125201.html
+131125202000	河北省-衡水市-安平县-西两洼乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/11/25/131125202.html
+131125400000	河北省-衡水市-安平县-河北丝网工业园区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/11/25/131125400.html

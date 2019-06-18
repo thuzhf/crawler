@@ -1,0 +1,5 @@
+130107001000	河北省-石家庄市-井陉矿区-矿市街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/01/07/130107001.html
+130107002000	河北省-石家庄市-井陉矿区-四微街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/01/07/130107002.html
+130107100000	河北省-石家庄市-井陉矿区-贾庄镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/01/07/130107100.html
+130107101000	河北省-石家庄市-井陉矿区-凤山镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/01/07/130107101.html
+130107200000	河北省-石家庄市-井陉矿区-横涧乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/01/07/130107200.html

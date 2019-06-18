@@ -1,0 +1,10 @@
+510115001000	四川省-成都市-温江区-柳城街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/01/15/510115001.html
+510115002000	四川省-成都市-温江区-公平街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/01/15/510115002.html
+510115003000	四川省-成都市-温江区-涌泉街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/01/15/510115003.html
+510115004000	四川省-成都市-温江区-天府街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/01/15/510115004.html
+510115101000	四川省-成都市-温江区-和盛镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/01/15/510115101.html
+510115102000	四川省-成都市-温江区-永盛镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/01/15/510115102.html
+510115103000	四川省-成都市-温江区-金马镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/01/15/510115103.html
+510115104000	四川省-成都市-温江区-永宁镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/01/15/510115104.html
+510115105000	四川省-成都市-温江区-万春镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/01/15/510115105.html
+510115106000	四川省-成都市-温江区-寿安镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/01/15/510115106.html

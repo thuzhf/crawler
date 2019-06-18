@@ -1,0 +1,8 @@
+340302001000	安徽省-蚌埠市-龙子湖区-东风街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/03/02/340302001.html
+340302002000	安徽省-蚌埠市-龙子湖区-延安街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/03/02/340302002.html
+340302003000	安徽省-蚌埠市-龙子湖区-治淮街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/03/02/340302003.html
+340302004000	安徽省-蚌埠市-龙子湖区-东升街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/03/02/340302004.html
+340302005000	安徽省-蚌埠市-龙子湖区-解放街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/03/02/340302005.html
+340302006000	安徽省-蚌埠市-龙子湖区-曹山街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/03/02/340302006.html
+340302100000	安徽省-蚌埠市-龙子湖区-长淮卫镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/03/02/340302100.html
+340302200000	安徽省-蚌埠市-龙子湖区-李楼乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/03/02/340302200.html

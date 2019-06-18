@@ -1,0 +1,4 @@
+350105001000	福建省-福州市-马尾区-罗星街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/01/05/350105001.html
+350105100000	福建省-福州市-马尾区-马尾镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/01/05/350105100.html
+350105101000	福建省-福州市-马尾区-亭江镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/01/05/350105101.html
+350105102000	福建省-福州市-马尾区-琅岐镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/01/05/350105102.html

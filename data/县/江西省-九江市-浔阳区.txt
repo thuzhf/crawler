@@ -1,0 +1,8 @@
+360403001000	江西省-九江市-浔阳区-甘棠街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/04/03/360403001.html
+360403002000	江西省-九江市-浔阳区-湓浦街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/04/03/360403002.html
+360403003000	江西省-九江市-浔阳区-人民路街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/04/03/360403003.html
+360403004000	江西省-九江市-浔阳区-白水湖街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/04/03/360403004.html
+360403005000	江西省-九江市-浔阳区-金鸡坡街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/04/03/360403005.html
+360403091000	江西省-九江市-浔阳区-向阳街道办事处（九江经济技术开发区）	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/04/03/360403091.html
+360403092000	江西省-九江市-浔阳区-滨兴街道办事处（九江经济技术开发区）	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/04/03/360403092.html
+360403400000	江西省-九江市-浔阳区-茅山头企业集团（九江经济技术开发区）	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/04/03/360403400.html

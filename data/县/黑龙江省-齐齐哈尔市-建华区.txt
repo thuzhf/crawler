@@ -1,0 +1,6 @@
+230203002000	黑龙江省-齐齐哈尔市-建华区-中华街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/02/03/230203002.html
+230203004000	黑龙江省-齐齐哈尔市-建华区-西大桥街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/02/03/230203004.html
+230203005000	黑龙江省-齐齐哈尔市-建华区-卜奎街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/02/03/230203005.html
+230203006000	黑龙江省-齐齐哈尔市-建华区-建设街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/02/03/230203006.html
+230203007000	黑龙江省-齐齐哈尔市-建华区-文化街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/02/03/230203007.html
+230203198000	黑龙江省-齐齐哈尔市-建华区-建华区（镇）直辖地域	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/02/03/230203198.html

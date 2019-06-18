@@ -1,0 +1,13 @@
+540232100000	西藏自治区-日喀则市-仲巴县-帕羊镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/02/32/540232100.html
+540232200000	西藏自治区-日喀则市-仲巴县-拉让乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/02/32/540232200.html
+540232201000	西藏自治区-日喀则市-仲巴县-琼果乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/02/32/540232201.html
+540232202000	西藏自治区-日喀则市-仲巴县-亚热乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/02/32/540232202.html
+540232203000	西藏自治区-日喀则市-仲巴县-布多乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/02/32/540232203.html
+540232204000	西藏自治区-日喀则市-仲巴县-偏吉乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/02/32/540232204.html
+540232205000	西藏自治区-日喀则市-仲巴县-纳久乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/02/32/540232205.html
+540232206000	西藏自治区-日喀则市-仲巴县-吉拉乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/02/32/540232206.html
+540232207000	西藏自治区-日喀则市-仲巴县-霍尔巴乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/02/32/540232207.html
+540232208000	西藏自治区-日喀则市-仲巴县-隆格尔乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/02/32/540232208.html
+540232209000	西藏自治区-日喀则市-仲巴县-吉玛乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/02/32/540232209.html
+540232210000	西藏自治区-日喀则市-仲巴县-仁多乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/02/32/540232210.html
+540232211000	西藏自治区-日喀则市-仲巴县-帕江乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/02/32/540232211.html

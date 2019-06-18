@@ -1,0 +1,9 @@
+340802001000	安徽省-安庆市-迎江区-宜城路街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/08/02/340802001.html
+340802002000	安徽省-安庆市-迎江区-新河路街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/08/02/340802002.html
+340802003000	安徽省-安庆市-迎江区-华中路街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/08/02/340802003.html
+340802004000	安徽省-安庆市-迎江区-人民路街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/08/02/340802004.html
+340802005000	安徽省-安庆市-迎江区-孝肃路街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/08/02/340802005.html
+340802006000	安徽省-安庆市-迎江区-滨江街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/08/02/340802006.html
+340802200000	安徽省-安庆市-迎江区-龙狮桥乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/08/02/340802200.html
+340802201000	安徽省-安庆市-迎江区-长风乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/08/02/340802201.html
+340802202000	安徽省-安庆市-迎江区-新洲乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/08/02/340802202.html

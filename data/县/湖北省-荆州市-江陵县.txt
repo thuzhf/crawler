@@ -1,0 +1,11 @@
+421024100000	湖北省-荆州市-江陵县-资市镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/10/24/421024100.html
+421024102000	湖北省-荆州市-江陵县-熊河镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/10/24/421024102.html
+421024103000	湖北省-荆州市-江陵县-白马寺镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/10/24/421024103.html
+421024104000	湖北省-荆州市-江陵县-沙岗镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/10/24/421024104.html
+421024105000	湖北省-荆州市-江陵县-普济镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/10/24/421024105.html
+421024106000	湖北省-荆州市-江陵县-郝穴镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/10/24/421024106.html
+421024200000	湖北省-荆州市-江陵县-马家寨乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/10/24/421024200.html
+421024201000	湖北省-荆州市-江陵县-秦市乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/10/24/421024201.html
+421024450000	湖北省-荆州市-江陵县-江北监狱	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/10/24/421024450.html
+421024500000	湖北省-荆州市-江陵县-三湖管理区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/10/24/421024500.html
+421024501000	湖北省-荆州市-江陵县-六合垸管理区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/10/24/421024501.html

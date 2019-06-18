@@ -1,0 +1,11 @@
+650101000000	新疆维吾尔自治区-乌鲁木齐市-市辖区	
+650102000000	新疆维吾尔自治区-乌鲁木齐市-天山区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/01/650102.html
+650103000000	新疆维吾尔自治区-乌鲁木齐市-沙依巴克区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/01/650103.html
+650104000000	新疆维吾尔自治区-乌鲁木齐市-新市区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/01/650104.html
+650105000000	新疆维吾尔自治区-乌鲁木齐市-水磨沟区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/01/650105.html
+650106000000	新疆维吾尔自治区-乌鲁木齐市-头屯河区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/01/650106.html
+650107000000	新疆维吾尔自治区-乌鲁木齐市-达坂城区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/01/650107.html
+650109000000	新疆维吾尔自治区-乌鲁木齐市-米东区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/01/650109.html
+650121000000	新疆维吾尔自治区-乌鲁木齐市-乌鲁木齐县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/01/650121.html
+650171000000	新疆维吾尔自治区-乌鲁木齐市-乌鲁木齐经济技术开发区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/01/650171.html
+650172000000	新疆维吾尔自治区-乌鲁木齐市-乌鲁木齐高新技术产业开发区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/01/650172.html

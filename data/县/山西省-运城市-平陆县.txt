@@ -1,0 +1,10 @@
+140829100000	山西省-运城市-平陆县-圣人涧镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/08/29/140829100.html
+140829101000	山西省-运城市-平陆县-常乐镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/08/29/140829101.html
+140829102000	山西省-运城市-平陆县-张店镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/08/29/140829102.html
+140829103000	山西省-运城市-平陆县-张村镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/08/29/140829103.html
+140829104000	山西省-运城市-平陆县-曹川镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/08/29/140829104.html
+140829105000	山西省-运城市-平陆县-三门镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/08/29/140829105.html
+140829200000	山西省-运城市-平陆县-洪池乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/08/29/140829200.html
+140829201000	山西省-运城市-平陆县-杜马乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/08/29/140829201.html
+140829202000	山西省-运城市-平陆县-部官乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/08/29/140829202.html
+140829203000	山西省-运城市-平陆县-坡底乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/08/29/140829203.html

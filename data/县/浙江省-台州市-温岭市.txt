@@ -1,0 +1,17 @@
+331081001000	浙江省-台州市-温岭市-太平街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/10/81/331081001.html
+331081002000	浙江省-台州市-温岭市-城东街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/10/81/331081002.html
+331081003000	浙江省-台州市-温岭市-城西街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/10/81/331081003.html
+331081004000	浙江省-台州市-温岭市-城北街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/10/81/331081004.html
+331081005000	浙江省-台州市-温岭市-横峰街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/10/81/331081005.html
+331081100000	浙江省-台州市-温岭市-泽国镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/10/81/331081100.html
+331081101000	浙江省-台州市-温岭市-大溪镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/10/81/331081101.html
+331081102000	浙江省-台州市-温岭市-松门镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/10/81/331081102.html
+331081103000	浙江省-台州市-温岭市-箬横镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/10/81/331081103.html
+331081104000	浙江省-台州市-温岭市-新河镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/10/81/331081104.html
+331081105000	浙江省-台州市-温岭市-石塘镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/10/81/331081105.html
+331081106000	浙江省-台州市-温岭市-滨海镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/10/81/331081106.html
+331081107000	浙江省-台州市-温岭市-温峤镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/10/81/331081107.html
+331081108000	浙江省-台州市-温岭市-城南镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/10/81/331081108.html
+331081109000	浙江省-台州市-温岭市-石桥头镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/10/81/331081109.html
+331081110000	浙江省-台州市-温岭市-坞根镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/10/81/331081110.html
+331081400000	浙江省-台州市-温岭市-东部新区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/10/81/331081400.html

@@ -1,0 +1,6 @@
+640301000000	宁夏回族自治区-吴忠市-市辖区	
+640302000000	宁夏回族自治区-吴忠市-利通区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/64/03/640302.html
+640303000000	宁夏回族自治区-吴忠市-红寺堡区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/64/03/640303.html
+640323000000	宁夏回族自治区-吴忠市-盐池县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/64/03/640323.html
+640324000000	宁夏回族自治区-吴忠市-同心县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/64/03/640324.html
+640381000000	宁夏回族自治区-吴忠市-青铜峡市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/64/03/640381.html

@@ -1,0 +1,16 @@
+350881001000	福建省-龙岩市-漳平市-菁城街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/08/81/350881001.html
+350881002000	福建省-龙岩市-漳平市-桂林街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/08/81/350881002.html
+350881100000	福建省-龙岩市-漳平市-新桥镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/08/81/350881100.html
+350881101000	福建省-龙岩市-漳平市-双洋镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/08/81/350881101.html
+350881102000	福建省-龙岩市-漳平市-永福镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/08/81/350881102.html
+350881103000	福建省-龙岩市-漳平市-溪南镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/08/81/350881103.html
+350881104000	福建省-龙岩市-漳平市-和平镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/08/81/350881104.html
+350881105000	福建省-龙岩市-漳平市-拱桥镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/08/81/350881105.html
+350881106000	福建省-龙岩市-漳平市-象湖镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/08/81/350881106.html
+350881107000	福建省-龙岩市-漳平市-赤水镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/08/81/350881107.html
+350881108000	福建省-龙岩市-漳平市-西园镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/08/81/350881108.html
+350881109000	福建省-龙岩市-漳平市-南洋镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/08/81/350881109.html
+350881110000	福建省-龙岩市-漳平市-芦芝镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/08/81/350881110.html
+350881203000	福建省-龙岩市-漳平市-官田乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/08/81/350881203.html
+350881204000	福建省-龙岩市-漳平市-吾祠乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/08/81/350881204.html
+350881205000	福建省-龙岩市-漳平市-灵地乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/08/81/350881205.html

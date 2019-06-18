@@ -1,0 +1,13 @@
+370302001000	山东省-淄博市-淄川区-般阳路街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/03/02/370302001.html
+370302002000	山东省-淄博市-淄川区-松龄路街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/03/02/370302002.html
+370302004000	山东省-淄博市-淄川区-钟楼街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/03/02/370302004.html
+370302005000	山东省-淄博市-淄川区-将军路街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/03/02/370302005.html
+370302102000	山东省-淄博市-淄川区-昆仑镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/03/02/370302102.html
+370302104000	山东省-淄博市-淄川区-岭子镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/03/02/370302104.html
+370302111000	山东省-淄博市-淄川区-西河镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/03/02/370302111.html
+370302112000	山东省-淄博市-淄川区-龙泉镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/03/02/370302112.html
+370302113000	山东省-淄博市-淄川区-寨里镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/03/02/370302113.html
+370302114000	山东省-淄博市-淄川区-罗村镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/03/02/370302114.html
+370302115000	山东省-淄博市-淄川区-洪山镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/03/02/370302115.html
+370302116000	山东省-淄博市-淄川区-双杨镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/03/02/370302116.html
+370302117000	山东省-淄博市-淄川区-太河镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/03/02/370302117.html

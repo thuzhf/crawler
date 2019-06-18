@@ -1,0 +1,6 @@
+350402001000	福建省-三明市-梅列区-列东街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/04/02/350402001.html
+350402002000	福建省-三明市-梅列区-列西街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/04/02/350402002.html
+350402003000	福建省-三明市-梅列区-徐碧街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/04/02/350402003.html
+350402100000	福建省-三明市-梅列区-陈大镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/04/02/350402100.html
+350402101000	福建省-三明市-梅列区-洋溪镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/04/02/350402101.html
+350402500000	福建省-三明市-梅列区-福建梅列经济开发区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/04/02/350402500.html

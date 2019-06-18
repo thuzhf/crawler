@@ -1,0 +1,12 @@
+310120001000	上海市-市辖区-奉贤区-西渡街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/31/01/20/310120001.html
+310120002000	上海市-市辖区-奉贤区-奉浦街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/31/01/20/310120002.html
+310120101000	上海市-市辖区-奉贤区-南桥镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/31/01/20/310120101.html
+310120102000	上海市-市辖区-奉贤区-奉城镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/31/01/20/310120102.html
+310120104000	上海市-市辖区-奉贤区-庄行镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/31/01/20/310120104.html
+310120106000	上海市-市辖区-奉贤区-金汇镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/31/01/20/310120106.html
+310120109000	上海市-市辖区-奉贤区-四团镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/31/01/20/310120109.html
+310120111000	上海市-市辖区-奉贤区-青村镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/31/01/20/310120111.html
+310120118000	上海市-市辖区-奉贤区-柘林镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/31/01/20/310120118.html
+310120123000	上海市-市辖区-奉贤区-海湾镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/31/01/20/310120123.html
+310120503000	上海市-市辖区-奉贤区-上海市奉贤区海湾旅游区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/31/01/20/310120503.html
+310120504000	上海市-市辖区-奉贤区-金海社区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/31/01/20/310120504.html

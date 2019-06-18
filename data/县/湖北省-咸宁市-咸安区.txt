@@ -1,0 +1,16 @@
+421202001000	湖北省-咸宁市-咸安区-温泉办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/12/02/421202001.html
+421202002000	湖北省-咸宁市-咸安区-浮山办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/12/02/421202002.html
+421202003000	湖北省-咸宁市-咸安区-永安办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/12/02/421202003.html
+421202100000	湖北省-咸宁市-咸安区-汀泗桥镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/12/02/421202100.html
+421202101000	湖北省-咸宁市-咸安区-向阳湖镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/12/02/421202101.html
+421202102000	湖北省-咸宁市-咸安区-官埠桥镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/12/02/421202102.html
+421202103000	湖北省-咸宁市-咸安区-横沟桥镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/12/02/421202103.html
+421202104000	湖北省-咸宁市-咸安区-贺胜桥镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/12/02/421202104.html
+421202105000	湖北省-咸宁市-咸安区-双溪桥镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/12/02/421202105.html
+421202106000	湖北省-咸宁市-咸安区-马桥镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/12/02/421202106.html
+421202107000	湖北省-咸宁市-咸安区-桂花镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/12/02/421202107.html
+421202108000	湖北省-咸宁市-咸安区-高桥镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/12/02/421202108.html
+421202200000	湖北省-咸宁市-咸安区-大幕乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/12/02/421202200.html
+421202450000	湖北省-咸宁市-咸安区-向阳湖奶牛良种场	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/12/02/421202450.html
+421202570000	湖北省-咸宁市-咸安区-咸宁市经济技术开发区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/12/02/421202570.html
+421202571000	湖北省-咸宁市-咸安区-湖北咸安经济开发区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/12/02/421202571.html

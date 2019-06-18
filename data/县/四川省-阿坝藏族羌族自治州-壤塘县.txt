@@ -1,0 +1,12 @@
+513230100000	四川省-阿坝藏族羌族自治州-壤塘县-壤柯镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/32/30/513230100.html
+513230101000	四川省-阿坝藏族羌族自治州-壤塘县-南木达镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/32/30/513230101.html
+513230102000	四川省-阿坝藏族羌族自治州-壤塘县-中壤塘镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/32/30/513230102.html
+513230200000	四川省-阿坝藏族羌族自治州-壤塘县-蒲西乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/32/30/513230200.html
+513230201000	四川省-阿坝藏族羌族自治州-壤塘县-宗科乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/32/30/513230201.html
+513230202000	四川省-阿坝藏族羌族自治州-壤塘县-石里乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/32/30/513230202.html
+513230203000	四川省-阿坝藏族羌族自治州-壤塘县-吾伊乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/32/30/513230203.html
+513230204000	四川省-阿坝藏族羌族自治州-壤塘县-岗木达乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/32/30/513230204.html
+513230205000	四川省-阿坝藏族羌族自治州-壤塘县-上杜柯乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/32/30/513230205.html
+513230206000	四川省-阿坝藏族羌族自治州-壤塘县-茸木达乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/32/30/513230206.html
+513230208000	四川省-阿坝藏族羌族自治州-壤塘县-尕多乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/32/30/513230208.html
+513230210000	四川省-阿坝藏族羌族自治州-壤塘县-上壤塘乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/32/30/513230210.html

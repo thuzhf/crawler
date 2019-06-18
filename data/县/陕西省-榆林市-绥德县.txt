@@ -1,0 +1,15 @@
+610826100000	陕西省-榆林市-绥德县-名州镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/61/08/26/610826100.html
+610826101000	陕西省-榆林市-绥德县-薛家峁镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/61/08/26/610826101.html
+610826102000	陕西省-榆林市-绥德县-崔家湾镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/61/08/26/610826102.html
+610826103000	陕西省-榆林市-绥德县-定仙墕镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/61/08/26/610826103.html
+610826104000	陕西省-榆林市-绥德县-枣林坪镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/61/08/26/610826104.html
+610826105000	陕西省-榆林市-绥德县-义合镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/61/08/26/610826105.html
+610826106000	陕西省-榆林市-绥德县-吉镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/61/08/26/610826106.html
+610826107000	陕西省-榆林市-绥德县-薛家河镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/61/08/26/610826107.html
+610826108000	陕西省-榆林市-绥德县-四十里铺镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/61/08/26/610826108.html
+610826109000	陕西省-榆林市-绥德县-石家湾镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/61/08/26/610826109.html
+610826110000	陕西省-榆林市-绥德县-田庄镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/61/08/26/610826110.html
+610826111000	陕西省-榆林市-绥德县-中角镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/61/08/26/610826111.html
+610826112000	陕西省-榆林市-绥德县-满堂川镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/61/08/26/610826112.html
+610826113000	陕西省-榆林市-绥德县-张家砭镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/61/08/26/610826113.html
+610826114000	陕西省-榆林市-绥德县-白家硷镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/61/08/26/610826114.html

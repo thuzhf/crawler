@@ -1,0 +1,6 @@
+330102001000	浙江省-杭州市-上城区-清波街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/01/02/330102001.html
+330102003000	浙江省-杭州市-上城区-湖滨街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/01/02/330102003.html
+330102004000	浙江省-杭州市-上城区-小营街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/01/02/330102004.html
+330102008000	浙江省-杭州市-上城区-南星街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/01/02/330102008.html
+330102009000	浙江省-杭州市-上城区-紫阳街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/01/02/330102009.html
+330102010000	浙江省-杭州市-上城区-望江街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/01/02/330102010.html

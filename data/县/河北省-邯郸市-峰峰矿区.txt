@@ -1,0 +1,11 @@
+130406001000	河北省-邯郸市-峰峰矿区-滏阳东路街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/04/06/130406001.html
+130406100000	河北省-邯郸市-峰峰矿区-临水镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/04/06/130406100.html
+130406101000	河北省-邯郸市-峰峰矿区-峰峰镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/04/06/130406101.html
+130406102000	河北省-邯郸市-峰峰矿区-新坡镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/04/06/130406102.html
+130406103000	河北省-邯郸市-峰峰矿区-大社镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/04/06/130406103.html
+130406104000	河北省-邯郸市-峰峰矿区-和村镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/04/06/130406104.html
+130406105000	河北省-邯郸市-峰峰矿区-义井镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/04/06/130406105.html
+130406106000	河北省-邯郸市-峰峰矿区-彭城镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/04/06/130406106.html
+130406107000	河北省-邯郸市-峰峰矿区-界城镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/04/06/130406107.html
+130406108000	河北省-邯郸市-峰峰矿区-大峪镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/04/06/130406108.html
+130406200000	河北省-邯郸市-峰峰矿区-西固义乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/04/06/130406200.html

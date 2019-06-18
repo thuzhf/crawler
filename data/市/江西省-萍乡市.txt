@@ -1,0 +1,6 @@
+360301000000	江西省-萍乡市-市辖区	
+360302000000	江西省-萍乡市-安源区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/03/360302.html
+360313000000	江西省-萍乡市-湘东区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/03/360313.html
+360321000000	江西省-萍乡市-莲花县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/03/360321.html
+360322000000	江西省-萍乡市-上栗县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/03/360322.html
+360323000000	江西省-萍乡市-芦溪县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/03/360323.html

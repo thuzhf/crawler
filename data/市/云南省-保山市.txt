@@ -1,0 +1,6 @@
+530501000000	云南省-保山市-市辖区	
+530502000000	云南省-保山市-隆阳区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/05/530502.html
+530521000000	云南省-保山市-施甸县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/05/530521.html
+530523000000	云南省-保山市-龙陵县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/05/530523.html
+530524000000	云南省-保山市-昌宁县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/05/530524.html
+530581000000	云南省-保山市-腾冲市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/05/530581.html

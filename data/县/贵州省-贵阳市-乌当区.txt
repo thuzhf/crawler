@@ -1,0 +1,13 @@
+520112101000	贵州省-贵阳市-乌当区-东风镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/52/01/12/520112101.html
+520112102000	贵州省-贵阳市-乌当区-水田镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/52/01/12/520112102.html
+520112103000	贵州省-贵阳市-乌当区-羊昌镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/52/01/12/520112103.html
+520112105000	贵州省-贵阳市-乌当区-下坝镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/52/01/12/520112105.html
+520112106000	贵州省-贵阳市-乌当区-新场镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/52/01/12/520112106.html
+520112107000	贵州省-贵阳市-乌当区-百宜镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/52/01/12/520112107.html
+520112203000	贵州省-贵阳市-乌当区-新堡布依族乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/52/01/12/520112203.html
+520112206000	贵州省-贵阳市-乌当区-偏坡布依族乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/52/01/12/520112206.html
+520112401000	贵州省-贵阳市-乌当区-顺新社区服务中心	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/52/01/12/520112401.html
+520112402000	贵州省-贵阳市-乌当区-新天社区服务中心	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/52/01/12/520112402.html
+520112403000	贵州省-贵阳市-乌当区-创新社区服务中心	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/52/01/12/520112403.html
+520112404000	贵州省-贵阳市-乌当区-振新社区服务中心	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/52/01/12/520112404.html
+520112405000	贵州省-贵阳市-乌当区-高新社区服务中心	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/52/01/12/520112405.html

@@ -1,0 +1,8 @@
+630101000000	青海省-西宁市-市辖区	
+630102000000	青海省-西宁市-城东区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/63/01/630102.html
+630103000000	青海省-西宁市-城中区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/63/01/630103.html
+630104000000	青海省-西宁市-城西区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/63/01/630104.html
+630105000000	青海省-西宁市-城北区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/63/01/630105.html
+630121000000	青海省-西宁市-大通回族土族自治县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/63/01/630121.html
+630122000000	青海省-西宁市-湟中县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/63/01/630122.html
+630123000000	青海省-西宁市-湟源县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/63/01/630123.html

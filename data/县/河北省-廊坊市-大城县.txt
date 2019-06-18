@@ -1,0 +1,11 @@
+131025100000	河北省-廊坊市-大城县-平舒镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/10/25/131025100.html
+131025101000	河北省-廊坊市-大城县-旺村镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/10/25/131025101.html
+131025102000	河北省-廊坊市-大城县-大尚屯镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/10/25/131025102.html
+131025103000	河北省-廊坊市-大城县-南赵扶镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/10/25/131025103.html
+131025104000	河北省-廊坊市-大城县-留各庄镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/10/25/131025104.html
+131025105000	河北省-廊坊市-大城县-权村镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/10/25/131025105.html
+131025106000	河北省-廊坊市-大城县-里坦镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/10/25/131025106.html
+131025107000	河北省-廊坊市-大城县-广安镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/10/25/131025107.html
+131025200000	河北省-廊坊市-大城县-北魏乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/10/25/131025200.html
+131025202000	河北省-廊坊市-大城县-臧屯乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/10/25/131025202.html
+131025400000	河北省-廊坊市-大城县-河北大城经济开发区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/10/25/131025400.html

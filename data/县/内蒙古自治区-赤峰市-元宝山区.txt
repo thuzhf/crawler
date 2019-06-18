@@ -1,0 +1,12 @@
+150403001000	内蒙古自治区-赤峰市-元宝山区-西露天街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/04/03/150403001.html
+150403002000	内蒙古自治区-赤峰市-元宝山区-平庄城区街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/04/03/150403002.html
+150403003000	内蒙古自治区-赤峰市-元宝山区-平庄东城街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/04/03/150403003.html
+150403004000	内蒙古自治区-赤峰市-元宝山区-平庄西城街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/04/03/150403004.html
+150403005000	内蒙古自治区-赤峰市-元宝山区-马林街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/04/03/150403005.html
+150403006000	内蒙古自治区-赤峰市-元宝山区-云杉路街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/04/03/150403006.html
+150403100000	内蒙古自治区-赤峰市-元宝山区-风水沟镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/04/03/150403100.html
+150403101000	内蒙古自治区-赤峰市-元宝山区-元宝山镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/04/03/150403101.html
+150403102000	内蒙古自治区-赤峰市-元宝山区-美丽河镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/04/03/150403102.html
+150403103000	内蒙古自治区-赤峰市-元宝山区-平庄镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/04/03/150403103.html
+150403104000	内蒙古自治区-赤峰市-元宝山区-五家镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/04/03/150403104.html
+150403200000	内蒙古自治区-赤峰市-元宝山区-小五家乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/04/03/150403200.html

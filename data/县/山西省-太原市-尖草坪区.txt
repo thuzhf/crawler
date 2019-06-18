@@ -1,0 +1,14 @@
+140108001000	山西省-太原市-尖草坪区-尖草坪街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/01/08/140108001.html
+140108002000	山西省-太原市-尖草坪区-光社街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/01/08/140108002.html
+140108003000	山西省-太原市-尖草坪区-上兰街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/01/08/140108003.html
+140108004000	山西省-太原市-尖草坪区-南寨街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/01/08/140108004.html
+140108005000	山西省-太原市-尖草坪区-迎新街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/01/08/140108005.html
+140108006000	山西省-太原市-尖草坪区-古城街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/01/08/140108006.html
+140108007000	山西省-太原市-尖草坪区-汇丰街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/01/08/140108007.html
+140108008000	山西省-太原市-尖草坪区-柴村街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/01/08/140108008.html
+140108009000	山西省-太原市-尖草坪区-新城街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/01/08/140108009.html
+140108100000	山西省-太原市-尖草坪区-向阳镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/01/08/140108100.html
+140108101000	山西省-太原市-尖草坪区-阳曲镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/01/08/140108101.html
+140108200000	山西省-太原市-尖草坪区-马头水乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/01/08/140108200.html
+140108201000	山西省-太原市-尖草坪区-柏板乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/01/08/140108201.html
+140108202000	山西省-太原市-尖草坪区-西焉乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/01/08/140108202.html

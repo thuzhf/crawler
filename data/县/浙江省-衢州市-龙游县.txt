@@ -1,0 +1,15 @@
+330825001000	浙江省-衢州市-龙游县-龙洲街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/08/25/330825001.html
+330825002000	浙江省-衢州市-龙游县-东华街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/08/25/330825002.html
+330825101000	浙江省-衢州市-龙游县-湖镇镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/08/25/330825101.html
+330825102000	浙江省-衢州市-龙游县-小南海镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/08/25/330825102.html
+330825106000	浙江省-衢州市-龙游县-詹家镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/08/25/330825106.html
+330825109000	浙江省-衢州市-龙游县-溪口镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/08/25/330825109.html
+330825110000	浙江省-衢州市-龙游县-横山镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/08/25/330825110.html
+330825111000	浙江省-衢州市-龙游县-塔石镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/08/25/330825111.html
+330825201000	浙江省-衢州市-龙游县-罗家乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/08/25/330825201.html
+330825203000	浙江省-衢州市-龙游县-庙下乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/08/25/330825203.html
+330825207000	浙江省-衢州市-龙游县-石佛乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/08/25/330825207.html
+330825209000	浙江省-衢州市-龙游县-社阳乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/08/25/330825209.html
+330825211000	浙江省-衢州市-龙游县-大街乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/08/25/330825211.html
+330825212000	浙江省-衢州市-龙游县-沐尘畲族乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/08/25/330825212.html
+330825213000	浙江省-衢州市-龙游县-模环乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/08/25/330825213.html

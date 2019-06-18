@@ -1,0 +1,8 @@
+210301000000	辽宁省-鞍山市-市辖区	
+210302000000	辽宁省-鞍山市-铁东区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/03/210302.html
+210303000000	辽宁省-鞍山市-铁西区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/03/210303.html
+210304000000	辽宁省-鞍山市-立山区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/03/210304.html
+210311000000	辽宁省-鞍山市-千山区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/03/210311.html
+210321000000	辽宁省-鞍山市-台安县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/03/210321.html
+210323000000	辽宁省-鞍山市-岫岩满族自治县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/03/210323.html
+210381000000	辽宁省-鞍山市-海城市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/03/210381.html

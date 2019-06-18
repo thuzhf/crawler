@@ -1,0 +1,6 @@
+510401000000	四川省-攀枝花市-市辖区	
+510402000000	四川省-攀枝花市-东区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/04/510402.html
+510403000000	四川省-攀枝花市-西区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/04/510403.html
+510411000000	四川省-攀枝花市-仁和区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/04/510411.html
+510421000000	四川省-攀枝花市-米易县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/04/510421.html
+510422000000	四川省-攀枝花市-盐边县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/04/510422.html

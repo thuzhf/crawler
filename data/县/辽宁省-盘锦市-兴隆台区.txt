@@ -1,0 +1,17 @@
+211103001000	辽宁省-盘锦市-兴隆台区-振兴街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/11/03/211103001.html
+211103002000	辽宁省-盘锦市-兴隆台区-兴隆街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/11/03/211103002.html
+211103003000	辽宁省-盘锦市-兴隆台区-渤海街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/11/03/211103003.html
+211103004000	辽宁省-盘锦市-兴隆台区-新工街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/11/03/211103004.html
+211103006000	辽宁省-盘锦市-兴隆台区-友谊街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/11/03/211103006.html
+211103007000	辽宁省-盘锦市-兴隆台区-曙光街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/11/03/211103007.html
+211103008000	辽宁省-盘锦市-兴隆台区-欢喜街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/11/03/211103008.html
+211103009000	辽宁省-盘锦市-兴隆台区-平安街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/11/03/211103009.html
+211103010000	辽宁省-盘锦市-兴隆台区-新生街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/11/03/211103010.html
+211103012000	辽宁省-盘锦市-兴隆台区-高升街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/11/03/211103012.html
+211103013000	辽宁省-盘锦市-兴隆台区-沈采街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/11/03/211103013.html
+211103014000	辽宁省-盘锦市-兴隆台区-锦采街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/11/03/211103014.html
+211103015000	辽宁省-盘锦市-兴隆台区-茨采街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/11/03/211103015.html
+211103016000	辽宁省-盘锦市-兴隆台区-创新街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/11/03/211103016.html
+211103017000	辽宁省-盘锦市-兴隆台区-兴盛街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/11/03/211103017.html
+211103018000	辽宁省-盘锦市-兴隆台区-兴海街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/11/03/211103018.html
+211103019000	辽宁省-盘锦市-兴隆台区-惠宾街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/11/03/211103019.html

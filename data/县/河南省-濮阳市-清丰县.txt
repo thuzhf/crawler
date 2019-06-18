@@ -1,0 +1,17 @@
+410922100000	河南省-濮阳市-清丰县-城关镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/09/22/410922100.html
+410922101000	河南省-濮阳市-清丰县-马庄桥镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/09/22/410922101.html
+410922102000	河南省-濮阳市-清丰县-瓦屋头镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/09/22/410922102.html
+410922103000	河南省-濮阳市-清丰县-仙庄镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/09/22/410922103.html
+410922104000	河南省-濮阳市-清丰县-柳格镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/09/22/410922104.html
+410922105000	河南省-濮阳市-清丰县-韩村镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/09/22/410922105.html
+410922200000	河南省-濮阳市-清丰县-六塔乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/09/22/410922200.html
+410922202000	河南省-濮阳市-清丰县-巩营乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/09/22/410922202.html
+410922203000	河南省-濮阳市-清丰县-马村乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/09/22/410922203.html
+410922204000	河南省-濮阳市-清丰县-高堡乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/09/22/410922204.html
+410922205000	河南省-濮阳市-清丰县-古城乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/09/22/410922205.html
+410922206000	河南省-濮阳市-清丰县-大流乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/09/22/410922206.html
+410922208000	河南省-濮阳市-清丰县-大屯乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/09/22/410922208.html
+410922209000	河南省-濮阳市-清丰县-固城乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/09/22/410922209.html
+410922212000	河南省-濮阳市-清丰县-双庙乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/09/22/410922212.html
+410922213000	河南省-濮阳市-清丰县-纸房乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/09/22/410922213.html
+410922214000	河南省-濮阳市-清丰县-阳邵乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/09/22/410922214.html

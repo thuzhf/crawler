@@ -1,0 +1,10 @@
+440301000000	广东省-深圳市-市辖区	
+440303000000	广东省-深圳市-罗湖区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/03/440303.html
+440304000000	广东省-深圳市-福田区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/03/440304.html
+440305000000	广东省-深圳市-南山区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/03/440305.html
+440306000000	广东省-深圳市-宝安区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/03/440306.html
+440307000000	广东省-深圳市-龙岗区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/03/440307.html
+440308000000	广东省-深圳市-盐田区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/03/440308.html
+440309000000	广东省-深圳市-龙华区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/03/440309.html
+440310000000	广东省-深圳市-坪山区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/03/440310.html
+440311000000	广东省-深圳市-光明区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/03/440311.html

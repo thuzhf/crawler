@@ -1,0 +1,10 @@
+130529100000	河北省-邢台市-巨鹿县-巨鹿镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/05/29/130529100.html
+130529101000	河北省-邢台市-巨鹿县-王虎寨镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/05/29/130529101.html
+130529102000	河北省-邢台市-巨鹿县-西郭城镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/05/29/130529102.html
+130529103000	河北省-邢台市-巨鹿县-官亭镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/05/29/130529103.html
+130529104000	河北省-邢台市-巨鹿县-阎疃镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/05/29/130529104.html
+130529105000	河北省-邢台市-巨鹿县-小吕寨镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/05/29/130529105.html
+130529106000	河北省-邢台市-巨鹿县-苏家营镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/05/29/130529106.html
+130529200000	河北省-邢台市-巨鹿县-堤村乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/05/29/130529200.html
+130529201000	河北省-邢台市-巨鹿县-张王疃乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/05/29/130529201.html
+130529202000	河北省-邢台市-巨鹿县-观寨乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/05/29/130529202.html

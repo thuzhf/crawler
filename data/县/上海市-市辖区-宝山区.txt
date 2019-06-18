@@ -1,0 +1,13 @@
+310113003000	上海市-市辖区-宝山区-友谊路街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/31/01/13/310113003.html
+310113007000	上海市-市辖区-宝山区-吴淞街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/31/01/13/310113007.html
+310113008000	上海市-市辖区-宝山区-张庙街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/31/01/13/310113008.html
+310113101000	上海市-市辖区-宝山区-罗店镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/31/01/13/310113101.html
+310113102000	上海市-市辖区-宝山区-大场镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/31/01/13/310113102.html
+310113103000	上海市-市辖区-宝山区-杨行镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/31/01/13/310113103.html
+310113104000	上海市-市辖区-宝山区-月浦镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/31/01/13/310113104.html
+310113106000	上海市-市辖区-宝山区-罗泾镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/31/01/13/310113106.html
+310113109000	上海市-市辖区-宝山区-顾村镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/31/01/13/310113109.html
+310113111000	上海市-市辖区-宝山区-高境镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/31/01/13/310113111.html
+310113112000	上海市-市辖区-宝山区-庙行镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/31/01/13/310113112.html
+310113113000	上海市-市辖区-宝山区-淞南镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/31/01/13/310113113.html
+310113501000	上海市-市辖区-宝山区-宝山城市工业园区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/31/01/13/310113501.html

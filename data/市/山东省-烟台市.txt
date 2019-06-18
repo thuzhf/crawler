@@ -1,0 +1,15 @@
+370601000000	山东省-烟台市-市辖区	
+370602000000	山东省-烟台市-芝罘区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/06/370602.html
+370611000000	山东省-烟台市-福山区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/06/370611.html
+370612000000	山东省-烟台市-牟平区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/06/370612.html
+370613000000	山东省-烟台市-莱山区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/06/370613.html
+370634000000	山东省-烟台市-长岛县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/06/370634.html
+370671000000	山东省-烟台市-烟台高新技术产业开发区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/06/370671.html
+370672000000	山东省-烟台市-烟台经济技术开发区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/06/370672.html
+370681000000	山东省-烟台市-龙口市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/06/370681.html
+370682000000	山东省-烟台市-莱阳市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/06/370682.html
+370683000000	山东省-烟台市-莱州市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/06/370683.html
+370684000000	山东省-烟台市-蓬莱市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/06/370684.html
+370685000000	山东省-烟台市-招远市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/06/370685.html
+370686000000	山东省-烟台市-栖霞市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/06/370686.html
+370687000000	山东省-烟台市-海阳市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/06/370687.html

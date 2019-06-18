@@ -1,0 +1,13 @@
+510504001000	四川省-泸州市-龙马潭区-小市街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/05/04/510504001.html
+510504002000	四川省-泸州市-龙马潭区-高坝街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/05/04/510504002.html
+510504003000	四川省-泸州市-龙马潭区-红星街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/05/04/510504003.html
+510504004000	四川省-泸州市-龙马潭区-莲花池街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/05/04/510504004.html
+510504005000	四川省-泸州市-龙马潭区-罗汉街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/05/04/510504005.html
+510504006000	四川省-泸州市-龙马潭区-鱼塘街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/05/04/510504006.html
+510504007000	四川省-泸州市-龙马潭区-安宁街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/05/04/510504007.html
+510504008000	四川省-泸州市-龙马潭区-石洞街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/05/04/510504008.html
+510504009000	四川省-泸州市-龙马潭区-特兴街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/05/04/510504009.html
+510504103000	四川省-泸州市-龙马潭区-胡市镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/05/04/510504103.html
+510504106000	四川省-泸州市-龙马潭区-双加镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/05/04/510504106.html
+510504107000	四川省-泸州市-龙马潭区-金龙镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/05/04/510504107.html
+510504108000	四川省-泸州市-龙马潭区-长安镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/05/04/510504108.html

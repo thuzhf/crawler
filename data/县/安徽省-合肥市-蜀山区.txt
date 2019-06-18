@@ -1,0 +1,12 @@
+340104001000	安徽省-合肥市-蜀山区-三里庵街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/01/04/340104001.html
+340104002000	安徽省-合肥市-蜀山区-稻香村街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/01/04/340104002.html
+340104003000	安徽省-合肥市-蜀山区-琥珀街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/01/04/340104003.html
+340104004000	安徽省-合肥市-蜀山区-南七街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/01/04/340104004.html
+340104005000	安徽省-合肥市-蜀山区-西园街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/01/04/340104005.html
+340104006000	安徽省-合肥市-蜀山区-五里墩街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/01/04/340104006.html
+340104007000	安徽省-合肥市-蜀山区-荷叶地街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/01/04/340104007.html
+340104008000	安徽省-合肥市-蜀山区-笔架山街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/01/04/340104008.html
+340104100000	安徽省-合肥市-蜀山区-井岗镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/01/04/340104100.html
+340104101000	安徽省-合肥市-蜀山区-南岗镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/01/04/340104101.html
+340104102000	安徽省-合肥市-蜀山区-小庙镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/01/04/340104102.html
+340104400000	安徽省-合肥市-蜀山区-蜀山新产业园区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/01/04/340104400.html

@@ -1,0 +1,11 @@
+370505001000	山东省-东营市-垦利区-垦利街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/05/05/370505001.html
+370505002000	山东省-东营市-垦利区-兴隆街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/05/05/370505002.html
+370505101000	山东省-东营市-垦利区-胜坨镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/05/05/370505101.html
+370505102000	山东省-东营市-垦利区-郝家镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/05/05/370505102.html
+370505104000	山东省-东营市-垦利区-永安镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/05/05/370505104.html
+370505105000	山东省-东营市-垦利区-黄河口镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/05/05/370505105.html
+370505106000	山东省-东营市-垦利区-董集镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/05/05/370505106.html
+370505400000	山东省-东营市-垦利区-开发区类似乡级单位	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/05/05/370505400.html
+370505402000	山东省-东营市-垦利区-红光类似乡级单位	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/05/05/370505402.html
+370505403000	山东省-东营市-垦利区-垦东类似乡级单位	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/05/05/370505403.html
+370505404000	山东省-东营市-垦利区-东营市现代畜牧业示范区类似乡级单位	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/05/05/370505404.html

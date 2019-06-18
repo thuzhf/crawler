@@ -1,0 +1,15 @@
+131002001000	河北省-廊坊市-安次区-银河南路街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/10/02/131002001.html
+131002002000	河北省-廊坊市-安次区-光明西道街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/10/02/131002002.html
+131002003000	河北省-廊坊市-安次区-永华道街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/10/02/131002003.html
+131002100000	河北省-廊坊市-安次区-落垡镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/10/02/131002100.html
+131002101000	河北省-廊坊市-安次区-码头镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/10/02/131002101.html
+131002102000	河北省-廊坊市-安次区-葛渔城镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/10/02/131002102.html
+131002103000	河北省-廊坊市-安次区-东沽港镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/10/02/131002103.html
+131002104000	河北省-廊坊市-安次区-调河头镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/10/02/131002104.html
+131002200000	河北省-廊坊市-安次区-杨税务乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/10/02/131002200.html
+131002201000	河北省-廊坊市-安次区-仇庄乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/10/02/131002201.html
+131002203000	河北省-廊坊市-安次区-北史家务乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/10/02/131002203.html
+131002400000	河北省-廊坊市-安次区-廊坊龙河高新技术产业开发区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/10/02/131002400.html
+131002401000	河北省-廊坊市-安次区-河北廊坊高新技术产业开发区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/10/02/131002401.html
+131002402000	河北省-廊坊市-安次区-河北廊坊龙港经济开发区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/10/02/131002402.html
+131002403000	河北省-廊坊市-安次区-河北安次经济开发区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/10/02/131002403.html

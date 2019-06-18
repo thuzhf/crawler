@@ -1,0 +1,7 @@
+350206001000	福建省-厦门市-湖里区-湖里街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/02/06/350206001.html
+350206002000	福建省-厦门市-湖里区-殿前街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/02/06/350206002.html
+350206003000	福建省-厦门市-湖里区-禾山街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/02/06/350206003.html
+350206004000	福建省-厦门市-湖里区-江头街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/02/06/350206004.html
+350206005000	福建省-厦门市-湖里区-金山街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/02/06/350206005.html
+350206405000	福建省-厦门市-湖里区-火炬高技术开发区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/02/06/350206405.html
+350206406000	福建省-厦门市-湖里区-象屿保税区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/02/06/350206406.html

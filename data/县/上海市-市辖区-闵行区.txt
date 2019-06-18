@@ -1,0 +1,14 @@
+310112001000	上海市-市辖区-闵行区-江川路街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/31/01/12/310112001.html
+310112006000	上海市-市辖区-闵行区-古美街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/31/01/12/310112006.html
+310112008000	上海市-市辖区-闵行区-新虹街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/31/01/12/310112008.html
+310112009000	上海市-市辖区-闵行区-浦锦街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/31/01/12/310112009.html
+310112101000	上海市-市辖区-闵行区-莘庄镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/31/01/12/310112101.html
+310112102000	上海市-市辖区-闵行区-七宝镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/31/01/12/310112102.html
+310112103000	上海市-市辖区-闵行区-颛桥镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/31/01/12/310112103.html
+310112106000	上海市-市辖区-闵行区-华漕镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/31/01/12/310112106.html
+310112107000	上海市-市辖区-闵行区-虹桥镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/31/01/12/310112107.html
+310112108000	上海市-市辖区-闵行区-梅陇镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/31/01/12/310112108.html
+310112110000	上海市-市辖区-闵行区-吴泾镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/31/01/12/310112110.html
+310112112000	上海市-市辖区-闵行区-马桥镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/31/01/12/310112112.html
+310112114000	上海市-市辖区-闵行区-浦江镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/31/01/12/310112114.html
+310112501000	上海市-市辖区-闵行区-莘庄工业区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/31/01/12/310112501.html

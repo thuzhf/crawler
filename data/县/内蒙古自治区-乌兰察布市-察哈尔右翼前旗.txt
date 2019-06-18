@@ -1,0 +1,11 @@
+150926105000	内蒙古自治区-乌兰察布市-察哈尔右翼前旗-土贵乌拉镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/09/26/150926105.html
+150926106000	内蒙古自治区-乌兰察布市-察哈尔右翼前旗-平地泉镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/09/26/150926106.html
+150926107000	内蒙古自治区-乌兰察布市-察哈尔右翼前旗-玫瑰营镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/09/26/150926107.html
+150926108000	内蒙古自治区-乌兰察布市-察哈尔右翼前旗-巴音塔拉镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/09/26/150926108.html
+150926109000	内蒙古自治区-乌兰察布市-察哈尔右翼前旗-黄旗海镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/09/26/150926109.html
+150926209000	内蒙古自治区-乌兰察布市-察哈尔右翼前旗-乌拉哈乌拉乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/09/26/150926209.html
+150926210000	内蒙古自治区-乌兰察布市-察哈尔右翼前旗-黄茂营乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/09/26/150926210.html
+150926211000	内蒙古自治区-乌兰察布市-察哈尔右翼前旗-三岔口乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/09/26/150926211.html
+150926212000	内蒙古自治区-乌兰察布市-察哈尔右翼前旗-老圈沟乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/09/26/150926212.html
+150926400000	内蒙古自治区-乌兰察布市-察哈尔右翼前旗-察右前旗天皮山冶金化工工业园区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/09/26/150926400.html
+150926401000	内蒙古自治区-乌兰察布市-察哈尔右翼前旗-察右前旗察哈尔工业园区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/09/26/150926401.html

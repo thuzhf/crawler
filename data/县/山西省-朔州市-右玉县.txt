@@ -1,0 +1,10 @@
+140623100000	山西省-朔州市-右玉县-新城镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/06/23/140623100.html
+140623101000	山西省-朔州市-右玉县-右卫镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/06/23/140623101.html
+140623102000	山西省-朔州市-右玉县-威远镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/06/23/140623102.html
+140623103000	山西省-朔州市-右玉县-元堡子镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/06/23/140623103.html
+140623200000	山西省-朔州市-右玉县-牛心堡乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/06/23/140623200.html
+140623201000	山西省-朔州市-右玉县-白头里乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/06/23/140623201.html
+140623202000	山西省-朔州市-右玉县-高家堡乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/06/23/140623202.html
+140623203000	山西省-朔州市-右玉县-丁家窑乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/06/23/140623203.html
+140623204000	山西省-朔州市-右玉县-杨千河乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/06/23/140623204.html
+140623205000	山西省-朔州市-右玉县-李达窑乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/06/23/140623205.html

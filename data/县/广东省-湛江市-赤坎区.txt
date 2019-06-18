@@ -1,0 +1,8 @@
+440802001000	广东省-湛江市-赤坎区-中华街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/08/02/440802001.html
+440802002000	广东省-湛江市-赤坎区-寸金街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/08/02/440802002.html
+440802003000	广东省-湛江市-赤坎区-民主街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/08/02/440802003.html
+440802004000	广东省-湛江市-赤坎区-中山街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/08/02/440802004.html
+440802005000	广东省-湛江市-赤坎区-沙湾街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/08/02/440802005.html
+440802006000	广东省-湛江市-赤坎区-调顺街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/08/02/440802006.html
+440802007000	广东省-湛江市-赤坎区-南桥街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/08/02/440802007.html
+440802008000	广东省-湛江市-赤坎区-北桥街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/08/02/440802008.html

@@ -1,0 +1,10 @@
+331125001000	浙江省-丽水市-云和县-浮云街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/11/25/331125001.html
+331125002000	浙江省-丽水市-云和县-元和街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/11/25/331125002.html
+331125003000	浙江省-丽水市-云和县-白龙山街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/11/25/331125003.html
+331125004000	浙江省-丽水市-云和县-凤凰山街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/11/25/331125004.html
+331125105000	浙江省-丽水市-云和县-崇头镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/11/25/331125105.html
+331125106000	浙江省-丽水市-云和县-石塘镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/11/25/331125106.html
+331125107000	浙江省-丽水市-云和县-紧水滩镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/11/25/331125107.html
+331125201000	浙江省-丽水市-云和县-雾溪畲族乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/11/25/331125201.html
+331125202000	浙江省-丽水市-云和县-安溪畲族乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/11/25/331125202.html
+331125206000	浙江省-丽水市-云和县-赤石乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/11/25/331125206.html

@@ -1,0 +1,11 @@
+469030100000	海南省-省直辖县级行政区划-琼中黎族苗族自治县-营根镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/46/90/30/469030100.html
+469030101000	海南省-省直辖县级行政区划-琼中黎族苗族自治县-湾岭镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/46/90/30/469030101.html
+469030102000	海南省-省直辖县级行政区划-琼中黎族苗族自治县-黎母山镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/46/90/30/469030102.html
+469030103000	海南省-省直辖县级行政区划-琼中黎族苗族自治县-和平镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/46/90/30/469030103.html
+469030104000	海南省-省直辖县级行政区划-琼中黎族苗族自治县-长征镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/46/90/30/469030104.html
+469030105000	海南省-省直辖县级行政区划-琼中黎族苗族自治县-红毛镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/46/90/30/469030105.html
+469030106000	海南省-省直辖县级行政区划-琼中黎族苗族自治县-中平镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/46/90/30/469030106.html
+469030200000	海南省-省直辖县级行政区划-琼中黎族苗族自治县-吊罗山乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/46/90/30/469030200.html
+469030201000	海南省-省直辖县级行政区划-琼中黎族苗族自治县-上安乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/46/90/30/469030201.html
+469030202000	海南省-省直辖县级行政区划-琼中黎族苗族自治县-什运乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/46/90/30/469030202.html
+469030500000	海南省-省直辖县级行政区划-琼中黎族苗族自治县-海南黎母山省级自然保护区管理站	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/46/90/30/469030500.html

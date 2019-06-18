@@ -1,0 +1,6 @@
+445201000000	广东省-揭阳市-市辖区	
+445202000000	广东省-揭阳市-榕城区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/52/445202.html
+445203000000	广东省-揭阳市-揭东区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/52/445203.html
+445222000000	广东省-揭阳市-揭西县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/52/445222.html
+445224000000	广东省-揭阳市-惠来县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/52/445224.html
+445281000000	广东省-揭阳市-普宁市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/52/445281.html

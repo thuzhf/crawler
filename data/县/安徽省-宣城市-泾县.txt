@@ -1,0 +1,11 @@
+341823100000	安徽省-宣城市-泾县-泾川镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/18/23/341823100.html
+341823101000	安徽省-宣城市-泾县-茂林镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/18/23/341823101.html
+341823102000	安徽省-宣城市-泾县-榔桥镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/18/23/341823102.html
+341823103000	安徽省-宣城市-泾县-桃花潭镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/18/23/341823103.html
+341823104000	安徽省-宣城市-泾县-琴溪镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/18/23/341823104.html
+341823105000	安徽省-宣城市-泾县-蔡村镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/18/23/341823105.html
+341823106000	安徽省-宣城市-泾县-云岭镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/18/23/341823106.html
+341823107000	安徽省-宣城市-泾县-黄村镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/18/23/341823107.html
+341823108000	安徽省-宣城市-泾县-丁家桥镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/18/23/341823108.html
+341823200000	安徽省-宣城市-泾县-汀溪乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/18/23/341823200.html
+341823201000	安徽省-宣城市-泾县-昌桥乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/18/23/341823201.html

@@ -1,0 +1,11 @@
+230601000000	黑龙江省-大庆市-市辖区	
+230602000000	黑龙江省-大庆市-萨尔图区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/06/230602.html
+230603000000	黑龙江省-大庆市-龙凤区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/06/230603.html
+230604000000	黑龙江省-大庆市-让胡路区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/06/230604.html
+230605000000	黑龙江省-大庆市-红岗区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/06/230605.html
+230606000000	黑龙江省-大庆市-大同区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/06/230606.html
+230621000000	黑龙江省-大庆市-肇州县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/06/230621.html
+230622000000	黑龙江省-大庆市-肇源县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/06/230622.html
+230623000000	黑龙江省-大庆市-林甸县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/06/230623.html
+230624000000	黑龙江省-大庆市-杜尔伯特蒙古族自治县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/06/230624.html
+230671000000	黑龙江省-大庆市-大庆高新技术产业开发区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/06/230671.html

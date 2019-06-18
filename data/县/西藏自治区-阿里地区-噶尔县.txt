@@ -1,0 +1,5 @@
+542523100000	西藏自治区-阿里地区-噶尔县-狮泉河镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/25/23/542523100.html
+542523200000	西藏自治区-阿里地区-噶尔县-昆莎乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/25/23/542523200.html
+542523201000	西藏自治区-阿里地区-噶尔县-左左乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/25/23/542523201.html
+542523202000	西藏自治区-阿里地区-噶尔县-门士乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/25/23/542523202.html
+542523203000	西藏自治区-阿里地区-噶尔县-扎西岗乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/25/23/542523203.html

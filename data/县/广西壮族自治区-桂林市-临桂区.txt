@@ -1,0 +1,11 @@
+450312100000	广西壮族自治区-桂林市-临桂区-临桂镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/03/12/450312100.html
+450312101000	广西壮族自治区-桂林市-临桂区-六塘镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/03/12/450312101.html
+450312102000	广西壮族自治区-桂林市-临桂区-会仙镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/03/12/450312102.html
+450312103000	广西壮族自治区-桂林市-临桂区-两江镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/03/12/450312103.html
+450312104000	广西壮族自治区-桂林市-临桂区-五通镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/03/12/450312104.html
+450312105000	广西壮族自治区-桂林市-临桂区-四塘镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/03/12/450312105.html
+450312106000	广西壮族自治区-桂林市-临桂区-南边山镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/03/12/450312106.html
+450312107000	广西壮族自治区-桂林市-临桂区-中庸镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/03/12/450312107.html
+450312108000	广西壮族自治区-桂林市-临桂区-茶洞镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/03/12/450312108.html
+450312204000	广西壮族自治区-桂林市-临桂区-宛田瑶族乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/03/12/450312204.html
+450312205000	广西壮族自治区-桂林市-临桂区-黄沙瑶族乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/03/12/450312205.html

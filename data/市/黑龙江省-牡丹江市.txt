@@ -1,0 +1,12 @@
+231001000000	黑龙江省-牡丹江市-市辖区	
+231002000000	黑龙江省-牡丹江市-东安区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/10/231002.html
+231003000000	黑龙江省-牡丹江市-阳明区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/10/231003.html
+231004000000	黑龙江省-牡丹江市-爱民区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/10/231004.html
+231005000000	黑龙江省-牡丹江市-西安区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/10/231005.html
+231025000000	黑龙江省-牡丹江市-林口县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/10/231025.html
+231071000000	黑龙江省-牡丹江市-牡丹江经济技术开发区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/10/231071.html
+231081000000	黑龙江省-牡丹江市-绥芬河市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/10/231081.html
+231083000000	黑龙江省-牡丹江市-海林市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/10/231083.html
+231084000000	黑龙江省-牡丹江市-宁安市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/10/231084.html
+231085000000	黑龙江省-牡丹江市-穆棱市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/10/231085.html
+231086000000	黑龙江省-牡丹江市-东宁市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/10/231086.html

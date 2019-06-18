@@ -1,0 +1,15 @@
+210123001000	辽宁省-沈阳市-康平县-北三家子街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/01/23/210123001.html
+210123002000	辽宁省-沈阳市-康平县-胜利街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/01/23/210123002.html
+210123003000	辽宁省-沈阳市-康平县-东关街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/01/23/210123003.html
+210123101000	辽宁省-沈阳市-康平县-小城子镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/01/23/210123101.html
+210123102000	辽宁省-沈阳市-康平县-张强镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/01/23/210123102.html
+210123103000	辽宁省-沈阳市-康平县-方家屯镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/01/23/210123103.html
+210123105000	辽宁省-沈阳市-康平县-郝官屯镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/01/23/210123105.html
+210123106000	辽宁省-沈阳市-康平县-二牛所口镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/01/23/210123106.html
+210123203000	辽宁省-沈阳市-康平县-北四家子乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/01/23/210123203.html
+210123204000	辽宁省-沈阳市-康平县-两家子乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/01/23/210123204.html
+210123206000	辽宁省-沈阳市-康平县-海洲窝堡乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/01/23/210123206.html
+210123208000	辽宁省-沈阳市-康平县-沙金台蒙古族满族乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/01/23/210123208.html
+210123209000	辽宁省-沈阳市-康平县-柳树屯蒙古族满族乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/01/23/210123209.html
+210123210000	辽宁省-沈阳市-康平县-西关屯蒙古族满族乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/01/23/210123210.html
+210123211000	辽宁省-沈阳市-康平县-东升满族蒙古族乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/01/23/210123211.html

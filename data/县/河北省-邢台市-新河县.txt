@@ -1,0 +1,6 @@
+130530100000	河北省-邢台市-新河县-新河镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/05/30/130530100.html
+130530101000	河北省-邢台市-新河县-寻寨镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/05/30/130530101.html
+130530200000	河北省-邢台市-新河县-白神首乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/05/30/130530200.html
+130530201000	河北省-邢台市-新河县-荆家庄乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/05/30/130530201.html
+130530202000	河北省-邢台市-新河县-西流乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/05/30/130530202.html
+130530203000	河北省-邢台市-新河县-仁让里乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/05/30/130530203.html

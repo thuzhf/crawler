@@ -1,0 +1,17 @@
+340825100000	安徽省-安庆市-太湖县-晋熙镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/08/25/340825100.html
+340825101000	安徽省-安庆市-太湖县-徐桥镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/08/25/340825101.html
+340825102000	安徽省-安庆市-太湖县-新仓镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/08/25/340825102.html
+340825103000	安徽省-安庆市-太湖县-小池镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/08/25/340825103.html
+340825104000	安徽省-安庆市-太湖县-寺前镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/08/25/340825104.html
+340825105000	安徽省-安庆市-太湖县-天华镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/08/25/340825105.html
+340825106000	安徽省-安庆市-太湖县-牛镇镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/08/25/340825106.html
+340825107000	安徽省-安庆市-太湖县-弥陀镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/08/25/340825107.html
+340825108000	安徽省-安庆市-太湖县-北中镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/08/25/340825108.html
+340825109000	安徽省-安庆市-太湖县-百里镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/08/25/340825109.html
+340825200000	安徽省-安庆市-太湖县-大石乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/08/25/340825200.html
+340825201000	安徽省-安庆市-太湖县-城西乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/08/25/340825201.html
+340825202000	安徽省-安庆市-太湖县-江塘乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/08/25/340825202.html
+340825203000	安徽省-安庆市-太湖县-汤泉乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/08/25/340825203.html
+340825204000	安徽省-安庆市-太湖县-刘畈乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/08/25/340825204.html
+340825400000	安徽省-安庆市-太湖县-经济开发区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/08/25/340825400.html
+340825401000	安徽省-安庆市-太湖县-花凉亭水电站	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/08/25/340825401.html

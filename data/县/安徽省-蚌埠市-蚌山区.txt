@@ -1,0 +1,7 @@
+340303001000	安徽省-蚌埠市-蚌山区-天桥街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/03/03/340303001.html
+340303002000	安徽省-蚌埠市-蚌山区-青年街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/03/03/340303002.html
+340303003000	安徽省-蚌埠市-蚌山区-纬二路街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/03/03/340303003.html
+340303004000	安徽省-蚌埠市-蚌山区-黄庄街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/03/03/340303004.html
+340303005000	安徽省-蚌埠市-蚌山区-宏业村街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/03/03/340303005.html
+340303200000	安徽省-蚌埠市-蚌山区-燕山乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/03/03/340303200.html
+340303201000	安徽省-蚌埠市-蚌山区-雪华乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/03/03/340303201.html

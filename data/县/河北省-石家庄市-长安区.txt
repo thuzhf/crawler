@@ -1,0 +1,16 @@
+130102001000	河北省-石家庄市-长安区-建北街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/01/02/130102001.html
+130102002000	河北省-石家庄市-长安区-青园街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/01/02/130102002.html
+130102003000	河北省-石家庄市-长安区-广安街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/01/02/130102003.html
+130102004000	河北省-石家庄市-长安区-育才街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/01/02/130102004.html
+130102005000	河北省-石家庄市-长安区-跃进街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/01/02/130102005.html
+130102007000	河北省-石家庄市-长安区-河东街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/01/02/130102007.html
+130102010000	河北省-石家庄市-长安区-长丰街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/01/02/130102010.html
+130102011000	河北省-石家庄市-长安区-谈固街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/01/02/130102011.html
+130102012000	河北省-石家庄市-长安区-中山东路街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/01/02/130102012.html
+130102013000	河北省-石家庄市-长安区-阜康街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/01/02/130102013.html
+130102014000	河北省-石家庄市-长安区-建安街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/01/02/130102014.html
+130102015000	河北省-石家庄市-长安区-胜利北街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/01/02/130102015.html
+130102100000	河北省-石家庄市-长安区-西兆通镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/01/02/130102100.html
+130102101000	河北省-石家庄市-长安区-南村镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/01/02/130102101.html
+130102102000	河北省-石家庄市-长安区-高营镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/01/02/130102102.html
+130102103000	河北省-石家庄市-长安区-桃园镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/01/02/130102103.html

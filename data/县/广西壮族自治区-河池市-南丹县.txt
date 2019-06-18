@@ -1,0 +1,11 @@
+451221100000	广西壮族自治区-河池市-南丹县-城关镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/12/21/451221100.html
+451221101000	广西壮族自治区-河池市-南丹县-大厂镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/12/21/451221101.html
+451221102000	广西壮族自治区-河池市-南丹县-车河镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/12/21/451221102.html
+451221103000	广西壮族自治区-河池市-南丹县-芒场镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/12/21/451221103.html
+451221104000	广西壮族自治区-河池市-南丹县-六寨镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/12/21/451221104.html
+451221105000	广西壮族自治区-河池市-南丹县-月里镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/12/21/451221105.html
+451221106000	广西壮族自治区-河池市-南丹县-吾隘镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/12/21/451221106.html
+451221107000	广西壮族自治区-河池市-南丹县-罗富镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/12/21/451221107.html
+451221202000	广西壮族自治区-河池市-南丹县-中堡苗族乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/12/21/451221202.html
+451221203000	广西壮族自治区-河池市-南丹县-八圩瑶族乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/12/21/451221203.html
+451221204000	广西壮族自治区-河池市-南丹县-里湖瑶族乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/12/21/451221204.html

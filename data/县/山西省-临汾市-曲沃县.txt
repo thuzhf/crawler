@@ -1,0 +1,7 @@
+141021100000	山西省-临汾市-曲沃县-乐昌镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/10/21/141021100.html
+141021101000	山西省-临汾市-曲沃县-史村镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/10/21/141021101.html
+141021102000	山西省-临汾市-曲沃县-曲村镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/10/21/141021102.html
+141021103000	山西省-临汾市-曲沃县-高显镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/10/21/141021103.html
+141021104000	山西省-临汾市-曲沃县-里村镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/10/21/141021104.html
+141021200000	山西省-临汾市-曲沃县-北董乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/10/21/141021200.html
+141021201000	山西省-临汾市-曲沃县-杨谈乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/10/21/141021201.html

@@ -1,0 +1,16 @@
+653122100000	新疆维吾尔自治区-喀什地区-疏勒县-疏勒镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/31/22/653122100.html
+653122101000	新疆维吾尔自治区-喀什地区-疏勒县-罕南力克镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/31/22/653122101.html
+653122102000	新疆维吾尔自治区-喀什地区-疏勒县-牙甫泉镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/31/22/653122102.html
+653122200000	新疆维吾尔自治区-喀什地区-疏勒县-巴仁乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/31/22/653122200.html
+653122201000	新疆维吾尔自治区-喀什地区-疏勒县-洋大曼乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/31/22/653122201.html
+653122202000	新疆维吾尔自治区-喀什地区-疏勒县-亚曼牙乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/31/22/653122202.html
+653122203000	新疆维吾尔自治区-喀什地区-疏勒县-巴合齐乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/31/22/653122203.html
+653122204000	新疆维吾尔自治区-喀什地区-疏勒县-塔孜洪乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/31/22/653122204.html
+653122205000	新疆维吾尔自治区-喀什地区-疏勒县-英尔力克乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/31/22/653122205.html
+653122206000	新疆维吾尔自治区-喀什地区-疏勒县-库木西力克乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/31/22/653122206.html
+653122207000	新疆维吾尔自治区-喀什地区-疏勒县-塔合其乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/31/22/653122207.html
+653122208000	新疆维吾尔自治区-喀什地区-疏勒县-艾尔木东乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/31/22/653122208.html
+653122209000	新疆维吾尔自治区-喀什地区-疏勒县-阿拉力乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/31/22/653122209.html
+653122210000	新疆维吾尔自治区-喀什地区-疏勒县-阿拉甫乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/31/22/653122210.html
+653122211000	新疆维吾尔自治区-喀什地区-疏勒县-英阿瓦提乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/31/22/653122211.html
+653122400000	新疆维吾尔自治区-喀什地区-疏勒县-疏勒南疆齐鲁工业园区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/31/22/653122400.html

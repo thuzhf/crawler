@@ -1,0 +1,11 @@
+420625100000	湖北省-襄阳市-谷城县-城关镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/06/25/420625100.html
+420625101000	湖北省-襄阳市-谷城县-石花镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/06/25/420625101.html
+420625102000	湖北省-襄阳市-谷城县-盛康镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/06/25/420625102.html
+420625103000	湖北省-襄阳市-谷城县-庙滩镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/06/25/420625103.html
+420625104000	湖北省-襄阳市-谷城县-五山镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/06/25/420625104.html
+420625105000	湖北省-襄阳市-谷城县-茨河镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/06/25/420625105.html
+420625106000	湖北省-襄阳市-谷城县-南河镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/06/25/420625106.html
+420625107000	湖北省-襄阳市-谷城县-紫金镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/06/25/420625107.html
+420625108000	湖北省-襄阳市-谷城县-冷集镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/06/25/420625108.html
+420625200000	湖北省-襄阳市-谷城县-赵湾乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/06/25/420625200.html
+420625500000	湖北省-襄阳市-谷城县-薤山林场	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/06/25/420625500.html

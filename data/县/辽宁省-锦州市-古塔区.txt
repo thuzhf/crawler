@@ -1,0 +1,10 @@
+210702001000	辽宁省-锦州市-古塔区-天安街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/07/02/210702001.html
+210702002000	辽宁省-锦州市-古塔区-石油街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/07/02/210702002.html
+210702003000	辽宁省-锦州市-古塔区-北街街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/07/02/210702003.html
+210702004000	辽宁省-锦州市-古塔区-敬业街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/07/02/210702004.html
+210702005000	辽宁省-锦州市-古塔区-保安街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/07/02/210702005.html
+210702006000	辽宁省-锦州市-古塔区-南街街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/07/02/210702006.html
+210702007000	辽宁省-锦州市-古塔区-饶阳街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/07/02/210702007.html
+210702008000	辽宁省-锦州市-古塔区-站前街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/07/02/210702008.html
+210702009000	辽宁省-锦州市-古塔区-士英街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/07/02/210702009.html
+210702010000	辽宁省-锦州市-古塔区-钟屯街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/07/02/210702010.html

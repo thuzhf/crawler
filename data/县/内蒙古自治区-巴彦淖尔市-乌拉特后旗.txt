@@ -1,0 +1,6 @@
+150825100000	内蒙古自治区-巴彦淖尔市-乌拉特后旗-巴音宝力格镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/08/25/150825100.html
+150825101000	内蒙古自治区-巴彦淖尔市-乌拉特后旗-呼和温都尔镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/08/25/150825101.html
+150825102000	内蒙古自治区-巴彦淖尔市-乌拉特后旗-潮格温都尔镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/08/25/150825102.html
+150825200000	内蒙古自治区-巴彦淖尔市-乌拉特后旗-获各琦苏木	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/08/25/150825200.html
+150825201000	内蒙古自治区-巴彦淖尔市-乌拉特后旗-巴音前达门苏木	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/08/25/150825201.html
+150825202000	内蒙古自治区-巴彦淖尔市-乌拉特后旗-乌盖苏木	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/08/25/150825202.html

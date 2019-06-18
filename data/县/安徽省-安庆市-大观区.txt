@@ -1,0 +1,13 @@
+340803001000	安徽省-安庆市-大观区-德宽路街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/08/03/340803001.html
+340803002000	安徽省-安庆市-大观区-玉琳路街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/08/03/340803002.html
+340803003000	安徽省-安庆市-大观区-龙山路街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/08/03/340803003.html
+340803004000	安徽省-安庆市-大观区-菱湖街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/08/03/340803004.html
+340803005000	安徽省-安庆市-大观区-集贤路街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/08/03/340803005.html
+340803006000	安徽省-安庆市-大观区-石化路街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/08/03/340803006.html
+340803007000	安徽省-安庆市-大观区-花亭路街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/08/03/340803007.html
+340803100000	安徽省-安庆市-大观区-海口镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/08/03/340803100.html
+340803200000	安徽省-安庆市-大观区-十里铺乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/08/03/340803200.html
+340803201000	安徽省-安庆市-大观区-山口乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/08/03/340803201.html
+340803400000	安徽省-安庆市-大观区-大观开发区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/08/03/340803400.html
+340803401000	安徽省-安庆市-大观区-安徽安庆海口经济开发区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/08/03/340803401.html
+340803500000	安徽省-安庆市-大观区-皖河农场	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/08/03/340803500.html

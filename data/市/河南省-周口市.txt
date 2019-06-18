@@ -1,0 +1,12 @@
+411601000000	河南省-周口市-市辖区	
+411602000000	河南省-周口市-川汇区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/16/411602.html
+411621000000	河南省-周口市-扶沟县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/16/411621.html
+411622000000	河南省-周口市-西华县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/16/411622.html
+411623000000	河南省-周口市-商水县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/16/411623.html
+411624000000	河南省-周口市-沈丘县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/16/411624.html
+411625000000	河南省-周口市-郸城县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/16/411625.html
+411626000000	河南省-周口市-淮阳县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/16/411626.html
+411627000000	河南省-周口市-太康县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/16/411627.html
+411628000000	河南省-周口市-鹿邑县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/16/411628.html
+411671000000	河南省-周口市-河南周口经济开发区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/16/411671.html
+411681000000	河南省-周口市-项城市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/16/411681.html

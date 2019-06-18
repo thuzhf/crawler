@@ -1,0 +1,13 @@
+340101000000	安徽省-合肥市-市辖区	
+340102000000	安徽省-合肥市-瑶海区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/01/340102.html
+340103000000	安徽省-合肥市-庐阳区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/01/340103.html
+340104000000	安徽省-合肥市-蜀山区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/01/340104.html
+340111000000	安徽省-合肥市-包河区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/01/340111.html
+340121000000	安徽省-合肥市-长丰县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/01/340121.html
+340122000000	安徽省-合肥市-肥东县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/01/340122.html
+340123000000	安徽省-合肥市-肥西县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/01/340123.html
+340124000000	安徽省-合肥市-庐江县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/01/340124.html
+340171000000	安徽省-合肥市-合肥高新技术产业开发区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/01/340171.html
+340172000000	安徽省-合肥市-合肥经济技术开发区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/01/340172.html
+340173000000	安徽省-合肥市-合肥新站高新技术产业开发区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/01/340173.html
+340181000000	安徽省-合肥市-巢湖市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/01/340181.html

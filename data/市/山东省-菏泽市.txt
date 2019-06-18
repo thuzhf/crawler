@@ -1,0 +1,12 @@
+371701000000	山东省-菏泽市-市辖区	
+371702000000	山东省-菏泽市-牡丹区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/17/371702.html
+371703000000	山东省-菏泽市-定陶区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/17/371703.html
+371721000000	山东省-菏泽市-曹县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/17/371721.html
+371722000000	山东省-菏泽市-单县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/17/371722.html
+371723000000	山东省-菏泽市-成武县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/17/371723.html
+371724000000	山东省-菏泽市-巨野县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/17/371724.html
+371725000000	山东省-菏泽市-郓城县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/17/371725.html
+371726000000	山东省-菏泽市-鄄城县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/17/371726.html
+371728000000	山东省-菏泽市-东明县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/17/371728.html
+371771000000	山东省-菏泽市-菏泽经济技术开发区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/17/371771.html
+371772000000	山东省-菏泽市-菏泽高新技术开发区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/17/371772.html

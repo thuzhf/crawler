@@ -1,0 +1,7 @@
+542521000000	西藏自治区-阿里地区-普兰县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/25/542521.html
+542522000000	西藏自治区-阿里地区-札达县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/25/542522.html
+542523000000	西藏自治区-阿里地区-噶尔县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/25/542523.html
+542524000000	西藏自治区-阿里地区-日土县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/25/542524.html
+542525000000	西藏自治区-阿里地区-革吉县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/25/542525.html
+542526000000	西藏自治区-阿里地区-改则县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/25/542526.html
+542527000000	西藏自治区-阿里地区-措勤县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/25/542527.html

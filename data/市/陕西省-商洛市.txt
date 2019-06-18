@@ -1,0 +1,8 @@
+611001000000	陕西省-商洛市-市辖区	
+611002000000	陕西省-商洛市-商州区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/61/10/611002.html
+611021000000	陕西省-商洛市-洛南县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/61/10/611021.html
+611022000000	陕西省-商洛市-丹凤县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/61/10/611022.html
+611023000000	陕西省-商洛市-商南县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/61/10/611023.html
+611024000000	陕西省-商洛市-山阳县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/61/10/611024.html
+611025000000	陕西省-商洛市-镇安县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/61/10/611025.html
+611026000000	陕西省-商洛市-柞水县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/61/10/611026.html

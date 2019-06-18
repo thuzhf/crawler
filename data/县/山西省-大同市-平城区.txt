@@ -1,0 +1,16 @@
+140213001000	山西省-大同市-平城区-南关街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/02/13/140213001.html
+140213002000	山西省-大同市-平城区-北关街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/02/13/140213002.html
+140213003000	山西省-大同市-平城区-东街街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/02/13/140213003.html
+140213004000	山西省-大同市-平城区-西街街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/02/13/140213004.html
+140213005000	山西省-大同市-平城区-南街街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/02/13/140213005.html
+140213006000	山西省-大同市-平城区-北街街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/02/13/140213006.html
+140213007000	山西省-大同市-平城区-新建南路街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/02/13/140213007.html
+140213008000	山西省-大同市-平城区-新建北路街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/02/13/140213008.html
+140213009000	山西省-大同市-平城区-大庆路街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/02/13/140213009.html
+140213010000	山西省-大同市-平城区-新华街街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/02/13/140213010.html
+140213011000	山西省-大同市-平城区-向阳里街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/02/13/140213011.html
+140213012000	山西省-大同市-平城区-振华南街街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/02/13/140213012.html
+140213013000	山西省-大同市-平城区-开源街街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/02/13/140213013.html
+140213201000	山西省-大同市-平城区-新旺乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/02/13/140213201.html
+140213202000	山西省-大同市-平城区-水泊寺乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/02/13/140213202.html
+140213203000	山西省-大同市-平城区-马军营乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/02/13/140213203.html

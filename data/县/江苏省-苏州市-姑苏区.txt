@@ -1,0 +1,8 @@
+320508017000	江苏省-苏州市-姑苏区-白洋湾街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/05/08/320508017.html
+320508018000	江苏省-苏州市-姑苏区-平江街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/05/08/320508018.html
+320508019000	江苏省-苏州市-姑苏区-金阊街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/05/08/320508019.html
+320508020000	江苏省-苏州市-姑苏区-沧浪街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/05/08/320508020.html
+320508021000	江苏省-苏州市-姑苏区-双塔街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/05/08/320508021.html
+320508022000	江苏省-苏州市-姑苏区-虎丘街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/05/08/320508022.html
+320508023000	江苏省-苏州市-姑苏区-苏锦街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/05/08/320508023.html
+320508024000	江苏省-苏州市-姑苏区-吴门桥街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/05/08/320508024.html

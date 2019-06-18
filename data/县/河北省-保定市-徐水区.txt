@@ -1,0 +1,14 @@
+130609100000	河北省-保定市-徐水区-安肃镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/06/09/130609100.html
+130609101000	河北省-保定市-徐水区-崔庄镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/06/09/130609101.html
+130609102000	河北省-保定市-徐水区-大因镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/06/09/130609102.html
+130609103000	河北省-保定市-徐水区-遂城镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/06/09/130609103.html
+130609104000	河北省-保定市-徐水区-高林村镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/06/09/130609104.html
+130609105000	河北省-保定市-徐水区-大王店镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/06/09/130609105.html
+130609106000	河北省-保定市-徐水区-漕河镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/06/09/130609106.html
+130609107000	河北省-保定市-徐水区-东史端镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/06/09/130609107.html
+130609108000	河北省-保定市-徐水区-留村镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/06/09/130609108.html
+130609109000	河北省-保定市-徐水区-正村镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/06/09/130609109.html
+130609203000	河北省-保定市-徐水区-户木乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/06/09/130609203.html
+130609204000	河北省-保定市-徐水区-瀑河乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/06/09/130609204.html
+130609205000	河北省-保定市-徐水区-东釜山乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/06/09/130609205.html
+130609206000	河北省-保定市-徐水区-义联庄乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/06/09/130609206.html

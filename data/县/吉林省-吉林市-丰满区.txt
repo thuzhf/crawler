@@ -1,0 +1,10 @@
+220211001000	吉林省-吉林市-丰满区-泰山街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/02/11/220211001.html
+220211002000	吉林省-吉林市-丰满区-江南街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/02/11/220211002.html
+220211003000	吉林省-吉林市-丰满区-石井街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/02/11/220211003.html
+220211004000	吉林省-吉林市-丰满区-沿丰街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/02/11/220211004.html
+220211005000	吉林省-吉林市-丰满区-丰满街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/02/11/220211005.html
+220211071000	吉林省-吉林市-丰满区-红旗街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/02/11/220211071.html
+220211100000	吉林省-吉林市-丰满区-旺起镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/02/11/220211100.html
+220211200000	吉林省-吉林市-丰满区-江南乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/02/11/220211200.html
+220211201000	吉林省-吉林市-丰满区-前二道乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/02/11/220211201.html
+220211270000	吉林省-吉林市-丰满区-小白山乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/02/11/220211270.html

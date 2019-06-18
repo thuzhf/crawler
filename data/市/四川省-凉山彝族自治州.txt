@@ -1,0 +1,17 @@
+513401000000	四川省-凉山彝族自治州-西昌市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/34/513401.html
+513422000000	四川省-凉山彝族自治州-木里藏族自治县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/34/513422.html
+513423000000	四川省-凉山彝族自治州-盐源县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/34/513423.html
+513424000000	四川省-凉山彝族自治州-德昌县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/34/513424.html
+513425000000	四川省-凉山彝族自治州-会理县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/34/513425.html
+513426000000	四川省-凉山彝族自治州-会东县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/34/513426.html
+513427000000	四川省-凉山彝族自治州-宁南县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/34/513427.html
+513428000000	四川省-凉山彝族自治州-普格县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/34/513428.html
+513429000000	四川省-凉山彝族自治州-布拖县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/34/513429.html
+513430000000	四川省-凉山彝族自治州-金阳县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/34/513430.html
+513431000000	四川省-凉山彝族自治州-昭觉县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/34/513431.html
+513432000000	四川省-凉山彝族自治州-喜德县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/34/513432.html
+513433000000	四川省-凉山彝族自治州-冕宁县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/34/513433.html
+513434000000	四川省-凉山彝族自治州-越西县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/34/513434.html
+513435000000	四川省-凉山彝族自治州-甘洛县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/34/513435.html
+513436000000	四川省-凉山彝族自治州-美姑县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/34/513436.html
+513437000000	四川省-凉山彝族自治州-雷波县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/34/513437.html

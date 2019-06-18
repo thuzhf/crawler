@@ -1,0 +1,11 @@
+360203001000	江西省-景德镇市-珠山区-石狮埠街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/02/03/360203001.html
+360203002000	江西省-景德镇市-珠山区-新厂街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/02/03/360203002.html
+360203003000	江西省-景德镇市-珠山区-里村街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/02/03/360203003.html
+360203004000	江西省-景德镇市-珠山区-周路口街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/02/03/360203004.html
+360203005000	江西省-景德镇市-珠山区-昌江街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/02/03/360203005.html
+360203006000	江西省-景德镇市-珠山区-新村街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/02/03/360203006.html
+360203007000	江西省-景德镇市-珠山区-珠山街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/02/03/360203007.html
+360203008000	江西省-景德镇市-珠山区-太白园街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/02/03/360203008.html
+360203009000	江西省-景德镇市-珠山区-昌河街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/02/03/360203009.html
+360203100000	江西省-景德镇市-珠山区-竟成镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/02/03/360203100.html
+360203400000	江西省-景德镇市-珠山区-高新技术开发区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/02/03/360203400.html

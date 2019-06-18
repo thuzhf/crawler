@@ -1,0 +1,11 @@
+610303001000	陕西省-宝鸡市-金台区-中山东路街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/61/03/03/610303001.html
+610303002000	陕西省-宝鸡市-金台区-西关街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/61/03/03/610303002.html
+610303003000	陕西省-宝鸡市-金台区-中山西路街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/61/03/03/610303003.html
+610303004000	陕西省-宝鸡市-金台区-群众路街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/61/03/03/610303004.html
+610303006000	陕西省-宝鸡市-金台区-东风路街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/61/03/03/610303006.html
+610303007000	陕西省-宝鸡市-金台区-十里铺街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/61/03/03/610303007.html
+610303008000	陕西省-宝鸡市-金台区-卧龙寺街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/61/03/03/610303008.html
+610303100000	陕西省-宝鸡市-金台区-陈仓镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/61/03/03/610303100.html
+610303101000	陕西省-宝鸡市-金台区-蟠龙镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/61/03/03/610303101.html
+610303102000	陕西省-宝鸡市-金台区-金河镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/61/03/03/610303102.html
+610303103000	陕西省-宝鸡市-金台区-硖石镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/61/03/03/610303103.html

@@ -1,0 +1,8 @@
+210911001000	辽宁省-阜新市-细河区-西苑街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/09/11/210911001.html
+210911002000	辽宁省-阜新市-细河区-北苑街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/09/11/210911002.html
+210911003000	辽宁省-阜新市-细河区-东苑街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/09/11/210911003.html
+210911004000	辽宁省-阜新市-细河区-学苑街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/09/11/210911004.html
+210911005000	辽宁省-阜新市-细河区-中苑街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/09/11/210911005.html
+210911006000	辽宁省-阜新市-细河区-华东街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/09/11/210911006.html
+210911102000	辽宁省-阜新市-细河区-四合镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/09/11/210911102.html
+210911401000	辽宁省-阜新市-细河区-六家子管委会	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/09/11/210911401.html

@@ -1,0 +1,14 @@
+370701000000	山东省-潍坊市-市辖区	
+370702000000	山东省-潍坊市-潍城区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/07/370702.html
+370703000000	山东省-潍坊市-寒亭区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/07/370703.html
+370704000000	山东省-潍坊市-坊子区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/07/370704.html
+370705000000	山东省-潍坊市-奎文区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/07/370705.html
+370724000000	山东省-潍坊市-临朐县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/07/370724.html
+370725000000	山东省-潍坊市-昌乐县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/07/370725.html
+370772000000	山东省-潍坊市-潍坊滨海经济技术开发区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/07/370772.html
+370781000000	山东省-潍坊市-青州市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/07/370781.html
+370782000000	山东省-潍坊市-诸城市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/07/370782.html
+370783000000	山东省-潍坊市-寿光市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/07/370783.html
+370784000000	山东省-潍坊市-安丘市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/07/370784.html
+370785000000	山东省-潍坊市-高密市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/07/370785.html
+370786000000	山东省-潍坊市-昌邑市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/07/370786.html

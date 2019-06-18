@@ -1,0 +1,8 @@
+130433100000	河北省-邯郸市-馆陶县-馆陶镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/04/33/130433100.html
+130433101000	河北省-邯郸市-馆陶县-房寨镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/04/33/130433101.html
+130433102000	河北省-邯郸市-馆陶县-柴堡镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/04/33/130433102.html
+130433103000	河北省-邯郸市-馆陶县-魏僧寨镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/04/33/130433103.html
+130433200000	河北省-邯郸市-馆陶县-寿山寺乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/04/33/130433200.html
+130433201000	河北省-邯郸市-馆陶县-王桥乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/04/33/130433201.html
+130433202000	河北省-邯郸市-馆陶县-南徐村乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/04/33/130433202.html
+130433203000	河北省-邯郸市-馆陶县-路桥乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/04/33/130433203.html

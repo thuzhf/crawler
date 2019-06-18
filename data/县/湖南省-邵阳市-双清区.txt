@@ -1,0 +1,12 @@
+430502001000	湖南省-邵阳市-双清区-兴隆街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/05/02/430502001.html
+430502002000	湖南省-邵阳市-双清区-龙须塘街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/05/02/430502002.html
+430502003000	湖南省-邵阳市-双清区-汽车站街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/05/02/430502003.html
+430502004000	湖南省-邵阳市-双清区-小江湖街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/05/02/430502004.html
+430502005000	湖南省-邵阳市-双清区-东风路街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/05/02/430502005.html
+430502006000	湖南省-邵阳市-双清区-桥头街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/05/02/430502006.html
+430502007000	湖南省-邵阳市-双清区-滨江街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/05/02/430502007.html
+430502008000	湖南省-邵阳市-双清区-石桥街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/05/02/430502008.html
+430502009000	湖南省-邵阳市-双清区-爱莲街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/05/02/430502009.html
+430502100000	湖南省-邵阳市-双清区-高崇山镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/05/02/430502100.html
+430502101000	湖南省-邵阳市-双清区-渡头桥镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/05/02/430502101.html
+430502202000	湖南省-邵阳市-双清区-火车站乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/05/02/430502202.html

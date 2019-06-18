@@ -1,0 +1,6 @@
+540124100000	西藏自治区-拉萨市-曲水县-曲水镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/01/24/540124100.html
+540124200000	西藏自治区-拉萨市-曲水县-达嘎乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/01/24/540124200.html
+540124201000	西藏自治区-拉萨市-曲水县-才纳乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/01/24/540124201.html
+540124202000	西藏自治区-拉萨市-曲水县-南木乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/01/24/540124202.html
+540124203000	西藏自治区-拉萨市-曲水县-聂当乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/01/24/540124203.html
+540124204000	西藏自治区-拉萨市-曲水县-茶巴拉乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/01/24/540124204.html

@@ -1,0 +1,6 @@
+220503001000	吉林省-通化市-二道江区-桃园街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/05/03/220503001.html
+220503002000	吉林省-通化市-二道江区-东通化街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/05/03/220503002.html
+220503100000	吉林省-通化市-二道江区-鸭园镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/05/03/220503100.html
+220503101000	吉林省-通化市-二道江区-铁厂镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/05/03/220503101.html
+220503102000	吉林省-通化市-二道江区-五道江镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/05/03/220503102.html
+220503200000	吉林省-通化市-二道江区-二道江乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/05/03/220503200.html

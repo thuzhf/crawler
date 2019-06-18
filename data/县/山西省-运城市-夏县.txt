@@ -1,0 +1,11 @@
+140828100000	山西省-运城市-夏县-瑶峰镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/08/28/140828100.html
+140828101000	山西省-运城市-夏县-庙前镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/08/28/140828101.html
+140828102000	山西省-运城市-夏县-裴介镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/08/28/140828102.html
+140828103000	山西省-运城市-夏县-水头镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/08/28/140828103.html
+140828104000	山西省-运城市-夏县-埝掌镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/08/28/140828104.html
+140828105000	山西省-运城市-夏县-泗交镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/08/28/140828105.html
+140828200000	山西省-运城市-夏县-尉郭乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/08/28/140828200.html
+140828201000	山西省-运城市-夏县-禹王乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/08/28/140828201.html
+140828202000	山西省-运城市-夏县-胡张乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/08/28/140828202.html
+140828203000	山西省-运城市-夏县-南大里乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/08/28/140828203.html
+140828204000	山西省-运城市-夏县-祁家河乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/08/28/140828204.html

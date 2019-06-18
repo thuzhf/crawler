@@ -1,0 +1,15 @@
+231084001000	黑龙江省-牡丹江市-宁安市-城区街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/10/84/231084001.html
+231084100000	黑龙江省-牡丹江市-宁安市-宁安镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/10/84/231084100.html
+231084101000	黑龙江省-牡丹江市-宁安市-东京城镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/10/84/231084101.html
+231084102000	黑龙江省-牡丹江市-宁安市-渤海镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/10/84/231084102.html
+231084103000	黑龙江省-牡丹江市-宁安市-石岩镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/10/84/231084103.html
+231084104000	黑龙江省-牡丹江市-宁安市-沙兰镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/10/84/231084104.html
+231084105000	黑龙江省-牡丹江市-宁安市-海浪镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/10/84/231084105.html
+231084106000	黑龙江省-牡丹江市-宁安市-兰岗镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/10/84/231084106.html
+231084107000	黑龙江省-牡丹江市-宁安市-镜泊镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/10/84/231084107.html
+231084202000	黑龙江省-牡丹江市-宁安市-江南朝鲜族满族乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/10/84/231084202.html
+231084206000	黑龙江省-牡丹江市-宁安市-卧龙朝鲜族乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/10/84/231084206.html
+231084208000	黑龙江省-牡丹江市-宁安市-马河乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/10/84/231084208.html
+231084211000	黑龙江省-牡丹江市-宁安市-三陵乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/10/84/231084211.html
+231084400000	黑龙江省-牡丹江市-宁安市-东京城林业局	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/10/84/231084400.html
+231084500000	黑龙江省-牡丹江市-宁安市-宁安农场	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/10/84/231084500.html

@@ -1,0 +1,15 @@
+371602001000	山东省-滨州市-滨城区-市中街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/16/02/371602001.html
+371602002000	山东省-滨州市-滨城区-市西街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/16/02/371602002.html
+371602003000	山东省-滨州市-滨城区-北镇街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/16/02/371602003.html
+371602004000	山东省-滨州市-滨城区-市东街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/16/02/371602004.html
+371602005000	山东省-滨州市-滨城区-彭李街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/16/02/371602005.html
+371602007000	山东省-滨州市-滨城区-小营街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/16/02/371602007.html
+371602008000	山东省-滨州市-滨城区-滨北街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/16/02/371602008.html
+371602009000	山东省-滨州市-滨城区-梁才街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/16/02/371602009.html
+371602010000	山东省-滨州市-滨城区-杜店街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/16/02/371602010.html
+371602011000	山东省-滨州市-滨城区-沙河街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/16/02/371602011.html
+371602012000	山东省-滨州市-滨城区-里则街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/16/02/371602012.html
+371602013000	山东省-滨州市-滨城区-青田街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/16/02/371602013.html
+371602105000	山东省-滨州市-滨城区-三河湖镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/16/02/371602105.html
+371602106000	山东省-滨州市-滨城区-杨柳雪镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/16/02/371602106.html
+371602203000	山东省-滨州市-滨城区-秦皇台乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/16/02/371602203.html

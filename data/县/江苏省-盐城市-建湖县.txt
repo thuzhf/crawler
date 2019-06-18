@@ -1,0 +1,14 @@
+320925001000	江苏省-盐城市-建湖县-近湖街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/09/25/320925001.html
+320925050000	江苏省-盐城市-建湖县-开发区（钟庄街道）	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/09/25/320925050.html
+320925051000	江苏省-盐城市-建湖县-高新区（塘河街道）	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/09/25/320925051.html
+320925101000	江苏省-盐城市-建湖县-建阳镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/09/25/320925101.html
+320925102000	江苏省-盐城市-建湖县-九龙口镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/09/25/320925102.html
+320925103000	江苏省-盐城市-建湖县-恒济镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/09/25/320925103.html
+320925104000	江苏省-盐城市-建湖县-颜单镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/09/25/320925104.html
+320925105000	江苏省-盐城市-建湖县-沿河镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/09/25/320925105.html
+320925106000	江苏省-盐城市-建湖县-芦沟镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/09/25/320925106.html
+320925107000	江苏省-盐城市-建湖县-庆丰镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/09/25/320925107.html
+320925108000	江苏省-盐城市-建湖县-上冈镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/09/25/320925108.html
+320925111000	江苏省-盐城市-建湖县-冈西镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/09/25/320925111.html
+320925113000	江苏省-盐城市-建湖县-宝塔镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/09/25/320925113.html
+320925114000	江苏省-盐城市-建湖县-高作镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/09/25/320925114.html

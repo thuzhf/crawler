@@ -1,0 +1,15 @@
+360734100000	江西省-赣州市-寻乌县-长宁镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/07/34/360734100.html
+360734101000	江西省-赣州市-寻乌县-晨光镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/07/34/360734101.html
+360734102000	江西省-赣州市-寻乌县-留车镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/07/34/360734102.html
+360734103000	江西省-赣州市-寻乌县-南桥镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/07/34/360734103.html
+360734104000	江西省-赣州市-寻乌县-吉潭镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/07/34/360734104.html
+360734105000	江西省-赣州市-寻乌县-澄江镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/07/34/360734105.html
+360734106000	江西省-赣州市-寻乌县-桂竹帽镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/07/34/360734106.html
+360734200000	江西省-赣州市-寻乌县-文峰乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/07/34/360734200.html
+360734201000	江西省-赣州市-寻乌县-三标乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/07/34/360734201.html
+360734202000	江西省-赣州市-寻乌县-菖蒲乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/07/34/360734202.html
+360734203000	江西省-赣州市-寻乌县-龙廷乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/07/34/360734203.html
+360734204000	江西省-赣州市-寻乌县-丹溪乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/07/34/360734204.html
+360734205000	江西省-赣州市-寻乌县-项山乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/07/34/360734205.html
+360734206000	江西省-赣州市-寻乌县-水源乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/07/34/360734206.html
+360734207000	江西省-赣州市-寻乌县-罗珊乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/07/34/360734207.html

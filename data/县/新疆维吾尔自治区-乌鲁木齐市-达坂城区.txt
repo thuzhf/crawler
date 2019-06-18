@@ -1,0 +1,8 @@
+650107001000	新疆维吾尔自治区-乌鲁木齐市-达坂城区-艾维尔沟街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/01/07/650107001.html
+650107004000	新疆维吾尔自治区-乌鲁木齐市-达坂城区-乌拉泊街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/01/07/650107004.html
+650107006000	新疆维吾尔自治区-乌鲁木齐市-达坂城区-达坂城区盐湖街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/01/07/650107006.html
+650107100000	新疆维吾尔自治区-乌鲁木齐市-达坂城区-达坂城镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/01/07/650107100.html
+650107200000	新疆维吾尔自治区-乌鲁木齐市-达坂城区-东沟乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/01/07/650107200.html
+650107201000	新疆维吾尔自治区-乌鲁木齐市-达坂城区-西沟乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/01/07/650107201.html
+650107202000	新疆维吾尔自治区-乌鲁木齐市-达坂城区-阿克苏乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/01/07/650107202.html
+650107400000	新疆维吾尔自治区-乌鲁木齐市-达坂城区-柴窝堡管委会	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65/01/07/650107400.html

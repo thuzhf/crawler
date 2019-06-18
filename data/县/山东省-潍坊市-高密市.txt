@@ -1,0 +1,10 @@
+370785001000	山东省-潍坊市-高密市-高密市朝阳街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/07/85/370785001.html
+370785002000	山东省-潍坊市-高密市-高密市醴泉街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/07/85/370785002.html
+370785003000	山东省-潍坊市-高密市-高密市密水街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/07/85/370785003.html
+370785100000	山东省-潍坊市-高密市-柏城镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/07/85/370785100.html
+370785103000	山东省-潍坊市-高密市-夏庄镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/07/85/370785103.html
+370785104000	山东省-潍坊市-高密市-姜庄镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/07/85/370785104.html
+370785106000	山东省-潍坊市-高密市-大牟家镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/07/85/370785106.html
+370785109000	山东省-潍坊市-高密市-阚家镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/07/85/370785109.html
+370785111000	山东省-潍坊市-高密市-井沟镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/07/85/370785111.html
+370785114000	山东省-潍坊市-高密市-柴沟镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/07/85/370785114.html

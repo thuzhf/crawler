@@ -1,0 +1,7 @@
+210801000000	辽宁省-营口市-市辖区	
+210802000000	辽宁省-营口市-站前区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/08/210802.html
+210803000000	辽宁省-营口市-西市区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/08/210803.html
+210804000000	辽宁省-营口市-鲅鱼圈区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/08/210804.html
+210811000000	辽宁省-营口市-老边区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/08/210811.html
+210881000000	辽宁省-营口市-盖州市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/08/210881.html
+210882000000	辽宁省-营口市-大石桥市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/08/210882.html

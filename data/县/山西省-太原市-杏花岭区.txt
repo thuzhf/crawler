@@ -1,0 +1,12 @@
+140107001000	山西省-太原市-杏花岭区-巨轮街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/01/07/140107001.html
+140107002000	山西省-太原市-杏花岭区-三桥街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/01/07/140107002.html
+140107003000	山西省-太原市-杏花岭区-鼓楼街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/01/07/140107003.html
+140107004000	山西省-太原市-杏花岭区-杏花岭街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/01/07/140107004.html
+140107005000	山西省-太原市-杏花岭区-坝陵桥街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/01/07/140107005.html
+140107006000	山西省-太原市-杏花岭区-大东关街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/01/07/140107006.html
+140107007000	山西省-太原市-杏花岭区-职工新街街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/01/07/140107007.html
+140107008000	山西省-太原市-杏花岭区-敦化坊街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/01/07/140107008.html
+140107009000	山西省-太原市-杏花岭区-涧河街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/01/07/140107009.html
+140107010000	山西省-太原市-杏花岭区-杨家峪街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/01/07/140107010.html
+140107200000	山西省-太原市-杏花岭区-中涧河乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/01/07/140107200.html
+140107201000	山西省-太原市-杏花岭区-小返乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/01/07/140107201.html

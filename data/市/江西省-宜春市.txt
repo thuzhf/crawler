@@ -1,0 +1,11 @@
+360901000000	江西省-宜春市-市辖区	
+360902000000	江西省-宜春市-袁州区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/09/360902.html
+360921000000	江西省-宜春市-奉新县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/09/360921.html
+360922000000	江西省-宜春市-万载县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/09/360922.html
+360923000000	江西省-宜春市-上高县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/09/360923.html
+360924000000	江西省-宜春市-宜丰县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/09/360924.html
+360925000000	江西省-宜春市-靖安县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/09/360925.html
+360926000000	江西省-宜春市-铜鼓县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/09/360926.html
+360981000000	江西省-宜春市-丰城市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/09/360981.html
+360982000000	江西省-宜春市-樟树市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/09/360982.html
+360983000000	江西省-宜春市-高安市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/09/360983.html

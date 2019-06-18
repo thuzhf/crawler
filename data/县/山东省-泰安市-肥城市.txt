@@ -1,0 +1,14 @@
+370983001000	山东省-泰安市-肥城市-新城街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/09/83/370983001.html
+370983002000	山东省-泰安市-肥城市-老城街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/09/83/370983002.html
+370983003000	山东省-泰安市-肥城市-王瓜店街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/09/83/370983003.html
+370983004000	山东省-泰安市-肥城市-仪阳街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/09/83/370983004.html
+370983101000	山东省-泰安市-肥城市-潮泉镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/09/83/370983101.html
+370983103000	山东省-泰安市-肥城市-桃园镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/09/83/370983103.html
+370983104000	山东省-泰安市-肥城市-王庄镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/09/83/370983104.html
+370983105000	山东省-泰安市-肥城市-湖屯镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/09/83/370983105.html
+370983106000	山东省-泰安市-肥城市-石横镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/09/83/370983106.html
+370983107000	山东省-泰安市-肥城市-安临站镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/09/83/370983107.html
+370983108000	山东省-泰安市-肥城市-孙伯镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/09/83/370983108.html
+370983109000	山东省-泰安市-肥城市-安驾庄镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/09/83/370983109.html
+370983110000	山东省-泰安市-肥城市-汶阳镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/09/83/370983110.html
+370983111000	山东省-泰安市-肥城市-边院镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/09/83/370983111.html

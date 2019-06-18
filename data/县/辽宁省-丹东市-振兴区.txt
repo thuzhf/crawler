@@ -1,0 +1,13 @@
+210603001000	辽宁省-丹东市-振兴区-头道桥街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/06/03/210603001.html
+210603002000	辽宁省-丹东市-振兴区-站前街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/06/03/210603002.html
+210603003000	辽宁省-丹东市-振兴区-临江街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/06/03/210603003.html
+210603004000	辽宁省-丹东市-振兴区-六道沟街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/06/03/210603004.html
+210603005000	辽宁省-丹东市-振兴区-帽盔山街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/06/03/210603005.html
+210603006000	辽宁省-丹东市-振兴区-纤维街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/06/03/210603006.html
+210603007000	辽宁省-丹东市-振兴区-永昌街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/06/03/210603007.html
+210603008000	辽宁省-丹东市-振兴区-花园街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/06/03/210603008.html
+210603009000	辽宁省-丹东市-振兴区-江海街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/06/03/210603009.html
+210603010000	辽宁省-丹东市-振兴区-西城街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/06/03/210603010.html
+210603101000	辽宁省-丹东市-振兴区-浪头镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/06/03/210603101.html
+210603102000	辽宁省-丹东市-振兴区-安民镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/06/03/210603102.html
+210603103000	辽宁省-丹东市-振兴区-汤池镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/06/03/210603103.html

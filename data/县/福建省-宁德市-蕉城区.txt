@@ -1,0 +1,17 @@
+350902001000	福建省-宁德市-蕉城区-蕉南街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/09/02/350902001.html
+350902002000	福建省-宁德市-蕉城区-蕉北街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/09/02/350902002.html
+350902100000	福建省-宁德市-蕉城区-城南镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/09/02/350902100.html
+350902101000	福建省-宁德市-蕉城区-漳湾镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/09/02/350902101.html
+350902102000	福建省-宁德市-蕉城区-七都镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/09/02/350902102.html
+350902103000	福建省-宁德市-蕉城区-八都镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/09/02/350902103.html
+350902104000	福建省-宁德市-蕉城区-九都镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/09/02/350902104.html
+350902105000	福建省-宁德市-蕉城区-霍童镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/09/02/350902105.html
+350902106000	福建省-宁德市-蕉城区-赤溪镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/09/02/350902106.html
+350902107000	福建省-宁德市-蕉城区-洋中镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/09/02/350902107.html
+350902108000	福建省-宁德市-蕉城区-飞鸾镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/09/02/350902108.html
+350902109000	福建省-宁德市-蕉城区-三都镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/09/02/350902109.html
+350902110000	福建省-宁德市-蕉城区-虎贝镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/09/02/350902110.html
+350902200000	福建省-宁德市-蕉城区-金涵畲族乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/09/02/350902200.html
+350902201000	福建省-宁德市-蕉城区-洪口乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/09/02/350902201.html
+350902202000	福建省-宁德市-蕉城区-石后乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/09/02/350902202.html
+350902500000	福建省-宁德市-蕉城区-东侨开发区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/09/02/350902500.html

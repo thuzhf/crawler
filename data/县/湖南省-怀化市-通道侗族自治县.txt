@@ -1,0 +1,13 @@
+431230100000	湖南省-怀化市-通道侗族自治县-双江镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/12/30/431230100.html
+431230101000	湖南省-怀化市-通道侗族自治县-县溪镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/12/30/431230101.html
+431230102000	湖南省-怀化市-通道侗族自治县-播阳镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/12/30/431230102.html
+431230104000	湖南省-怀化市-通道侗族自治县-牙屯堡镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/12/30/431230104.html
+431230105000	湖南省-怀化市-通道侗族自治县-菁芜洲镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/12/30/431230105.html
+431230106000	湖南省-怀化市-通道侗族自治县-溪口镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/12/30/431230106.html
+431230107000	湖南省-怀化市-通道侗族自治县-陇城镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/12/30/431230107.html
+431230108000	湖南省-怀化市-通道侗族自治县-万佛山镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/12/30/431230108.html
+431230109000	湖南省-怀化市-通道侗族自治县-独坡镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/12/30/431230109.html
+431230203000	湖南省-怀化市-通道侗族自治县-大高坪苗族乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/12/30/431230203.html
+431230216000	湖南省-怀化市-通道侗族自治县-坪坦乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/12/30/431230216.html
+431230400000	湖南省-怀化市-通道侗族自治县-通道县地连林场	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/12/30/431230400.html
+431230401000	湖南省-怀化市-通道侗族自治县-通道县播阳农场	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/12/30/431230401.html

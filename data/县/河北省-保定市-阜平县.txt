@@ -1,0 +1,13 @@
+130624100000	河北省-保定市-阜平县-阜平镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/06/24/130624100.html
+130624101000	河北省-保定市-阜平县-龙泉关镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/06/24/130624101.html
+130624102000	河北省-保定市-阜平县-平阳镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/06/24/130624102.html
+130624103000	河北省-保定市-阜平县-城南庄镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/06/24/130624103.html
+130624104000	河北省-保定市-阜平县-天生桥镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/06/24/130624104.html
+130624105000	河北省-保定市-阜平县-王林口镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/06/24/130624105.html
+130624202000	河北省-保定市-阜平县-台峪乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/06/24/130624202.html
+130624203000	河北省-保定市-阜平县-大台乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/06/24/130624203.html
+130624204000	河北省-保定市-阜平县-史家寨乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/06/24/130624204.html
+130624205000	河北省-保定市-阜平县-砂窝乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/06/24/130624205.html
+130624206000	河北省-保定市-阜平县-吴王口乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/06/24/130624206.html
+130624207000	河北省-保定市-阜平县-夏庄乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/06/24/130624207.html
+130624208000	河北省-保定市-阜平县-北果元乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/06/24/130624208.html

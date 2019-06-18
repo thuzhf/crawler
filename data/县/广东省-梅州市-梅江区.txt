@@ -1,0 +1,7 @@
+441402004000	广东省-梅州市-梅江区-江南街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/14/02/441402004.html
+441402006000	广东省-梅州市-梅江区-金山街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/14/02/441402006.html
+441402007000	广东省-梅州市-梅江区-西郊街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/14/02/441402007.html
+441402102000	广东省-梅州市-梅江区-三角镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/14/02/441402102.html
+441402103000	广东省-梅州市-梅江区-长沙镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/14/02/441402103.html
+441402105000	广东省-梅州市-梅江区-城北镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/14/02/441402105.html
+441402106000	广东省-梅州市-梅江区-西阳镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/14/02/441402106.html

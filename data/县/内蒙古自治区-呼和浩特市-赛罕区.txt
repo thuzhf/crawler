@@ -1,0 +1,12 @@
+150105001000	内蒙古自治区-呼和浩特市-赛罕区-人民路街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/01/05/150105001.html
+150105002000	内蒙古自治区-呼和浩特市-赛罕区-大学西路街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/01/05/150105002.html
+150105003000	内蒙古自治区-呼和浩特市-赛罕区-乌兰察布东路街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/01/05/150105003.html
+150105004000	内蒙古自治区-呼和浩特市-赛罕区-大学东路街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/01/05/150105004.html
+150105005000	内蒙古自治区-呼和浩特市-赛罕区-中专路街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/01/05/150105005.html
+150105006000	内蒙古自治区-呼和浩特市-赛罕区-昭乌达路街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/01/05/150105006.html
+150105007000	内蒙古自治区-呼和浩特市-赛罕区-巴彦街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/01/05/150105007.html
+150105008000	内蒙古自治区-呼和浩特市-赛罕区-敕勒川路街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/01/05/150105008.html
+150105101000	内蒙古自治区-呼和浩特市-赛罕区-榆林镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/01/05/150105101.html
+150105103000	内蒙古自治区-呼和浩特市-赛罕区-黄合少镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/01/05/150105103.html
+150105104000	内蒙古自治区-呼和浩特市-赛罕区-金河镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/01/05/150105104.html
+150105400000	内蒙古自治区-呼和浩特市-赛罕区-金桥经济技术开发区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/01/05/150105400.html

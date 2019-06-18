@@ -1,0 +1,14 @@
+610601000000	陕西省-延安市-市辖区	
+610602000000	陕西省-延安市-宝塔区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/61/06/610602.html
+610603000000	陕西省-延安市-安塞区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/61/06/610603.html
+610621000000	陕西省-延安市-延长县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/61/06/610621.html
+610622000000	陕西省-延安市-延川县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/61/06/610622.html
+610623000000	陕西省-延安市-子长县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/61/06/610623.html
+610625000000	陕西省-延安市-志丹县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/61/06/610625.html
+610626000000	陕西省-延安市-吴起县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/61/06/610626.html
+610627000000	陕西省-延安市-甘泉县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/61/06/610627.html
+610628000000	陕西省-延安市-富县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/61/06/610628.html
+610629000000	陕西省-延安市-洛川县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/61/06/610629.html
+610630000000	陕西省-延安市-宜川县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/61/06/610630.html
+610631000000	陕西省-延安市-黄龙县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/61/06/610631.html
+610632000000	陕西省-延安市-黄陵县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/61/06/610632.html

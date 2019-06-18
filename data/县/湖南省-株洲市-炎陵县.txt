@@ -1,0 +1,12 @@
+430225100000	湖南省-株洲市-炎陵县-霞阳镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/02/25/430225100.html
+430225101000	湖南省-株洲市-炎陵县-沔渡镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/02/25/430225101.html
+430225102000	湖南省-株洲市-炎陵县-十都镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/02/25/430225102.html
+430225103000	湖南省-株洲市-炎陵县-水口镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/02/25/430225103.html
+430225105000	湖南省-株洲市-炎陵县-鹿原镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/02/25/430225105.html
+430225200000	湖南省-株洲市-炎陵县-垄溪乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/02/25/430225200.html
+430225202000	湖南省-株洲市-炎陵县-策源乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/02/25/430225202.html
+430225203000	湖南省-株洲市-炎陵县-下村乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/02/25/430225203.html
+430225207000	湖南省-株洲市-炎陵县-船形乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/02/25/430225207.html
+430225209000	湖南省-株洲市-炎陵县-中村瑶族乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/02/25/430225209.html
+430225400000	湖南省-株洲市-炎陵县-炎陵县大院农场	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/02/25/430225400.html
+430225401000	湖南省-株洲市-炎陵县-炎陵县桃源洞管理局	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/02/25/430225401.html

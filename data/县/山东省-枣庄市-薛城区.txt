@@ -1,0 +1,9 @@
+370403001000	山东省-枣庄市-薛城区-临城街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/04/03/370403001.html
+370403002000	山东省-枣庄市-薛城区-兴仁街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/04/03/370403002.html
+370403003000	山东省-枣庄市-薛城区-兴城街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/04/03/370403003.html
+370403004000	山东省-枣庄市-薛城区-张范街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/04/03/370403004.html
+370403101000	山东省-枣庄市-薛城区-沙沟镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/04/03/370403101.html
+370403102000	山东省-枣庄市-薛城区-周营镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/04/03/370403102.html
+370403103000	山东省-枣庄市-薛城区-邹坞镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/04/03/370403103.html
+370403104000	山东省-枣庄市-薛城区-陶庄镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/04/03/370403104.html
+370403106000	山东省-枣庄市-薛城区-常庄镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/04/03/370403106.html

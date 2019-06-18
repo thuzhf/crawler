@@ -1,0 +1,14 @@
+330101000000	浙江省-杭州市-市辖区	
+330102000000	浙江省-杭州市-上城区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/01/330102.html
+330103000000	浙江省-杭州市-下城区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/01/330103.html
+330104000000	浙江省-杭州市-江干区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/01/330104.html
+330105000000	浙江省-杭州市-拱墅区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/01/330105.html
+330106000000	浙江省-杭州市-西湖区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/01/330106.html
+330108000000	浙江省-杭州市-滨江区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/01/330108.html
+330109000000	浙江省-杭州市-萧山区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/01/330109.html
+330110000000	浙江省-杭州市-余杭区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/01/330110.html
+330111000000	浙江省-杭州市-富阳区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/01/330111.html
+330112000000	浙江省-杭州市-临安区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/01/330112.html
+330122000000	浙江省-杭州市-桐庐县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/01/330122.html
+330127000000	浙江省-杭州市-淳安县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/01/330127.html
+330182000000	浙江省-杭州市-建德市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/01/330182.html

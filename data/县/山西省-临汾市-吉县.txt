@@ -1,0 +1,8 @@
+141028100000	山西省-临汾市-吉县-吉昌镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/10/28/141028100.html
+141028101000	山西省-临汾市-吉县-屯里镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/10/28/141028101.html
+141028102000	山西省-临汾市-吉县-壶口镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/10/28/141028102.html
+141028200000	山西省-临汾市-吉县-车城乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/10/28/141028200.html
+141028201000	山西省-临汾市-吉县-文城乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/10/28/141028201.html
+141028202000	山西省-临汾市-吉县-东城乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/10/28/141028202.html
+141028203000	山西省-临汾市-吉县-柏山寺乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/10/28/141028203.html
+141028204000	山西省-临汾市-吉县-中垛乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/10/28/141028204.html

@@ -1,0 +1,14 @@
+530521101000	云南省-保山市-施甸县-甸阳镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/05/21/530521101.html
+530521102000	云南省-保山市-施甸县-由旺镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/05/21/530521102.html
+530521103000	云南省-保山市-施甸县-姚关镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/05/21/530521103.html
+530521104000	云南省-保山市-施甸县-仁和镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/05/21/530521104.html
+530521105000	云南省-保山市-施甸县-太平镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/05/21/530521105.html
+530521201000	云南省-保山市-施甸县-万兴乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/05/21/530521201.html
+530521202000	云南省-保山市-施甸县-摆榔彝族布朗族乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/05/21/530521202.html
+530521203000	云南省-保山市-施甸县-酒房乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/05/21/530521203.html
+530521204000	云南省-保山市-施甸县-旧城乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/05/21/530521204.html
+530521205000	云南省-保山市-施甸县-木老元布朗族彝族乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/05/21/530521205.html
+530521206000	云南省-保山市-施甸县-老麦乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/05/21/530521206.html
+530521207000	云南省-保山市-施甸县-何元乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/05/21/530521207.html
+530521208000	云南省-保山市-施甸县-水长乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/05/21/530521208.html
+530521401000	云南省-保山市-施甸县-保山市水长工业园区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/05/21/530521401.html

@@ -1,0 +1,16 @@
+210711001000	辽宁省-锦州市-太和区-太和街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/07/11/210711001.html
+210711002000	辽宁省-锦州市-太和区-兴隆街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/07/11/210711002.html
+210711003000	辽宁省-锦州市-太和区-汤河子街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/07/11/210711003.html
+210711004000	辽宁省-锦州市-太和区-凌西街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/07/11/210711004.html
+210711007000	辽宁省-锦州市-太和区-大薛街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/07/11/210711007.html
+210711008000	辽宁省-锦州市-太和区-女儿河街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/07/11/210711008.html
+210711009000	辽宁省-锦州市-太和区-营盘街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/07/11/210711009.html
+210711010000	辽宁省-锦州市-太和区-新民街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/07/11/210711010.html
+210711070000	辽宁省-锦州市-太和区-王家街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/07/11/210711070.html
+210711071000	辽宁省-锦州市-太和区-天桥街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/07/11/210711071.html
+210711072000	辽宁省-锦州市-太和区-杏山街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/07/11/210711072.html
+210711073000	辽宁省-锦州市-太和区-娘娘宫街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/07/11/210711073.html
+210711074000	辽宁省-锦州市-太和区-龙栖湾街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/07/11/210711074.html
+210711080000	辽宁省-锦州市-太和区-凌南街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/07/11/210711080.html
+210711081000	辽宁省-锦州市-太和区-松山街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/07/11/210711081.html
+210711480000	辽宁省-锦州市-太和区-锦州市果树农场	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/21/07/11/210711480.html

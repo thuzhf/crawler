@@ -1,0 +1,9 @@
+441801000000	广东省-清远市-市辖区	
+441802000000	广东省-清远市-清城区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/18/441802.html
+441803000000	广东省-清远市-清新区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/18/441803.html
+441821000000	广东省-清远市-佛冈县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/18/441821.html
+441823000000	广东省-清远市-阳山县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/18/441823.html
+441825000000	广东省-清远市-连山壮族瑶族自治县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/18/441825.html
+441826000000	广东省-清远市-连南瑶族自治县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/18/441826.html
+441881000000	广东省-清远市-英德市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/18/441881.html
+441882000000	广东省-清远市-连州市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/18/441882.html

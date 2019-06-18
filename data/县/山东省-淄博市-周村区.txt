@@ -1,0 +1,10 @@
+370306001000	山东省-淄博市-周村区-丝绸路街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/03/06/370306001.html
+370306002000	山东省-淄博市-周村区-大街街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/03/06/370306002.html
+370306003000	山东省-淄博市-周村区-青年路街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/03/06/370306003.html
+370306004000	山东省-淄博市-周村区-永安街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/03/06/370306004.html
+370306005000	山东省-淄博市-周村区-城北路街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/03/06/370306005.html
+370306100000	山东省-淄博市-周村区-北郊镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/03/06/370306100.html
+370306101000	山东省-淄博市-周村区-南郊镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/03/06/370306101.html
+370306102000	山东省-淄博市-周村区-王村镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/03/06/370306102.html
+370306103000	山东省-淄博市-周村区-萌水镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/03/06/370306103.html
+370306104000	山东省-淄博市-周村区-商家镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/03/06/370306104.html

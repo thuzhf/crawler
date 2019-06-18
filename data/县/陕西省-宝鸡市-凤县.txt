@@ -1,0 +1,11 @@
+610330100000	陕西省-宝鸡市-凤县-双石铺镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/61/03/30/610330100.html
+610330101000	陕西省-宝鸡市-凤县-凤州镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/61/03/30/610330101.html
+610330102000	陕西省-宝鸡市-凤县-黄牛铺镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/61/03/30/610330102.html
+610330103000	陕西省-宝鸡市-凤县-红花铺镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/61/03/30/610330103.html
+610330104000	陕西省-宝鸡市-凤县-河口镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/61/03/30/610330104.html
+610330105000	陕西省-宝鸡市-凤县-唐藏镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/61/03/30/610330105.html
+610330106000	陕西省-宝鸡市-凤县-平木镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/61/03/30/610330106.html
+610330107000	陕西省-宝鸡市-凤县-坪坎镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/61/03/30/610330107.html
+610330110000	陕西省-宝鸡市-凤县-留凤关镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/61/03/30/610330110.html
+610330400000	陕西省-宝鸡市-凤县-马头滩林业局	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/61/03/30/610330400.html
+610330401000	陕西省-宝鸡市-凤县-辛家山林业场	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/61/03/30/610330401.html

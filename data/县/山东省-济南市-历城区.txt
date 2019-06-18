@@ -1,0 +1,17 @@
+370112001000	山东省-济南市-历城区-山大路街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/01/12/370112001.html
+370112002000	山东省-济南市-历城区-洪家楼街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/01/12/370112002.html
+370112003000	山东省-济南市-历城区-东风街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/01/12/370112003.html
+370112004000	山东省-济南市-历城区-全福街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/01/12/370112004.html
+370112007000	山东省-济南市-历城区-华山街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/01/12/370112007.html
+370112008000	山东省-济南市-历城区-荷花路街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/01/12/370112008.html
+370112009000	山东省-济南市-历城区-王舍人街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/01/12/370112009.html
+370112010000	山东省-济南市-历城区-鲍山街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/01/12/370112010.html
+370112011000	山东省-济南市-历城区-郭店街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/01/12/370112011.html
+370112012000	山东省-济南市-历城区-唐冶街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/01/12/370112012.html
+370112013000	山东省-济南市-历城区-港沟街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/01/12/370112013.html
+370112016000	山东省-济南市-历城区-董家街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/01/12/370112016.html
+370112017000	山东省-济南市-历城区-彩石街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/01/12/370112017.html
+370112018000	山东省-济南市-历城区-仲宫街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/01/12/370112018.html
+370112019000	山东省-济南市-历城区-柳埠街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/01/12/370112019.html
+370112107000	山东省-济南市-历城区-唐王镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/01/12/370112107.html
+370112111000	山东省-济南市-历城区-西营镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/01/12/370112111.html

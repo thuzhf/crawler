@@ -1,0 +1,9 @@
+130407100000	河北省-邯郸市-肥乡区-肥乡镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/04/07/130407100.html
+130407101000	河北省-邯郸市-肥乡区-天台山镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/04/07/130407101.html
+130407102000	河北省-邯郸市-肥乡区-辛安镇镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/04/07/130407102.html
+130407103000	河北省-邯郸市-肥乡区-大寺上镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/04/07/130407103.html
+130407104000	河北省-邯郸市-肥乡区-东漳堡镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/04/07/130407104.html
+130407202000	河北省-邯郸市-肥乡区-毛演堡乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/04/07/130407202.html
+130407203000	河北省-邯郸市-肥乡区-元固乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/04/07/130407203.html
+130407204000	河北省-邯郸市-肥乡区-屯庄营乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/04/07/130407204.html
+130407206000	河北省-邯郸市-肥乡区-旧店乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/04/07/130407206.html

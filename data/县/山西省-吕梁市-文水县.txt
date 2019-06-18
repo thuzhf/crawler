@@ -1,0 +1,12 @@
+141121100000	山西省-吕梁市-文水县-凤城镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/11/21/141121100.html
+141121101000	山西省-吕梁市-文水县-开栅镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/11/21/141121101.html
+141121102000	山西省-吕梁市-文水县-南庄镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/11/21/141121102.html
+141121103000	山西省-吕梁市-文水县-南安镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/11/21/141121103.html
+141121104000	山西省-吕梁市-文水县-刘胡兰镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/11/21/141121104.html
+141121105000	山西省-吕梁市-文水县-下曲镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/11/21/141121105.html
+141121106000	山西省-吕梁市-文水县-孝义镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/11/21/141121106.html
+141121200000	山西省-吕梁市-文水县-南武乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/11/21/141121200.html
+141121201000	山西省-吕梁市-文水县-西城乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/11/21/141121201.html
+141121202000	山西省-吕梁市-文水县-北张乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/11/21/141121202.html
+141121203000	山西省-吕梁市-文水县-马西乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/11/21/141121203.html
+141121204000	山西省-吕梁市-文水县-西槽头乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/11/21/141121204.html

@@ -1,0 +1,10 @@
+410411001000	河南省-平顶山市-湛河区-马庄街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/04/11/410411001.html
+410411002000	河南省-平顶山市-湛河区-南环路街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/04/11/410411002.html
+410411003000	河南省-平顶山市-湛河区-姚孟街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/04/11/410411003.html
+410411004000	河南省-平顶山市-湛河区-九里山街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/04/11/410411004.html
+410411005000	河南省-平顶山市-湛河区-轻工路街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/04/11/410411005.html
+410411006000	河南省-平顶山市-湛河区-高阳路街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/04/11/410411006.html
+410411007000	河南省-平顶山市-湛河区-北渡街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/04/11/410411007.html
+410411008000	河南省-平顶山市-湛河区-荆山办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/04/11/410411008.html
+410411009000	河南省-平顶山市-湛河区-河滨街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/04/11/410411009.html
+410411200000	河南省-平顶山市-湛河区-曹镇乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/04/11/410411200.html

@@ -1,0 +1,7 @@
+321301000000	江苏省-宿迁市-市辖区	
+321302000000	江苏省-宿迁市-宿城区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/13/321302.html
+321311000000	江苏省-宿迁市-宿豫区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/13/321311.html
+321322000000	江苏省-宿迁市-沭阳县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/13/321322.html
+321323000000	江苏省-宿迁市-泗阳县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/13/321323.html
+321324000000	江苏省-宿迁市-泗洪县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/13/321324.html
+321371000000	江苏省-宿迁市-宿迁经济技术开发区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/13/321371.html

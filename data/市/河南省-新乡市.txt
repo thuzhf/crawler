@@ -1,0 +1,16 @@
+410701000000	河南省-新乡市-市辖区	
+410702000000	河南省-新乡市-红旗区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/07/410702.html
+410703000000	河南省-新乡市-卫滨区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/07/410703.html
+410704000000	河南省-新乡市-凤泉区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/07/410704.html
+410711000000	河南省-新乡市-牧野区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/07/410711.html
+410721000000	河南省-新乡市-新乡县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/07/410721.html
+410724000000	河南省-新乡市-获嘉县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/07/410724.html
+410725000000	河南省-新乡市-原阳县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/07/410725.html
+410726000000	河南省-新乡市-延津县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/07/410726.html
+410727000000	河南省-新乡市-封丘县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/07/410727.html
+410728000000	河南省-新乡市-长垣县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/07/410728.html
+410771000000	河南省-新乡市-新乡高新技术产业开发区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/07/410771.html
+410772000000	河南省-新乡市-新乡经济技术开发区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/07/410772.html
+410773000000	河南省-新乡市-新乡市平原城乡一体化示范区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/07/410773.html
+410781000000	河南省-新乡市-卫辉市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/07/410781.html
+410782000000	河南省-新乡市-辉县市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/07/410782.html

@@ -1,0 +1,12 @@
+530427001000	云南省-玉溪市-新平彝族傣族自治县-桂山街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/04/27/530427001.html
+530427002000	云南省-玉溪市-新平彝族傣族自治县-古城街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/04/27/530427002.html
+530427100000	云南省-玉溪市-新平彝族傣族自治县-扬武镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/04/27/530427100.html
+530427101000	云南省-玉溪市-新平彝族傣族自治县-漠沙镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/04/27/530427101.html
+530427102000	云南省-玉溪市-新平彝族傣族自治县-戛洒镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/04/27/530427102.html
+530427103000	云南省-玉溪市-新平彝族傣族自治县-水塘镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/04/27/530427103.html
+530427200000	云南省-玉溪市-新平彝族傣族自治县-平甸乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/04/27/530427200.html
+530427201000	云南省-玉溪市-新平彝族傣族自治县-新化乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/04/27/530427201.html
+530427202000	云南省-玉溪市-新平彝族傣族自治县-建兴乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/04/27/530427202.html
+530427203000	云南省-玉溪市-新平彝族傣族自治县-老厂乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/04/27/530427203.html
+530427204000	云南省-玉溪市-新平彝族傣族自治县-者竜乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/04/27/530427204.html
+530427205000	云南省-玉溪市-新平彝族傣族自治县-平掌乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/04/27/530427205.html

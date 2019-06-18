@@ -1,0 +1,13 @@
+330402007000	浙江省-嘉兴市-南湖区-建设街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/04/02/330402007.html
+330402008000	浙江省-嘉兴市-南湖区-解放街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/04/02/330402008.html
+330402009000	浙江省-嘉兴市-南湖区-新嘉街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/04/02/330402009.html
+330402010000	浙江省-嘉兴市-南湖区-南湖街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/04/02/330402010.html
+330402011000	浙江省-嘉兴市-南湖区-新兴街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/04/02/330402011.html
+330402012000	浙江省-嘉兴市-南湖区-城南街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/04/02/330402012.html
+330402013000	浙江省-嘉兴市-南湖区-东栅街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/04/02/330402013.html
+330402014000	浙江省-嘉兴市-南湖区-长水街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/04/02/330402014.html
+330402015000	浙江省-嘉兴市-南湖区-七星街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/04/02/330402015.html
+330402100000	浙江省-嘉兴市-南湖区-凤桥镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/04/02/330402100.html
+330402101000	浙江省-嘉兴市-南湖区-余新镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/04/02/330402101.html
+330402103000	浙江省-嘉兴市-南湖区-新丰镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/04/02/330402103.html
+330402105000	浙江省-嘉兴市-南湖区-大桥镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/04/02/330402105.html

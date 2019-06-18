@@ -1,0 +1,9 @@
+140921100000	山西省-忻州市-定襄县-晋昌镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/09/21/140921100.html
+140921101000	山西省-忻州市-定襄县-河边镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/09/21/140921101.html
+140921102000	山西省-忻州市-定襄县-宏道镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/09/21/140921102.html
+140921200000	山西省-忻州市-定襄县-杨芳乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/09/21/140921200.html
+140921201000	山西省-忻州市-定襄县-南王乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/09/21/140921201.html
+140921202000	山西省-忻州市-定襄县-蒋村乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/09/21/140921202.html
+140921203000	山西省-忻州市-定襄县-神山乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/09/21/140921203.html
+140921204000	山西省-忻州市-定襄县-季庄乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/09/21/140921204.html
+140921205000	山西省-忻州市-定襄县-受禄乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/09/21/140921205.html

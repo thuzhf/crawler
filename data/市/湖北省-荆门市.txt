@@ -1,0 +1,6 @@
+420801000000	湖北省-荆门市-市辖区	
+420802000000	湖北省-荆门市-东宝区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/08/420802.html
+420804000000	湖北省-荆门市-掇刀区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/08/420804.html
+420822000000	湖北省-荆门市-沙洋县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/08/420822.html
+420881000000	湖北省-荆门市-钟祥市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/08/420881.html
+420882000000	湖北省-荆门市-京山市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/08/420882.html

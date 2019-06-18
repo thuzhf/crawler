@@ -1,0 +1,8 @@
+141031100000	山西省-临汾市-隰县-龙泉镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/10/31/141031100.html
+141031101000	山西省-临汾市-隰县-午城镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/10/31/141031101.html
+141031102000	山西省-临汾市-隰县-黄土镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/10/31/141031102.html
+141031200000	山西省-临汾市-隰县-阳头升乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/10/31/141031200.html
+141031201000	山西省-临汾市-隰县-寨子乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/10/31/141031201.html
+141031202000	山西省-临汾市-隰县-陡坡乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/10/31/141031202.html
+141031203000	山西省-临汾市-隰县-下李乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/10/31/141031203.html
+141031204000	山西省-临汾市-隰县-城南乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/10/31/141031204.html

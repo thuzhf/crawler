@@ -1,0 +1,19 @@
+360701000000	江西省-赣州市-市辖区	
+360702000000	江西省-赣州市-章贡区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/07/360702.html
+360703000000	江西省-赣州市-南康区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/07/360703.html
+360704000000	江西省-赣州市-赣县区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/07/360704.html
+360722000000	江西省-赣州市-信丰县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/07/360722.html
+360723000000	江西省-赣州市-大余县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/07/360723.html
+360724000000	江西省-赣州市-上犹县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/07/360724.html
+360725000000	江西省-赣州市-崇义县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/07/360725.html
+360726000000	江西省-赣州市-安远县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/07/360726.html
+360727000000	江西省-赣州市-龙南县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/07/360727.html
+360728000000	江西省-赣州市-定南县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/07/360728.html
+360729000000	江西省-赣州市-全南县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/07/360729.html
+360730000000	江西省-赣州市-宁都县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/07/360730.html
+360731000000	江西省-赣州市-于都县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/07/360731.html
+360732000000	江西省-赣州市-兴国县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/07/360732.html
+360733000000	江西省-赣州市-会昌县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/07/360733.html
+360734000000	江西省-赣州市-寻乌县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/07/360734.html
+360735000000	江西省-赣州市-石城县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/07/360735.html
+360781000000	江西省-赣州市-瑞金市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/07/360781.html

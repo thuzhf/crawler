@@ -1,0 +1,6 @@
+350301000000	福建省-莆田市-市辖区	
+350302000000	福建省-莆田市-城厢区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/03/350302.html
+350303000000	福建省-莆田市-涵江区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/03/350303.html
+350304000000	福建省-莆田市-荔城区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/03/350304.html
+350305000000	福建省-莆田市-秀屿区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/03/350305.html
+350322000000	福建省-莆田市-仙游县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/03/350322.html

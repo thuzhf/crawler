@@ -1,0 +1,12 @@
+371625001000	山东省-滨州市-博兴县-城东街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/16/25/371625001.html
+371625002000	山东省-滨州市-博兴县-锦秋街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/16/25/371625002.html
+371625003000	山东省-滨州市-博兴县-博昌街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/16/25/371625003.html
+371625101000	山东省-滨州市-博兴县-曹王镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/16/25/371625101.html
+371625102000	山东省-滨州市-博兴县-兴福镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/16/25/371625102.html
+371625103000	山东省-滨州市-博兴县-陈户镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/16/25/371625103.html
+371625104000	山东省-滨州市-博兴县-湖滨镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/16/25/371625104.html
+371625106000	山东省-滨州市-博兴县-店子镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/16/25/371625106.html
+371625107000	山东省-滨州市-博兴县-吕艺镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/16/25/371625107.html
+371625108000	山东省-滨州市-博兴县-纯化镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/16/25/371625108.html
+371625109000	山东省-滨州市-博兴县-庞家镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/16/25/371625109.html
+371625110000	山东省-滨州市-博兴县-乔庄镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/16/25/371625110.html

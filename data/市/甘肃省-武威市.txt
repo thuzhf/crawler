@@ -1,0 +1,5 @@
+620601000000	甘肃省-武威市-市辖区	
+620602000000	甘肃省-武威市-凉州区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/62/06/620602.html
+620621000000	甘肃省-武威市-民勤县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/62/06/620621.html
+620622000000	甘肃省-武威市-古浪县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/62/06/620622.html
+620623000000	甘肃省-武威市-天祝藏族自治县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/62/06/620623.html

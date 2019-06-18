@@ -1,0 +1,7 @@
+130637100000	河北省-保定市-博野县-博野镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/06/37/130637100.html
+130637101000	河北省-保定市-博野县-小店镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/06/37/130637101.html
+130637102000	河北省-保定市-博野县-程委镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/06/37/130637102.html
+130637103000	河北省-保定市-博野县-东墟镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/06/37/130637103.html
+130637104000	河北省-保定市-博野县-北杨镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/06/37/130637104.html
+130637105000	河北省-保定市-博野县-城东镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/06/37/130637105.html
+130637203000	河北省-保定市-博野县-南小王乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/06/37/130637203.html

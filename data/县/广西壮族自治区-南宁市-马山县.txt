@@ -1,0 +1,12 @@
+450124100000	广西壮族自治区-南宁市-马山县-白山镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/01/24/450124100.html
+450124101000	广西壮族自治区-南宁市-马山县-百龙滩镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/01/24/450124101.html
+450124102000	广西壮族自治区-南宁市-马山县-林圩镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/01/24/450124102.html
+450124103000	广西壮族自治区-南宁市-马山县-古零镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/01/24/450124103.html
+450124104000	广西壮族自治区-南宁市-马山县-金钗镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/01/24/450124104.html
+450124105000	广西壮族自治区-南宁市-马山县-周鹿镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/01/24/450124105.html
+450124106000	广西壮族自治区-南宁市-马山县-永州镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/01/24/450124106.html
+450124200000	广西壮族自治区-南宁市-马山县-乔利乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/01/24/450124200.html
+450124201000	广西壮族自治区-南宁市-马山县-加方乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/01/24/450124201.html
+450124202000	广西壮族自治区-南宁市-马山县-古寨瑶族乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/01/24/450124202.html
+450124203000	广西壮族自治区-南宁市-马山县-里当瑶族乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/01/24/450124203.html
+450124450000	广西壮族自治区-南宁市-马山县-光明山林场	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/45/01/24/450124450.html

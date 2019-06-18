@@ -1,0 +1,13 @@
+320507001000	江苏省-苏州市-相城区-元和街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/05/07/320507001.html
+320507002000	江苏省-苏州市-相城区-太平街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/05/07/320507002.html
+320507003000	江苏省-苏州市-相城区-黄桥街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/05/07/320507003.html
+320507004000	江苏省-苏州市-相城区-北桥街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/05/07/320507004.html
+320507005000	江苏省-苏州市-相城区-北河泾街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/05/07/320507005.html
+320507006000	江苏省-苏州市-相城区-漕湖街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/05/07/320507006.html
+320507007000	江苏省-苏州市-相城区-澄阳街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/05/07/320507007.html
+320507100000	江苏省-苏州市-相城区-望亭镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/05/07/320507100.html
+320507102000	江苏省-苏州市-相城区-黄埭镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/05/07/320507102.html
+320507105000	江苏省-苏州市-相城区-渭塘镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/05/07/320507105.html
+320507109000	江苏省-苏州市-相城区-阳澄湖镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/05/07/320507109.html
+320507401000	江苏省-苏州市-相城区-阳澄湖生态休闲旅游度假区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/05/07/320507401.html
+320507402000	江苏省-苏州市-相城区-苏州高铁新城	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/05/07/320507402.html

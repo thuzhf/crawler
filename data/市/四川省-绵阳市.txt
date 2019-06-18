@@ -1,0 +1,10 @@
+510701000000	四川省-绵阳市-市辖区	
+510703000000	四川省-绵阳市-涪城区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/07/510703.html
+510704000000	四川省-绵阳市-游仙区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/07/510704.html
+510705000000	四川省-绵阳市-安州区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/07/510705.html
+510722000000	四川省-绵阳市-三台县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/07/510722.html
+510723000000	四川省-绵阳市-盐亭县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/07/510723.html
+510725000000	四川省-绵阳市-梓潼县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/07/510725.html
+510726000000	四川省-绵阳市-北川羌族自治县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/07/510726.html
+510727000000	四川省-绵阳市-平武县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/07/510727.html
+510781000000	四川省-绵阳市-江油市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/07/510781.html

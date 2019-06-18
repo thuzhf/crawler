@@ -1,0 +1,13 @@
+370781001000	山东省-潍坊市-青州市-王府街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/07/81/370781001.html
+370781002000	山东省-潍坊市-青州市-益都街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/07/81/370781002.html
+370781006000	山东省-潍坊市-青州市-云门山街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/07/81/370781006.html
+370781007000	山东省-潍坊市-青州市-黄楼街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/07/81/370781007.html
+370781100000	山东省-潍坊市-青州市-弥河镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/07/81/370781100.html
+370781101000	山东省-潍坊市-青州市-王坟镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/07/81/370781101.html
+370781103000	山东省-潍坊市-青州市-庙子镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/07/81/370781103.html
+370781105000	山东省-潍坊市-青州市-邵庄镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/07/81/370781105.html
+370781109000	山东省-潍坊市-青州市-高柳镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/07/81/370781109.html
+370781111000	山东省-潍坊市-青州市-何官镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/07/81/370781111.html
+370781113000	山东省-潍坊市-青州市-东夏镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/07/81/370781113.html
+370781115000	山东省-潍坊市-青州市-谭坊镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/07/81/370781115.html
+370781400000	山东省-潍坊市-青州市-青州经济开发区管理委员会	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/07/81/370781400.html

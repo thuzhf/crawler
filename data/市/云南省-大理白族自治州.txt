@@ -1,0 +1,12 @@
+532901000000	云南省-大理白族自治州-大理市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/29/532901.html
+532922000000	云南省-大理白族自治州-漾濞彝族自治县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/29/532922.html
+532923000000	云南省-大理白族自治州-祥云县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/29/532923.html
+532924000000	云南省-大理白族自治州-宾川县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/29/532924.html
+532925000000	云南省-大理白族自治州-弥渡县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/29/532925.html
+532926000000	云南省-大理白族自治州-南涧彝族自治县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/29/532926.html
+532927000000	云南省-大理白族自治州-巍山彝族回族自治县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/29/532927.html
+532928000000	云南省-大理白族自治州-永平县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/29/532928.html
+532929000000	云南省-大理白族自治州-云龙县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/29/532929.html
+532930000000	云南省-大理白族自治州-洱源县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/29/532930.html
+532931000000	云南省-大理白族自治州-剑川县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/29/532931.html
+532932000000	云南省-大理白族自治州-鹤庆县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/29/532932.html

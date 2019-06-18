@@ -1,0 +1,12 @@
+431027100000	湖南省-郴州市-桂东县-沤江镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/10/27/431027100.html
+431027101000	湖南省-郴州市-桂东县-沙田镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/10/27/431027101.html
+431027102000	湖南省-郴州市-桂东县-清泉镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/10/27/431027102.html
+431027103000	湖南省-郴州市-桂东县-大塘镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/10/27/431027103.html
+431027104000	湖南省-郴州市-桂东县-四都镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/10/27/431027104.html
+431027105000	湖南省-郴州市-桂东县-寨前镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/10/27/431027105.html
+431027106000	湖南省-郴州市-桂东县-普乐镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/10/27/431027106.html
+431027200000	湖南省-郴州市-桂东县-桥头乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/10/27/431027200.html
+431027208000	湖南省-郴州市-桂东县-新坊乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/10/27/431027208.html
+431027210000	湖南省-郴州市-桂东县-东洛乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/10/27/431027210.html
+431027213000	湖南省-郴州市-桂东县-青山乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/10/27/431027213.html
+431027400000	湖南省-郴州市-桂东县-宋坪林场	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/10/27/431027400.html

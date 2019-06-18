@@ -1,0 +1,12 @@
+340523100000	安徽省-马鞍山市-和县-历阳镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/05/23/340523100.html
+340523102000	安徽省-马鞍山市-和县-白桥镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/05/23/340523102.html
+340523103000	安徽省-马鞍山市-和县-姥桥镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/05/23/340523103.html
+340523104000	安徽省-马鞍山市-和县-功桥镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/05/23/340523104.html
+340523105000	安徽省-马鞍山市-和县-西埠镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/05/23/340523105.html
+340523106000	安徽省-马鞍山市-和县-香泉镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/05/23/340523106.html
+340523107000	安徽省-马鞍山市-和县-乌江镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/05/23/340523107.html
+340523108000	安徽省-马鞍山市-和县-善厚镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/05/23/340523108.html
+340523109000	安徽省-马鞍山市-和县-石杨镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/05/23/340523109.html
+340523400000	安徽省-马鞍山市-和县-安徽和县经济开发区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/05/23/340523400.html
+340523401000	安徽省-马鞍山市-和县-安徽精细化工产业有机合成基地	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/05/23/340523401.html
+340523500000	安徽省-马鞍山市-和县-安徽和县台湾农民创业园	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/34/05/23/340523500.html

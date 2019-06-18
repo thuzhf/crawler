@@ -1,0 +1,6 @@
+140303001000	山西省-阳泉市-矿区-平潭街街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/03/03/140303001.html
+140303003000	山西省-阳泉市-矿区-蔡洼街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/03/03/140303003.html
+140303004000	山西省-阳泉市-矿区-赛鱼街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/03/03/140303004.html
+140303005000	山西省-阳泉市-矿区-沙坪街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/03/03/140303005.html
+140303006000	山西省-阳泉市-矿区-贵石沟街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/03/03/140303006.html
+140303007000	山西省-阳泉市-矿区-桥头街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/03/03/140303007.html

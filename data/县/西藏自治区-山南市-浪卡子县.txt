@@ -1,0 +1,10 @@
+540531100000	西藏自治区-山南市-浪卡子县-浪卡子镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/05/31/540531100.html
+540531101000	西藏自治区-山南市-浪卡子县-打隆镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/05/31/540531101.html
+540531200000	西藏自治区-山南市-浪卡子县-张达乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/05/31/540531200.html
+540531201000	西藏自治区-山南市-浪卡子县-伦布雪乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/05/31/540531201.html
+540531202000	西藏自治区-山南市-浪卡子县-多却乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/05/31/540531202.html
+540531203000	西藏自治区-山南市-浪卡子县-普玛江塘乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/05/31/540531203.html
+540531204000	西藏自治区-山南市-浪卡子县-阿扎乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/05/31/540531204.html
+540531205000	西藏自治区-山南市-浪卡子县-卡龙乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/05/31/540531205.html
+540531206000	西藏自治区-山南市-浪卡子县-白地乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/05/31/540531206.html
+540531207000	西藏自治区-山南市-浪卡子县-卡热乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/05/31/540531207.html

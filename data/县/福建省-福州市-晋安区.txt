@@ -1,0 +1,9 @@
+350111001000	福建省-福州市-晋安区-茶园街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/01/11/350111001.html
+350111002000	福建省-福州市-晋安区-王庄街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/01/11/350111002.html
+350111003000	福建省-福州市-晋安区-象园街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/01/11/350111003.html
+350111100000	福建省-福州市-晋安区-鼓山镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/01/11/350111100.html
+350111101000	福建省-福州市-晋安区-新店镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/01/11/350111101.html
+350111102000	福建省-福州市-晋安区-岳峰镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/01/11/350111102.html
+350111103000	福建省-福州市-晋安区-宦溪镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/01/11/350111103.html
+350111201000	福建省-福州市-晋安区-寿山乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/01/11/350111201.html
+350111202000	福建省-福州市-晋安区-日溪乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/01/11/350111202.html

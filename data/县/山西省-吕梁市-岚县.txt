@@ -1,0 +1,13 @@
+141127100000	山西省-吕梁市-岚县-东村镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/11/27/141127100.html
+141127101000	山西省-吕梁市-岚县-岚城镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/11/27/141127101.html
+141127102000	山西省-吕梁市-岚县-普明镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/11/27/141127102.html
+141127103000	山西省-吕梁市-岚县-界河口镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/11/27/141127103.html
+141127200000	山西省-吕梁市-岚县-土峪乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/11/27/141127200.html
+141127201000	山西省-吕梁市-岚县-上明乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/11/27/141127201.html
+141127202000	山西省-吕梁市-岚县-王狮乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/11/27/141127202.html
+141127203000	山西省-吕梁市-岚县-梁家庄乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/11/27/141127203.html
+141127204000	山西省-吕梁市-岚县-顺会乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/11/27/141127204.html
+141127205000	山西省-吕梁市-岚县-河口乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/11/27/141127205.html
+141127206000	山西省-吕梁市-岚县-社科乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/11/27/141127206.html
+141127207000	山西省-吕梁市-岚县-大蛇头乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/11/27/141127207.html
+141127400000	山西省-吕梁市-岚县-岚县普明工业园区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/11/27/141127400.html

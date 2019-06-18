@@ -1,0 +1,12 @@
+513221100000	四川省-阿坝藏族羌族自治州-汶川县-威州镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/32/21/513221100.html
+513221102000	四川省-阿坝藏族羌族自治州-汶川县-映秀镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/32/21/513221102.html
+513221103000	四川省-阿坝藏族羌族自治州-汶川县-卧龙镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/32/21/513221103.html
+513221105000	四川省-阿坝藏族羌族自治州-汶川县-水磨镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/32/21/513221105.html
+513221106000	四川省-阿坝藏族羌族自治州-汶川县-漩口镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/32/21/513221106.html
+513221107000	四川省-阿坝藏族羌族自治州-汶川县-三江镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/32/21/513221107.html
+513221108000	四川省-阿坝藏族羌族自治州-汶川县-耿达镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/32/21/513221108.html
+513221109000	四川省-阿坝藏族羌族自治州-汶川县-绵虒镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/32/21/513221109.html
+513221200000	四川省-阿坝藏族羌族自治州-汶川县-龙溪乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/32/21/513221200.html
+513221201000	四川省-阿坝藏族羌族自治州-汶川县-克枯乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/32/21/513221201.html
+513221202000	四川省-阿坝藏族羌族自治州-汶川县-雁门乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/32/21/513221202.html
+513221204000	四川省-阿坝藏族羌族自治州-汶川县-银杏乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/32/21/513221204.html

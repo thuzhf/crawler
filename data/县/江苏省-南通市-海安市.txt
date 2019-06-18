@@ -1,0 +1,11 @@
+320685100000	江苏省-南通市-海安市-海安镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/06/85/320685100.html
+320685101000	江苏省-南通市-海安市-城东镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/06/85/320685101.html
+320685102000	江苏省-南通市-海安市-曲塘镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/06/85/320685102.html
+320685103000	江苏省-南通市-海安市-李堡镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/06/85/320685103.html
+320685105000	江苏省-南通市-海安市-角斜镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/06/85/320685105.html
+320685107000	江苏省-南通市-海安市-大公镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/06/85/320685107.html
+320685109000	江苏省-南通市-海安市-雅周镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/06/85/320685109.html
+320685111000	江苏省-南通市-海安市-白甸镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/06/85/320685111.html
+320685112000	江苏省-南通市-海安市-南莫镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/06/85/320685112.html
+320685113000	江苏省-南通市-海安市-墩头镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/06/85/320685113.html
+320685400000	江苏省-南通市-海安市-海安县农场	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/06/85/320685400.html

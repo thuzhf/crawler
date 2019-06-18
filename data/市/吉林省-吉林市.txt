@@ -1,0 +1,13 @@
+220201000000	吉林省-吉林市-市辖区	
+220202000000	吉林省-吉林市-昌邑区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/02/220202.html
+220203000000	吉林省-吉林市-龙潭区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/02/220203.html
+220204000000	吉林省-吉林市-船营区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/02/220204.html
+220211000000	吉林省-吉林市-丰满区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/02/220211.html
+220221000000	吉林省-吉林市-永吉县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/02/220221.html
+220271000000	吉林省-吉林市-吉林经济开发区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/02/220271.html
+220272000000	吉林省-吉林市-吉林高新技术产业开发区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/02/220272.html
+220273000000	吉林省-吉林市-吉林中国新加坡食品区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/02/220273.html
+220281000000	吉林省-吉林市-蛟河市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/02/220281.html
+220282000000	吉林省-吉林市-桦甸市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/02/220282.html
+220283000000	吉林省-吉林市-舒兰市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/02/220283.html
+220284000000	吉林省-吉林市-磐石市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/02/220284.html

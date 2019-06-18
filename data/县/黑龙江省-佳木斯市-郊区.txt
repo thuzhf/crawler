@@ -1,0 +1,15 @@
+230811001000	黑龙江省-佳木斯市-郊区-佳西街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/08/11/230811001.html
+230811002000	黑龙江省-佳木斯市-郊区-友谊街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/08/11/230811002.html
+230811101000	黑龙江省-佳木斯市-郊区-大来镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/08/11/230811101.html
+230811102000	黑龙江省-佳木斯市-郊区-敖其镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/08/11/230811102.html
+230811103000	黑龙江省-佳木斯市-郊区-望江镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/08/11/230811103.html
+230811104000	黑龙江省-佳木斯市-郊区-长发镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/08/11/230811104.html
+230811105000	黑龙江省-佳木斯市-郊区-莲江口镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/08/11/230811105.html
+230811106000	黑龙江省-佳木斯市-郊区-西格木镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/08/11/230811106.html
+230811200000	黑龙江省-佳木斯市-郊区-长青乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/08/11/230811200.html
+230811201000	黑龙江省-佳木斯市-郊区-沿江乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/08/11/230811201.html
+230811208000	黑龙江省-佳木斯市-郊区-平安乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/08/11/230811208.html
+230811210000	黑龙江省-佳木斯市-郊区-四丰乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/08/11/230811210.html
+230811211000	黑龙江省-佳木斯市-郊区-群胜乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/08/11/230811211.html
+230811480000	黑龙江省-佳木斯市-郊区-莲江口监狱	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/08/11/230811480.html
+230811579000	黑龙江省-佳木斯市-郊区-郊区农垦	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/23/08/11/230811579.html

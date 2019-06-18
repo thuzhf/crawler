@@ -1,0 +1,15 @@
+511503001000	四川省-宜宾市-南溪区-南溪街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/15/03/511503001.html
+511503002000	四川省-宜宾市-南溪区-罗龙街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/15/03/511503002.html
+511503102000	四川省-宜宾市-南溪区-刘家镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/15/03/511503102.html
+511503103000	四川省-宜宾市-南溪区-江南镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/15/03/511503103.html
+511503104000	四川省-宜宾市-南溪区-大观镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/15/03/511503104.html
+511503105000	四川省-宜宾市-南溪区-汪家镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/15/03/511503105.html
+511503106000	四川省-宜宾市-南溪区-黄沙镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/15/03/511503106.html
+511503107000	四川省-宜宾市-南溪区-仙临镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/15/03/511503107.html
+511503108000	四川省-宜宾市-南溪区-长兴镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/15/03/511503108.html
+511503109000	四川省-宜宾市-南溪区-裴石镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/15/03/511503109.html
+511503201000	四川省-宜宾市-南溪区-马家乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/15/03/511503201.html
+511503203000	四川省-宜宾市-南溪区-大坪乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/15/03/511503203.html
+511503204000	四川省-宜宾市-南溪区-石鼓乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/15/03/511503204.html
+511503205000	四川省-宜宾市-南溪区-林丰乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/15/03/511503205.html
+511503206000	四川省-宜宾市-南溪区-留宾乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/15/03/511503206.html

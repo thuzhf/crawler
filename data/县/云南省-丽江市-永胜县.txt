@@ -1,0 +1,15 @@
+530722101000	云南省-丽江市-永胜县-永北镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/07/22/530722101.html
+530722102000	云南省-丽江市-永胜县-仁和镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/07/22/530722102.html
+530722103000	云南省-丽江市-永胜县-期纳镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/07/22/530722103.html
+530722104000	云南省-丽江市-永胜县-三川镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/07/22/530722104.html
+530722105000	云南省-丽江市-永胜县-程海镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/07/22/530722105.html
+530722106000	云南省-丽江市-永胜县-涛源镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/07/22/530722106.html
+530722107000	云南省-丽江市-永胜县-鲁地拉镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/07/22/530722107.html
+530722108000	云南省-丽江市-永胜县-片角镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/07/22/530722108.html
+530722109000	云南省-丽江市-永胜县-顺州镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/07/22/530722109.html
+530722201000	云南省-丽江市-永胜县-羊坪彝族乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/07/22/530722201.html
+530722202000	云南省-丽江市-永胜县-六德傈僳族彝族乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/07/22/530722202.html
+530722203000	云南省-丽江市-永胜县-东山傈僳族彝族乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/07/22/530722203.html
+530722207000	云南省-丽江市-永胜县-光华傈僳族彝族乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/07/22/530722207.html
+530722208000	云南省-丽江市-永胜县-松坪傈僳族彝族乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/07/22/530722208.html
+530722209000	云南省-丽江市-永胜县-大安彝族纳西族乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/07/22/530722209.html

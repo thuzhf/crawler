@@ -1,0 +1,12 @@
+350721001000	福建省-南平市-顺昌县-双溪街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/07/21/350721001.html
+350721100000	福建省-南平市-顺昌县-建西镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/07/21/350721100.html
+350721101000	福建省-南平市-顺昌县-洋口镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/07/21/350721101.html
+350721102000	福建省-南平市-顺昌县-元坑镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/07/21/350721102.html
+350721103000	福建省-南平市-顺昌县-埔上镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/07/21/350721103.html
+350721104000	福建省-南平市-顺昌县-大历镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/07/21/350721104.html
+350721105000	福建省-南平市-顺昌县-大干镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/07/21/350721105.html
+350721106000	福建省-南平市-顺昌县-仁寿镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/07/21/350721106.html
+350721107000	福建省-南平市-顺昌县-郑坊镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/07/21/350721107.html
+350721200000	福建省-南平市-顺昌县-洋墩乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/07/21/350721200.html
+350721202000	福建省-南平市-顺昌县-岚下乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/07/21/350721202.html
+350721203000	福建省-南平市-顺昌县-高阳乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/07/21/350721203.html

@@ -1,0 +1,15 @@
+621023100000	甘肃省-庆阳市-华池县-悦乐镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/62/10/23/621023100.html
+621023101000	甘肃省-庆阳市-华池县-柔远镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/62/10/23/621023101.html
+621023102000	甘肃省-庆阳市-华池县-元城镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/62/10/23/621023102.html
+621023103000	甘肃省-庆阳市-华池县-南梁镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/62/10/23/621023103.html
+621023104000	甘肃省-庆阳市-华池县-城壕镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/62/10/23/621023104.html
+621023105000	甘肃省-庆阳市-华池县-五蛟镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/62/10/23/621023105.html
+621023202000	甘肃省-庆阳市-华池县-上里塬乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/62/10/23/621023202.html
+621023203000	甘肃省-庆阳市-华池县-王咀子乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/62/10/23/621023203.html
+621023204000	甘肃省-庆阳市-华池县-白马乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/62/10/23/621023204.html
+621023205000	甘肃省-庆阳市-华池县-怀安乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/62/10/23/621023205.html
+621023206000	甘肃省-庆阳市-华池县-乔川乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/62/10/23/621023206.html
+621023207000	甘肃省-庆阳市-华池县-乔河乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/62/10/23/621023207.html
+621023208000	甘肃省-庆阳市-华池县-山庄乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/62/10/23/621023208.html
+621023210000	甘肃省-庆阳市-华池县-林镇乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/62/10/23/621023210.html
+621023211000	甘肃省-庆阳市-华池县-紫坊畔乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/62/10/23/621023211.html

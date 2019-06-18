@@ -1,0 +1,9 @@
+630123100000	青海省-西宁市-湟源县-城关镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/63/01/23/630123100.html
+630123101000	青海省-西宁市-湟源县-大华镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/63/01/23/630123101.html
+630123200000	青海省-西宁市-湟源县-东峡乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/63/01/23/630123200.html
+630123201000	青海省-西宁市-湟源县-日月乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/63/01/23/630123201.html
+630123202000	青海省-西宁市-湟源县-和平乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/63/01/23/630123202.html
+630123203000	青海省-西宁市-湟源县-波航乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/63/01/23/630123203.html
+630123204000	青海省-西宁市-湟源县-申中乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/63/01/23/630123204.html
+630123205000	青海省-西宁市-湟源县-巴燕乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/63/01/23/630123205.html
+630123206000	青海省-西宁市-湟源县-寺寨乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/63/01/23/630123206.html

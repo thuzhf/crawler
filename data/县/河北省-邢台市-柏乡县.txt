@@ -1,0 +1,6 @@
+130524100000	河北省-邢台市-柏乡县-柏乡镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/05/24/130524100.html
+130524101000	河北省-邢台市-柏乡县-固城店镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/05/24/130524101.html
+130524102000	河北省-邢台市-柏乡县-西汪镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/05/24/130524102.html
+130524103000	河北省-邢台市-柏乡县-龙华镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/05/24/130524103.html
+130524200000	河北省-邢台市-柏乡县-王家庄乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/05/24/130524200.html
+130524203000	河北省-邢台市-柏乡县-内步乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/05/24/130524203.html

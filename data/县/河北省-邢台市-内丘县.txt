@@ -1,0 +1,9 @@
+130523100000	河北省-邢台市-内丘县-内丘镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/05/23/130523100.html
+130523101000	河北省-邢台市-内丘县-大孟村镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/05/23/130523101.html
+130523102000	河北省-邢台市-内丘县-金店镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/05/23/130523102.html
+130523103000	河北省-邢台市-内丘县-官庄镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/05/23/130523103.html
+130523104000	河北省-邢台市-内丘县-柳林镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/05/23/130523104.html
+130523200000	河北省-邢台市-内丘县-五郭店乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/05/23/130523200.html
+130523203000	河北省-邢台市-内丘县-南赛乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/05/23/130523203.html
+130523204000	河北省-邢台市-内丘县-獐獏乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/05/23/130523204.html
+130523205000	河北省-邢台市-内丘县-侯家庄乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/05/23/130523205.html

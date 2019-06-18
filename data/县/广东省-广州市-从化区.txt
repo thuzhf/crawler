@@ -1,0 +1,10 @@
+440117001000	广东省-广州市-从化区-街口街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/01/17/440117001.html
+440117002000	广东省-广州市-从化区-江埔街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/01/17/440117002.html
+440117003000	广东省-广州市-从化区-城郊街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/01/17/440117003.html
+440117103000	广东省-广州市-从化区-温泉镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/01/17/440117103.html
+440117104000	广东省-广州市-从化区-良口镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/01/17/440117104.html
+440117107000	广东省-广州市-从化区-吕田镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/01/17/440117107.html
+440117111000	广东省-广州市-从化区-太平镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/01/17/440117111.html
+440117113000	广东省-广州市-从化区-鳌头镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/01/17/440117113.html
+440117404000	广东省-广州市-从化区-黄龙带水库管理处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/01/17/440117404.html
+440117405000	广东省-广州市-从化区-大岭山林场	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/01/17/440117405.html

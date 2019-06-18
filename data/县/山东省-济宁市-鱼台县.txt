@@ -1,0 +1,11 @@
+370827001000	山东省-济宁市-鱼台县-谷亭街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/08/27/370827001.html
+370827002000	山东省-济宁市-鱼台县-滨湖街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/08/27/370827002.html
+370827101000	山东省-济宁市-鱼台县-清河镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/08/27/370827101.html
+370827102000	山东省-济宁市-鱼台县-鱼城镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/08/27/370827102.html
+370827103000	山东省-济宁市-鱼台县-王鲁镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/08/27/370827103.html
+370827104000	山东省-济宁市-鱼台县-张黄镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/08/27/370827104.html
+370827105000	山东省-济宁市-鱼台县-王庙镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/08/27/370827105.html
+370827106000	山东省-济宁市-鱼台县-李阁镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/08/27/370827106.html
+370827107000	山东省-济宁市-鱼台县-唐马镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/08/27/370827107.html
+370827108000	山东省-济宁市-鱼台县-老砦镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/08/27/370827108.html
+370827109000	山东省-济宁市-鱼台县-罗屯镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/08/27/370827109.html

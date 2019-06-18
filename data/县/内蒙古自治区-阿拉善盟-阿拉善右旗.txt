@@ -1,0 +1,7 @@
+152922103000	内蒙古自治区-阿拉善盟-阿拉善右旗-巴丹吉林镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/29/22/152922103.html
+152922104000	内蒙古自治区-阿拉善盟-阿拉善右旗-雅布赖镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/29/22/152922104.html
+152922105000	内蒙古自治区-阿拉善盟-阿拉善右旗-阿拉腾敖包镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/29/22/152922105.html
+152922211000	内蒙古自治区-阿拉善盟-阿拉善右旗-曼德拉苏木	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/29/22/152922211.html
+152922212000	内蒙古自治区-阿拉善盟-阿拉善右旗-阿拉腾朝格苏木	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/29/22/152922212.html
+152922213000	内蒙古自治区-阿拉善盟-阿拉善右旗-巴音高勒苏木	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/29/22/152922213.html
+152922214000	内蒙古自治区-阿拉善盟-阿拉善右旗-塔木素布拉格苏木	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/29/22/152922214.html

@@ -1,0 +1,5 @@
+360201000000	江西省-景德镇市-市辖区	
+360202000000	江西省-景德镇市-昌江区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/02/360202.html
+360203000000	江西省-景德镇市-珠山区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/02/360203.html
+360222000000	江西省-景德镇市-浮梁县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/02/360222.html
+360281000000	江西省-景德镇市-乐平市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/02/360281.html

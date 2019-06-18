@@ -1,0 +1,9 @@
+152522100000	内蒙古自治区-锡林郭勒盟-阿巴嘎旗-别力古台镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/25/22/152522100.html
+152522101000	内蒙古自治区-锡林郭勒盟-阿巴嘎旗-洪格尔高勒镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/25/22/152522101.html
+152522102000	内蒙古自治区-锡林郭勒盟-阿巴嘎旗-查干淖尔镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/25/22/152522102.html
+152522200000	内蒙古自治区-锡林郭勒盟-阿巴嘎旗-那仁宝拉格苏木	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/25/22/152522200.html
+152522201000	内蒙古自治区-锡林郭勒盟-阿巴嘎旗-伊和高勒苏木	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/25/22/152522201.html
+152522202000	内蒙古自治区-锡林郭勒盟-阿巴嘎旗-吉尔嘎郎图苏木	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/25/22/152522202.html
+152522203000	内蒙古自治区-锡林郭勒盟-阿巴嘎旗-巴彦图嘎苏木	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/25/22/152522203.html
+152522400000	内蒙古自治区-锡林郭勒盟-阿巴嘎旗-玛尼图煤矿	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/25/22/152522400.html
+152522401000	内蒙古自治区-锡林郭勒盟-阿巴嘎旗-阿旗德力格尔工业园区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/25/22/152522401.html

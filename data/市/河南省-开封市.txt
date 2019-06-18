@@ -1,0 +1,10 @@
+410201000000	河南省-开封市-市辖区	
+410202000000	河南省-开封市-龙亭区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/02/410202.html
+410203000000	河南省-开封市-顺河回族区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/02/410203.html
+410204000000	河南省-开封市-鼓楼区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/02/410204.html
+410205000000	河南省-开封市-禹王台区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/02/410205.html
+410212000000	河南省-开封市-祥符区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/02/410212.html
+410221000000	河南省-开封市-杞县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/02/410221.html
+410222000000	河南省-开封市-通许县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/02/410222.html
+410223000000	河南省-开封市-尉氏县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/02/410223.html
+410225000000	河南省-开封市-兰考县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/02/410225.html

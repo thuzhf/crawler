@@ -1,0 +1,15 @@
+150525100000	内蒙古自治区-通辽市-奈曼旗-大沁他拉镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/05/25/150525100.html
+150525101000	内蒙古自治区-通辽市-奈曼旗-八仙筒镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/05/25/150525101.html
+150525102000	内蒙古自治区-通辽市-奈曼旗-青龙山镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/05/25/150525102.html
+150525103000	内蒙古自治区-通辽市-奈曼旗-新镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/05/25/150525103.html
+150525104000	内蒙古自治区-通辽市-奈曼旗-治安镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/05/25/150525104.html
+150525105000	内蒙古自治区-通辽市-奈曼旗-东明镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/05/25/150525105.html
+150525106000	内蒙古自治区-通辽市-奈曼旗-沙日浩来镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/05/25/150525106.html
+150525107000	内蒙古自治区-通辽市-奈曼旗-义隆永镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/05/25/150525107.html
+150525200000	内蒙古自治区-通辽市-奈曼旗-固日班花苏木	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/05/25/150525200.html
+150525201000	内蒙古自治区-通辽市-奈曼旗-白音他拉苏木	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/05/25/150525201.html
+150525202000	内蒙古自治区-通辽市-奈曼旗-明仁苏木	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/05/25/150525202.html
+150525203000	内蒙古自治区-通辽市-奈曼旗-黄花塔拉苏木	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/05/25/150525203.html
+150525204000	内蒙古自治区-通辽市-奈曼旗-土城子乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/05/25/150525204.html
+150525205000	内蒙古自治区-通辽市-奈曼旗-苇莲苏乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/05/25/150525205.html
+150525400000	内蒙古自治区-通辽市-奈曼旗-国有六号农场	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/15/05/25/150525400.html

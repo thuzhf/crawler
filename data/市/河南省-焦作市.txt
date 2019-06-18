@@ -1,0 +1,12 @@
+410801000000	河南省-焦作市-市辖区	
+410802000000	河南省-焦作市-解放区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/08/410802.html
+410803000000	河南省-焦作市-中站区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/08/410803.html
+410804000000	河南省-焦作市-马村区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/08/410804.html
+410811000000	河南省-焦作市-山阳区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/08/410811.html
+410821000000	河南省-焦作市-修武县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/08/410821.html
+410822000000	河南省-焦作市-博爱县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/08/410822.html
+410823000000	河南省-焦作市-武陟县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/08/410823.html
+410825000000	河南省-焦作市-温县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/08/410825.html
+410871000000	河南省-焦作市-焦作城乡一体化示范区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/08/410871.html
+410882000000	河南省-焦作市-沁阳市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/08/410882.html
+410883000000	河南省-焦作市-孟州市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/41/08/410883.html

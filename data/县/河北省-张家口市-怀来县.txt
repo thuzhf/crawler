@@ -1,0 +1,17 @@
+130730100000	河北省-张家口市-怀来县-沙城镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/07/30/130730100.html
+130730101000	河北省-张家口市-怀来县-北辛堡镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/07/30/130730101.html
+130730102000	河北省-张家口市-怀来县-新保安镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/07/30/130730102.html
+130730103000	河北省-张家口市-怀来县-东花园镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/07/30/130730103.html
+130730104000	河北省-张家口市-怀来县-官厅镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/07/30/130730104.html
+130730105000	河北省-张家口市-怀来县-桑园镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/07/30/130730105.html
+130730106000	河北省-张家口市-怀来县-存瑞镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/07/30/130730106.html
+130730107000	河北省-张家口市-怀来县-土木镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/07/30/130730107.html
+130730108000	河北省-张家口市-怀来县-大黄庄镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/07/30/130730108.html
+130730109000	河北省-张家口市-怀来县-西八里镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/07/30/130730109.html
+130730110000	河北省-张家口市-怀来县-小南辛堡镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/07/30/130730110.html
+130730200000	河北省-张家口市-怀来县-狼山乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/07/30/130730200.html
+130730203000	河北省-张家口市-怀来县-鸡鸣驿乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/07/30/130730203.html
+130730205000	河北省-张家口市-怀来县-东八里乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/07/30/130730205.html
+130730207000	河北省-张家口市-怀来县-瑞云观乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/07/30/130730207.html
+130730208000	河北省-张家口市-怀来县-孙庄子乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/07/30/130730208.html
+130730210000	河北省-张家口市-怀来县-王家楼回族乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/07/30/130730210.html

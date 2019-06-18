@@ -1,0 +1,15 @@
+320115001000	江苏省-南京市-江宁区-东山街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/01/15/320115001.html
+320115002000	江苏省-南京市-江宁区-秣陵街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/01/15/320115002.html
+320115003000	江苏省-南京市-江宁区-汤山街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/01/15/320115003.html
+320115004000	江苏省-南京市-江宁区-淳化街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/01/15/320115004.html
+320115005000	江苏省-南京市-江宁区-禄口街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/01/15/320115005.html
+320115006000	江苏省-南京市-江宁区-江宁街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/01/15/320115006.html
+320115007000	江苏省-南京市-江宁区-谷里街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/01/15/320115007.html
+320115008000	江苏省-南京市-江宁区-湖熟街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/01/15/320115008.html
+320115009000	江苏省-南京市-江宁区-横溪街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/01/15/320115009.html
+320115010000	江苏省-南京市-江宁区-麒麟街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/01/15/320115010.html
+320115401000	江苏省-南京市-江宁区-青龙山林场	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/01/15/320115401.html
+320115402000	江苏省-南京市-江宁区-江宁开发区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/01/15/320115402.html
+320115403000	江苏省-南京市-江宁区-江宁滨江开发区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/01/15/320115403.html
+320115404000	江苏省-南京市-江宁区-江宁高新技术产业园	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/01/15/320115404.html
+320115405000	江苏省-南京市-江宁区-麒麟科技创新园（生态科技城）	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/01/15/320115405.html

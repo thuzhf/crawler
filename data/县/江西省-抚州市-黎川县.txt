@@ -1,0 +1,17 @@
+361022100000	江西省-抚州市-黎川县-日峰镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/10/22/361022100.html
+361022101000	江西省-抚州市-黎川县-宏村镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/10/22/361022101.html
+361022102000	江西省-抚州市-黎川县-洵口镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/10/22/361022102.html
+361022103000	江西省-抚州市-黎川县-熊村镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/10/22/361022103.html
+361022104000	江西省-抚州市-黎川县-龙安镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/10/22/361022104.html
+361022105000	江西省-抚州市-黎川县-德胜镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/10/22/361022105.html
+361022106000	江西省-抚州市-黎川县-华山镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/10/22/361022106.html
+361022200000	江西省-抚州市-黎川县-潭溪乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/10/22/361022200.html
+361022201000	江西省-抚州市-黎川县-湖坊乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/10/22/361022201.html
+361022202000	江西省-抚州市-黎川县-荷源乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/10/22/361022202.html
+361022203000	江西省-抚州市-黎川县-厚村乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/10/22/361022203.html
+361022204000	江西省-抚州市-黎川县-社苹乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/10/22/361022204.html
+361022205000	江西省-抚州市-黎川县-樟溪乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/10/22/361022205.html
+361022206000	江西省-抚州市-黎川县-西城乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/10/22/361022206.html
+361022207000	江西省-抚州市-黎川县-中田乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/10/22/361022207.html
+361022401000	江西省-抚州市-黎川县-黎川县工业园区管理委员会	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/10/22/361022401.html
+361022500000	江西省-抚州市-黎川县-德胜企业集团	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/10/22/361022500.html

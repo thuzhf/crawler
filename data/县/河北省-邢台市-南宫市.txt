@@ -1,0 +1,15 @@
+130581001000	河北省-邢台市-南宫市-凤岗街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/05/81/130581001.html
+130581002000	河北省-邢台市-南宫市-南杜街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/05/81/130581002.html
+130581003000	河北省-邢台市-南宫市-北胡街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/05/81/130581003.html
+130581004000	河北省-邢台市-南宫市-西丁街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/05/81/130581004.html
+130581100000	河北省-邢台市-南宫市-苏村镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/05/81/130581100.html
+130581101000	河北省-邢台市-南宫市-大高村镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/05/81/130581101.html
+130581102000	河北省-邢台市-南宫市-垂杨镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/05/81/130581102.html
+130581103000	河北省-邢台市-南宫市-明化镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/05/81/130581103.html
+130581104000	河北省-邢台市-南宫市-段芦头镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/05/81/130581104.html
+130581105000	河北省-邢台市-南宫市-紫冢镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/05/81/130581105.html
+130581200000	河北省-邢台市-南宫市-大村乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/05/81/130581200.html
+130581201000	河北省-邢台市-南宫市-南便村乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/05/81/130581201.html
+130581202000	河北省-邢台市-南宫市-大屯乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/05/81/130581202.html
+130581203000	河北省-邢台市-南宫市-王道寨乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/05/81/130581203.html
+130581204000	河北省-邢台市-南宫市-薛吴村乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/05/81/130581204.html

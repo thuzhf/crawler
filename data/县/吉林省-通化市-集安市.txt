@@ -1,0 +1,15 @@
+220582001000	吉林省-通化市-集安市-团结街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/05/82/220582001.html
+220582002000	吉林省-通化市-集安市-黎明街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/05/82/220582002.html
+220582003000	吉林省-通化市-集安市-通胜街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/05/82/220582003.html
+220582004000	吉林省-通化市-集安市-城东街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/05/82/220582004.html
+220582100000	吉林省-通化市-集安市-青石镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/05/82/220582100.html
+220582101000	吉林省-通化市-集安市-榆林镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/05/82/220582101.html
+220582102000	吉林省-通化市-集安市-花甸镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/05/82/220582102.html
+220582103000	吉林省-通化市-集安市-头道镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/05/82/220582103.html
+220582104000	吉林省-通化市-集安市-清河镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/05/82/220582104.html
+220582105000	吉林省-通化市-集安市-台上镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/05/82/220582105.html
+220582106000	吉林省-通化市-集安市-财源镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/05/82/220582106.html
+220582107000	吉林省-通化市-集安市-大路镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/05/82/220582107.html
+220582108000	吉林省-通化市-集安市-太王镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/05/82/220582108.html
+220582200000	吉林省-通化市-集安市-麻线乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/05/82/220582200.html
+220582201000	吉林省-通化市-集安市-凉水朝鲜族乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/22/05/82/220582201.html

@@ -1,0 +1,12 @@
+370881001000	山东省-济宁市-曲阜市-鲁城街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/08/81/370881001.html
+370881002000	山东省-济宁市-曲阜市-书院街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/08/81/370881002.html
+370881003000	山东省-济宁市-曲阜市-时庄街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/08/81/370881003.html
+370881004000	山东省-济宁市-曲阜市-小雪街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/08/81/370881004.html
+370881101000	山东省-济宁市-曲阜市-吴村镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/08/81/370881101.html
+370881102000	山东省-济宁市-曲阜市-姚村镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/08/81/370881102.html
+370881103000	山东省-济宁市-曲阜市-陵城镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/08/81/370881103.html
+370881105000	山东省-济宁市-曲阜市-尼山镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/08/81/370881105.html
+370881108000	山东省-济宁市-曲阜市-王庄镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/08/81/370881108.html
+370881109000	山东省-济宁市-曲阜市-息陬镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/08/81/370881109.html
+370881110000	山东省-济宁市-曲阜市-石门山镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/08/81/370881110.html
+370881111000	山东省-济宁市-曲阜市-防山镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/08/81/370881111.html

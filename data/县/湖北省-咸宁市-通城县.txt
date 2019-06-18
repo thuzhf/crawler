@@ -1,0 +1,16 @@
+421222100000	湖北省-咸宁市-通城县-隽水镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/12/22/421222100.html
+421222101000	湖北省-咸宁市-通城县-麦市镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/12/22/421222101.html
+421222102000	湖北省-咸宁市-通城县-塘湖镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/12/22/421222102.html
+421222103000	湖北省-咸宁市-通城县-关刀镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/12/22/421222103.html
+421222104000	湖北省-咸宁市-通城县-沙堆镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/12/22/421222104.html
+421222105000	湖北省-咸宁市-通城县-五里镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/12/22/421222105.html
+421222106000	湖北省-咸宁市-通城县-石南镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/12/22/421222106.html
+421222107000	湖北省-咸宁市-通城县-北港镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/12/22/421222107.html
+421222108000	湖北省-咸宁市-通城县-马港镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/12/22/421222108.html
+421222200000	湖北省-咸宁市-通城县-四庄乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/12/22/421222200.html
+421222201000	湖北省-咸宁市-通城县-大坪乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/12/22/421222201.html
+421222500000	湖北省-咸宁市-通城县-鹿角山林场	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/12/22/421222500.html
+421222501000	湖北省-咸宁市-通城县-锡山森林公园管理处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/12/22/421222501.html
+421222502000	湖北省-咸宁市-通城县-黄龙林场	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/12/22/421222502.html
+421222503000	湖北省-咸宁市-通城县-黄袍林场	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/12/22/421222503.html
+421222504000	湖北省-咸宁市-通城县-药姑林场	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/12/22/421222504.html

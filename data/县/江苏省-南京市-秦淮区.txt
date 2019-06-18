@@ -1,0 +1,14 @@
+320104001000	江苏省-南京市-秦淮区-秦虹街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/01/04/320104001.html
+320104002000	江苏省-南京市-秦淮区-夫子庙街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/01/04/320104002.html
+320104003000	江苏省-南京市-秦淮区-红花街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/01/04/320104003.html
+320104004000	江苏省-南京市-秦淮区-双塘街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/01/04/320104004.html
+320104005000	江苏省-南京市-秦淮区-中华门街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/01/04/320104005.html
+320104006000	江苏省-南京市-秦淮区-五老村街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/01/04/320104006.html
+320104007000	江苏省-南京市-秦淮区-洪武路街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/01/04/320104007.html
+320104008000	江苏省-南京市-秦淮区-大光路街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/01/04/320104008.html
+320104009000	江苏省-南京市-秦淮区-瑞金路街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/01/04/320104009.html
+320104010000	江苏省-南京市-秦淮区-月牙湖街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/01/04/320104010.html
+320104011000	江苏省-南京市-秦淮区-光华路街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/01/04/320104011.html
+320104012000	江苏省-南京市-秦淮区-朝天宫街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/01/04/320104012.html
+320104400000	江苏省-南京市-秦淮区-夫管办	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/01/04/320104400.html
+320104401000	江苏省-南京市-秦淮区-高新园区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/32/01/04/320104401.html

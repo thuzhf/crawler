@@ -1,0 +1,11 @@
+370502001000	山东省-东营市-东营区-文汇街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/05/02/370502001.html
+370502002000	山东省-东营市-东营区-黄河路街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/05/02/370502002.html
+370502003000	山东省-东营市-东营区-东城街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/05/02/370502003.html
+370502004000	山东省-东营市-东营区-辛店街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/05/02/370502004.html
+370502005000	山东省-东营市-东营区-胜利街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/05/02/370502005.html
+370502006000	山东省-东营市-东营区-胜园街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/05/02/370502006.html
+370502102000	山东省-东营市-东营区-牛庄镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/05/02/370502102.html
+370502103000	山东省-东营市-东营区-六户镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/05/02/370502103.html
+370502104000	山东省-东营市-东营区-史口镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/05/02/370502104.html
+370502105000	山东省-东营市-东营区-龙居镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/05/02/370502105.html
+370502400000	山东省-东营市-东营区-东营商贸园	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/05/02/370502400.html

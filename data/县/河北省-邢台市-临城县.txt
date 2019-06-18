@@ -1,0 +1,8 @@
+130522100000	河北省-邢台市-临城县-临城镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/05/22/130522100.html
+130522101000	河北省-邢台市-临城县-东镇镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/05/22/130522101.html
+130522102000	河北省-邢台市-临城县-西竖镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/05/22/130522102.html
+130522103000	河北省-邢台市-临城县-郝庄镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/05/22/130522103.html
+130522200000	河北省-邢台市-临城县-黑城乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/05/22/130522200.html
+130522201000	河北省-邢台市-临城县-鸭鸽营乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/05/22/130522201.html
+130522203000	河北省-邢台市-临城县-石城乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/05/22/130522203.html
+130522205000	河北省-邢台市-临城县-赵庄乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/05/22/130522205.html

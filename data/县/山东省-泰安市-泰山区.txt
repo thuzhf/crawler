@@ -1,0 +1,8 @@
+370902001000	山东省-泰安市-泰山区-岱庙街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/09/02/370902001.html
+370902002000	山东省-泰安市-泰山区-财源街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/09/02/370902002.html
+370902003000	山东省-泰安市-泰山区-泰前街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/09/02/370902003.html
+370902004000	山东省-泰安市-泰山区-上高街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/09/02/370902004.html
+370902005000	山东省-泰安市-泰山区-徐家楼街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/09/02/370902005.html
+370902100000	山东省-泰安市-泰山区-省庄镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/09/02/370902100.html
+370902101000	山东省-泰安市-泰山区-邱家店镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/09/02/370902101.html
+370902202000	山东省-泰安市-泰山区-大津口乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/09/02/370902202.html

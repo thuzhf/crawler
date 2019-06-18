@@ -1,0 +1,8 @@
+371601000000	山东省-滨州市-市辖区	
+371602000000	山东省-滨州市-滨城区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/16/371602.html
+371603000000	山东省-滨州市-沾化区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/16/371603.html
+371621000000	山东省-滨州市-惠民县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/16/371621.html
+371622000000	山东省-滨州市-阳信县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/16/371622.html
+371623000000	山东省-滨州市-无棣县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/16/371623.html
+371625000000	山东省-滨州市-博兴县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/16/371625.html
+371681000000	山东省-滨州市-邹平市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/37/16/371681.html

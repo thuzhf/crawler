@@ -1,0 +1,14 @@
+420101000000	湖北省-武汉市-市辖区	
+420102000000	湖北省-武汉市-江岸区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/01/420102.html
+420103000000	湖北省-武汉市-江汉区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/01/420103.html
+420104000000	湖北省-武汉市-硚口区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/01/420104.html
+420105000000	湖北省-武汉市-汉阳区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/01/420105.html
+420106000000	湖北省-武汉市-武昌区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/01/420106.html
+420107000000	湖北省-武汉市-青山区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/01/420107.html
+420111000000	湖北省-武汉市-洪山区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/01/420111.html
+420112000000	湖北省-武汉市-东西湖区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/01/420112.html
+420113000000	湖北省-武汉市-汉南区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/01/420113.html
+420114000000	湖北省-武汉市-蔡甸区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/01/420114.html
+420115000000	湖北省-武汉市-江夏区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/01/420115.html
+420116000000	湖北省-武汉市-黄陂区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/01/420116.html
+420117000000	湖北省-武汉市-新洲区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/42/01/420117.html

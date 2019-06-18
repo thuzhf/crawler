@@ -1,0 +1,12 @@
+360402001000	江西省-九江市-濂溪区-十里街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/04/02/360402001.html
+360402002000	江西省-九江市-濂溪区-五里街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/04/02/360402002.html
+360402090000	江西省-九江市-濂溪区-七里湖街道办事处（九江经济技术开发区）	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/04/02/360402090.html
+360402100000	江西省-九江市-濂溪区-姑塘镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/04/02/360402100.html
+360402101000	江西省-九江市-濂溪区-威家镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/04/02/360402101.html
+360402102000	江西省-九江市-濂溪区-新港镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/04/02/360402102.html
+360402103000	江西省-九江市-濂溪区-莲花镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/04/02/360402103.html
+360402105000	江西省-九江市-濂溪区-赛阳镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/04/02/360402105.html
+360402200000	江西省-九江市-濂溪区-虞家河乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/04/02/360402200.html
+360402201000	江西省-九江市-濂溪区-高垅乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/04/02/360402201.html
+360402471000	江西省-九江市-濂溪区-庐山林科所	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/04/02/360402471.html
+360402472000	江西省-九江市-濂溪区-庐山生态文化新城	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/36/04/02/360402472.html

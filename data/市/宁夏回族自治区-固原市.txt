@@ -1,0 +1,6 @@
+640401000000	宁夏回族自治区-固原市-市辖区	
+640402000000	宁夏回族自治区-固原市-原州区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/64/04/640402.html
+640422000000	宁夏回族自治区-固原市-西吉县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/64/04/640422.html
+640423000000	宁夏回族自治区-固原市-隆德县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/64/04/640423.html
+640424000000	宁夏回族自治区-固原市-泾源县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/64/04/640424.html
+640425000000	宁夏回族自治区-固原市-彭阳县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/64/04/640425.html

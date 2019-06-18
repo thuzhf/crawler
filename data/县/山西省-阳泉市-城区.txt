@@ -1,0 +1,7 @@
+140302001000	山西省-阳泉市-城区-上站街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/03/02/140302001.html
+140302002000	山西省-阳泉市-城区-下站街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/03/02/140302002.html
+140302003000	山西省-阳泉市-城区-北大街街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/03/02/140302003.html
+140302004000	山西省-阳泉市-城区-南山路街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/03/02/140302004.html
+140302005000	山西省-阳泉市-城区-义井街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/03/02/140302005.html
+140302006000	山西省-阳泉市-城区-坡底街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/03/02/140302006.html
+140302100000	山西省-阳泉市-城区-义井镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/03/02/140302100.html

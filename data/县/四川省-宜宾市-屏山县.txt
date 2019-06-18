@@ -1,0 +1,15 @@
+511529100000	四川省-宜宾市-屏山县-锦屏镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/15/29/511529100.html
+511529101000	四川省-宜宾市-屏山县-新市镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/15/29/511529101.html
+511529102000	四川省-宜宾市-屏山县-中都镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/15/29/511529102.html
+511529103000	四川省-宜宾市-屏山县-龙华镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/15/29/511529103.html
+511529104000	四川省-宜宾市-屏山县-大乘镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/15/29/511529104.html
+511529106000	四川省-宜宾市-屏山县-富荣镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/15/29/511529106.html
+511529107000	四川省-宜宾市-屏山县-新安镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/15/29/511529107.html
+511529109000	四川省-宜宾市-屏山县-书楼镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/15/29/511529109.html
+511529110000	四川省-宜宾市-屏山县-屏山镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/15/29/511529110.html
+511529203000	四川省-宜宾市-屏山县-鸭池乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/15/29/511529203.html
+511529204000	四川省-宜宾市-屏山县-龙溪乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/15/29/511529204.html
+511529205000	四川省-宜宾市-屏山县-太平乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/15/29/511529205.html
+511529208000	四川省-宜宾市-屏山县-夏溪乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/15/29/511529208.html
+511529210000	四川省-宜宾市-屏山县-屏边彝族乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/15/29/511529210.html
+511529211000	四川省-宜宾市-屏山县-清平彝族乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/15/29/511529211.html

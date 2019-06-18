@@ -1,0 +1,16 @@
+350424100000	福建省-三明市-宁化县-翠江镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/04/24/350424100.html
+350424101000	福建省-三明市-宁化县-泉上镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/04/24/350424101.html
+350424102000	福建省-三明市-宁化县-湖村镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/04/24/350424102.html
+350424103000	福建省-三明市-宁化县-石壁镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/04/24/350424103.html
+350424104000	福建省-三明市-宁化县-曹坊镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/04/24/350424104.html
+350424105000	福建省-三明市-宁化县-安远镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/04/24/350424105.html
+350424106000	福建省-三明市-宁化县-淮土镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/04/24/350424106.html
+350424107000	福建省-三明市-宁化县-安乐镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/04/24/350424107.html
+350424108000	福建省-三明市-宁化县-水茜镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/04/24/350424108.html
+350424200000	福建省-三明市-宁化县-城郊乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/04/24/350424200.html
+350424201000	福建省-三明市-宁化县-城南乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/04/24/350424201.html
+350424202000	福建省-三明市-宁化县-济村乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/04/24/350424202.html
+350424204000	福建省-三明市-宁化县-方田乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/04/24/350424204.html
+350424207000	福建省-三明市-宁化县-治平畲族乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/04/24/350424207.html
+350424208000	福建省-三明市-宁化县-中沙乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/04/24/350424208.html
+350424209000	福建省-三明市-宁化县-河龙乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/04/24/350424209.html

@@ -1,0 +1,8 @@
+530115001000	云南省-昆明市-晋宁区-昆阳街道办事处	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/01/15/530115001.html
+530115002000	云南省-昆明市-晋宁区-宝峰街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/01/15/530115002.html
+530115100000	云南省-昆明市-晋宁区-晋城镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/01/15/530115100.html
+530115101000	云南省-昆明市-晋宁区-二街镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/01/15/530115101.html
+530115102000	云南省-昆明市-晋宁区-上蒜镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/01/15/530115102.html
+530115103000	云南省-昆明市-晋宁区-六街镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/01/15/530115103.html
+530115200000	云南省-昆明市-晋宁区-双河彝族乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/01/15/530115200.html
+530115201000	云南省-昆明市-晋宁区-夕阳彝族乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/01/15/530115201.html

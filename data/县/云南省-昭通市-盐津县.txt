@@ -1,0 +1,10 @@
+530623101000	云南省-昭通市-盐津县-盐井镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/06/23/530623101.html
+530623102000	云南省-昭通市-盐津县-普洱镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/06/23/530623102.html
+530623103000	云南省-昭通市-盐津县-豆沙镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/06/23/530623103.html
+530623104000	云南省-昭通市-盐津县-中和镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/06/23/530623104.html
+530623105000	云南省-昭通市-盐津县-庙坝镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/06/23/530623105.html
+530623106000	云南省-昭通市-盐津县-柿子镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/06/23/530623106.html
+530623201000	云南省-昭通市-盐津县-兴隆乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/06/23/530623201.html
+530623202000	云南省-昭通市-盐津县-落雁乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/06/23/530623202.html
+530623203000	云南省-昭通市-盐津县-滩头乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/06/23/530623203.html
+530623204000	云南省-昭通市-盐津县-牛寨乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/53/06/23/530623204.html

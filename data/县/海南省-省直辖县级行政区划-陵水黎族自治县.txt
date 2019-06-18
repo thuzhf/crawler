@@ -1,0 +1,12 @@
+469028100000	海南省-省直辖县级行政区划-陵水黎族自治县-椰林镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/46/90/28/469028100.html
+469028101000	海南省-省直辖县级行政区划-陵水黎族自治县-光坡镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/46/90/28/469028101.html
+469028102000	海南省-省直辖县级行政区划-陵水黎族自治县-三才镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/46/90/28/469028102.html
+469028103000	海南省-省直辖县级行政区划-陵水黎族自治县-英州镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/46/90/28/469028103.html
+469028104000	海南省-省直辖县级行政区划-陵水黎族自治县-隆广镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/46/90/28/469028104.html
+469028105000	海南省-省直辖县级行政区划-陵水黎族自治县-文罗镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/46/90/28/469028105.html
+469028106000	海南省-省直辖县级行政区划-陵水黎族自治县-本号镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/46/90/28/469028106.html
+469028107000	海南省-省直辖县级行政区划-陵水黎族自治县-新村镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/46/90/28/469028107.html
+469028108000	海南省-省直辖县级行政区划-陵水黎族自治县-黎安镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/46/90/28/469028108.html
+469028200000	海南省-省直辖县级行政区划-陵水黎族自治县-提蒙乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/46/90/28/469028200.html
+469028201000	海南省-省直辖县级行政区划-陵水黎族自治县-群英乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/46/90/28/469028201.html
+469028500000	海南省-省直辖县级行政区划-陵水黎族自治县-国营吊罗山林业公司	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/46/90/28/469028500.html

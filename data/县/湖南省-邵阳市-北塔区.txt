@@ -1,0 +1,5 @@
+430511001000	湖南省-邵阳市-北塔区-新滩镇街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/05/11/430511001.html
+430511002000	湖南省-邵阳市-北塔区-状元洲街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/05/11/430511002.html
+430511003000	湖南省-邵阳市-北塔区-田江街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/05/11/430511003.html
+430511004000	湖南省-邵阳市-北塔区-茶元头街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/05/11/430511004.html
+430511203000	湖南省-邵阳市-北塔区-陈家桥乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/43/05/11/430511203.html

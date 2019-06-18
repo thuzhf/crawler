@@ -1,0 +1,16 @@
+440113007000	广东省-广州市-番禺区-市桥街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/01/13/440113007.html
+440113008000	广东省-广州市-番禺区-沙头街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/01/13/440113008.html
+440113009000	广东省-广州市-番禺区-东环街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/01/13/440113009.html
+440113010000	广东省-广州市-番禺区-桥南街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/01/13/440113010.html
+440113011000	广东省-广州市-番禺区-小谷围街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/01/13/440113011.html
+440113012000	广东省-广州市-番禺区-大石街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/01/13/440113012.html
+440113013000	广东省-广州市-番禺区-洛浦街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/01/13/440113013.html
+440113014000	广东省-广州市-番禺区-石壁街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/01/13/440113014.html
+440113015000	广东省-广州市-番禺区-钟村街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/01/13/440113015.html
+440113016000	广东省-广州市-番禺区-大龙街道	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/01/13/440113016.html
+440113102000	广东省-广州市-番禺区-南村镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/01/13/440113102.html
+440113103000	广东省-广州市-番禺区-新造镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/01/13/440113103.html
+440113104000	广东省-广州市-番禺区-化龙镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/01/13/440113104.html
+440113105000	广东省-广州市-番禺区-石楼镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/01/13/440113105.html
+440113118000	广东省-广州市-番禺区-沙湾镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/01/13/440113118.html
+440113120000	广东省-广州市-番禺区-石基镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/44/01/13/440113120.html

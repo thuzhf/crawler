@@ -1,0 +1,10 @@
+331101000000	浙江省-丽水市-市辖区	
+331102000000	浙江省-丽水市-莲都区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/11/331102.html
+331121000000	浙江省-丽水市-青田县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/11/331121.html
+331122000000	浙江省-丽水市-缙云县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/11/331122.html
+331123000000	浙江省-丽水市-遂昌县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/11/331123.html
+331124000000	浙江省-丽水市-松阳县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/11/331124.html
+331125000000	浙江省-丽水市-云和县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/11/331125.html
+331126000000	浙江省-丽水市-庆元县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/11/331126.html
+331127000000	浙江省-丽水市-景宁畲族自治县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/11/331127.html
+331181000000	浙江省-丽水市-龙泉市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/33/11/331181.html

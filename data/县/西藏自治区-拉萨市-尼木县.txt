@@ -1,0 +1,8 @@
+540123100000	西藏自治区-拉萨市-尼木县-塔荣镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/01/23/540123100.html
+540123200000	西藏自治区-拉萨市-尼木县-麻江乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/01/23/540123200.html
+540123201000	西藏自治区-拉萨市-尼木县-普松乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/01/23/540123201.html
+540123202000	西藏自治区-拉萨市-尼木县-卡如乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/01/23/540123202.html
+540123203000	西藏自治区-拉萨市-尼木县-尼木乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/01/23/540123203.html
+540123204000	西藏自治区-拉萨市-尼木县-续迈乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/01/23/540123204.html
+540123205000	西藏自治区-拉萨市-尼木县-帕古乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/01/23/540123205.html
+540123206000	西藏自治区-拉萨市-尼木县-吞巴乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/54/01/23/540123206.html

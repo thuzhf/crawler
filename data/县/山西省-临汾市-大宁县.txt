@@ -1,0 +1,6 @@
+141030100000	山西省-临汾市-大宁县-昕水镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/10/30/141030100.html
+141030101000	山西省-临汾市-大宁县-曲峨镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/10/30/141030101.html
+141030200000	山西省-临汾市-大宁县-三多乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/10/30/141030200.html
+141030201000	山西省-临汾市-大宁县-太德乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/10/30/141030201.html
+141030202000	山西省-临汾市-大宁县-徐家垛乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/10/30/141030202.html
+141030203000	山西省-临汾市-大宁县-太古乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/14/10/30/141030203.html

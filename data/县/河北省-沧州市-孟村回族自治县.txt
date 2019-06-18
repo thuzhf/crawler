@@ -1,0 +1,6 @@
+130930100000	河北省-沧州市-孟村回族自治县-孟村镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/09/30/130930100.html
+130930101000	河北省-沧州市-孟村回族自治县-新县镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/09/30/130930101.html
+130930102000	河北省-沧州市-孟村回族自治县-辛店镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/09/30/130930102.html
+130930103000	河北省-沧州市-孟村回族自治县-高寨镇	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/09/30/130930103.html
+130930200000	河北省-沧州市-孟村回族自治县-宋庄子乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/09/30/130930200.html
+130930201000	河北省-沧州市-孟村回族自治县-牛进庄乡	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/13/09/30/130930201.html

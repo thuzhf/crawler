@@ -1,0 +1,11 @@
+610901000000	陕西省-安康市-市辖区	
+610902000000	陕西省-安康市-汉滨区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/61/09/610902.html
+610921000000	陕西省-安康市-汉阴县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/61/09/610921.html
+610922000000	陕西省-安康市-石泉县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/61/09/610922.html
+610923000000	陕西省-安康市-宁陕县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/61/09/610923.html
+610924000000	陕西省-安康市-紫阳县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/61/09/610924.html
+610925000000	陕西省-安康市-岚皋县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/61/09/610925.html
+610926000000	陕西省-安康市-平利县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/61/09/610926.html
+610927000000	陕西省-安康市-镇坪县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/61/09/610927.html
+610928000000	陕西省-安康市-旬阳县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/61/09/610928.html
+610929000000	陕西省-安康市-白河县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/61/09/610929.html

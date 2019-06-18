@@ -1,0 +1,12 @@
+350601000000	福建省-漳州市-市辖区	
+350602000000	福建省-漳州市-芗城区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/06/350602.html
+350603000000	福建省-漳州市-龙文区	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/06/350603.html
+350622000000	福建省-漳州市-云霄县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/06/350622.html
+350623000000	福建省-漳州市-漳浦县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/06/350623.html
+350624000000	福建省-漳州市-诏安县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/06/350624.html
+350625000000	福建省-漳州市-长泰县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/06/350625.html
+350626000000	福建省-漳州市-东山县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/06/350626.html
+350627000000	福建省-漳州市-南靖县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/06/350627.html
+350628000000	福建省-漳州市-平和县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/06/350628.html
+350629000000	福建省-漳州市-华安县	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/06/350629.html
+350681000000	福建省-漳州市-龙海市	http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/35/06/350681.html
